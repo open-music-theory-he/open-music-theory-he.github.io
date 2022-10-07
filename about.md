@@ -32,7 +32,7 @@ Rather than create "a fixed tome of knowledge, shared across institutional bound
 
 This means that at times (and increasingly as more contribute to the text), multiple perspectives will be provided on a single issue. Also, the license (and to the greatest extent possible, the technology) permits an instructor—and even a student—to tweak and rewrite the text. And rather than arbitrate standards across institutional boundaries, we hope that the online nature of the text, and the accompanying hashtag [#OpenMusicTheory](https://twitter.com/search?f=realtime&q=%23OpenMusicTheory), will help build *community* across institutional boundaries, rather than uniformity.
 
-While there are three authors and an editor listed on this text as of first "publication," we hope that the technology and the license encourage otherss to contribute new material to this volume. Though Kris, Bryn, Brian, and Robin are the original authors and editors, we have chosen a license and platform that essentially give the community of music scholars and students ownership over the textbook.
+While there are three authors and an editor listed on this text as of first "publication," we hope that the technology and the license encourage others to contribute new material to this volume. Though Kris, Bryn, Brian, and Robin are the original authors and editors, we have chosen a license and platform that essentially give the community of music scholars and students ownership over the textbook.
 
 ## Hybrid Pedagogy Publishing
 
