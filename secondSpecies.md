@@ -79,7 +79,7 @@ A *consonant passing tone* outlines a third from downbeat to downbeat, and has t
 
 A *substitution* also outlines a third from downbeat to downbeat. However, instead of filling it in with stepwise motion, the counterpoint leaps a fourth and then steps in the opposite direction. It is called a substitution because it can substitute for a passing tone in a line that needs an extra leap or change of direction to provide variety. Like the consonant passing tone, all three notes in the counterpoint must be consonant with the cantus.
 
-<iframe src="https://trinket.io/embed/music/f258be56b6" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
+<iframe src="https://trinket.io/embed/music/6746708160" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
 A *skipped passing tone* outlines a fourth from downbeat to downbeat. The weak-beat note divides that fourth into a third and a step. Again, all three intervals (downbeat, skipped passing tone, downbeat) are consonant with the cantus.
 
