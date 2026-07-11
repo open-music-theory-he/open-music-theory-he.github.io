@@ -6,6 +6,10 @@ on:
 jobs:
   translate:
     runs-on: ubuntu-latest
+    # הוספת הרשאות כתיבה עבור ה-Token של ה-Action
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -13,10 +17,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-node-version: '20'
+          node-version: '20' # תוקן גם כפל המילה node-node-version שהיה במקור
 
       - name: Install dependencies
-        run: npm install @google/generative-ai # או ספרית בקשות חלופית ל-Groq לפי הצורך
+        run: npm install @google/generative-ai
 
       - name: Run translation script
         env:
