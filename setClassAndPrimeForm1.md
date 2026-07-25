@@ -3,22 +3,22 @@ layout: post
 title: Set Class and Prime Form (1)
 ---
 
-Lots of concepts in pitch-class set theory are best viewed along a sliding scale of "concreteness" or "abstractness." A concept like _pitch_, for example, is very concrete, while _pitch class_ is somewhat more abstract. We can perform a pitch, but we can't really perform a pitch class. We've seen similar examples in the intervallic realm. Ordered pitch intervals are associated with a very specific sound (e.g., +15); unordered pitch-class intervals (e.g., interval class 1) are less vivid or real. A basic concept in pitch-class set theory is that these levels of concreteness and abstractness encompass not only pitch and interval, but groups of pitch classes as well. These groups of pitch classes are called _pitch-class sets_.
+מושגים רבים בתורת קבוצות גובהי הצליל (pitch-class set theory) נתפסים באופן מיטבי על פני סולם רציף של "מוחשיות" (concreteness) או "מופשטות" (abstractness). מושל כמו _גובה צליל_ (_pitch_), לדוגמה, הוא מוחשי מאוד, בעוד ש_מחלקת גובה צליל_ (_pitch class_) היא מופשטת יותר. אנו יכולים לבצע גובה צליל מסוים, אך אינו יכולים באמת לבצע מחלקת גובה צליל. ראינו דוגמאות דומה בתחום המרווחים. מרווחי גובה צליל מכוונים (ordered pitch intervals) קשורים לצליל ספציפי מאוד (למשל, 15+); מרווחי מחלקות גובה צליל בלתי-מכוונים (unordered pitch-class intervals) (למשל, מחלקת מרווח (interval class) 1) הם פחות מוחשיים או ממשיים. מושג בסיסי בתורת קבוצות גובהי הצליל הוא שרמות אלו של מוחשיות ומופשטות מקיפות לא רק גובה צליל ומרווח, אלא גם קבוצות של מחלקות גובה צליל. קבוצות אלו של מחלקות גובה צליל נקראות _קבוצות מחלקות גובה צליל_ (_pitch-class sets_).
 
-We've already seen sets of pitch-classes, though we haven't really been calling them that. When we extract a group of notes from a passage of music and put them in "[normal order][1]," that group of notes is a pitch-class set. As we've seen in class, one very interesting way of looking at a lot of post-tonal music is by studying the [transpositional][2] and [inversional][3] relationships between pitch-class sets. In the short example below (from Bartók's "Subject and Reflection") you'll notice that the right hand of the two passages is _T5_-related, as is the left-hand. Within each passage, the right and left hands are _T8I _and _T6I_ related, respectively.
+כבר ראינו קבוצות צלילים (sets of pitch-classes), למרות שלא ממש קראנו לזה כך. כאשר אנו מחלצים קבוצת תווים מתוך קטע מוזיקלי ומסדרים אותם ב-"[סדר נורמלי][1]" ([normal order][1]), קבוצת תווים זו מהווה קבוצת מחלקות גובה-צליל (pitch-class set). כפי שראינו בשיעור, דרך מענייنة מאוד בחינה של מוזיקה פוסט-טונאלית רבה היא באמצעות חקר היחסים ה[טרנספוזיציוניים][2] ([transpositional][2]) וה[היפוכיים][3] ([inversional][3]) בין קבוצות מחלקות גובה-צליל (pitch-class sets). בדוגמה הקצרה שלהלן (מתוך "נושא והשתקפות" מאת בארטוק) תבחינו שיד ימין של שני הקטעים קשורה ביניהם ביחס _T5_ (T5-related), וכך גם יד שמאל. בתוך כל קטע, יד ימין ויד שמאל קשורות ביניהן ביחסים _T8I_ ו-_T6I_ בהתאמה.
 
 [![](Graphics/postTonal/subjecdtAndReflection.png)](Graphics/postTonal/subjecdtAndReflection.png)
 
-_In order for a pitch-class set to be transpositionally or inversionally related to some other pitch class set, they must share the same collection of intervals_. This is most easily grasped by remembering that all major and minor triads have the same interval content (M3, m3, and P5). Major triads are transpositionally related to one another, while major and minor triads are inversionally related to one another. The same observation applies in Bartók's "Subject and Reflection." The four pitch-class sets in those two passages all have the same intervallic content and that's why we can label transpositional and inversional relationships between them.
+_על מנת שקבוצת צלילים תהיה קשורה בטרנספוזיציה או באינברסיה לקבוצת צלילים אחרת, עליהן לשתף את אותה אוסף מרווחים (interval collection)_. ניתן להבין זאת בקלות רבה ביותר על ידי זכירת שלכל האקורדים המשולשים (triads) המז'וריים והמינוריים יש את אותו תוכן מרווחים (M3, m3, ו-P5). אקורדים משולשים מז'וריים קשורים זה לזה בטרנספוזיציה, בעוד שאקורדים מז'וריים ומינוריים קשורים זה לזה באינברסיה. אותה תצפית חלה ביצירה "נושא והשתקפות" ("Subject and Reflection") מאת בארטוק. ארבע קבוצות הצלילים בשני קטעים אלו כוללות כולן את אותו תוכן מרווחי (intervallic content), וזו הסיבה שאנו יכולים לסמן קשרי טנספוזיציה ואינברסיה ביניהן.
 
-All pitch-class sets that are transpositionally and inversionally related belong to the same _set class_, and they are represented by the same _prime form_. We follow a simple process to put a pitch-class set in prime form:
+כל קבוצות צחצחי הגובה הקשורות זו לזו בטרנספוזיציה ואינברסיה שייכות לאותה _מחלקת קבוצות_ (set class), והן מיוצגות על ידי אותה _צורה ראשונית_ (prime form). אנו עוקבים אחר תהליך פשוט כדי להציב קבוצת צחצחי גובה בצורתה הראשונית:
 
-1. Put the pitch-class set in normal order.
-2. Transpose it so that the first pitch class is 0.
-3. Invert the results from step 2 (any inversion will work) and put the result in normal order.
-4. Transpose it so that the first pitch class is 0.
-5. Compare the results of steps (2) and (4). Prime form is the most compact version.
+1. הכנס את קבוצת גובה הצליל בסדר נורמלי (normal order).
+2. העבר אותו טרנספוזיציה כך שמחלקת הצלילים (pitch class) הראשונה תהיה 0.
+3. הפוך את התוצאות משלב 2 (כל היפוך יעבוד) ושם את התוצאה בסדר רגיל.
+4. בצעו טרנספוזיציה כך שמחלקת הצלילים הראשונה תהיה 0.
+5. השווה את התוצאות של שלבים (2) ו-(4). צורה ראשונית (Prime form) היא הגרסה הקומפקטית ביותר.
 
-The example below walks demonstrates using the motive from Bartók's "Subject and Reflection."
+הדוגמה להלן מדגימה שימוש במוטיב (motive) מתוך "נושא והשתקפות" (Subject and Reflection) מאת בארטוק (Bartók).
 
 [![](Graphics/postTonal/primeForm.png)](Graphics/postTonal/primeForm.png)

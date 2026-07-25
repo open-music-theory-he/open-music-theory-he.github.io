@@ -3,30 +3,30 @@ layout: post
 title: Meter and time signatures
 ---
 
-Meter involves the way multiple pulse layers work together to organize music in time. Standard meters in Western music can be classified into *simple meters* and *compound meters*, as well as *duple*, *triple*, and *quadruple* meters. 
+מטר (Meter) כרוך באופן שבו שכבות פעימה (pulse layers) מרובות פועלות יחד כדי לארגן מוזיקה בזמן. מטריות (meters) סטנדרטיות במוזיקה מערבית ניתנות לסיווג ל*מטריות פשוטות* (simple meters) ו*מטריות מורכבות* (compound meters), וכן למטריות *דו-פעימתיות* (duple), *תלת-פעימתיות* (triple), ו*ארבע-פעימתיות* (quadruple). 
 
-Duple, triple, and quadruple classifications result from the relationship between the counting pulse and the pulses that are *slower* than the counting pulse. In other words, it is a question of *grouping*: how many beats (secondary pulse) occur in each bar (primary pulse). If counting-pulse beats group into twos, we have duple meter; groups of three, triple meter; groups of four, quadruple meter. Conducting patterns are determined based on these classifications. 
+סיווגים זוגיים, משולשים ומרובעים נובעים מהקשר שבין פעימת הספירה לבין הפעימות ה*איטיות* יותר מפעימת הספירה. במילים אחרות, מדובר בשin עניין של *קיבוץ* (grouping): כמה פעימות (פעימה משנית) מתרחשות בכל תיבה (פעימה ראשית). אם פעימות ספירה מתקבצות לזוגות, יש לנו משקל זוגי (duple meter); קבוצות של שלוש יוצרות משקל משולש (triple meter); וקבוצות של ארבע יוצרות משקל מרובע (quadruple meter). דפוסי הניצוח (Conducting patterns) נקבעים על בסיס סיווגים אלו. 
 
-Simple and compound classifications result from the relationship between the counting pulse and the pulses that are *faster* than the counting pulse. In other words, it is a question of *division*: does each beat divide into two equal parts, or three equal parts. Meters that divide the beat into two equal parts are *simple meters*; meters that divide the beat into three equal parts are *compound meters*. 
+סיווגים פשוטים ומורכבים (Simple and compound classifications) נובעים מהקשר שבין פעימת הספירה (counting pulse) לבין הפעימות שהן *מהירות* יותר מפעימת הספירה. במילים אחרות, זוהי שאלה של *חלוקה* (division): האם כל פעימה מתחלקת לשני חלקים שווים, או לשלושה חלקים שווים. משקלים המחלקים את הפעימה לשני חלקים שווים הם *משקלים פשוטים*; משקלים המחלקים את הפעימה לשלושה חלקים שווים הם *משקלים מורכבים*. 
 
-Thus, there are six types of standard meter in Western music:
+לכן, ישנם שישה סוגים של משקל סטנדרטי (standard meter) במוזיקה מערבית:
 
-- simple duple (beats group into two, divide into two)
-- simple triple (beats group into three, divide into two)
-- simple quadruple (beats group into four, divide into two)
-- compound duple (beats group into two, divide into three)
-- compound triple (beats group into three, divide into three)
-- compound quadruple (beats group into four, divide into three)
+- פעימות זוגיות פשוטות (simple duple) (הפעימות מתחלקות לשתיים, מתחלקות לשתיים)
+- טריפל פשוט (simple triple) (הפעימות מתחלקות לשלוש, מתחלקות לשניים)
+- מרובע פשוט (simple quadruple) (הפעימות מתחלקות לארבע, מתחלקות לשתיים)
+- משקל כפול מורכב (compound duple) (הפעימות מתחלקות לשתיים, ומתחלקות לשלוש)
+- משולש מורכב (compound triple) (פעימות מתחלקות לשלוש, מתחלקות לשלוש)
+- מרובע מורכב (compound quadruple) (פעימות מתקבצות לארבע, מתחלקות לשלוש)
 
-In a time signature, the *top number* (and the top number only!) describes the type of meter. Following are the top numbers that always correspond to each type of meter:
+במשامן (Time Signature), ה*מספר העליון* (והמספר העליון בלבד!) מתאר את סוג המשקל. להלן המספרים העליונים שתמיד תואמים לכל סוג משקל:
 
-- simple duple: 2
-- simple triple: 3
-- simple quadruple: 4
-- compound duple: 6
-- compound triple: 9
-- compound quadruple: 12
+- משקל זוגי פשוט: 2
+- פעימה משולשת פשוטה: 3
+- מרובע פשוט: 4
+- משקל מורכב זוגי: 6
+- משולש מורכב: 9
+- מרובע מורכב: 12
 
-In *simple meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single beat*. If a simple meter is notated such that each quarter note corresponds to a beat, the bottom number of the time signature is 4. If a simple meter is notated such that each half note corresponds to a beat, the bottom number of the time signature is 2. If a simple meter is notated such that each eighth note corresponds to a beat, the bottom number of the time signature is 8. And so on. 
+ב*משקלים פשוטים*, המספר התחתון בציון המשקל (time signature) תואם לסוג התו התואם ל*פעימה בודדת* (a single beat). אם משקלים פשוטים רשומים באופן שבו כל תו רבע (quarter note) תואם לפעימה, המספר התחתון בציון המשקל הוא 4. אם משקל פשוט (simple meter) רשום באופן שבו כל תו לבן (half note) תואם לפעימה, המספר התחתון בציון המשקל הוא 2. אם משקל פשוט רשום באופן שבו כל תו שמינית (eighth note) תואם לפעימה, המספר התחתון בציון המשקל הוא 8. וכן הלאה. 
 
-In *compound meters*, the bottom number of the time signature corresponds to the type of note corresponding to *a single division of the beat*. If a compound meter is notated such that each dotted-quarter note corresponds to a beat, the eighth note is the division of the beat, and thus the bottom number of the time signature is 8. If a compound meter is notated such that each dotted-half note corresponds to a beat, the quarter note is the division of the beat, and thus the bottom number of the time signature is 4. Note that because the beat is divided into three in a compound meter, the beat is always three times as long as the division note, and *the beat is always dotted*.
+ב*משקלים מורכבים*, המספר התחתון בציון המשקל תואם לסוג התווים התואם ל*חלוקה בודדת של הפעימה (a single division of the beat)*. אם משקל מורכב רשום כך שכל תו רבע מנוקד (dotted-quarter note) תואם לפעימה, תו השמינית הוא החלוקה של הפעימה, ולכן המספר התחתון בציון המשקל הוא 8. אם משקל מורכב רשום כך שכל תו לבן מנוקד (dotted-half note) תואם לפעימה, תו הרבע הוא החלוקה של הפעימה, ולכן המספר התחתון בציון המשקל הוא 4. שימו לב כי מכיוון שהפעימה מחולקת לשלושה במשקל מורכב, הפעימה ארוכה פי שלושה תמיד מתו החלוקה, ו*הפעימה היא תמיד מנוקדת (dotted)*.

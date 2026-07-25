@@ -3,53 +3,53 @@ layout: post
 title: Scales
 ---
 
-A scale is a succession of pitches ascending or descending in steps. There are two types of steps: *half steps* and *whole steps*. A half step (H) consists of two adjacent pitches on the keyboard. A whole step (W) consists of two half steps. Usually, the pitches in a scale are each notated with different letter names, though this isn't always possible or desirable. 
+סולם הוא רצף של גבהי צליל (pitches) העולים או יורדים בצעדים. ישנם שני סוגים של צעדים: *חצאי טונים* (*half steps*) ו*טונים שלמים* (*whole steps*). חצי טון (H) מורכב משני גבהי צליל סמוכים במקלדת. טון שלם (W) מורכב משני חצאי טונים. בדרך כלל, גבהי הצליל בסולם מתוארים כל אחד בשמות אותיות שונים, אם כי הדבר אינו אפשרי או רצוי תמיד. 
 
-### The Chromatic Scale ###
+### סולם כרומטי (The Chromatic Scale)
 
-The chromatic scale consists entirely of half steps, and uses every pitch on the keyboard within a single octave. Here is the chromatic scale that spans the pitches C4 through C5.
+סולם כרומטי (chromatic scale) מורכב כולו מחצאי טונים (half steps), ומשתמש בכל גובה צליל (pitch) במקלדת בתוך אוקטבה אחת (single octave). הנה הסולם הכרומטי המשתרע על פני גבהי הצלילים מ-C4 עד C5.
 
-![The chromatic scale][chromaticscale]
+![סולם כרומטי (The chromatic scale)][chromaticscale]
 
-### The major scale ###
+### סולם המז'ור (major scale) ###
 
-A major scale, a sound with which you are undoubtedly familiar, consists of seven whole (W) and half (H) steps in the following succession: W-W-H-W-W-W-H. The first pitch of the scale, called the *tonic*, is the pitch upon which the rest of the scale is based. When the scale ascends, the tonic is repeated at the end an octave higher.
+סולם A מז'ור (A major scale), צליל שאתה בוודאי מכיר, מורכב משבעה צעדים של טונים שלמים (W) וחצאי טונים (H) ברצף הבא: W-W-H-W-W-W-H. הגובה הצלילי הראשון של הסולם, הנקרא *טוניקה* (tonic), הוא הצליל שעליו מבוסס שאר הסולם. כאשר הסולם עולה, הטוניקה חוזרת על עצמה בסוף באוקטבה גבוהה יותר.
 
-Here is the D major scale. It is called the "D major scale" because the pitch D is the *tonic* and is heard at both ends of the scale. 
+הנה סולם D מז'ור (D major scale). הוא נקרא "סולם D מז'ור" כיוון שגובה הצליל D הוא ה**טוניקה** ונשמע בשני קצותיו של הסולם. 
 
-![The major scale][majorscale]
+![הסולם המז'ורי (The major scale)][majorscale]
 
-### Scale degrees and solfège ###
+### דרגות סולם וסולפג' (Solfège) ###
 
-While ISO notation allows us to label a pitch in its specific register, it is often useful to know where that pitch fits within a given scale. For example, the pitch class D is the first (and last) note of the D-major scale. The pitch class A is the fifth note of the D-major scale. When described in this way, we call the notes *scale degrees*, because they're placed in context of a specific scale. Solfège syllables, [a centuries-old method of teaching pitch and sight singing](http://en.wikipedia.org/wiki/Solfège), can also be used to represent scale degrees (when used in this way, this system is specifically called movable-*do* solfège). 
+בעוד ששיטת הרישום של ISO מאפשרת לנו לציין גובהה צליל באוקטבה הספציפי שלו, לעיתים קרובות שימושי לדעת היכן גובהה צליל זה משתלב בתוך סולם (scale) נתון. לדוגמה, מחלקת הגובה (pitch class) D היא התו הראשון (והאחרון) של סולם D מז'ור. מחלקת הגובה A היא התו החמישי של סולם D מז'ור. כאשר מתארים את הצלילים באופן זה, אנו קוראים להם *דרגות סולם* (*scale degrees*), מכיוון שהם ממוקמים בהקשר של סולם מסוים. הברות סולפֶג' (Solfège syllables), [שיטה בת מאות שנים להוראת גובה צליל ושירת פיתוח קול מן הכתב (sight singing)](http://en.wikipedia.org/wiki/Solfège), יכולות לשמש גם הן לייצוג דרגות סולם (כאשר נעשה בהן שימוש באופן זה, מערכת זו נקראת במיוחד סולפֶג' דו נח (movable-*do* solfège)). 
 
-Scale degrees are labeled with Arabic numerals and carets (^). The illustration below shows a D-major scale and corresponding ISO notation, scale degrees, and solfège syllables.
+דרגות הסולם (scale degrees) מסומנות בספרות ערביות ובתווית גג (^). האיור להלן מציג סולם D מז'ור ואת סימון ה-ISO התואם, דרגות הסולם והברות הסולפֶג' (solfège syllables).
 
 <a href="Graphics/sdsf.png"><img src="Graphics/sdsf.png"></a>
 
-### The minor scale ###
+### הסולם המינורי (The minor scale)
 
-Another scale with which you are likely very familiar is the minor scale. There are several scales that one might describe as *minor*, all of which have a characteristic third scale degree that is lower than the one found in the major scale. The minor scale most frequently used in tonal music from the Common Practice period is based on the *aeolian mode* (you'll read more about modes later), which is sometimes referred to as the *natural minor* scale. 
+סולם נוסף שסביר להניח שאתה מכיר היטב הוא סולם המינור (minor scale). ישנם מספר סולמות שאפשר לתאר כ-*מינור* (minor), שכולם כוללים דרגת סולם שלישית אופיינית הנמוכה מזו הנמצאת בסולם המייج'ור. סולם המינור שנעשה בו שימוש תכוף ביותר במוזיקה טונאלית (tonal music) מתקופת הפרקטיקה המשותפת (Common Practice period) מבוסס על ה*מנוס האאולי* (aeolian mode) (תקרא בהרחבה על מודוסים בהמשך), שלעתים קרובות מכונה סולם *מינור טבעי* (natural minor). 
 
-The natural minor scale consists of seven whole (W) and half (H) steps in the following succession: W-H-W-W-H-W-W. Note the changes in solfège syllables.
+סולם המינור הטבעي (natural minor scale) מורכב משבעה צעדים של טונים (W) חצאים (H) ברצף הבא: W-H-W-W-H-W-W. שימו לב לשינויים בהברות הסולפֶג'.
 
 <a href="Graphics/sdsf-naturalMinor.png"><img src="Graphics/sdsf-naturalMinor.png"></a>
 
-If you sing through the above example, you'll notice that the ending lacks the same sense of closure you heard in the major scale. This closure is created in the major scale, in part, by the ascending semitone between *ti* and *do*. Composers often want to have this sense of closure when using the minor mode, too. They're able to achieve this by applying an accidental to the seventh scale degree, raising it by a semitone. If you do this within the context of the natural minor scale, you get something called the *harmonic minor* scale.
+אם תשירו את הדוגמה לעיל, תבחינו שלסיום חסרה אותה תחושת סגירות ששמעתם בסולם המז'ור. סגירות זו נוצרת בסולם המז'ור, בחלקה, על ידי חצי הטון העולה שבין *ti* ל-*דו* (*do*). מלכודנים רוצים לעיתים קרובות תחושת סגירות זו גם כאשר הם משתמשים במודוס המינורי. הם מסוגלים להשיגה על ידי החלת סיק מוסק (accidental) על דרגת הסולם השביעית, והעלאתה בחצי טון. אם תעשו זאת בתוך ההקשר של סולם המינורי הטבעي, תקבלו דבר מה המכונה סולם *מינור הרמוני* (harmonic minor).
 
 <a href="Graphics/sdsf-harmonicMinor.png"><img src="Graphics/sdsf-harmonicMinor.png"></a>
 
-Now the last two notes of the scale sound much more conclusive, but you might have found it difficult to sing *le* to *ti*. When writing melodies in a minor key, composers often "corrected" this by raising *le* by a semitone to become *la* when approaching the note *ti*. When the melody descended from *do*, the closure from *ti* to *do* isn't needed; likewise, it is no longer necessary to "correct" *le*, so the natural form of the minor scale is used again. Together, these different ascending and descending versions are called the *melodic minor* scale.
+כעת שני הצלילים האחרונים של הסולם נשמעים סופיים הרבה יותר, אך ייתכן שמצאתם קשה לשיר מ-*le* ל-*ti*. בעת כתיבת מנגינות בסולם מינורי, מלחינים לעתים קרובות "תיקנו" זאת על ידי הגבהת *le* בחצי טון כך שיהפוך ל-*la* כאשר ניגשים לצליל *ti*. כאשר המנגינה ירדה מ-*דו* (do), הסגירה מ-*ti* ל-*דו* (do) אינה נחוצה; כמו כן, אין עוד צורך "לתקן" את *le*, ולכן הצורה הטבעית של הסולם המינורי משמשת שוב. יחד, גרסאות עולות ויורדות שונות אלו נקראות סולם *מינורי מלודי* (melodic minor).
 
-When ascending, the *melodic minor* scale uses *la* and *ti*.
+בעת עלייה, סולם *מינור מלודי* משתמש ב*לה* (la) וב*סי* (ti).
 
 <a href="Graphics/sdsf-melodicMinorAsc.png"><img src="Graphics/sdsf-melodicMinorAsc.png"></a>
 
-When descending, the *melodic minor* scale uses the "natural" *te* and *le*. 
+בזמן ירידה, סולם *מינור מלוודי* משתמש ב־*te* ו־*le* "בקר" (natural). 
 
 <a href="Graphics/sdsf-melodicMinorDesc.png"><img src="Graphics/sdsf-melodicMinorDesc.png"></a>
 
-Truth be told, most composers don't really think about three different "forms" of the minor scale. The *harmonic minor* scale simply represents composers' tendency to use *ti* when building harmonies that include the seventh scale degree in the minor mode. Likewise, the *melodic minor* scale is derived from composers' desire to avoid the melodic augmented second interval (more on this in the [intervals](intervals.html) section) between *le* and *ti* (and some chose not to avoid this!). In reality, there is only one "version" of the minor scale. Context determines when a composer might use *la* and *ti* when writing music in a minor key. 
+לומר את האמת, רוב המלחינים לא באמת חושבים על שלושה "מבנים" (forms) שונים של הסולם המינורי. סולם המינור ההרמוני מייצג פשוט את הנטייה של מלחינים להשתמש ב*סי* (ti) בעת בניית הרמוניות הכוללות את דרגת הסולם השביעית במודוס המינורי. באופן דומה, סולם המינור המלודי נגזר מהרצון של מלחינים להימנע ממרווח השנייה המוגדלת המלודי (עוד על כך בסעיף [מרווחים](intervals.html)) שבין *לה במול* (le) ו-*סי* (ti) (ויש שבחרו לא להימנע מכך!). במציאות, ישנו רק "גרסה" (version) אחת של הסולם המינורי. ההקשר קובע מתי מלחין עשוי להשתמש ב*לה* (la) וב*סי* (ti) בעת כתיבת מוזיקה בסולם מינורי. 
 
 [chromaticscale]: Graphics/chromaticscale.png
 [majorscale]: Graphics/majorscale.png

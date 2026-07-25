@@ -4,54 +4,54 @@ title: The period
 ---
 
 
-A period is one type of theme, like the [sentence](sentence.html), common to the Classical style.
+תקופה (period) היא סוג אחד של נושא (theme), בדומה ל-[משפט](sentence.html), הנפוץ בסגנון הקלאסי.
 
-The period is generally eight measures long and contains two four-measure phrases. The first of these is called the *antecedent* phrase and the final four measures are the *consequent* phrase.
+התקופה היא בדרך כלל באורך של שתי תיבות (measures) ומכילה שני משפטים בני ארבע תיבות (four-measure phrases). הראשון מביניהם נקרא משפט קודם (*antecedent* phrase) וארבע התיבות האחרונות מהוות את המשפט העוקב (*consequent* phrase).
 
 [![](Graphics/ClassicalThemes/period.png)](Graphics/ClassicalThemes/period.png)
 
-In a period, the melody contains a basic idea (BI) that occurs at the beginning of the antecedent phrase. The same BI (or a varied repetition) occurs at the beginning of the consequent phrase. (You may have learned in the past that this creates one type of period—the “parallel” period. From this point on, we’ll consider the repetition of the BI at the beginning of the consequent as an *essential* part of the period. In other words, *the only type of period is the parallel period*.)
+במבנה תקופה, המלודיה מכילה רעיון בסיסי (basic idea) המופיע בתחילת המשפט הקודם (antecedent phrase). אותו רעיון בסיסי (או חזרה מגוונת שלו) מופיע בתחילת המשפט העוקב (consequent phrase). (ייתכן שלמדת בעבר שדבר יוצר סוג אחד של תקופה — תקופה "מקבילה" (parallel). מעתה ואילך, נתפוס את חזרת הרעיון הבסיסי בתחילת המשפט העוקב כחלק *חיוני* (essential) מהתקופה. במילים אחרות, *הסוג היחיד של תקופה הוא תקופה מקבילה*.)
 
-Unlike a sentence, which exhibits a single cadence and with it a single form-functional progression (presentation–continuation–cadential), the period contains *two cadences* and therefore *two harmonic-functional progressions* (TSDT) and *two form-functional progressions*.
+בניגוד למשפט, המציג קדנציה בודדת ואיתה התקדמות תפקודית-צורה יחידה (הצגה–המשך–קדנציאלית), הפריודה מכילה *שתי קדנציות* ולכן גם *שתי התקדמויות הרמוניות-תפקודיות* (TSDT) ו*שתי התקדמויות תפקודיות-צורה (fאוm-functional progressions)*.
 
-## Antecedent phrase (mm. 1–4) ##
+## משפט קודם (Antecedent phrase) (תיבות 1–4) ##
 
-Melodically, the antecedent begins with a two-measure BI. Those two measures are followed by a two-measure contrasting idea (CI). Generally, the contrast is created by melodic-motivic content. Harmonically, the antecedent ends with a weak cadence, either a HC or an IAC.
+במישור המלודי, האנטצדנט (antecedent) מתחיל ברעיון בסיסי בן שתי תיבות. אחרי שתי התיבות הללו מופיע רעיון מנוגד (contrasting idea) בן שתי תיבות. באופן כללי, הניגוד נוצר על ידי תוכן מלודי-מוטיבי. במישור ההרמוני, האנטצדנט מסתיים בקדנצה חלשה, או קדנצה חצי-סופית (HC) או קדנצה אותנטית לא מושלמת (IAC).
 
-**Haydn, Piano Trio in C major, Hob. XV:27, III., mm. 1–4:**  
-[![](Graphics/form/antecedent.png)](Graphics/form/antecedent.png)
+**היידן (Haydn), שלישיית פסנתר ב-C מז'ור, Hob. XV:27, פרק III, תיבות 1–4:**  
+[![](Graphics/fאוm/antecedent.png)](Graphics/form/antecedent.png)
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1BUSIhYdu0P8LBWXLpAx4g" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-Notice the characteristics of the BI (mm. 1–2). It ascends and outlines the tonic triad with leaps to each of its members. The CI contrasts with the BI by descending stepwise. The antecedent phrase closes with a weak HC in the home key.
+שימו לב מאפייני ה-BI (תיבות 1–2). הוא עולה ומתווה את אקורד המשולש הטוניקאי (tonic triad) בקפיצות אל כל אחד מחבריו. ה-CI עומד בניגוד ל-BI בכך שהוא יורד בצעדי סקאלה (stepwise). משפט השאלה מסתיים בקדנציית חצי חלשה (weak HC) בסולם הבית (home key).
 
-Also, note that the emphasis on tonic in the melody of the BI is accompanied by a tonic prolongation in the harmony (a variant of the *Romanesca* schema):
+כמו כן, שימו לב שהדגשת הטוניקה (Tonic) במלודיה של ה-BI מלווה בהארכת טוניקה (tonic prolongation) בהרמוניה (וריאנט של סכמת ה-*Romanesca*):
 
 > **I V6 VI III**  
 or  
 **T(1 D7p x6 3)**
 
-This tonic prolongation accompanying the BI exhibits the phrase's *presentation* function.
+הארכת טוניקה זו המלווה את ה-BI מציגה את פונקציית ה*הצגה* (*presentation*) של התיבה.
 
-The more "conventional" scalar descent into the cadence and acceleration of melodic and harmonic rhythm in mm. 3–4 exhibit *continuation* function.
+הירידה הסקלרית ה"קונבנציונלית" יותר אל תוך הקדנצה וההאצָה של הקצב המלודי וההרמוני בתיבות 3–4 מציגות פונקציית *המשכה* (continuation).
 
-Interestingly, the cadential progression starts at the beginning of the CI:
+מעניין שמהלך הקדנצה מתחיל בתחילת ה-CI:
 
 > **III IV V65/V V**  
 or  
 **T3 S(4 [+]) D5**
 
-When a single, short phrase like this contains an entire functional progression, continuation and cadential functions are often fused like this. We can simply state that both happen simultaneously, or we can call it *continuation-cadential* function.
+כאשר ביטוי קצר ויחיד כזה מכיל מהלכים פונקציונליים שלמים, פונקציות של המשכיות ושל קדנצה (cadential) ממוזגות לעיתים קרובות באופן זה. אנו יכולים פשוט לקבוע ששתי ההתרחשויות קורות בו-זמנית, או שנוכל לכנות זאת פונקציית *המשכיות-קדנצה* (continuation-cadential).
 
-## Consequent phrase (mm. 5–8) ##
+## משפט עוקב (Consequent phrase) (תב' 5–8) ##
 
-Melodically, the consequent begins with a (varied) restatement of the BI from the antecedent phrase. It closes with a CI. The CI often resembles the CI from the antecedent phrase but slightly altered to accomodate the stronger cadence. It can also be entirely new.
+מבחינה מלודית, משפט ההמשך (consequent) מתחיל בהצגה מחודשת (מושתנית) של ה-BI מתוך משפט השאלה. הוא מסתיים ב-CI. ה-CI דומה לעיתים קרובות ל-CI מתוך משפט השאלה, אך עובר שינוי קל כדי להתאים לקדנצה (cadence) החזקה יותר. הוא יכול להיות גם חדש לחלוטין.
 
-Harmonically, the consequent closes with a strong cadence, in this case (and almost always) a PAC.
+בחינת הרמוניה, המשפט העוקב מסתיים בקדנס חזק, במקרה זה (וכמעט תמיד) קדנס אותנטי מושלם (PAC).
 
 **Haydn, Piano Trio in C major, Hob. XV:27, III., mm. 5–8:**  
 [![](Graphics/form/consequent.png)](Graphics/form/consequent.png)
 
-The BI from the antecedent is restated at the beginning of the phrase. The concluding CI resembles the CI from the antecedent phrase, but is altered so that the phrase ends with a PAC.
+המוטיב הבסיסי (BI) מן התימה הקודמת מוצג מחדש בתחילת המשפט. ה-CI המסכם דומה ל-CI מן התימה הקודמת, אך הוא עובר שינוי כך שהמשפט מסתיים ב-PAC.
 
-The formal functional progression in this example is identical to the antedecent (which is often the case): the BI exhibits presentation function, and the CI exhibits continuation–cadential function. Note that Haydn uses a single subdominant chord in the consequent (the applied chord from the antecdent has been dropped) and moves to the dominant one beat earlier so that the PAC's tonic arrival can come on the downbeat of the last bar of the phrase. This compression of the cadential progression to accomodate the additional tonic chord at the end is common.
+המהלך התפקודי-פורמלי (formal functional progression) בדוגמה זו זהה לזה של המשפט הקודם (the antecedent) (כפי שקורה לעיתים קרובות): תיבה BI מציגה פונקציית הצגה (presentation function), ותיבה CI מציגה פונקציית המשך–קדנצה (continuation–cadential function). שימו לב שהיידן משתמש באקורד סאב-דומיננטה (subdominant) יחיד בתיבות העוקבות (the consequent) (האקורד המותנה/מופעל מהמשפט הקודם הושמט) ועובר לדומיננטה פעימה אחת מוקדם יותר, כך שהגעת הטוניקה של קדנצה אותנטית מושלמת (PAC - Perfect Authentic Cadence) יכולה להתרחש בפעימה הראשונה של התיבה האחרונה במשפט. דחיסה זו של מהלך הקדנצה כדי להכיל אקורד טוניקה נוסף בסוף היא שכיחה.

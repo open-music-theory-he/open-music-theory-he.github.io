@@ -6,37 +6,37 @@ title: Glossary of atonal musical terms
 {{ page.title }}
 ================
 
-*this glossary is far from complete, in the very early stages of being built*
+*מילון מונחים זה רוקם עור וגידים ורחוק מלהיות שלם*
 
-**collection** – The general term for treating multiple pitch classes as a single entity. Sets, set classes, scales, simultaneities, chords, and intervals are all specific kinds of collections.
+**קולקציה (collection)** – המונח הכללי להתייחסות אל מספר מחלקות גובה צליל (pitch classes) כאל ישות אחת. קבוצות (sets), מחלקות קבוצות (set classes), סולמות, סימולטניות (simultaneities), אקורדים ומרווחים הם כולם סוגים ספציפיים של קולקציות.
 
-**interval class** – The number of semitones between two *pitch classes*, counted as the shortest distance between them on a clock face. For instance, C and E make an interval class of 4. This is always the case, no matter which *pitch* is higher or lower, because interval class is concerned only with *pitch classes*. Interval classes are labeled **ic1**, **ic2**, . . . **ic6**. (There are none smaller than **ic1** or larger than **ic6**.)
+**מחלקת מרווח (interval class)** – מספר חצאי הטונים בין שתי *מחלקות גובה צליל*, המחושב כמרחק הקצר ביותר ביניהן על גבי לוח שעון. לדוגמה, C ו-E יוצרות מחלקת מרווח של 4. זהו המצב תמיד, ללא קשר לאיזה *גובה צליל (pitch)* גבוה או נמוך יותר, משום שמחלקת מרווח עוסקת אך ורק ב*מחלקות גובה צליל*. מחלקות מרווח מסומנות כ-**ic1**, **ic2**, . . . **ic6**. (אין מחלקות קטנות מ-**ic1** או גדולות מ-**ic6**.)
 
-**interval vector** – The interval vector of a set class describes all of the interval classes present in a set class. There are six interval classes (1–6). The interval vector gives the number of each of those intervals in order from 1 to 6, within angle brackets. An interval vector of **<101102>** means that the set has one ic1 (semitone/major seventh), no ic2s, one ic3 (minor third/major sixth), one ic4 (major third/minor sixth), no ic5s (perfect fourths), and two ic6s (tritones).
+**וקטור מרווחים (interval vector)** – וקטור המרווחים של מחלקת קבוצה (set class) מתאר את כל מחלקות המרווחים (interval classes) הקיימות במחלקת הקבוצה. ישנן שש מחלקות מרווחים (1–6). וקטור המרווחים מציג את מספר המופעים של כל אחד מן המרווחים הללו בסדר מ-1 עד 6, בתוך סוגרי זווית. וקטור מרווחים של **<101102>** פירושו שלקבוצה יש ic1 אחד (חצי טון / ספֶּונֶה מז'ור), אין ic2,‏ ic3 אחד (טרצה קטנה / סקסטה מז'ור), ic4 אחד (טרצה גדולה / סקסטה קטנה), אין ic5 (קוורטות זכות), ושני ic6 (טריטונים).
 
-**ordered pitch interval** – The number of semitones from one pitch (not pitch class) to the next. Ascending intervals are denoted by positive numbers, descending intervals by negative numbers. Examples: B4–G5 would have an ordered pitch interval of 8 (eight ascending semitones). B3–G5 would be 20. B4–G4 would be –4.
+**מרווח גובה צליל מנוסخ** (ordered pitch interval) – מספר חצאי הטון מצליל אחד (שאינו מחלקת גובה צליל) אל הצליל הבא. מרווחים עולים מסומנים במספרים חיוביים, ומרווחים יורדים מסומנים במספרים שליליים. דוגמאות: ל־B4–G5 יהיה מרווח גובה צליל מנוסخ של 8 (שמונה חצאי טון כלפי מעלה). ל־B3–G5 יהיה 20. ל־B4–G4 יהיה 4–.
 
-**ordered pitch-class interval** – The number of *ascending* semitones from one pitch-class to another. G–B is four semitones, for an ordered PC interval of **4**. B–G is eight ascending semitones, for an ordered PC interval of **8**. 
+**מרווח מחלקת צבה מסודר (ordered pitch-class interval)** – מספר חצאי הטון ה*עולים* ממחלקת צבה (pitch-class) אחת לאחרת. G–B הם ארבעה חצאי טון, עבור מרווח מחלקת צבה מסודר שערכו **4**. B–G הם שמונה חצאי טון עולים, עבור מרווח מחלקת צבה מסודר שערכו **8**. 
 
-The ordered pitch-class interval is also the modulo12 version of the ordered pitch interval. For example, B4–G4 is –4 semitones (4 semitones down). mod12(–4) = 8. C3–D4 is 14 semitones. mod12(14) = 2.
+מרווח מחלקת הגבהים המכוון הוא גם גרסת המודולו-12 של מרווח הגבהים המכוון. לדוגמה, B4–G4 הוא –4 חצאי טונים (4 חצאי טונים כלפי מטה). (–4)mod12 = 8. C3–D4 הוא 14 חצאי טונים. (14)mod12 = 2.
 
-**pitch** – A pitch class in a specific register, such as C4 (middle C).
+**גובה אמצעי** – מחלקת גובה צליל (pitch class) באוקטבה מסוימת, כגון C4 (דו אמצעי).
 
-**pitch class** – One of the twelve steps on the chromatic scale, summarized by a note name (C, D-sharp, B-flat, etc.) or a number 0–11 (C = 0, C-sharp = 1, . . . B = 11). In atonal music, spelling rarely matters except to make performance easier, so enharmonically equivalent pitch classes are considered identical (C = B-sharp = D-double-flat = 0).
+**מחלקת גובה צליל** – אחד משנים עשר השלבים בסולם הכרומטי, המסוכם על ידי שם תו (C, D-דיאז, B-במול וכו') או מספר 0–11 (C = 0, C-דיאז = 1, . . . B = 11). במוזיקה אטונלית, לכתיב התווים (spelling) יש לעיתים רחוקות חשיבות מלבד להקל על הביצוע, ולכן מחלקות גובה צליל שהן שקולות אנהרמונית נחשבות לזהות (C = B-דיאז = D-דאבל-במול = 0).
 
-**pitch-class set** – An *unordered* collection of pitch classes, usually grouped into curly brackets: {C, E, G}, {D, E-flat, G}, or {4, 5, 9}.
+**קבוצת גובה-צליל (pitch-class set)** – אוסף *בלתי ממושטר* (unordered) של גובה-צלילים, המרוכז בדרך כלל בסוגריים מסולסלים: {C, E, G}, {D, E-flat, G}, או {4, 5, 9}.
 
-**pitch-class set class** or simply **set class** – A category of pitch-class sets that are all related by transposition or inversion. For example, the 12 major triads are all related by transposition. While each major triad is a different pitch-class set, they all belong to the same set class (the same category of sets). Note that minor triads are upside-down major triads (minor third–major third, instead of major third–minor third). Thus since major and minor triads can be related by inversion, they belong to the same set class. Set classes are typically named according to their *prime form* (see *prime form* in this glossary).
+**מחלקת קבוצות צלילים** (**pitch-class set class**) או פשוט **מחלקת קבוצה** (**set class**) – קטגוריה של קבוצות צלילים (pitch-class sets) הקשורות כולן זו לזו על ידי טרנספוזיציה או היפוך. לדוגמה, 12 הטריאדות המז'ור קשורות כולן על ידי טרנספוזיציה. בעוד שכל טριάדת מז'ור היא קבוצת צלילים שונה, כולן שייכות לאותה מחלקת קבוצות (אותה קטגוריה של קבוצות). שימו לב כי טριάדות מינור הן טριάדות מז'ור הפוכות (טרצה קטנה–טרצה גדולה, במקום טרצה גדולה–טרצה קטנה). לפיכך, מאחר שטריאדות מז'ור ומינור יכולות להיות קשורות זו לזו על ידי היפוך, הן שייכות לאותה מחלקת קבוצות. מחלקות קבוצות נקראות בדרך כלל על פי *צורתן הראשונית* (ראו *צורה ראשונית* [prime form] במילון מונחים זה).
 
-**prime form** – Since set classes come in as many as 24 different forms (12 transpositions times 2 inversions), one of those forms is chosen as its name or referential form, for ease of categorization. That form is the prime form. The prime form is, in a nutshell, the inversion and rotation of the set class that keeps the pitch classes most tightly packed on and above C (0).
+**צורת יסוד (prime form)** – מאחר שמחלקות קבוצות מופיעות בעד 24 צורות שונות (12 טרנספוזיציות כפול 2 היפוכים), אחת מצורות אלו נבחרת כשמה או כצורת הייחוס שלה, לשם נוחות הკטגוריזציה. צורה זו היא צורת היסוד. צורת היסוד היא, על רגל אחת, ההיפוך והרוטציה של מחלקת הקבוצה השומרים על מחלקות הגובה צפופות ככל האפשר על ומעל C (0).
 
-For help finding the prime form of a set, Jay Tomlin's [set theory calculator][calc] can be helpful. The following video demonstrates how to use it.
+לקבלת עזרה במציאת הצורה הראשונית של קבוצה, מחשבון תורת הקבוצות (set theory calculator) של ג'יי טומלין [set theory calculator][calc] עשוי להיות שימושי. הסרטון הבא מדגים כיצד להשתמש בו.
 
-<iframe src="http://player.vimeo.com/video/63210462" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/63210462">SetTheoryCalculator</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/63210462" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/63210462">SetTheoryCalculator</a> מאת <a href="http://vimeo.com/user11692346">Kris Shaffer</a> ב-<a href="http://vimeo.com">Vimeo</a>.</p>
 
-**simultaneity** – Any collection of more than one pitch (class) that sound at the same time. This includes dyads/intervals, chords, clusters, and "salami slices" of contrapuntal textures.
+**סימולטניזם (simultaneity)** – כל אוסף של יותר מגובה צליל (או מחלקת גובה צליל) אחת המושמעים בו-זמנית. זה כולל דיאדות/מרווחים, אקורדים, צבירים (clusters), ו"פרוסות סלמי" של מרקמים קונטרפונקטיים.
 
-**unordered pitch-class interval** – A regular *simple* chromatic interval: the number of half steps between two pitches. Compound intervals (larger than an octave) are typically reduced to their corresponding simple interval. They are labeled with a lower-case **i**: **i4** is a major third, for example.
+**מרווח מחלקת גובה-צליל לא ממוין (unordered pitch-class interval)** – מרווח כרומטי *פשוט* רגיל: מספר חצאי הטונים בין שני גובהי-צליל. מרווחים מורכבים (הגדולים מאוקטבה) מצומצמים בדרך כלל למרווח הפשוט המתאים שלהם. הם מסומנים באות קטנה **i**: לדוגמה, **i4** הוא טרציה גדולה (major third).
 
 
 [calc]: http://www.jaytomlin.com/music/settheory/

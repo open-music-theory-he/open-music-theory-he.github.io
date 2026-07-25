@@ -3,87 +3,87 @@ layout: post
 title: Composing a second-species counterpoint
 ---
 
-In second-species counterpoint, the counterpoint line moves in half notes against a cantus firmus in whole notes. This 2:1 rhythmic ratio leads to two new "fundamental musical problems"—one metric and one harmonic: the differentiation between *strong beats* and *weak beats*, and the introduction of the *passing tone* dissonance. 
+בקונטרפונקט מין שני (second-species counterpoint), קו הקונטרפונקט נע בחצאי נוטות (half notes) כנגד קאנטוס פירמוס (cantus firmus) בנוטות שלמות (whole notes). יחס קצבי זה של 2:1 מוביל לשני "בעיות מוזיקליות יסודיות" (fundamental musical problems) חדשות — האחת מטרית והאחת הרמונית: ההבחנה בין *פעימות חזקות* (*strong beats*) ל*פעימות חלשות* (*weak beats*), וההכנסה של דיסוננס *צליל עובר* (*passing tone*). 
 
-The introduction of harmonic dissonance into second species adds to the variety of the musical texture. However, it brings a tension that must be balanced with consonance to promote tonal fusion, and it requires careful attention in order to maintain smoothness in and out of the dissonance.
+הכנסת דיסוננס הרמוני (harmonic dissonance) למין השני (second species) תורmת למגוון של המרקם המוזיקלי (musical texture). עם זאת, היא מביאה עמה מתח שיש לאזן אותו עם קונסוננס (consonance) כדי לקדם איחוד טונalי (tonal fusion), והדבר דורש תשומת לב מדוקדקת כדי לשמור על זורמות בכניסה אל הדיסוננס וביציאה ממנו.
 
-## The counterpoint line ##
+## קו הקונטרפונקט (counterpoint line) ##
 
-As in first species, the counterpoint line should be singable, have a good shape, with a single climax and primarily stepwise motion (with some small leaps and an occasional large leap for variety). However, because a first-species counterpoint had so few notes, in order to maintain smoothness in other aspects of the exercise, the melody frequently employed small leaps. In second species, the increase in notes and the added freedom involving the use of dissonance makes it easier to move by step without causing other musical problems. Thus, a second-species counterpoint is even *more dominated by stepwise motion* than in first species. 
+כמו במין (species) הראשון, קו הקונטרפונקט צריך להיות שיר (singable), בעל מבנה טוב, עם שיא (climax) יחיד ובעיקר תנועה צעדית (stepwise motion) (עם דילוגים קטנים אחדים ודילוג גדול מדי פעם לשם גיוון). אולם, מכיוון שלקונטרפונקט ממין ראשון היו מעט כל כך תווים, על מנת לשמור על זורמות (smoothness) בהיבטים אחרים של התרגיל, המנגודיה השתמשה לעתים קרובות בדילוגים קטנים. במין שני, הריבוי בתוים והחופש המוסף הכרוך בשימוש בדיסוננס (dissonance) מקלים על התנועה בצעדים מבלי לגרום לבעיות מוזיקליות אחרות. לפיכך, קונטרפונקט ממין שני *נשלט עוד יותר על ידי תנועה צעדית* מאשר במין הראשון. 
 
-If the counterpoint must leap, take advantage of the metrical arrangement to diminish the attention drawn to the leap: leap from strong beat to weak beat (within the bar) rather than from weak beat to strong beat (across the barline) when possible. 
+אם הקונטרפונקט חייב לקפוץ, נצלו את הסידור המטרי כדי לצמצם את תשומת הלב המופנית אל הקפיצה: קפצו מפעימה חזקה לפעימה חלשה (בתוך התיבה) במקום מפעימה חלשה לפעימה חזקה (מעבר בקו התיבה) כאשר הדבר אפשרי. 
 
-Also, because there are more notes in a second species line, there should usually be one or two *secondary climaxes*—notes lower than the overall climax that serve as "local" climaxes for portions of the line. This will help the integrity of the line, by ensuring it has a coherent shape and does not simply wander around.
+כמו כן, מכיוון שיש יותר תווים בקו של מין שני, בדרך כלל צריכים להיות בו תו אחד או שניים של *שיא משני* (*secondary climaxes*) — תווים הנמוכים משיא הכללי המשמשים כשיאים "מקומיים" עבור חלקים מן הקו. הדבר יעזור לשלמותו של הקו, על ידי הבטחה שתהיה לו צורה מהודקת ושהוא לא סתם ישוטט לו ללא מטרה.
 
-### Beginning a second-species counterpoint ###
+### התחלת קונטרפונקט ממין שני ###
 
-As in first species, begin a second-species counterpoint above the cantus firmus with *do* or *sol*. Begin a second-species counterpoint below the cantus firmus with *do*. Unisons are permitted for the first and last dyads of the exercise.
+כמו במין הראשון, יש להתחיל קונטרפונקט במין שני מעל הקנטוס פירמוס עם דו (*do*) או סול (*sol*). יש להתחיל קונטרפונקט במין שני מתחת לקנטוס פירמוס עם דו (*do*). צלילים יחידים (unisons) מותרים עבור הדיאדות (dyads) הראשונות והאחרונות של התרגיל.
 
-A second-species line can begin with two half notes in the first bar, or a half rest followed by a half note. Beginning with a half rest establishes the rhythmic profile more readily, making it easier for the listener to parse, so it is often preferable. It is also easier to compose. Regardless of rhythm, the first pitch in the counterpoint should follow the intervallic rules above.
+קו ממין שני (second-species line) יכול להתחיל בשתי חצי-חנויות בתיבה הראשונה, או בהפסקת חצי (half rest) שלאחריה חצי-חנויות (half note). התחלה בהפסקת חצי מגדירה את הפרופיל הקצבי בקלות רבה יותר, ומקל על המאזן לפענח אותו, כך שלעתים קרובות היא עדיפה. היא גם קלה יותר להלחנה. ללא קשר לקצב, הגובה הצלילי (pitch) הראשון בקונטרפונקט צריך לציית לכללי האינטרוולים לעיל.
 
-### Ending a second-species counterpoint ###
+### סיום של קונטרפונקט ממין שני (Ending a second-species counterpoint) ###
 
-The final pitch of the counterpoint should be *do*, as in first species.
+הגובה הסופי של הקונטרפונקט צריך להיות *דו*, כמו במין הראשון (first species).
 
-The penultimate note of the counterpoint should be *ti* if the cantus is *re*, and *re* if the cantus is *ti*, as in first species.
+התווים הלפני-אחרונים של הקונטרפונקט צריכים להיות *סי* (*ti*) אם הקאנטוס (cantus) הוא *רה* (*re*), ו*רה* (*re*) אם הקאנטוס הוא *סי* (*ti*), כמו במין הראשון.
 
-The penultimate bar of the counterpoint can either be a *whole note* (making the last two bars identical to first species), or two half notes. Which option you use will depend on how you are approaching the final bar. (This is simply a historical convention, not a musical necessity. But the added degree of freedom makes it easier to move into the final arrival smoothly without adding too many complicating factors.)
+התיבה הלפני-אחרוna של הקונטרפונקט יכולה להיות או *שלמה* (*whole note*) (מה שהופך את שתי התיבות האחרונות לזהות למין הראשון), או שני חצאים (*half notes*). באיזו אפשרות תשתמש תהיה תלויה באופן שבו אתה מתקרב לתיבה הסופית. (זוהי פשוט מוסכמה היסטורית, ולא הכרח מוזיקלי. אך דרגת החופש הנוספת מקלה על המעבר אל נקודת הגעת הסיום באופן חלק מבלי להוסיף יותר מדי גורמים מסבכים).
 
-### Strong beats ###
+### פעימות חזקות (Strong beats) ###
 
-*Because the inclusion of dissonance in a musical texture creates new musical problems that need to be addressed, second species introduces dissonance in a very limited way. This is not a musical necessity, and it's not the only way to address dissonance, but it helps by introducing a small number of new musical difficulties in each species.*
+*מכיוון שהכללת דיסוננס במרקם מוזיקלי יוצרת בעיות מוזיקליות חדשות הדורשות מענה, המין השני מציג דיסוננס בדרך מצומצמת ביותר. אין מדובר בהכרح מוזיקלי, וזו אינה הדרך היחידה להתמודד עם דיסוננס, הדבר מסייע על ידי הצגת מספר מצומצם של קשיים מוזיקליים חדשים בכל מין.*
 
-Strong beats (downbeats) in second species are *always consonant*. As in first species, prefer imperfect consonances (thirds and sixths) to perfect consonances (fifths and octaves), and avoid unisons. 
+הפעימות החזקות (פעימות מטה - downbeats) במין השני הן *תמיד קונסוננטיות (consonant)*. כמו במין הראשון, עדיף להעדיף קונסוננטיות בלתי מושלמות (טרצות וסקסטות) על פני קונסוננטיות מושלמות (קווינטות ואוקטבות), ויש להימנע מאוניסונים. 
 
-Because motion across bar lines (from weak beat to strong beat) involves the same kind of voice motion as first species (two voices moving simultaneously), follow the same principles as first species counterpoint. For instance, if a weak beat is a perfect fifth, the following downbeat must not also be a perfect fifth.
+משום שתנועה מעבר לקווי תיבה (מפעם חזק למחצה או חלש לפעם חזקה) כרוכה באותו סוג של תנועת קולות כמו במין הראשון (שני קולות הנעים בו זמנית), יש לפעול לפי אותם עקרונות של קונטרפונקט מין ראשון (first species counterpoint). לדוגמה, אם פעם חלשה היא קווינטה זכה (perfect fifth), הפעם המודגשת הבאה אחריה אסור שתהיה גם היא קווינטה זכה.
 
-Likewise progressions from downbeat to downbeat must follow principles of first-species counterpoint. The following are some examples, but not an exhaustive list:
+כמו כן, מהלכים מפעימה חזקה לפעימה חזקה חייבים לציית לעקרונות הקונטרפונקט ממין ראשון (first-species counterpoint). להלן מספר דוגמאות, שאינן מהועות רשימה מיצויה:
 
-- Do not begin two consecutive bars with the same perfect interval.  
-- Do not outline a dissonant melodic interval between consecutive downbeats. (Exception: if the counterpoint leaps an octave from the strong beat to the weak beat, the leap should be followed by step in the opposite direction making a seventh with the preceding downbeat. This is okay, since it is the result of smooth voice motion.)  
-- Do not begin more than three bars in a row with the same imperfect consonance.  
+- אין להתחיל שתי תיבות עוקבות באותו מרווח זך (perfect interval).  
+- אין להסרט מרווח מלודי דיסוננטי בין פעימות חזקות עוקבות. (חריגה: אם הקונטרפונקט קופץ אוקטבה מהפעימה החזקה אל הפעימה החלשה, הקפיצה צריכה להמשיך בצעד בכיוון ההפוך היוצר שביעית עם הפעימה החזקה שלפניה. זה תקין, מכיוון שזה תוצאה של תנועת קול חלקה).  
+- אין להתחיל יותר משלושה תיבות ברצף באותו קונסוננס לא מושלם (imperfect consonance).  
 
-*Hidden* or *direct fifths/octaves* between successive downbeats are fine, as the effect is weak, and the intervening note in the counterpoint diminishes that effect.
+*חמישיות או אוקטבות נסתרות* (Hidden fifths/octaves) או *ישירות* (direct fifths/octaves) בין פעימות חזקות עוקבות הן תקינות, מכיוון שהאפקט חלש, והתו הביניים בקונטרפונקט (counterpoint) מפחית את האפקט הזה.
 
-### Weak beats ###
+### פעימות חלשות (Weak beats) ###
 
-Since harmonic dissonances can appear on weak beats, a mixture of consonant and dissonant intervals on weak beats is the best way to promote variety. 
+מאחר שדיסוננסים הרמוניים עשויים להופיע בפעמות חלשות, שילוב של מרווחים קונסוננטיים ודיסוננטיים בפעמות חלשות הוא הדרך הטובה ביותר לעודד מגוון (variety). 
 
-Unisons were problematic in first species because they diminished the independence of the lines. However, when they occur on the weak beats of second species and are the result of otherwise smooth voice-leading, the rhythmic difference in line is sufficient to maintain that independence. Thus, unisons are permitted on weak beats when necessary to make good counterpoint between the lines. 
+צלילים יוניסונים (Unisons) היו בעייתיים במינים הראשונים משום שהם הפחיתו את עצמאותם של הקווים. עם זאת, כאשר הם מופיעים בפעמות החלשות של המינים השניים והם תוצאה של הולכת קול (voice-leading) חלקה בדרך כלל, ההבדל הקצבי בקו מספיק כדי לשמור על אותה עצמאות. לפיכך, צלילים יוניסונים מותרים בפעמות החלשות כאשר הדבר נדרש לשם יצירת קונטרפונקט טוב בין הקווים. 
 
-Any weak-beat dissonance must follow the pattern of the *dissonant passing tone*, explained below. Also explained below are a number of standard patterns for consonant weak beats. Chances are high that if your weak beats do not fit into one of the following patterns, there is a problem with the counterpoint, so use them as a guide both for composing the counterpoint, and for evaluating it.
+כל דיסוננס בפעימה חלשה חייב לציית לתבנית של *צליל עובר דיסוננטי (dissonant passing tone)*, המוסברת להלן. כמו כן מוסברים להלן מספר דפוסים סטנדרטיים לפעימות חלשות קונסוננטיות. סביר מאוד להניח שאם הפעימות החלשות שלך אינן מתאימות לאחד הדפוסים הבאים, ישנה בעיה בקונטרפונקט; לכן, השתמש בהם כמדריך הן להלכת הקונטרפונקט והן להערכתו.
 
-### Weak beat patterns ###
+### תבניות פעימה חלשה (Weak beat patterns) ###
 
-The following patterns (whose terms are either standard or taken from Salzer & Schachter's *Counterpoint in Composition*) should guide your use of weak-beat notes in a second-species counterpoint line. A good general practice is to start with a downbeat note, then choose the following downbeat note, and finally choose a pattern below that will allow you to fill in the space between downbeats well.
+התבניות הבאות (שמונחיהן הם סטנדרטיים או לקוחים מתוך *Counterpoint in Composition* מאת סלצר ושכטר [Salzer & Schachter]) צריכות להנחות את השימוש שלך בתווי פעימה חלשה בקו קונטרפונקט ממין שני. פרקטיקה כללית טובה היא להתחיל בתו פעימה חזקה (downbeat), לאחר מכן לבחור את תו הפעימה החזקה הבא, ולבסוף לבחור תבנית להלן שתאפשר לך למלא היטב את המרווח בין הפעימות החזקות.
 
-Most of these are used as examples in the demonstration video at the bottom of the page.
+רוב אלה משמשים כדוגמאות בסרטון ההדגמה בתחתית העמוד.
 
-#### Dissonant weak beats ####
+#### פעימות חלשות דיסוננטיות (Dissonant weak beats) ####
 
-*All dissonant weak beats in second species are dissonant passing tones*, so called because the counterpoint line passes from one consonant downbeat to another consonant downbeat by stepwise motion. The melodic interval from downbeat to downbeat in the counterpoint will always be a third, and the passing tone will come in the middle in order to fill that third with passing motion.
+*כל הפעימות החלשות המדוזנות במינים שני הם צלילים עוברים דיסוננטיים (dissonant passing tones)*, הנקראים כך מפני שקול הקונטרפונקט עובר מפעימה חזקה קונסוננטית אחת לאחרת באמצעות תנועה צעד-אחר-צעד. המרווח המלודי מפעימה חזקה אחת לשנייה בקונטרפונקט תמיד יהיה שליש, והצליל העובר (passing tone) יופיע באמצע על מנת למלא את אותו שליש בתנועה עוברת (passing motion).
 
-####  Consonant weak beats ####
+####  פעמות חלשות קונסוננטיות (Consonant weak beats) ####
 
-A *consonant passing tone* outlines a third from downbeat to downbeat, and has the same pattern as the dissonant passing tone, except that all three tones (downbeat, passing tone, downbeat) are consonant with the cantus. A consonant passing tone will always be a sixth or perfect fifth above/below the cantus.
+**צליל עובר קונסוננטי (consonant passing tone)** משרטט מרווח של טרציה מפעם חזק לפעם חזק, ויש לו את אותו דפוס כמו צליל עובר דיסוננטי, אלא שכל שלושת הצלילים (הפעם החזק, הצליל העובר, והפעם החזק) נמצאים בקונסוננטיות עם הקנטוס. צליל עובר קונסוננטי תמיד יהיה סקסטה או קווינטה זכה מעל או מתחת לקנטוס.
 
-A *substitution* also outlines a third from downbeat to downbeat. However, instead of filling it in with stepwise motion, the counterpoint leaps a fourth and then steps in the opposite direction. It is called a substitution because it can substitute for a passing tone in a line that needs an extra leap or change of direction to provide variety. Like the consonant passing tone, all three notes in the counterpoint must be consonant with the cantus.
+*החלפה (substitution)* מתווה גם היא מרווח טרצה מפעימה לפעימה. אולם, במקום למלא אותו בתנועה צעדית, הקונטרפונקט עולה בקפיצה של קוורטה ואז צועד בכיוון ההפוך. היא נקראת החלפה משום שהיא יכולה להחליף צליל עובר בקו הדرש קפיצה נוספת או שינוי כיוון כדי לספק גיוון. בדומה לצליל העובר הקונסוננטי, כל שלושת הצלילים בקונטרפונקט חייבים להיות קונסוננטיים ביחס לקאנטוס.
 
-A *skipped passing tone* outlines a fourth from downbeat to downbeat. The weak-beat note divides that fourth into a third and a step. Again, all three intervals (downbeat, skipped passing tone, downbeat) are consonant with the cantus.
+*צליל עובר מדולג* (skipped passing tone) מתווה מרווח של קוורטה מפעימה חזקה לפעימה חזקה. הצליל בפעימה החלשה מחלק קוורטה זו לטרצה ולפעימה (step). שוב, כל שלושת המרווחים (פעימה חזקה, צליל עובר מדולג, פעימה חזקה) הם קונסוננטיים ביחס לקנטוס.
 
-An *interval subdivision* outlines a fifth or sixth between successive downbeats. The large, consonant melodic interval between downbeats is divided into two smaller consonant leaps. A melodic fifth between downbeats would be divided into two thirds. A melodic sixth between downbeats would be divided into a third and a fourth, or a fourth and a third. Not only must all three *melodic* intervals be consonant (both note-to-note intervals and the downbeat-to-downbeat interval), but each note in the counterpoint must be consonant with the cantus.
+חלוקת מרווחים (*interval subdivision*) מתארת מרווח קווינטה או סקסטה בין פעימות חזקות עוקבות. המרווח המלודי הגדול והקוזוננטי שבין הפעימות החזקות מחולק לשתי קפיצות קונסוננטיות קטנות יותר. קווינטה מלודית בין פעימות חזקות תתחלק לשתי טרצצות. סקסטה מלודית בין פעימות החזקות תתחלק לטרצצה וקוורטה, או לקוורטה וטרצצה. לא זו בלבד שכל שלושת המרווחים *המלודיים* חייבים להיות קונסוננטיים (גם מרווחי תו-לתו וגם מרווח פעימה-לפעימה), אלא שכל תו בקונטרפונקט חייב להיות קונסוננטי ביחס לקנטוס.
 
-A *change of register* occurs when a large, consonant leap (P5, sixth, or octave) from strong beat to weak beat is followed by a step in the opposite direction. It is used to achieve melodic variety after a long stretch of stepwise motion, to avoid parallels or other problems, or to get out of the way of the cantus to maintain independence. It should be used infrequently. And as always, each note must be consonant with the cantus.
+*החלפת מפתח (change of register)* מתרחשת כאשר לאחר דילוג קונסוננטי רחב (קווינטה זכה [P5], סקסטה, או אוקטבה) מפעם חלש לפעם חזק, מופיע צעד לכיוון ההפוך. הטכניקה משמשת להשגת גיוון מלודי לאחר רצף ארוך של תנועה צעדית, להימנע מקבילים או מבעיות אחרות, או להתפנות מדרכו של הקנטוס לשם שמירה על עצמאות. יש להשתמש בה לעיתים רחוקות. וכמו תמיד, כל תו חייב להיות קונסוננטי ביחס לקנטוס.
 
-A *delay of melodic progression* outlines a step from downbeat to downbeat. It involves a leap of a third from strong beat to weak beat, followed by a step in the opposite direction into the following downbeat. It is called a "delay" because it is used to embellish what otherwise is a slower first-species progression (motion by step from downbeat to downbeat).
+עיכוב בהתקדמות המלודית (*delay of melodic progression*) משרטט מהלך של צעד מפעימה חזקה לפעימה חזקה. הוא כולל קפיצה של טרצה מפעימה חזקה לפעימה חלשה, שלאריה צעד בכיוון ההפוך אל תוך הפעימה החזקה הבאה. הוא נקרא "עיכוב" משום שהוא משמש לקישוט מה שאלמלא כן היה מהלך איטי יותר ממין ראשון (תנועה בצעדים מפעימה חזקה לפעימה חזקה).
 
-A *consonant neighbor tone* occurs when the counterpoint moves by step from downbeat to weak beat, and then returns to the original pitch on the following downbeat. If the first downbeat makes a fifth with the cantus, the consonant neighbor will make a sixth, and *vice versa*.
+*צליל עובר קונסוננטי (consonant neighbor tone)* מתרחש כאשר הקונטרפונקט נע בצעד מפעמה חזקה לפעמה חלשה, ולאחר מכן חוזר אל הגובה המקורי בפעמה החזקה הבאה. אם הפעמה החזקה הראשונה יוצרת קווינטה עם הקאנטוס, הצליל העובר הקונסוננטי יצור סקסטה, ולהפך (*vice versa*).
 
-## Demonstration ##
+## ## הדגמה
 
-In the following video, I illustrate the process of composing a second-species counterpoint. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
+בסרטון הבא, אני מדגים את תהליך ההלחנה של קונטרפונקט ממין שני. סרטון זה מספק מידע חדש אודות תהליך ההלחנה, וכן דוגמאות מוחשיות לכללים ולעקרונות לעיל.
 
 <iframe src="http://player.vimeo.com/video/57085974" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 
-***Add trinkets instead of musical graphics throughout. Give downbeat notes and ask students to produce each schematic pattern by adding a weak beat.***
+הוסף עיטורים (trinkets) במקום גרפיקה מוזיקלית לאורך כל הטקסט. ספק צלילים בפעימה הראשונה ובקש מהתלמידים ליצור כל תבנית סכמטית (schematic pattern) על ידי הוספת פעימה חלשה.

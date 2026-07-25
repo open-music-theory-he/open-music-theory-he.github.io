@@ -3,35 +3,35 @@ layout: post
 title: Pitch (class)
 ---
 
-Tonality is highly charged system where *scale degrees* are endowed with a magnetic or gravitational pull towards other tones. Within the key of C major, B-natural is attracted to the tonic C, other members of the dominant triad are attracted to the tonic triad, and other scale degrees have functions as well. *Spelling* is extremely important within common-practice tonality. A-flat—as lowered scale degree 6—leads to G, but G-sharp—as raised scale degree 5—leads to A. Underlying “scale degree” and “spelling” are two important concepts that will influence our study of post-tonal music.
+טונאליות היא מערכת טעונה במיוחד שבה *דרגות סולם* (scale degrees) מחוננות במשיכה מגנטית או כובדת כלפי צלילים אחרים. בגבולות הסולם C מז'ור, B בקר נמשך אל הטוניקה C, חברים אחרים של האקורד הדומיננטי נמשכים אל אקורד הטוניקה, ולדרגות סולם אחרות יש תפקידים גם כן. *איות* (spelling) הוא בעל חשיבות עליונה בתוך טונאליות של פרקטיקה מקובלת (common-practice tonality). A במול — כדרגת סולם 6 מונמכת — מוביל אל G, אך G דיאז — כדרגת סולם 5 מוגבהה — מוביל אל A. הבסיס ל"דרגת סולם" ("scale degree") ו"איות" ("spelling") הם שני מושגים חשובים שישפיעו על המחקר שלנו במוזיקה פוסט-טונאלית (post-tonal music).
 
-##Octave Equivalence##
- ”Scale degree” implies an *equivalence* between [pitches](pitches.html) that are spelled the same but any number of octaves apart. C4 is the same as C3 is the same as C9, and so on. The concept of scale degree, then, has the idea of *octave *equivalence* embedded within it. 
+##שקילות אוקטבה (Octave Equivalence)##
+ "דרגת סולם" (*Scale degree*) מרמזת על *שקילות* (*equivalence*) בין [גובהי צליל](pitches.html) המכונים באותו האופן אך מרוחקים זה מזה במספר כלשהו של אוקטבות. C4 זהה ל-C3 שהוא זהה ל-C9, וכן הלאה. לפיכך, המושג של דרגת סולם טומן בחובו את הרעיון של *שקילות אוקטבה* (*octave equivalence*). 
  
-##Enharmonic Equivalence##
-Though *octave equivalence* is central to our understanding of tonal music, enharmonic equivalence often is not. In the key of C major, A-flat and G-sharp are *not* equivalent, though in isolation they sound the same. Spelling often indicates tendency: A-flat *falls* to G and G-sharp *rises* to A.
+##שקילות אנהרמונית (Enharmonic Equivalence)##
+למרות ש*שקילות אוקטבה* (octave equivalence) היא מרכזית להבנתנו את המוזיקה הטונאלית, שקילות אנהרמונית (enharmonic equivalence) לרוב אינה כזו. בסולם C מז'ור, A במול ו-G דיאז *אינם* שקולים, אף על פי שבבידוד הם נשמעים אותו הדבר. הכתיב (Spelling) לרוב מצביע על נטייה: A במול *יורד* אל G ו-G דיאז *עולה* אל A.
 
-In post-tonal music, enharmonic equivalence is often assumed—with exceptions of course. Because many composers no longer felt constrained by a tonal center, the same gravitational relationships amongst tones that we find in tonal music aren’t important. A-flat and G-sharp, therefore, can be treated as representations of the same thing.
+במוזיקה פוסט-טונאלית, שקילות אנהרמונית מונחת לעיתים קרובות בבסיס הדברים — עם יוצאים מן הכלל כמובן. מכיוון שملحקים רבים (composers) [הערה: שגיאת הקלדה במקור המדמה תרגום מילולי, אך נתרגם נאמנה: מכיוון שמלחינים רבים] כבר לא הרגישו מוגבלים על ידי מרכז טונאלי (tonal center), אותם יחסים כבידתיים בין צלילים שאנו מוצאים במוזיקה טונאלית אינם חשובים. לכן, A♭ ו־G♯ יכולים להיות מטופלים כייצוגים של אותו הדבר עצמו.
 
-##Pitch##
-*Pitches* are discrete tones with individual frequencies. The concept of pitch, then, does not imply octave equivalence. C4 is a pitch, and it is not the same pitch as C3.
+##גובה שניל (Pitch)##
+*גבהי צליל (Pitches)* הם צלילים בדידים בעלי תדירות אינדיבידואלית. לכן, המושג של גובה צליל (pitch) אינו מרמז על שקילות אוקטבה. C4 הוא גובה צליל, והוא אינו نفس גובה הצליל כמו C3.
 
-##Pitch class##
-Pitch classes are *pitches* under octave equivalence that are also spelled the same. A4, A3, A2, etc. are all members of the pitch class A.
+##מחלקת גובה צליל (Pitch class)##
+מחלקות גובה צליל (Pitch classes) הן *גובהי צליל* (pitches) תחת שקילות אוקטבה אשר גם מאוייתים באותו אופן. A4, A3, A2 וכו' כולם חברים במחלקת גובה הצליל (pitch class) A.
 
-**Pitch Space**
+**מרחב גובה הצליל (Pitch Space)**
 
 [![](Graphics/postTonal/Pitch-Space.jpg)](Graphics/postTonal/Pitch-Space.jpg)
 
-##Integer notation##
-When analyzing post-tonal music where assuming octave equivalence and enharmonic equivalence is appropriate, we can use integers to represent pitch class. All C’s and any notes that are enharmonically-equivalent to C (B-sharp, for example) are pitch class 0. All C-sharps’s and any notes that are enharmonically-equivalent to C-sharp (D-flat, for example) are pitch class 1. And so on: C = 0, C-sharp = 1, D = 2, D-sharp = 3, E = 4, F = 5, F-sharp = 6, G = 7, G-sharp = 8, A = 9, B-flat = 10 (T), and B = 1 1 (E).
+##רישום מספרים (Integer notation)##
+בניתוח מוזיקה פוסט-טונאלית, כאשר הנחת שקילות אוקטבה ושקילות אנהרמונית היא מתאימת, אנו יכולים להשתמש במספרים שלמים כדי לייצג מחלקת גובה נהמה. כל תווי C וכל התווים שהם אנהרמוניים ל-C (כגון B דיאז) הם מחלקת גובה נהמה 0. כל תווי C דיאז וכל התווים שהם אנהרמוניים ל-C דיאז (כגון D במול) הם מחלקת גובה נהמה 1. וכן הלאה: C = 0, C דיאז = 1, D = 2, D דיאז = 3, E = 4, F = 5, F דיאז = 6, G = 7, G דיאז = 8, A = 9, B במול = 10 (T), ו-B = 11 (E).
 
-This type of pitch-class, which assumes octave and enharmonic equivalence is easily visualized on a clock-face diagram, like the one below.
+סוג כזה של מחלקת צלילים (pitch-class), המניח שקילות אוקטבה ואנהרמונית, ניתן להמחשה בקלות על גבי דיאגרמת לוח שעון, כמו זו שבהמשך.
 
-**Pitch-Class Space**
+**מרחב מחלקות הגובה (Pitch-Class Space)**
 
 [![](Graphics/postTonal/Pitch-class-Space.jpg)](Graphics/postTonal/Pitch-class-Space.jpg)
 
-##Disclaimer!##
-Post-tonal music is extremely various. Composers have individual compositional styles, aesthetic goals, and unique conceptions of pitch. All this is to say that you must approach a composition with flexibility. For example: because it is quasi-tonal, Debussy’s music often benefits from a view that does *not* assume enharmonic equivalence. But sometimes it does. You must rely on your musical intuitions when analyzing this music, and you should also be willing to approach pitch in these compositions from multiple perspectives until you find one that seems most appropriate.
+##כתב ויתור!##
+מוזיקה פוסט-טונלית (Post-tonal music) היא מגוונת ביותר. למלחינים יש סגנונות הלחנה אינדיבידואליים, מטרות אסתטיות ותפיסות ייחודיות של גובה סאונד. כל זאת כדי לומר שעליך לגשת אל יצירה מוזיקלית בגמישות. לדוגמה: מכיוון שהיא מעין-טונלית (quasi-tonal), המוזיקה של דביסי מרוויחה לעיתים קרובות מגישה שאינה מניחה שקילות אנהרמונית. אך לפעמים היא כן. עליך להסתמך על האינטואיציות המוזיקליות שלך בעת ניתוח מוזיקה זו, ועליך גם להיות מוכן לגשת לגובה סאונד ביצירות אלו ממפרספקטיבות מרובות עד שתמצא את זו הנראית המתאימה ביותר.
 

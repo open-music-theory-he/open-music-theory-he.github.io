@@ -3,27 +3,27 @@ layout: post
 title: Rhythmic values
 ---
 
-Rhythm refers to the combination of long and short durations in time. Durations are notated with either unfilled or filled noteheads. Unfilled noteheads can appear with or without a stem; filled noteheads always appear with a stem. Flags can be added to the stems of filled noteheads; each flag shortens the duration by half. 
+קצב (Rhythm) מתייחס לשילוב של משכי זמן ארוכים וקצרים לאורך הזמן. משכי זמן נכתבים באמצעות ראשי תווים ריקים או מלאים. ראשי תווים ריקים יכולים להופיע עם או בלי מקל תוף (stem); ראשי תווים מלאים מופיעים תמיד עם מקל תוף. ניתן להוסיף דגלים (flags) למקלים של ראשי תווים מלאים; כל דגל מקצר את משך הזמן בחצי. 
 
 <img src="Graphics/durations.png" width="60%">
 
-### Rests
+### הפוגות (Rests)
 
-Rests represent silence in musical notation. For each durational symbol there exists a corresponding rest. 
+הפוגות מייצגות שקט בתווים מוזיקליים. עבור כל סמל משך (durational symbol) קיים הפוגה (rest) מתאימה. 
 
 <img src="Graphics/rests.png" width="60%">
 
-### Dots and ties
+### נקודות וקשתות (Dots and ties)
 
-Dots and ties allow for basic durations to be lengthened. A dot occurs after a pitch or a rest, and it increases its duration by half. For example, if a quarter note is equivalent in duration to two eighth notes, a dotted quarter note would be equivalent to *three* eighth notes. Generally, undotted notes divide into two notes; dotted notes divide into three. Thus, undotted notes are typically used to represent the beat level in simple meter, while dotted notes are used to represent the beat in compound meter.
+נקודות (Dots) וקשתות הארכה (Ties) מאפשרים להאריך משכי צליל בסיסיים. נקודה מופיעה אחרי גובה צליל או הפוגה, והיא מגדילה את משכו בחצי. לדוגמה, אם צליל רבע שקול במשכו לשני שמיניות, רבע מנוקד יהיה שקול ל-*שלושה* שמיניות. באופן כללי, צלילים ללא נקודה מתחלקים לשני צלילים; צלילים מנוקדים מתחלקים לשלושה. לפיכך, צלילים ללא נקודה משמשים בדרך כלל לייצוג רמת הפעימה במשקל פשוט (simple meter), בעוד שצלילים מנוקדים משמשים לייצוג הפעימה במשקל מורכב (compound meter).
 
-Multiple dots can be added to a duration. Subsequent dots add half the duration of the previous dot. For example, a quarter note with two dots would be equivalent in duration to a quarter, eighth, and sixteenth note. 
+ניתן להוסיף נקודות מרובות למשך צליל (duration). נקודות עוקבות מוסיפות חצי ממשך הצליל של הנקודה הקודמת. לדוגמה, תו רבע עם שנקודה כפולה (double-dotted quarter note) יהיה שווה באורכו לתו רבע, תו שמינית ותו חצי-שמינית. 
 
 <a href="Graphics/dots.png"><img src="Graphics/dots.png" width="50%"></a>
 
-A *tie* lengthens a duration by connecting two adjacent identical pitches. Ties are used to either sustain a pitch beyond the length of a single measure, or to make a particular rhythmic grouping in a measure more clear. 
+קושרת (*tie*) מאריכה משך צליל על ידי חיבור בין שני צלילים זהים עוקבים. קושרות משמשות إما לשמירת צליל לאורך זמן החורג מאורך תיבה בודדת, או כדי להפוך קבוצה קצבית מסוימת בתיבה לברורה יותר. 
 
-In the example below, the duration of the first pitch is longer than a single measure, so it is represented by tying the dotted half note, which lasts the full measure, to the first beat of the subsequent measure. 
+בהדוגמה שלהלן, משך הצליל של הגובה הראשון ארוך מתיבה שלמה, ולכן הוא מיוצג על ידי קשירת (tie) חצי תו מנוקוד, הנמשך לאורך כל התיבה, אל הפעימה הראשונה של התיבה העוקבת. 
 
 <a href="Graphics/ties.png"><img src="Graphics/ties.png" width="50%"></a>
 

@@ -3,121 +3,121 @@ layout: post
 title: Intervals and dyads
 ---
 
-An *interval* is the distance between two pitches, usually measured as a number of steps on a scale.
+*מרווח* (Interval) הוא המרחק בין שני גבהי צליל (Pitches), הנמדד בדרך כלל כמספר הצעדים בסולם (Scale).
 
-A *dyad* is a pair of pitches sounding together (in other words, a two-note chord). Since a dyad is defined by the interval between the two pitches, dyads are often simply called intervals.
+*דיאדה (Dyad)* היא צמד גבהי צליל המושמעים יחד (במילים אחרות, אקורד של שני צלילים). מאחר שדיאדה מוגדרת על ידי המרווח שבין שני גבהי הצליל, דיאדות (Dyads) מכונות לעיתים קרובות פשוט מרווחים (Intervals).
 
-Thus, the term *interval* regularly refers both to the distance between two pitches on a scale and to a dyad whose pitches are separated by that distance.
+על כן, המונח *מרווח (interval)* מתייחס באופן קבוע הן למרחק בין שני גבהי צליל (pitches) בסולם והן לדיאדה (dyad) שגבהי הצליל שלה מופרדים על ידי מרחק זה.
 
-# Chromatic intervals #
+# מרווחים כרומטיים (Chromatic intervals) #
 
-The simplest way to measure intervals, particularly at the keyboard, is to count the number of half-steps, or *semitones*, between two pitches. To determine the chromatic interval between C4 and E4, for example, start at C4 and ascend the chromatic scale to E4, counting steps along the way: C#4, D4, D#4, E4. E4 is four semitones higher than C4. Chromatic intervals are notated with a lower-case **i** followed by an Arabic numeral for the number of semitones. C4–E4 is four semitones, or **i4**.
+הדרך הפשוטה ביותר למדוד מרווחים (intervals), במיוחד במקלדת, היא לספור את מספר חצאי-הטונים (half-steps), או *חצאי-הטונים (semitones)*, בין שני גבהי צליל. כדי לקבוע את המרווח הכרומטי (chromatic interval) בין C4 ל-E4, למשל, התחילו ב-C4 ועלו בסולם הכרומטי (chromatic scale) ל-E4, תוך ספירת הצעדים לאורך הדרך: C#4, D4, D#4, E4. ‏E4 גבוה בארבעה חצאי-טונים מ-C4. מרווחים כרומטיים (chromatic intervals) מיוצגים בכתב באמצעות אות **i** קטנה (lower-case) ולאחריה ספרה ערבית (Arabic numeral) המציינת את מספר חצאי-הטונים. ‏C4–E4 הוא ארבעה חצאי-טונים, או **i4**.
 
-![Chromatic steps from C4 to E4.][c4e4]
+![צעדים כרומטיים (Chromatic steps) מ-C4 ל-E4.][c4e4]
 
-# Diatonic intervals #
+# מרווחים דיאטוניים (Diatonic intervals) #
 
-More commonly for tonal music, we are interested in the number of steps on the diatonic (major or minor) scale. This is a bit tricky—not because it's difficult, but because it's counterintuitive. Unfortunately, the system is too old and well engrained to change it now! But once you get past the initial strangeness, diatonic intervals are easy.
+באופן שכיח יותר במוזיקה טונאלית (tonal music), אנו מתעניינים במספר הצעדים בסולם הדיאטוני (diatonic scale) (מז'ור או מינור). זה מעט מתעתע—לא מפני שזה קשה, אלא מפני שזה נוגד את האינטואיציה (counterintuitive). לרוע המזל, המערכת ישנה מדי ומושרשת היטב (well engrained) מכדי לשנות אותה כעת! אך ברגע שעוברים את המוזרות הראשונית, מרווחים דיאטוניים (diatonic intervals) הם קלים.
 
-When identifying a diatonic interval, begin with the *letter names only*. That is, treat C, C-sharp, and C-flat all as *C* for the time being. Next, count the number of steps (different letters) between the two pitches in question, *counting both pitches*. This will give you the *generic interval*.
+בעת זיהוי מרווח דיאטוני (diatonic interval), התחילו עם *שמות האותיות בלבד*. כלומר, התייחסו ל-C, ל-C-דיאז ול-C-במול כאל *C* לעת עתה. לאחר מכן, ספרו את מספר הצעדים (אותיות שונות) בין שני גבהי הצליל המדוברים, *תוך ספירת שני גבהי הצליל*. כך תקבלו את *המרווח הגנרי (generic interval)*.
 
-For example, from C4 to E4, counting both C and E, there are three diatonic steps (three letter names): C, D, E. Thus, the generic interval for C4–E4 is a *third*. The same is true for any C to any E: C#4 to E4, Cb4 to E#4, etc. They are all diatonic thirds.
+לדוגמה, מ-C4 עד E4, כאשר סופרים גם את C וגם את E, ישנם שלושה צעדים דיאטוניים (diatonic steps) (שלושה שמות של אותיות): C, D, E. לכן, המרווח הגנרי עבור C4–E4 הוא *טרצה* (third). הדבר נכון לגבי כל C לכל E: מ-C#4 עד E4, מ-Cb4 עד E#4, וכו'. כולם טרצות דיאטוניות (diatonic thirds).
 
-![Three kinds of generic thirds.][thirds]
+![שלושה סוגים של טרצות גנריות (generic thirds).][thirds]
 
-Often more specificity is needed than generic intervals can provide. That specificity comes in the form of *interval quality*. And combining quality with a generic interval produces a *specific interval*.
+לעיתים קרובות נדרשת ספציפיות רבה יותר ממה שמרווחים גנריים (generic intervals) יכולים לספק. ספציפיות זו מגיעה בצורה של *איכות המרווח (interval quality)*. ושילוב של איכות עם מרווח גנרי מייצר *מרווח ספציפי (specific interval)*.
 
-There are five possible interval qualities:
+ישנן חמש איכויות מרווחים (interval qualities) אפשריות:
 
-- augmented (A)
-- major (M)
-- perfect (P)
-- minor (m)
-- diminished (d)
+- מוגדל (augmented) (A)
+- מז'ור (M)
+- זך (perfect) (P)
+- מינור (m)
+- מוקטן (diminished) (d)
 
-To obtain an interval's quality, find both the generic interval and the chromatic interval. Then consult the following table to find the specific interval. 
+כדי לקבל את איכות המרווח (interval's quality), מצאו הן את המרווח הגנרי והן את המרווח הכרומטי. לאחר מכן, עיינו בטבלה הבאה כדי למצוא את המרווח הספציפי. 
 
-[![Simple diatonic intervals.][intervalChart]][intervalChart]
+[![מרווחים דיאטוניים פשוטים.][intervalChart]][intervalChart]
 
-For example, C4–E4 is a generic third, and has a chromatic interval of i4. A third that encompasses four semitones is a *major third* (M3). Note that both generic interval and chromatic interval are necessary to find the specific interval, since there are multiple specific diatonic intervals for each generic interval and for each chromatic interval.
+לדוגמה, C4–E4 הוא טרצה גנרית (generic third), ובעל מרווח כרומטי של i4. טרצה המקיפה ארבעה חצאי טונים היא *טרצה גדולה (major third)* (M3). יש לשים לב שגם מרווח גנרי וגם מרווח כרומטי נחוצים כדי למצוא את המרווח הספציפי, מכיוון שישנם מספר מרווחים דיאטוניים ספציפיים עבור כל מרווח גנרי ועבור כל מרווח כרומטי.
 
-Note that some generic intervals can be augmented, perfect, or diminished, and other intervals can be augmented, major, minor, or diminished. There is no generic interval that can be both major/minor and perfect; if it can be major or minor, it cannot be perfect, and if it can be perfect, it cannot be major or minor. An augmented version of an interval is always one semitone wider than major or perfect; diminished is always one semitone smaller than minor or perfect.
+יש לשים לב כי חלק מהמרווחים הגנריים יכולים להיות מוגדלים, זכים או מוקטנים, ומרווחים אחרים יכולים להיות מוגדלים, גדולים (major), קטנים (minor) או מוקטנים. אין אף מרווח גנרי שיכול להיות גם גדול/קטן (major/minor) וגם זך; אם הוא יכול להיות גדול או קטן, הוא אינו יכול להיות זך, ואם הוא יכול להיות זך, הוא אינו יכול להיות גדול או קטן. גרסה מוגדלת של מרווח היא תמיד רחבה בחצי טון (semitone) אחד יותר ממרווח גדול או זך; גרסה מוקטנת היא תמיד קטנה בחצי טון אחד ממרווח קטן או זך.
 
-Solfège can also help to determine the specific interval. Each pair of solfège syllables will have the same interval, no matter what the key, as long as it is clear which syllable is the lower pitch and which is the upper pitch. Memorizing the intervals between solfège pairs can help speed along your analysis of dyads as they appear in music. For example, knowing that *do*–*mi*, *fa*–*la*, and *sol*–*ti* are always major thirds and knowing that *re*–*fa*, *mi*–*sol*, *la*–*do*, and *ti*–*re* are always minor thirds will allow for faster analysis of dyads in major keys.
+סולפז' (Solfège) יכול לעזור גם לקבוע את המרווח הספציפי. לכל זוג של הברות סולפז' יהיה אותו מרווח, ללא קשר לסולם (Key), כל עוד ברור איזו הברה היא בעלת גובה הצליל הנמוך יותר ואיזו בעלת גובה הצליל הגבוה יותר. שינון המרווחים בין זוגות סולפז' יכול לסייע בהאצת הניתוח של דיאדות כפי שהן מופיעות במוזיקה. לדוגמה, הידיעה ש-*דו*–*מי*, *פה*–*לה*, ו-*סול*–*סי* הם תמיד טרצות גדולות (Major thirds) והידיעה ש-*רה*–*פה*, *מי*–*סול*, *לה*–*דו*, ו-*סי*–*רה* הם תמיד טרצות קטנות (Minor thirds) יאפשרו ניתוח מהיר יותר של דיאדות בסולמות מז'ור (Major keys).
 
-# Compound intervals #
+# מרווחים מורכבים (Compound intervals) #
 
-The intervals discussed above, from unison to octave, are called *simple intervals*. Any interval larger than an octave is considered a *compound interval*. Take the interval C4 to E5. The generic interval is a tenth. However, it functions the same as C4 to E4 in almost all musical circumstances. Thus, the tenth C4–E5 is also called a *compound third*. A compound interval takes the same quality as the corresponding simple interval. If C4–E4 is a major third, then C4–E5 is a major tenth.
+המרווחים שנדונו לעיל, מפרימה (unison) ועד אוקטבה (octave), נקראים *מרווחים פשוטים (simple intervals)*. כל מרווח הגדול מאוקטבה נחשב ל*מרווח מורכב (compound interval)*. קחו למשל את המרווח מ-C4 ל-E5. המרווח הגנרי הוא דצימה (tenth). עם זאת, הוא מתפקד באותו אופן כמו המרווח מ-C4 ל-E4 כמעט בכל הנסיבות המוזיקליות. לכן, הדצימה C4–E5 נקראת גם *טרצה מורכבת (compound third)*. מרווח מורכב מקבל את אותה האיכות (quality) כמו המרווח הפשוט (simple interval) המתאים לו. אם C4–E4 הוא טרצה גדולה, אז C4–E5 הוא דצימה גדולה (major tenth).
 
-![Simple and compound major thirds.][compound]
+![טרצות גדולות פשוטות ומורכבות (Simple and compound major thirds).][compound]
 
-# Interval inversion #
+# היפוך מרווחים (Interval inversion) #
 
-In addition to C4–E4 and C4–E5, E4–C5 also shares a similar sound and musical function. In fact, any dyad that keeps the same two pitch classes but changes register will have a similar sound and function. However, the fact that E4–C5 has E as its lowest pitch instead of C means that it has a different generic interval: E4–C5 is a sixth, not a third. Because of that difference, it will also play a different musical function in some circumstances. However, there is no escaping the relationship.
+בנוסף ל-C4–E4 ו-C4–E5, גם E4–C5 חולק צליל ותפקוד מוזיקלי דומים. למעשה, כל דיאדה השומרת על אותן שתי מחלקות גובה (pitch classes) אך משנה רגיסטר (register) תהיה בעלת צליל ותפקוד דומים. עם זאת, העובדה של-E4–C5 יש את E כגובה הצליל הנמוך ביותר שלו במקום C פירושה שיש לו מרווח גנרי שונה: E4–C5 הוא סקסטה (sixth), לא טרצה. בשל הבדל זה, הוא ימלא גם תפקוד מוזיקלי שונה בנסיבות מסוימות. עם זאת, אין מנוס מהקשר ביניהם.
 
-Dyads formed by the same two pitch classes, but with different pitch classes on bottom and on top, are said to be *inversions* of each other, because the pitch classes are *inverted*. Likewise, the intervals marked off by those inverted dyads are said to be *inversions* of each other.
+דיאדות הנוצרות על ידי אותן שתי מחלקות גובה (Pitch classes), אך עם מחלקות גובה שונות בתחתית ובראש, נאמר עליהן שהן *היפוכים (Inversions)* זו של זו, מכיוון שמחלקות הגובה הן *הפוכות (Inverted)*. באופן דומה, על המרווחים התחומים על ידי אותן דיאדות הפוכות (Inverted dyads) נאמר שהם *היפוכים* זה של זה.
 
-Again, take C4–E4 (major third) and E4–C5 (minor sixth). These two dyads have the same two pitch classes, but one has C on bottom and E on top, while the other has E on bottom and C on top. Thus, they are inversions of each other.
+שוב, ניקח את C4–E4 (טרצה גדולה) ואת E4–C5 (סקסטה קטנה). לשתי הדיאדות (dyads) הללו יש את אותן שתי מחלקות גובה צליל, אך באחת C נמצא בתחתית ו-E בראש, בעוד שבשנייה E נמצא בתחתית ו-C בראש. לפיכך, הן היפוכים (inversions) זו של זו.
 
-![Inversion relationship: major third and minor sixth.][inversion]
+![יחסי היפוך: טרצה גדולה וסקסטה קטנה.][inversion]
 
-Three relationships exhibited by these two dyads hold for all interval inversions. 
+שלושה יחסים המופגנים על ידי שני דיאדות אלו תקפים עבור כל היפוכֵי המרווחים (interval inversions). 
 
-First, the chromatic intervals add up to 12. (C4–E4 = i4; E4–C5 = i8; i4–i8 = i12) This is because the two intervals add up to an octave (with an overlap on E4).
+ראשית, המרווחים הכרומטיים מסתכמים ב-12. (C4–E4 = i4; E4–C5 = i8; i4–i8 = i12) זאת משום ששני המרווחים מסתכמים לאוקטבה (עם חפיפה ב-E4).
 
-Second, *the two generic interval values add up to nine* (a third plus a sixth, or 3 + 6). This is because the two intervals add up to an octave, and one of the notes is counted twice when you add them together. (Remember the counterintuitive way of counting off diatonic intervals, where the number includes the starting and ending pitches, and when combining inverted intervals, there is always one note that gets counted twice—in this case, E4.)
+שנית, *שני ערכי המרווחים הגנריים מסתכמים בתשע* (טרצה ועוד סקסטה, או 3 + 6). זאת משום ששני המרווחים מסתכמים לאוקטבה, ואחד מהצלילים נספר פעמיים כאשר מחברים אותם יחד. (זכרו את הדרך הלא-אינטואיטיבית של ספירת מרווחים דיאטוניים, שבה המספר כולל את צלילי ההתחלה והסיום, וכאשר משלבים מרווחים הפוכים, תמיד יש צליל אחד שנספר פעמיים — במקרה זה, E4.)
 
-Lastly, the major interval inverts into a minor, and vice versa. This always holds for interval inversion. Likewise, an augmented interval's inversion is always diminished, and vice versa. A perfect interval's inversion is always perfect.
+לבסוף, מרווח מז'ורי (major interval) מתהפך למרווח מינורי (minor interval), ולהיפך. כלל זה תמיד תקף להיפוך מרווחים. באופן דומה, ההיפוך של מרווח מוגדל (augmented interval) הוא תמיד מרווח מוקטן (diminished interval), ולהיפך. ההיפוך של מרווח זך (perfect interval) הוא תמיד זך.
 
-> major ↔ minor  
-augmented ↔ diminished  
-perfect ↔ perfect
+> מז'ור ↔ מינור  
+מורחב ↔ מוקטן  
+מושלם ↔ מושלם
 
-Interval inversion may seem confusing and esoteric now, but it will be an incredibly important concept for the study of voice-leading and the study of harmony.
+היפוך מרווחים עשוי להיראות מבלבל ואזוטרי כעת, אך הוא יהיה מושג חשוב מאין כמוהו עבור לימודי הולכת קולות (voice-leading) ולימודי הרמוניה.
 
-# Melodic and harmonic intervals #
+# מרווחים מלודיים והרמוניים #
 
-The last distinction between interval types to note is *melodic* v. *harmonic* intervals. This distinction is simple. If the two pitches of a dyad sound at the same time (a two-note chord), the interval between them is a *harmonic interval*. If the two pitches in question are sounded back-to-back (as in a melody), the interval between them is a *melodic interval*. This distinction is important in voice-leading, where different intervals are preferred or forbidden in harmonic contexts than in melodic contexts. The difference is also important for listening, as hearing melodic and harmonic intervals of the same quality requires different techniques.
+ההבחנה האחרונה בין סוגי מרווחים שיש לציין היא בין מרווחים *מלודיים* (melodic) לבין מרווחים *הרמוניים* (harmonic). הבחנה זו פשוטה. אם שני הצלילים של דיאדה נשמעים בו-זמנית (אקורד של שני צלילים), המרווח ביניהם הוא *מרווח הרמוני* (harmonic interval). אם שני הצלילים המדוברים נשמעים זה אחר זה (כמו במלודיה), המרווח ביניהם הוא *מרווח מלודי* (melodic interval). הבחנה זו חשובה בהולכת קולות, שבה מרווחים שונים מועדפים או אסורים בהקשרים הרמוניים מאשר בהקשרים מלודיים. ההבדל חשוב גם להאזנה, שכן שמיעת מרווחים מלודיים והרמוניים בעלי אותה איכות דורשת טכניקות שונות.
 
-# Consonance and dissonance #
+# קונסוננס ודיסוננס (Consonance and dissonance) #
 
-Intervals are categorized as *consonant* or *dissonant* based on their sound (how stable, sweet, or harsh they sound), how easy they are to sing, and how they best function in a passage (beginning, middle, end; between certain other intervals; etc.). Different standards apply to melody and harmony. The following categories will be essential for your work in strict voice-leading, and they will be a helpful guide for free composition and arranging work, as well.
+מרווחים מסווגים כ*קונסוננטיים* (consonant) או *דיסוננטיים* (dissonant) על בסיס הצליל שלהם (עד כמה הם נשמעים יציבים, נעימים או צורמים), עד כמה קל לשיר אותם, וכיצד הם מתפקדים בצורה הטובה ביותר בקטע מוזיקלי (התחלה, אמצע, סוף; בין מרווחים מסוימים אחרים; וכו'). סטנדרטים שונים חלים על מלודיה ועל הרמוניה. הקטגוריות הבאות יהיו חיוניות לעבודתכם בהולכת קולות קפדנית, והן יהוו מדריך מועיל גם עבור הלחנה חופשית ועבודת עיבוד.
 
 
-## Melodic consonance and dissonance ##
+## קונסוננס ודיסוננס מלודיים ##
 
-The following *melodic* intervals are *consonant*, and can be used in strict voice-leading both for successive pitches and as boundaries of stepwise progressions in a single direction:
+המרווחים ה*מלודיים* הבאים הם *קונסוננטיים*, וניתן להשתמש בהם בהולכת קולות קפדנית (strict voice-leading) הן עבור גבהי צליל עוקבים והן כגבולות של מהלכים מדורגים (stepwise progressions) בכיוון אחד:
 
-- All perfect intervals (P4, P5, P8)  
-- All diatonic steps (M2, m2)  
-- Major and minor thirds  
-- Major and minor sixths
+- כל המרווחים המושלמים (P4, P5, P8)  
+- כל הצעדים הדיאטוניים (M2, m2)  
+- טרצות מז'ור ומינור  
+- סקסטות מז'וריות ומינוריות
 
-All other *melodic* intervals are *dissonant*, and must be avoided for successive pitches and as boundaries of stepwise progressions in a single direction, including:
+כל שאר המרווחים ה*מלודיים* הם *דיסוננטיים*, ויש להימנע מהם עבור צלילים עוקבים וכגבולות של מהלכים מדורגים בכיוון אחד, כולל:
 
-- All augmented and diminished intervals (including those that are enharmonically equivalent to consonant intervals, such as A2 and A1)  
+- כל המרווחים המוגדלים (Augmented) והמוקטנים (Diminished) (כולל אלו שהם שווי-צליל (Enharmonically equivalent) למרווחים קונסוננטיים, כגון A2 ו-A1)  
+- כל הספטאקורדים (כל הספטאקורדים)
+
+## קונסוננס ודיסוננס הרמוני ##
+
+המרווחים ה*הרמוניים* הבאים הם *קונסוננסים לא מושלמים* (imperfect consonances), וניתן להשתמש בהם בחופשיות יחסית בהולכת קולות קפדנית (למעט בהתחלות ובסיומות):
+
+- טרצות מז'ור ומינור  
+- סקסטות מז'וריות ומינוריות
+
+המרווחים ה*הרמוניים* הבאים הם *עיצורים מושלמים* (perfect consonances), ויש להשתמש בהם בזהירות בנסיבות מוגבלות בהולכת קולות קפדנית:
+
+- כל המרווחים המושלמים (Perfect intervals) *למעט הקוורטה המושלמת (Perfect fourth)* (P1, P5, P8)
+
+כל שאר המרווחים ה*הרמוניים* הם *דיסוננטיים*, ויש להשתמש בהם בדרכים ספציפיות מאוד בהולכת קולות קפדנית, כולל:
+
+- כל הצעדים הדיאטוניים (M2, m2)  
+- כל המרווחים המוגדלים והמוקטנים (כולל אלו שהם שווי-צליל למרווחים קונסוננטיים, כגון A2 ו-A1)  
 - All sevenths
-
-## Harmonic consonance and dissonance ##
-
-The following *harmonic* intervals are *imperfect consonances*, and can be used relatively freely in strict voice-leading (except for beginnings and endings):
-
-- Major and minor thirds  
-- Major and minor sixths
-
-The following *harmonic* intervals are *perfect consonances*, and must be used with care in limited circumstances in strict voice-leading:
-
-- All perfect intervals *except the perfect fourth* (P1, P5, P8)
-
-All other *harmonic* intervals are *dissonant*, and must be employed in very specific ways in strict voice-leading, including:
-
-- All diatonic steps (M2, m2)  
-- All augmented and diminished intervals (including those that are enharmonically equivalent to consonant intervals, such as A2 and A1)  
-- All sevenths
-- Perfect fourths
+- קוורטות זכות (Perfect fourths)
 
 [c4e4]: Graphics/intervals/C4E4.png 
-[thirds]: Graphics/intervals/thirds.png
-[compound]: Graphics/intervals/compound.png
-[inversion]: Graphics/intervals/inversion.png
+[טרצות (thirds)]: Graphics/intervals/thirds.png
+[מרווח מורכב (compound)]: Graphics/intervals/compound.png
+[היפוך (inversion)]: Graphics/intervals/inversion.png
 [intervalChart]: Graphics/intervals/intervalTable.png

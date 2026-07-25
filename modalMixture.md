@@ -3,24 +3,24 @@ layout: post
 title: Modal mixture
 ---
 
-*Modal mixture* (also called *modal borrowing*) refers to the use of chords belonging to a parallel key—for example, a passage in F major incorporating one or more chords from F minor. Note that, like with the use of applied chords, this does not necessarily constitute modulation. Only a cadence can confirm a new key. Without a cadence in a new key, the non-diatonic chords are simply "borrowed."
+*עירוב מודال (Modal mixture)* (המכונה גם *השאלה מודלית (modal borrowing)*) מתייחס לשימוש באקורדים השייכים לסולם מקביל — לדוגמה, קטע ב-F מז'ור המשלב אקורד אחד או יותר מ-F מינור. שימו לב שכמו בשימוש באקורדים מותאמים (applied chords), הדבר אינו מהווה בהכרח מודולציה. רק קדנצה יכולה לאשר סולם חדש. ללא קדנצה בסולם חדש, האקורדים הלא-דיאטוניים הם פשוט "מושאלים".
 
-Note that the use of the leading-tone in place of the subtonic, or a melodic-minor figure (*sol–la–ti–do*) in a minor key does *not* constitute modal mixture. Those are considered "native" to the minor mode.
-
-
-## Thoroughbass notation ##
-
-A chord borrowed from the parallel major or minor will take the same thoroughbass figure as the "native" chord. However, it will usually require a chromatic alteration (flat, natural, sharp, or slash). Be careful to account for abbreviated figures: a 4/3 figure, for example, is short for 6/4/3. If the sixth above the bass is altered, that needs to be included in the figure (just like in a French augmented sixth chord, or a **V<sup>4/3</sup>** in minor).
-
-## Functional bass notation ##
-
-Chords borrowed from parallel keys are chromatically altered chords, and therefore their functional bass symbols should be enclosed in square brackets. For example, if an **S4** chord in major is borrowed from the parallel minor (*fa–le–do* instead of *fa–la–do*), the functional bass symbol is **\[S4\]** not **S4**. If the bass note is not altered, this is the only change to the functional bass (but be sure to alter the thoroughbass figure as well).
-
-If the bass note is chromatically altered, that must be reflected in the functional bass with a plus or minus before the numeral (as well as the square brackets). For example, if a passage in a major key incorporates a 5/3 chord over *le* (*le–do–me* instead of *la–do–mi*), the functional bass is **\[Tx–6\]**.
+שימו לב כי השימוש בצליל המוביל (leading-tone) במקום בסובטוניק (subtonic), או מהלכים בסולם מינור מלודי (*sol–la–ti–do*) בסולם מינור אינו מהווה עירוב מודאלי (modal mixture). אלו נחשבים "טבעיים" (native) למודוס המינורי.
 
 
-## Roman numeral notation ##
+## סימון באס מספר (Thoroughbass notation) ##
 
-When the root of a borrowed chord belongs to the home key (e.g., using an E-minor chord instead of an E-major chord), the Roman numeral remains the same, since the Roman numeral simply represents the scale-degree of the chordal root. If chord quality is reflected in the Roman numeral, then adjustments must be made to ensure that the borrowed chord's quality is reflected. For example, if a piece in minor ends with a *Picardy third* (a major tonic triad), the Roman numeral is **I** instead of **i**. (The thoroughbass will also be altered to reflect the chromatic change.)
+אקורד שאושאל מהמז'ור או המינור המקבילים יקבל את אותו סימון בס باس עמוק / תזת בס (thoroughbass) כמו האקורד "המקורי". עם זאת, הוא ידרוש בדרך כלל שינוי כרומטי (במול, בקר, דיאז או לוכסן). היזהרו להתייחס לסימונים מکوצצים (abbreviated figures): סימון 4/3, לדוגמה, הוא קיצור של 6/4/3. אם הצליל השישי מעל הבס עובר שינוי כרומטי, יש לכלול זאת בסימון (בדיוק כמו באקורד שישי מוגדל צרפתי, או **V<sup>4/3</sup>** במינור).
 
-If the root is altered relative to the home key, use a flat or sharp in front of the Roman numeral to designate the alteration: flat to designate *lowered* (that is, a semitone below normal), sharp to designate *raised* (a semitone above normal). For example, a *le–do–me* chord in a major key is **bVI**. (Again, alter the thoroughbass as necessary.)
+## סימון בס פונקציונלי (Functional bass notation) ##
+
+אקורדים המושאלים מסולמות מקבילים (parallel keys) הם אקורדים משתנים כרומטית (chromatically altered chords), ולכן סמלי הבס הפונקציונליים שלהם צריכים להיות נתונים בסוגריים מרובעים. לדוגמה, אם אקורד **S4** בסולם מז'ור ממושאל מהמינור המקביל (*fa–le–do* במקום *fa–la–do*), סמל הבס הפונקציונלי הוא **\[S4\]** ולא **S4**. אם תו הבס אינו מנומך מחדש, זהו השינוי היחיד בסמלי הבס הפונקציונלי (אך יש להקפיד לשנות בהתאם גם את סימון הבס הממוספר (thoroughbass figure)).
+
+אם תוצא הבס משתנה באופן כרומטי, הדבר חייב לבוא לידי ביטוי בבס הפונקציונלי (functional bass) באמצעות סימן פלוס או מינוס לפני הספרה הרומית (בנוסף לסוגריים המרובעים). לדוגמה, אם קטע בסולם מז'ור משלב אקורד חמש-שלוש על *le* (כלומר *le–do–me* במקום *la–do–mi*), הבס הפונקציונלי הוא **\[Tx–6\]**.
+
+
+## סימון ספרות רומיות (Roman numeral notation) ##
+
+כאשר שורש של אקורד מושאל (borrowed chord) שייך לסמת הבסיס (home key) (לדוגמה, שימוש באקורד E מינור במקום אקורד E מז'ור), הספרה הרומית נשארת ללא שינוי, כיוון שהספרה הרומית מייצגת פשוט את דרגת הסולם (scale-degree) של שורש האקורד. אם איכות האקורד (chord quality) באה לידי ביטוי בספרה הרומית, אזי יש לבצע התאמות כדי להבטיח שאיכותו של האקורד המושאל תשתקף. לדוגמה, אם יצירה בסולם מינור מסתיימת ב-*טרצה פיקרדית* (*Picardy third* - טריאדת טוניקה מז'ור), הספרה הרומית היא **I** במקום **i**. (גם הבאס הממוספר [תורבס, thoroughbass] ישונה כדי לשקף את השינוי הכרומטי.)
+
+אם השורש מנומך או מוגבה יחסית לסולם הבסיס, השתמש בסימן במול או דיאז לפני הספרה הרומית כדי לציין את השינוי: במול לציון *הנמכה* (כלומר, חצי טון מתחת לרגיל), דיאז לציון *הגבהה* (חצי טון מעל הרגיל). לדוגמה, אקורד *le–do–me* בסולם מז'ור מסומן כ-**bVI**. (שוב, שנה את הבס הממוספר [thoroughbass] לפי הצורך.)

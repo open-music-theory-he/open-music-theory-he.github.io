@@ -3,16 +3,16 @@ layout: post
 title: Set Class and Prime Form (2)
 ---
 
-_Analytically_, the concept of set class is useful because it can show coherence in a composition. Bartók's "[Subject and Reflection][1]," for example, uses the (02357) set class nearly exclusively—though it appears in many transpositions and inversions.
+_אנליטית_ (Analytically), המושג מחלקת קבוצות (set class) שימושי משום שהוא יכול להראות עקביות ביצירה. "[נושא והשתקפות][1]" ("[Subject and Reflection][1]") מאת בארטוק (Bartók), לדוגמה, עושה שימוש במחלקת הקבוצות (02357) כמעט באופן בלעדי — אף שהיא מופיעה בטרנספוזיציות ובהיפוכים רבים.
 
-_Theoretically_, the concept is useful because it provides a prism through which we can begin to study the _possibilities_ provided to us by the twelve pitch-class universe. For almost 500 years, composers mostly used only a small subset of those possibilities (triads, seventh chords, and so forth). Set class lists reveals all of the other possibilities. They also give us hints as to why tonal composers used only a small portion of them and suggest entire worlds organized through other means. Fortunately for us, we don't need to create such a list because many others have! A particularly good list is found [here][2], and I'll give you another to keep in class.
+_תיאורטית_ (_Theoretically_), המושג שימושי משום שהוא מספק פריזמה שדרכה אנו יכולים להתחיל ללמוד את ה-_אפשרויות_ (_possibilities_) הניתנות לנו על ידי היקום של מחלקות גובהי הצליל (pitch-class universe) בני שתים-עשרה הצלילים. במשך קרוב ל-500 שנה, מלחינים השתמשו לרוב רק בתת-קבוצה קטנה של אפשרויות אלו (אקורדים משולשים [triads], אקורדי שבע [seventh chords] וכן הלאה). רשימות מחלקות קבוצה (set class lists) חושפות את כל האפשרויות האחרות. הן גם מעניקות לנו רמזים לגבי הסיבה שבגללה מלחינים טונאליים הששתמשו רק בחלק קטן מהן ומציעות עולמות שלמים המאורגנים באמצעים אחרים. לשמחתנו, איננו צריכים ליצור רשימה כזו מכיוון שרבים אחרים כבר עשו זאת! רשימה טובה במיוחד נמצאة [כאן][2], ואתן לכם רשימה נוספת לשמור בכיתה.
 
-Most of these set-class lists are organized similarly. Set classes that have the same number of notes in them (we say that they have the same "cardinality") are grouped together: trichords (three-note pitch-class sets) sit together, as do nonachords (nine-note pitch-class sets), and so on. 
+רוב רשימות מחלקות-קבוצות (set-class) אלו מאורגנות באופן דומה. מחלקות קבוצות בעלות אותו מספר צלילים (אנו אומרים שיש להן אותה "קרדינליות" [cardinality]) מובצות יחד: טריכורדים (Trichords - קבוצות צלילים בנות שלושה צלילים) נמצאים יחד, וכך גם נונאכורדים (Nonachords - קבוצות צלילים בנות תשעה צלילים), וכן הלאה. 
 
 [![](Graphics/postTonal/trichordsAndNonachords.png)](Graphics/postTonal/trichordsAndNonachords.png)
 
-Prime form for each set class is show in parenthesis. The "Forte Number" (3-1, 9-1, etc.), often adjacent to the prime form, was given to each set class by the famous music theorist [Allen Forte][4], who was one of the first to describe the set class list.
+צורת היסוד (Prime form) עבור כל מחלקת קבוצה מוצגת בסוגריים. "מספר פורטה" (Forte Number) (כגון 3-1, 9-1 וכו'), הנמצא לרוב בסמוך לצورת היסוד, הוענק לכל מחלקת קבוצה על ידי תאורטיקן המוזיקה המפורסם [אלן פורטה][4] (Allen Forte), שהיה בין הראשונים שתארו את רשימת מחלקות הקבוצה (set class list).
 
-## Interval Class Vector##
+## וקטור מחלקות מרווחים (Interval Class Vector)##
 
-The interval class vector next to each set class's prime form is particularly valuable. Think of it as a numeric representation of the "intervallic flavor" of each set class. IC vectors have six places <_ _ _ _ _ _> that are placeholders for interval classes 1–6. If a set class has a single interval class 1, it will have the digit 1 in the interval class vectors first placeholder. The IC vector <001110>, for example describes a trichord with 1 interval class 3, 1 interval class 4, and 1 interval class 5; that is, the major or minor triad, set class (037)!
+וקטור מחלקות המרווחים (interval class vector) שצמוד לצורה הראשונית (prime form) של כל מחלקת קבוצה הוא בעל ערך רב במיוחד. חשבו ע عليه כעל ייצוג מספרי של "הטעם המרווחי" של כל מחלקת קבוצה. לווקטורי IC יש שישה מקומות <_ _ _ _ _ _> המשמשים כממלאי מקום עבור מחלקות המרווחים 1–6. אם למחלקת קבוצה יש מחלקת מרווח 1 יחידה, תופיע בה הספרה 1 במקום הראשון של וקטור מחלקת המרווחים. וקטור ה-IC <001110>, לדוגמה, מתאר טריקורד (trichord) עם מחלקת מרווח 3 אחת, מחלקת מרווח 4 אחת, ומחלקת מרווח 5 אחת; כלומר, המשלש (triad) המז'ור או המינור, מחלקת הקבוצה (037)!

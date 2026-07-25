@@ -6,265 +6,265 @@ title: Form in pop/rock music
 {{ page.title }}
 ================
 
-This document is a glossary of terms and concepts that we will use in our analysis of pop/rock music. Terms, concepts, definitions, and notational guidelines in this document are taken either from common convention; the published or unpublished work of Jason Summach, John Covach, Walter Everett, Mark Spicer, or Daniel Harrison; or some combination thereof.
+מסמך זה הוא מילון מונחים ומושגים שבהם נשתמש בניתוח של מוזיקת פופ/רוק. מונחים, מושגים, הגדרות והנחיות סימון במסמך זה לקוחים إما ממוסכמות מקובלות; מעבודתם המפורסמת או הבלתי מפורסמת של ג'ייסון סומך (Jason Summach), ג'ון קובאץ' (John Covach), וולטר אוורט (Walter Everett), מארק ספייסר (Mark Spicer), או דניאל האריсон (Daniel Harrison); או משילוב כלשהו שלהן.
 
-I. Text
+I. טקסט
 -------
 
 #### Line
 
-A group of poetic feet. If the line is part of rhyming poetry, the last syllable/foot participates in a rhyme with another line. (Internal rhyme is also possible.)
+קבוצה של רגליים פואטיות (poetic feet). אם השורה היא חלק משירה חורזת, הברה/רגל הסיום משתתפת בחריזה עם שורה אחרת. (חריזה פנימית אפשרית גם כן.)
 
-#### Couplet
+#### בית (Couplet)
 
-A pair of lines. If poetry is rhyming, the two lines making up a couplet typically rhyme with each other. They may also participate in a larger rhyme scheme (see quatrain below).
+זוג שורות (A pair of lines). אם השירה חורזת, שתי השורות המרכיבות צמד שורות (couplet) חורזות זו עם זו בדרך כלל. הן עשויות גם להשתתף במבנה חריזה (rhyme scheme) גדול יותר (ראו בית ארבע שורות (quatrain) להלן).
 
-#### Quatrain
+#### בית בן ארבע שורות (Quatrain)
 
-A pair of couplets (i.e., four lines). Common quatrain rhyme schemes are *aabb*, *abab*, *abcb*.
+זוג חרוזים (כלומר, ארבע שורות). מתווה חריזה נפוץ בבית בן ארבע שורות הוא *aabb*, *abab*, *abcb*.
 
-#### Stanza
+#### בית (Stanza)
 
-A set of poetic lines that work together as a single narrative unit. Typically one or more quatrains (i.e., total number of lines are a multiple of four).
+סט של שורות פואטיות הפועלות יחד כיחידת נפרטיב יחידה (narrative unit). בדרך כלל בית בן ארבע שורות אחד או יותר (כלומר, המספר הכולל של השורות הוא כפולה של ארבע).
 
-II. Formal Containers
+II. מכלים פורמליים (Formal Containers)
 ---------------------
 
-#### Phrase
+#### חטיבה מוזיקלית (Phrase)
 
-A phrase is a musical unit that typically lasts for four bars and includes one line of poetry for its lyrical content. Phrases are designated by lower-case letters.
+פראזה היא יחידה מוזיקלית הנמשכת בדרך כלל ארבע תיבות וכוללת שורת שירה אחת בתוכן הלירי שלה. פראזות מסומנות באותיות קטנות.
 
-#### Module
+#### מודול (Module)
 
-A *module* typically spans between 8 and 24 bars and includes 2–4 phrases. (Some auxiliary modules may contain a single phrase.) A module presents a single function (such as A, B, C, V, P, etc.) and presents a complete 2-, 3-, or 4-part pattern (see below). Modules typically set a stanza of lyrics (though occasionally a couplet). Modules are designated by upper-case letters according to function. 
+*מודול* (module) משתרע בדרך כלל בין 8 ל-24 תיבות וכולל 2–4 משפטים. (מודולים עזר מסוימים עשויים לכלול משפט יחיד.) מודול מציג פונקציה יחידה (כגון A, B, C, V, P וכו') ומציג תבנית מלאה בת 2, 3 או 4 חלקים (ראו להלן). מודולים מגדירים בדרך כלל בית מילים (stanza) (אם כי לעתים קרובות יותר צמד שורות [couplet]). מודולים מסומנים באותיות גדולות לפי הפונקציה שלהם. 
 
-Module boundaries are also usually made apparent by poetic structure (end of a group of rhyming lines—couplet or stanza) or surface features of the song (clear rhythmic, harmonic, and melodic arrival; change in instrumentation or volume; return to beginning of a previously heard module; etc.).
+גבולות המודול (Module boundaries) מובהקים לרוב גם על ידי מבנה פואטי (סיום של קבוצת שורות חורזות — צמד שורות או בית) או מאפייני שטח של השיר (הגעה קצבית, הרמונית ומלודית ברורה; שינוי בתזמור או בעוצמה; חזרה לתחילתו של מודול שנשמע קודם לכן; וכדומה).
 
-All module definitions are based on Jason Summach's (2012) dissertation, "Form in Top-20 Rock Music, 1955–89."
+כל הגדרות המודולים מבוססות על עבודת הדוקטורט של ג'ייסון סומך, "צורה במוזיקת רוק בצמרת ה-20, 1955–89" ("Form in Top-20 Rock Music, 1955–89").
 
-#### Primary module
+#### מודול ראשי (Primary module)
 
-"A module that contains a song’s principal materials" (Summach, p. 322), such as the title text or the most memorable or climactic music. Primary modules exhibit strophe function (A) or chorus function (C). Formal cycles always end with the primary module for the song type (Summach, p. 50).
+מודול המכיל את החומרים המרכזיים של השיר (Summach, עמ' 322), כגון טקסט הכותרת או המוזיקה הזכירה או השיאית ביותר. מודולים ראשוניים (Primary modules) מפגינים תפקוד סטרופה (strophe function) (A) או תפקוד פזמון (chorus function) (C). מחזורים צורניים (Formal cycles) מסתיימים תמיד במודול הראשי (primary module) עבור סוג השיר (Summach, עמ' 50).
 
-#### Secondary module
+#### מודול משני (Secondary module)
 
-"A core module that directs attention towards or provides relief from the song’s primary modules” (Sumach, p. 322). Secondary modules exhibit bridge function (B), verse function (V), prechorus function (P), or postchorus function (Z).
+"מודול ליבה המפנה את הקשב לעבר או מספק הקלה מהמודולים העיקריים של השיר" (Sumach, עמ' 322). מודולים משניים מפגינים פונקציית גשר (bridge function) (B), פונקציית בית (verse function) (V), פונקציית טרום-פזמון (prechorus function) (P), או פונקציית פוסט-פזמון (postchorus function) (Z).
 
-#### Core module
+#### מודול ליבה (Core module)
 
-Any primary or secondary module (Summach, p. 321).
+כל מודול ראשי או משני (Summach, p. 321).
 
-#### Auxiliary module
+#### מודול עזר (Auxiliary module)
 
-A non-core module, such as I, J, O, or X (Summach, p. 321).
+מורה שאינו ליבה (non-core module), כגון I, J, O או X.
 
-#### Cycle
+#### מחזור (Cycle)
 
-"The characteristic succession of modules in a song form, ending with the song’s primary module type” (Summach, p. 321). A cycle contains one or more modules, always in the same order (though sometimes with one or more modules omitted, especially toward the end of a song). A strophic song’s cycle is {A}. A 32-bar song’s cycle is {AABA}. A verse-chorus song’s cycle is typically {VC} or {VPC}. Curly brackets {} are used to refer to cycles (to differentiate them from names of song form types).
+"ההتابعة האופיינית של מודולים במבנה שיר, המتهיימת בסוג המודול העיקרי של השיר" (Summach, עמ' 321). מחזור (cycle) מכיל מודול אחד או יותר, תמיד באותו סדר (אם כי לעיתים קרובות עם השמטה של מודול אחד או יותר, במיוחד לקראת סוף השיר). המחזור של שיר סטרופי (strophic song) הוא {A}. המחזור של שיר בן 32 תיבות (32-bar song) הוא {AABA}. המחזור של שיר בית-פזמון (verse-chorus song) הוא בדרך כלל {VC} או {VPC}. סוגריים מסולסלים {} משמשים לציון מחזורים (כדי להבחין ביניהם לבין שמות של סוגי מבני שירים).
 
-III. Formal functions
+III. פונקציות צורניות (Formal functions)
 ---------------------
 
-### Functions for Primary Modules
+### פונקציות עבור מודולים ראשיים (Primary Modules)
 
-#### Strophe (A)
+#### סטרופה (Strophe) (A)
 
-The primary function of a strophe module is “to present the primary lyric and musical content and to provide a point at which the song might satisfyingly end” (Summach, p. 58). 
+התפקיד העיקרי של מודול סטרופה (strophe module) הוא "להציג את התוכן הלירי והמוזיקלי המרכזי ולספק נקודה שבה השיר יכול להסתיים באופן מספק" (Summach, p. 58). 
 
-In strophic form (AAA), strophes are the only core modules, and thus do not participate in a functional progression. Functional progression takes place on the phrase level within the strophe. The strophe modules themselves tend to set a stanza of text each with music that is self-contained and harmonically closed. 
+במבנה סטרופי (AAA), הסטרופות הן המודולים הליבתיים היחידים, ולכן אינן לוקחות חלק במהלך פונקציונלי (functional progression). מהלך פונקציונלי מתרחש ברמת התיבה (phrase level) בתוך הסטרופה. מודולי הסטרופה עצמם נוטים להלביש בית טקסט (stanza of text) כל אחד, במוזיקה שהיא עצמאית (self-contained) וסגורה הרמונית. 
 
-In 32-bar form (AABA), the strophe’s function as holding the *primary* text and music, and its function as being a stable point of departure and return, are elevated through contrast with the bridge module. In AABA songs, strophe function often involves the prolongation of tonic harmony. Strophes tend to be longer in strophic songs than in AABA songs (typically eight bars). In both forms, *srdc* is by far the most common internal pattern for strophes. For three-part strophes, the 12-bar blues progression is the most common pattern.
+במבנה 32 תיבות (AABA), תפקידה של הסטרופה כנושאת הטקסט והמוזיקה ה*ראשיים* (primary), ותפקידה כנקודת מוצא וחזרה יציבה, מועצמים באמצעות ניגודיות מול מודול הגשר (bridge). בשירים במבנה AABA, תפקיד הסטרופה כרוך לרוב בהארכה של הרמוניית הטוניקה (prolongation of tonic harmony). סטרופות נוטות להיות ארוכות יותר בשירים סטרופיים מאשר בשירים במבנה AABA (בדרך כלל שמונה תיבות). בשצורה משני המבנים, *srdc* הוא בפער ניכר התבנית הפנימית הנפוצה ביותר עבור סטרופות. עבור סטרופות תלת-חלקיות, מהלכי הבלז בן 12 התיבות הוא התבנית הנפוצה ביותר.
 
-#### Chorus (C)
+#### פזמון (Chorus) (C)
 
-Chorus modules are lyric invariant and contain the primary lyrical material of the song. Chorus function is also typified by heightened musical intensity relative to the verse, including features like “a more dense or active instrumental texture; prominent background vocals; and/or a higher register melody” (Summach, p. 106). Choruses most frequently (but not exclusively) begin on-tonic. 
+מודולי הפזמון הם אינווריאנטים מבחינה לירית (lyric invariant) ומכילים את החומר הלירי העיקרי של השיר. תפקוד הפזמון מאופיין גם בעוצמה מוזיקלית מוגברת ביחס לבית (verse), הכוללת מאפיינים כמו "מרקם אינסטרומנטלי צפוף או פעיל יותר; קולות רקע בולטים; ו/או מלודיה ברגستر גבוה יותר" (Summach, p. 106). פזמונים מתחילים בתדירות גבוהה ביותר (אך לא באופן בלעדי) על הטוניקה (on-tonic). 
 
-Chorus modules are distinct from refrains primarily by virtue of their being modules in and of themselves, where refrains are contained within a module.
+מודולים של פזמون (Chorus modules) נבדלים מבתים חוזרים (refrains) בעיקר בשל היותם מודולים בפני עצמם, בעוד שבתים חוזרים כלולים בתוך מודול.
 
-### Functions for Secondary Modules
+### פונקציות עבור מודולים משניים (Secondary Modules)
 
-#### Bridge (B)
+#### גשר (Bridge)
 
-Bridge function shares many traits with the continuation function of classical form. Bridge modules tend to play a transitional role (neither the point from which to depart, nor the point of arrival) in the formal cycle, generating high expectation for the return of the primary module (A or C) by contrasting with it and temporarily withholding it. A bridge module “must be followed by [the primary module] in order for its function to be satisfied” (Summach, p. 79), though it is possible for a bridge module in VC form to lead into a final verse module. Bridge modules tend to emphasize non-tonic harmonies and commonly end on dominant harmony. Bridges typically exhibit a two-part structure. 
+תפקוד הגשר חולק מאפיינים רבים עם תפקוד ההמשך (continuation function) בצורה הקלאסית. יחידות גשר נוטות למלא תפקיד מעברי (אינן נקודת המוצא וגם לא נקודת ההגעה) במחזור הצורני, תוך יצירת ציפייה גבוהה לחזרתה של היחידה הראשונית (A או C) באמצעות יצירת ניגודיות אליה ומניעתה הזמנית. יחידת גשר "חייבת להיות מלווה ב[יחידה הראשונית] על מנת שתפקוד יתממש" (Summach, עמ' 79), אם כי עבור יחידת גשר במבנה VC (verse-chorus) מתאפשר להוביל אל יחידת בית סופית. יחידות גשר נוטות להדגיש הרמוניות שאינן טוניקה ובדרך כלל מסתיימות בהרמוניה דומיננטית. גשרים מציגים טיפוסיות של מבנה דו-חלקי. 
 
-In VC songs, bridge modules are more free to contrast verse and chorus modules without a strong need to build expectation for the return of the chorus than in AABA form. In an AABA song, building expectation for the return of the strophe and arriving on dominant harmony in preparation of that return are essential to bridge function.
+בשירים במבנה VC (Verse-Chorus), מודולי גשר (bridge modules) חופשיים יותר ליצור ניגודיות מול מודולי בית ופזמון (chorus), ללא צורך חזק לבנות ציפייה לחזרתו של הפזמון, בהשוואה למבנה AABA. בשיר במבנה AABA, בניית הציפייה לחזרתה של הסטרופה (strophe) והגעה להרמוניה דומיнанטית (dominant harmony) כהכנה לחזרה זו חיוניות לתפקוד הגשר.
 
-#### Verse (V)
+#### בית (Verse - V)
 
-Verse modules are lyric variant and contain lyrics that supply “narrative or emotional context” to the chorus text (Summach, p. 106). Until the 1960s, verse modules tended to be harmonically closed. Beginning in the 1960s, verse modules became more and more likely to be harmonically open (Summach, p. 114). Verses (like strophes) tend to begin on-tonic. 
+מודולי הבתים (Verse modules) הם וריאנטים של מילים ומכילים מילים המספקות "הקשר סיפורי או רגשי" לטקסט הפזמון (Summach, עמ' 106). עד שנות ה-60, מודולי הבתים נוטים היו להיות סגורים מבחינה הרמונית (harmonically closed). החל משנות ה-60, מודולי הבתים נעשו סבירים יותר ויותר להיות פתוחים מבחינה הרמונית (harmonically open) (Summach, עמ' 114). בתesים (כמו סטרופות) נוטים להתחיל על הטוניקה. 
 
-Verse modules tend to have two-part internal structures (unlike strophes).
+ממודולי הבתים יש מבנה פנימי דו-חלקי ( בניגוד לחרוזות (strophes)).
 
-#### Prechorus (P)
+#### טרום-פזמון (Prechorus) (P)
 
-Prechorus function is most significantly typified in energy gain. Prechorus modules originate historically in the *d* (departure) section of an *srdc* pattern. (Think of an *srdc* strophe becoming longer until *sr* forms its own two-part verse module (or two successive verse modules), *d* forms its own prechorus module, and *c* forms its own chorus module.) As a result, prechorus modules bear many of the functional characteristics of *d*—fragmentation, acceleration of harmonic rhythm, and movement away from tonic harmony—and harmonic openness.
+תפקיד הפרה-קורוס (Prechorus function) בא לידי ביטוי מובהק ביותר בעליית אנרגיה. יחידות פרה-קורוס (Prechorus modules) נובעות מבחינה היסטורית מחלק ה-*d* (יציאה/Departure) של תבנית *srdc*. (חשבו על סטרופה בתבנית *srdc* ההופכת ארוכה יותר עד ש-*sr* מהווה יחידת בית דו-חלקית משל עצמה (או שתי יחידות בית עוקבות), *d* מהווה יחידת פרה-קורוס משל עצמה, ו-*c* מהווה יחידת פזמון משל עצמה.) כתוצאה מכך, יחידות פרה-קורוס נושאות רבות מן התכונות התפקודיות של *d* — פרגמנטציה (fragmentation), האצה של הקצב ההרמוני (acceleration of harmonic rhythm), תנועה הרחק מההרמוניה הטונית (tonic harmony), ופתיחות הרמונית (harmonic openness).
 
-#### Postchorus (Z)
+#### פוסט-פזמון (Postchorus) (Z)
 
-A short module that follows a chorus and serves only to close the cycle (not to introduce or transition to the beginning of the next cycle) has postchorus function (Mark Spicer 2011, par. 9).
+מודול קצר העוקב אחר פזמון ומשמש אך ורק לסגירת המחזור (לא להצגה או למעבר לתחילת המחזור הבא) הוא בעל תפקוד פוסט-פזמון (Mark Spicer 2011, par. 9).
 
-### Functions for Auxiliary Modules
+### פונקציות עבור מודולים עזר (Auxiliary Modules)
 
-#### Introduction & mid-song introduction (I)
+#### מבוא ומבוא באמצע השיר (Introduction & mid-song introduction) (I)
 
-Introductions tend to be short and untexted (i.e., instrumental) and tend to present musical material from one or more core modules to come. Introduction modules transition from the unmetered silence that precede the song to the musical activity of the first core module. This is often accomplished by the introduction of musical material in layers (e.g., one instrument at a time) or a more generic building of energy. Occasionally intros are incorporated that include non-core material. Such intros often correspond to an outro based on the same material, and together they create a “bookend” effect. 
+מבואות נוטים להיות קצרים וללא טקסט (כלומר, אינסטרומנטליים) ונוטים להציג חומר מוזיקלי מתוך מודול ליבה מרכזי אחד או יותר שעתידים להופיע. מודולי מבוא יוצרים מעבר מהדממה חסרת המטר (unmetered silence) המקדימה את השיר אל הפעילות המוזיקלית של מודול הליבה הראשון. הדבר מושג לרוב על ידי הצגת חומר מוזיקלי בשכבות (למשל, כלי אחד בכל פעם) או בניית אנרגיה כללית יותר. לעיתים נדירות משולבים מבואות הכוללים חומר שאינו שייך לליבה. מבואות כאלה תואמים לעיתים קרובות לקודה (outro) המבוססת על אותו החומר, ויחד הם יוצרים אפקט של "תומכי ספרים" (bookend). 
 
-Multiple intro modules in a row based on different music are possible, and that option is more likely than to have no intro. Such a succession of intros would be labeled I1, I2, etc. 
+ניתן לשלב מספר מודולים של מבוא (intro modules) ברצף המתבססים על מוזיקה שונה, ואפשרשרות זו סבירה יותר מאשר חוסר במבוא כלל. רצף כזה של מבואות יסומן כ-I1, I2 וכן הלאה. 
 
-Mid-song intros function similarly, but in the middle of the song. They introduce the first module in the formal cycle.
+מבואות אמצע-שיר (Mid-song intros) מתפקדים באופן דומה, אך באמצע השיר. הם מציגים את המודול הראשון במחזור הצורני (formal cycle).
 
-#### Outro (O)
+#### אאוטרו (Outro)
 
-Outros function as a transition from song back to silence, and thus decrease energy. Often this is accomplished in the recording studio by way of a fadeout. (Even more often, no outro module is present, and the final core module brings the song to a close.) When an outro module is present, it is almost always based on material from the last core module that preceded it. Non-core outros tend to draw material from a non-core intro (the above “bookend” effect). “Rock songs almost always end with material that has been heard earlier in the song: either a core module, a core-based auxiliary module, or a reprise of the introduction” (Summach, p. 47). Outros exhibit closing rhetoric (see below).
+אאוטרו מתפקד כמעבר מהשיר בחזרה אל השקט, וכך הוא מפחית אנרגיה. לעיתים קרובות הדבר מתבצע באולפן ההקלטות באמצעות דעיכה החוצה (fadeout). (אפילו לעיתים קרובות יותר, אין מודול אאוטרו נוכח, והמודול המרכזי האחרון מביא את השיר לידי סיום.) כאשר מודול אאוטרו נוכח, הוא מבוסס כמעט תמיד על חומר מן המודול המרכזי האחרון שקדّم לו. אאוטרו שאינו מרכזי נוטים לשאוב חומר ממבוא שאינו מרכזי (אפקט ה"מסגרת" או ה-"bookend" המוזכר לעיל). "שירי רוק מסתיימים כמעט תמיד בחומר שנשמע קודם לכן בשיר: או מודול מרכזי, מודול עזר מבוסס-ליבה, או רפריזה (reprise) של המבוא" (Summach, עמ' 47). אאוטרו (outros) מפגינים רטוריקה סוגרת (ראו להלן).
 
-#### Coda (X)
+#### קודה (Coda)
 
-A coda is a “song-ending module that presents new material” (Summach, p. 47)—in other words, an outro not based on music previously heard. Like outros, codas exhibit closing rhetoric (see below).
+קודה (coda) היא "מודול סיום שיר המציג חומר חדש" (Summach, p. 47) – במילים אחרות, אאוטרו שאינו מבוסס על מוзыка שנשמעה קודם לכן. בדומה לאאוטros, קודות מציגות רטוריקת סיום (closing rhetoric) (ראו להלן).
 
-#### Janus module (J)
+#### מודול יאנוס (Janus module)
 
-A transitional passage that closes a preceding module and simultaneously introduces the next module is called a Janus module (a term Summach coined based on the name of the Roman god who simultaneously looks both backward and forward). Janus modules typically overlap with or elide the ending of the preceding module. J modules often function like mid-song introductions (with the added overlap/elision with the previous module).
+קטע מעبֵר (transitional passage) הסוגר מודול קודם ובו זמנית מציג את המודול הבא נקרא מודול יאנוס (מונח שסומאך טבע על שמו של האל הרומי המביט בו זמנית לאחור וקדימה). מודול יאנוס חופפים בדרך כלל את סיומו של המודול הקודם או ממיטים (elide) אותו. מודولي J מתפקדים לעתים קרובות כמו מבואות אמצע-שיר (עם החפיפה/המיטה הנוספת עם המודול הקודם).
 
-#### Closing rhetoric
+#### רטוריקה סוגרת (Closing rhetoric)
 
-Closing rhetoric involves common patterns and techniques that signal that the end of the song is likely coming soon. Typical patterns and techniques include immediate repetition of a core module (except for the first core module) or part of a core module, thinning out of the texture, late-song intensification, fadeout, and bringing a previously harmonically open module to a point of harmonic closure. Closing rhetoric is typically found in outros, codas, and (most commonly) the last core module of a song.
+רטוריקת סיום כוללת דפוסים וטכניקות נפוצים המאותתים שסוף השיר צפוי להגיע בקרוב. דפוסים וטכניקות טיפוסיים כוללים חזרה מיידית על מודול מרכזי (core module) (למעט המודול המרכזי הראשון) או חלק ממודול מרכזי, דילול של המרקם (texture), העצמה בסוף השיר (late-song intensification), דעיכה, והבאת מודול שהיה פתוח מבחינה הרמונית (harmonically open module) לנקודה של סגירה הרמונית (harmonic closure). רטוריקת סיום נמצאת בדרך כלל באוטרו, בקודה, וב(לרוב) המודול המרכזי האחרון של השיר.
 
-Functions for Standout Passages Within Modules
+פונקציות עבור קטעים בולטים בתוך מודולים (Functions for Standout Passages Within Modules)
 ----------------------------------------------
 
-#### Refrain
+#### פזמון (Refrain)
 
-“A lyric-invariant passage within a module that is otherwise lyric-variant” (Summach, p. 322). Like a climb (below), a refrain is too short to form its own module—typically a phrase or less. A refrain is most often the last line or so of a module’s text (*tail refrain*), and occasionally the material at the beginning of a module’s text (*head refrain*).
+”קטע שבו הטקסט אינו משתנה בתוך מודול שבו הטקסט משתנה בדרך כלל” (Summach, עמ' 322). בדומה לטיפוס (climb, להלן), פזמון חוזר (refrain) קצר מכדי ליצור מודול משלו — בדרך כלל משפט (phrase) אחד או פחות מכך. פזמון חוזר הוא לרוב השורה האחרונה פחות או יותר של טקסט המודול (*פזמון חוזר זנבי* [tail refrain]), ולעיתים רחוקות החומר שבתחילת טקסט המודול (*פזמון חוזר ראשי* [head refrain]).
 
-#### Climb
+#### קלימב (Climb)
 
-“A phrase with prechorus function, but of insufficient length to detach from the verse as a separate module” (Summach, p. 321). Always the last phrase of a verse module.
+"משפט בעל תפקוד טרום-פזמון (pre-chorus), אך באורך שאינו מספיק כדי להתנתק מהבית כיחידה נפרדת" (Summach, עמ' 321). תמיד המשפט האחרון ביחידת הבית (verse module).
 
-IV. Song-level structures
+IV. מבנים ברמת השיר (Song-level structures)
 -------------------------
 
-#### Strophic form (AAA)
+#### בבואה סטרופית (Strophic form) (AAA)
 
-A song form containing three or more formal cycles, where the formal cycle is {A}—that is, a single module exhibiting the function of a strophe. Auxiliary modules may also be present (I, O, J, or X). Strophic form is more common in early rock-and-roll (1950s–1960s) than in the 1970s and beyond. In Christian worship music, the influence of hymnody makes strophic form more common in contemporary music than in popular music (prominent examples include Keith & Kristyn Getty, Stuart Townend, and Bob Kauflin).
+מבנה שיר המכיל ثلاثة מחזורים פורמליים (formal cycles) או יותר, כאשר המחזור הפורמלי הוא {A} – כלומר, מודול יחיד המציג את הפונקציה של סטרופה. מודולים עזר (auxiliary modules) עשויים להיות נוכחים גם כן (I, O, J, או X). מבנה סטרופי (strophic form) שכיח יותר ברוק אנד רול מוקדם (שנות ה-50 וה-60 של המאה ה-20) מאשר בשנות ה-70 ואילך. במוזיקת פולחן נוצרית (Christian worship music), השפעת המזמורים הדתיים (hymnody) הופכת את המבנה הסטרופי לשכיח יותר במוזיקה עכשווית מאשר במוזיקה פופולרית (דוגמאות בולטות כוללות את קית' וקריסטין גטי [Keith & Kristyn Getty], סטיוארט טאוננד [Stuart Townend], ובוב קאופלין [Bob Kauflin]).
 
-#### 32-bar song form (AABA)
+#### בנה של שיר בת 32 תיבות (32-bar song form)
 
-A song form containing at least one complete formal cycle of {AABA} (though typically two complete cycles or one complete cycle followed by a partial cycle). A is the primary module. Auxiliary modules may also be present. 
+מבנה שיר (song form) המכיל לפחות מחזור פורמלי שלם אחד של {AABA} (אם כי טיפוסי שיהיו שני מחזורים שלמים או מחזור שלם אחד ואחריו מחזור חלקי). A הוא המודול העיקרי. מודולים עזר עשויים להיות נוכחים גם כן. 
 
-AABA form can be realized as AABA, AABA’, AA’BA’, or AA’BA’’. No matter the degree of alteration of the main strophe, if the general functional progression of AABA is present, it is 32-bar/AABA form. 32-bar/AABA form was most common prior to the advent of rock-and-roll and disappears almost entirely from the Billboard top-20 after the mid-1960s. It’s most typical appearance has two four-bar phrases per eight-bar module, making the typical complete cycle 32 bars long, hence the common name 32-bar song form.
+מבנה AABA (AABA form) יכול להיות ממומש כ-AABA, AABA’, AA’BA’, או AA’BA’’. ללא קשר למידת השינוי של הבית הראשי, אם מהלך התפקוד הכללי של AABA נוכח, מדובר במבנה 32 תיבות / AABA (32-bar/AABA form). מבנה 32 תיבות / AABA היה נפוץ ביותר לפני הופעת הרוק אן רול ונעלם כמעט לחלוטין ממצעד 20 הגדולים של הבילבורד (Billboard top-20) לאחר אמצע שנות ה-60. ההופעה הטיפוסית ביותר שלו כוללת שני משפטים בני ארבע תיבות לכל מודול בן שמה תיבות, מה שהופך את המחזור השלם הטיפוס לאורך של 32 תיבות, ומכאן השם הנפוץ מבנה שיר בן 32 תיבות.
 
-#### Verse-chorus form (VC, VCB)
+#### במבנה בית-פזמון (Verse-chorus form, VC, VCB)
 
-A versatile song form that rapidly took over rock-and-roll in the 1960s and has dominated the genre ever since. A verse-chorus song’s formal cycle will contain at least two core modules—verse (V) and chorus (C), with the chorus module being the primary module. Other possible modules in the cycle exhibit prechorus (P), bridge (B), and postchorus (Z) functions. 
+צורת שיר רב-תכליתית אשר השתלטה במהירות על הרוק אן רול בשנות ה-60 של המאה ה-20 ומאז שלטה בז'אנר. המחזור הצורני של שיר בית-פזמון יכיל לפחות שני מודולים מרכזיים — בית ופזמון, כאשר מודול הפזמון הוא המודול הראשי. מודולים אפשריים אחרים במחזור מציגים פונקציות של טרום-פזמון (prechorus), גשר, ופוסט-פזמון (postchorus). 
 
-A full cycle containing all modules except for B would be {VPCZ}. These four functions always progress in this order, though not all need be present. Bridge modules are somewhat flexible. If a song has single bridge module, it tends to appear once, followed by the last chorus, or the last prechorus and chorus, of the song. Bridges often appear in place of the verse and/or prechorus modules in the last cycle, not as an extra element. Thus, songs that incorporate all five core module types rarely will place all five in a single cycle. 
+מחזור מלא המכיל את כל המודולים פרט ל-B יהיה {VPCZ}. ארבע פונקציות אלו מתקדמות תמיד בסדר הזה, אם כי לא כולן חייבות להיות נוכחות. מודולים של גשר הם גמישים למדי. אם בשיר יש מודול גשר יחיד, הוא נוטה להופיע פעם אחת, ולאחר מכן הפזמון האחרון, או טרום-הפזמון (Pre-chorus) והפזמון האחרונים של השיר. גשרים (Bridges) מופיעים לעיתים קרובות במקום מודולי הבית (Verse) ו/או טרום-הפזמון במחזור האחרון, ולא כאלמנט נוסף. לפיכך, שירים המשלבים את כל חמשת סוגי מודולי הליבה יציבו לעיתים רחוקות את כל חמשתם במחזור יחיד. 
 
-Common non-bridge cycles include {VC}, {VPC}, and occasionally (especially as the first cycle in a song) {VVC}, with Z potentially added to the end of any. Common cycles including bridge are {BC} and {BPC}, with Z potentially added to the end of either.
+מעגלים שאינם כוללים גשר נפוצים כוללים את {VC},‏ {VPC}, ולעתים קרובות (בخاصה כמחזור הראשון בשיר) {VVC}, כאשר האות Z עשויה להתווסף לסופו של כל אחד מהם. מעגלים נפוצים הכוללים גשר כוללים את {BC} ו-{BPC}, כאשר האות Z עשויה להתווסף לסופו של כל אחד מהם.
 
-#### Simple verse-chorus form
+#### מבנה בית-פזמون פשוט (Simple verse-chorus form)
 
-A term coined by John Covach referring to songs in verse-chorus form where the harmonic progression underlying the verse is the same as that underlying the chorus.
+מונח שטבע ג'ון קובאץ' המתייחס לשירים במבנה בית-פזמון (verse-chorus form) שבהם מהלך ההרמוניה (harmonic progression) העומד בבסיס הבית זהה לזה העומד בבסיס הפזמון.
 
-#### Super-simple verse-chorus form
+#### מבנה בית-פזמון פשוט ביותר (Super-simple verse-chorus form)
 
-A term coined by Jay Summach (based on Covach’s) referring to songs in verse-chorus form where the harmonic progression and the melody are both the same for verse and chorus (Summach, p. 322).
+מנוח שטבע ג'יי סומאך (על בסיס זה של קובאך) המתייחס לשירים במבנה בית-פזמון שבהם מהלך ההרמוניה והמלודיה זהים שניהם עבור הבית והפזמון (Summach, עמ' 322).
 
-V. Module structures
+V. מבני מודולים (Module structures)
 --------------------
 
-#### Two-part (aa’)
+#### דו-חלק (Two-part) (aa’)
 
-A module is two-part when the phrases that make up the module can be grouped into a first half and a second half. In two-part modules, the second half is usually based on the same music as the first half, and thus it is labeled *aa’*. Often these two halves begin the same but have different endings, participating in an antecedent-consequent (weak → strong) relationship.
+מודול הוא דו-חלקי (two-part) כאשר התיבות או המשפטים המוזיקליים (phrases) המרכיבים את המודול ניתן לחלוקה לחצי ראשון ולחצי שני. במודולים דו-חלקיים (two-part modules), החצי השני מבוסס לרוב על אותם חומרים מוזיקליים כמו החצי הראשון, ולכן הוא מסומן כ-*aa’*. לעיתים קרובות, שני חצאים אלו מתחילים באופן זהה אך יש להם סיומות שונות, והם מששתפים במערכת יחסים של לפני-ואחרי (antecedent-consequent) (חלש → חזק).
 
-#### Two-part – ab
+#### שני חלקים – ab
 
-Very rarely a module’s phrases can be grouped into two clear halves based on different music. Such a module is labeled *ab*.
+לעיתים רחוקות מאוד, הביטויים של מודול יכולים להתחלק לשני חצאים ברורים המבוססים על מוזיקה שונה. מודול כזה מסומן כ-*ab*.
 
-#### Three-part – aa’b
+#### שלושה חלקים (Three-part) – aa’b
 
-A module containing three phrases is a three-part module. If the first two phrases are based on the same music, the module is labeled *aa’b* (12-bar blues progressions are the most common example of a three-part *aa’b* module).
+מבול המכיל שלושה משפטים הוא מבול תלת-חלקי (three-part module). אם שני המשפטים הראשונים מבוססים על אותה מוזיקה, המבול מסומן כ-*aa’b* (מהלכי בלוז בן 12 תיבות הם הדוגמה הנפוצה ביותר למבול תלת-חלקי מסוג *aa’b*).
 
-#### Three-part – abb’
+#### תלת-חלקי – abb’
 
-If the second and third phrases in a three-part module are based on the same music, the module is labeled *abb’*.
+אם התיבה והתיבה השלישית במודול תלת-חלקי מבוססות על אותה מוזיקה, המודול מסומן כ-*abb’*.
 
-#### Four-part – srdc
+#### ארבעה קולות (Four-part) – srdc
 
-A module composed of four phrases often contains a sentential structure (presentation → continuation → cadential/conclusion). In pop/rock music, such a structure typically states a basic musical idea in the first phrase, restates it in the second, provides contrasting material in the third phrase (often employing fragmentation, acceleration of harmonic rhythm, and movement away from tonic harmony), and concludes in the fourth phrase either with a return to the basic idea and tonic harmony or with still newer material that forms a strong melodic, rhythmic, and harmonic conclusion. Walter Everett has called such a four-phrase sentential structure in pop/rock music *srdc* (statement, restatement/response, departure, conclusion). 
+מודול המורכב מארבעה משפטים מכיל לעיתים קרובות מבנה משפטי (resentential structure) (הצגה [presentation] ← המשך [continuation] ← סיום/קונקלוזיה [cadential/conclusion]). במוזיקת פופ/רוק, מבנה כזה מציג בדרך כלל רעיון מוזיקלי בסיסי במשפט הראשון, חוזר עליו בשני, מספק חומר ניגודי במשפט השלישי (המפעיל לעיתים קרובות פרגמנטציה [fragmentation], האצה של הקצב ההרמוני [acceleration of harmonic rhythm], ותנועה הרחקה מהרמוניקת הטוניקה [tonic harmony]), ומסתיים במשפט הרביעי, בין אם באמצעות חזרה לרעיון הבסיסי ולהרמוניקת הטוניקה או באמצעות חומר חדש עוד יותר היוצר סיום מלודי, קצבי והרמוני חזק. וולטר אוורט כינה מבנה משפטי בן ארבעה משפטים מעין זה במוזיקת פופ/רוק בשם *srdc* (הצהרה [statement], חזרה/מענה [restatement/response], עזיבה [departure], סיום [conclusion]). 
 
-In conventional lettering, an *srdc* module could employ an *aaba* structure (with statement material returning as a restatement and again as the conclusion), or *aabc* structure (where the conclusion material is new). Occasionally *abcd* or *abca* are possible, but only if *b* is a clear response to *a*, not simply new material. 
+בסימון קונבנציונלי, מודול *srdc* עשוי להשתמש במבנה *aaba* (כאשר חומר ההצהרה חוזר כהצהרה מחדש ושוב כמסקנה), או במבנה *aabc* (שבו חומר המסקנה הוא חדש). מדי פעם מבנים כמו *abcd* או *abca* אפשריים, אך ורק אם *b* הוא מענה ברור ל-*a*, ולא סתם חומר חדש. 
 
-*srdc* structures tend to divide neatly into halves: *sr* and *dc*.
+מבני *srdc* נוטים להתחלק בצורה מסודרת לחצאים: *sr* ו-*dc*.
 
-VI. Harmony
+VI. הרמוניה (Harmony)
 -----------
 
-#### On-tonic
+#### על-הטוניקה (On-tonic)
 
-A phrase or module is on-tonic when it begins with tonic harmony (I in root position).
+ביטוי או מודולה נמצאים במצב טוניקה כאשר הם מתחילים בהרמוניה טוניקה (I במצב יסוד [root position]).
 
-#### Off-tonic
+#### אוף-טוניק (Off-tonic)
 
-A phrase or module is off-tonic when it begins on a harmony other than tonic.
+תיבה או מודול נמצאים מחוץ לטוניקה (off-tonic) כאשר הם מתחילים בהרמוניה (harmony) שאינה טוניקה (tonic).
 
-#### Harmonically closed
+#### סגור הרמונית (Harmonically closed)
 
-A phrase or module is harmonically closed when it ends with tonic harmony (I in root position).
+משפט או מודול סגורים מבחינה הרמונית כאשר הם מסתיימים בהרמוניה טונית (I במצב יסוד (root position)).
 
-#### Harmonically open
+#### פתוח הרמונית (Harmonically open)
 
-A phrase or module is harmonically open when it ends on a harmony other than tonic.
+תיבה או מודול פתוחים הרמונית כאשר הם מסתיימים בהרמוניה שאינה טוניקה.
 
-#### Turnaround
+#### מהלך סיום (Turnaround)
 
-The use of a non-tonic chord (usually dominant) at the end of a harmonically closed unit to transition into the beginning of the following on-tonic unit.
+השימוש באקורד שאינו טוניקה (בדרך כלל דומיננטי) בסופה של יחידה סגורה מבחינה הרמונית כדי לעבור לתחילתה של יחידת הטוניקה הבאה (on-tonic unit).
 
-VII. Descriptors & rhetorical devices
+VII. תיאורים ואמצעים רטוריים (Descriptors & rhetorical devices)
 -------------------------------------
 
-#### Lyric-variant
+#### וריאציית מילים (Lyric-variant)
 
-A module or phrase is lyric-variant if each time it appears it brings (mostly) different lyrics.
+מולולה או תיבה הם משתנים-טקסטואלית (lyric-variant) אם בכל פעם שהם מופיעים הם מביאים מילים (לרוב) שונות.
 
-#### Lyric-invariant
+#### בלתי משתנה ליריקה (Lyric-invariant)
 
-A module or phrase is lyric-invariant if each time it appears it brings (mostly) the same lyrics. Lyric invariance tends to come at points of formal closure (tail refrains at the ends of strophes, choruses at the end of a verse-chorus song’s formal cycle).
+מודול או משפט הם שווי-מילים (lyric-invariant) אם בכל פעם שהם מופיעים הם מביאים עמם (לרוב) את אותן המילים. שוויון מילים נוטה להופיע בנקודות של סגירה צורנית (פזמוני סיום בקצותיהם של בתים, פזמונים חוזרים בסופו של מחזור צורני בשיר בית-פזמון).
 
-#### Music-variant
+#### גרסה מוזיקלית (Music-variant)
 
-A module or phrase is music-variant if each time it appears it brings (mostly) different music.
+מולולה או ביטוי הם משתנים-מוזיקלית (music-variant) אם בכל פעם שהם מופיעים הם מביאים (לרוב) מוזיקה שונה.
 
-#### Music-invariant
+#### אינווריאנטי למוזיקה (Music-invariant)
 
-A module or phrase is music-invariant if each time it appears it brings (mostly) the same music.
+מודול או תיבה הם אינווריאנטיים מבחינה מוזיקלית (music-invariant) אם בכל פעם שהם מופיעים הם מביאים עמם (ברוב המקרים) את אותה המוזיקה.
 
-#### Chorusification
+#### הענקת אפקט מקהלה (Chorusification)
 
-Jay Summach uses the term “chorusification” (p. 321) to describe a process where modules are stripped away from the formal cycle until only the chorus module (C) remains. For example, a song that begins with the cycle {VPC} may appear near the end of the song without the verse {PC} and then again without the prechorus {C}. This process is part of a goal-directed progression toward the end of the song, giving special emphasis to the chorus.
+ג'יי סומאך (Jay Summach) משתמש במונח "הפיכה לפזמון" (chorusification) (עמ' 321) כדי לתאר תהליך שבו מודולים מוסרים מן המחזור הצורני עד שנותר רק מודול הפזמון (C). לדוגמה, שיר המתחיל במחזור {VPC} עשוי להופיע לקראת סוף השיר ללא הבית {PC} ולאחר מכן שוב ללא טרום-הפזמון {C}. תהליך זה הוא חלק מהתקדמות ממוקדמת-מטרה לקראת סוף השיר, המעניקת דגש מיוחד לפזמון.
 
-VIII. Analytical Notation
+VIII. סימון אנליטי (Analytical Notation)
 -------------------------
 
-#### Capital letters
+#### אותיות גדולות
 
-Modules are labeled with capital letters according to function. A module that functions as a strophe is labeled with an “A”; a module that functions as a bridge, “B”; etc.
+המודולים מסומנים באותיות גדולות בהתאם לתפקודם. מודול שמתפקד כבית מסומן באות "A"; מודול שמתפקד כגשר, ב-"B"; וכך הלאה.
 
-#### Lower-case letters
+#### אותיות קטנות (Lower-case letters)
 
-Phrases are labeled with lower-case letters according to their musical content. If two phrases use more-or-less the same musical framework (harmony, melody, and rhythm), they receive the same letter. Letters are assigned in the same manner as poetic rhymes: the first phrase is *a* and any phrase that follows based on the same music is also *a* (primes are used for slight variations, such as new text or altered instrumentation); the next phrase with new musical material is b; and so on. These letters do *not* correspond to functions. 
+המשפטים מסומנים באותיות קטנות בהתאם לתוכן המוזיקלי שלהם. אם שני משפטים עושים שימוש במסגרת מוזיקלית דומה פחות או יותר (הרמוניה, מלודיה וקצב), הם מקבלים את אותה האות. האותיות מוקצות באופן דומה לחרוזים שירים: המשפט הראשון הוא *a* וכל משפט הבא אחריו המבוסס על אותה מוזיקה הוא גם כן *a* (תגים משמשים לציון וריאציות קלות, כגון טקסט חדש או תזמור משונה); המשפט הבא עם חומר מוזיקלי חדש הוא b; וכן הלאה. אותיות אלו *אינן* מתאימות לתפקודים (functions). 
 
-The single exception to this convention is when phrases within a module demonstrate a sentential progression (*srdc*), in which case the first phrase (statement) is labeled *s*; restatement/response, *r*; departure, *d*; conclusion, *c*.
+החריגה היחידה ממוסכמה זו היא כאשר ביטויים בתוך מודול מדגימים התקדמות משפטית (*sentential progression*, מסומנת כ-*srdc*), ובמקרה זה הביטוי הראשון (הצהרה, *statement*) מסומן כ-*s*; ניסוח מחדש/מענה (restatement/response), כ-*r*; פיתוח/סטייה (departure), כ-*d*; סיום (conclusion), כ-*c*.
 
-#### Full-sized numerals
+#### ספרות בגודל מלא (Full-sized numerals)
 
-Full-sized numerals are attached to capital letters when there are two or more modules with the same function but different music. For example, if a song contains two different melodies that both function as verse themes, they are labeled “V1” (the one that appears first in the song) and “V2.”
+מספרים בגודל מלא מצורפים לאותיות גדולות כאשר יש שני מודולים או יותר בעלי אותו תפקוד אך מוסיקה שונה. לדוגמה, אם שיר מכיל שני מלחנים שונים ששניהם מתפקדים כנושאי בית (verse themes), הם מסומנים כ-"V1" (זה המופיע ראשון בשיר) ו-"V2".
 
-#### Subscript numerals
+#### מספרים תחתיים (Subscript numerals)
 
-Subscript numerals are attached to capital letters when there are two or more modules with the same function and music but different text. For example, if a song contains three verses, and they all have different lyrics but the same music, they are labeled “V<sub>1</sub>”, “V<sub>2</sub>”, and “V<sub>3</sub>”.
+מספרים תחתיים מחוברים לאותיות גדולות כאשר ישנם שני מודולים או יותר בעלי אותה פונקציה ומוסיקה אך טקסט שונה. לדוגמה, אם שיר מכיל ثلاثة (שלושה) בתים, ולכולם מילים שונות אך אותה מוסיקה, הם מסומנים כ-“V<sub>1</sub>”, “V<sub>2</sub>”, ו-“V<sub>3</sub>”.
 
-#### Timeline notation ####
+#### # סימון ציר הזמן (Timeline notation)
 
-[Variations Audio Timeliner][VAT] does not support subscripts. Differentiate full-sized and subscript numerals in your written work. However, it is fine to use full-sized numerals for both purposes in your timelines.
+[Variations Audio Timeliner][VAT] אינו תומך בכתב תחתי (subscripts). הבחנו בין ספרות בגודל מלא לספרות בכתב תחתי בעבודה הכתובה שלכם. עם זאת, זה בסדר להשתמש בספרות בגודל מלא עבור שתי המטרות בציר הזמן (timelines) שלכם.
 
 [VAT]: http://variations.sourceforge.net/vat/

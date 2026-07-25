@@ -3,11 +3,11 @@ layout: post
 title: Open Music Theory
 ---
 
-**Open Music Theory** is an open-source, interactive, online "text"book for college-level music theory courses. OMT was built on resources authored by Kris Shaffer, Bryn Hughes, and Brian Moseley. It is edited by Kris Shaffer and Robin Wharton, and is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing). 
+**Open Music Theory** הוא ספר לימוד (textbook) מקוון, אינטראקטיבי ובקוד פתוח (open-source) עבור קורסים בתיאוריה של המוזיקה ברמה אקדמית. OMT נבנה על בסיס משאבים שחיברו קริס שאפר (Kris Shaffer), ברין יוז (Bryn Hughes) ומריאן מוסלי (Brian Moseley). הוא נערך על ידי קริס שאפר ורובין וורטון (Robin Wharton), ומוצא לאור על ידי [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing). 
 
-Major funding and technological support (including the building of the technology behind the interactive music notation modules found in this text) came from the team at [Trinket](http://www.trinket.io).
+מימון מרכזי ותמיכה טכנולוגית (כולל בניית הטכנולוגיה שמאחורי מודולי תיווך המוזיקה האינטראקטיביים המופיעים בטקסט זה) הגיעו מצוות [Trinket](http://www.trinket.io).
 
-The first major edition of OMT was made possible financially by [a crowdfunding campaign](http://www.hybridpedagogy.com/page-two/open-interactive-music-theory-textbook-campaign-update/) in the summer of 2014. Many thanks to the donors who supported the project (listed on the [about](about.html) page).
+המהדורה הראשונה והמשמעותית של OMT התאפשרה מבחינה פיננסית בזכות [קמפיין מימון המונים](http://www.hybridpedagogy.com/page-two/open-interactive-music-theory-textbook-campaign-update/) בקיץ 2014. תודה רבה לתורמים שתמכו בפרויקט (המפורטים בעמוד ה[אודות](about.html)).
 
-[**About this textbook**](about.html)  
-[**Table of contents**](contents.html)
+[**אודות ספר לימוד זה**](about.html)  
+[**תוכן העניינים**](contents.html)

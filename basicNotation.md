@@ -3,45 +3,45 @@ layout: post
 title: Basic notation
 ---
 
-### Notes
+### תווים
 
-When written on a staff, a note indicates a pitch and rhythmic value. The notation consists of a *notehead* (either empty or filled in), and optionally can include a *stem*, *beam*, *dot*, or *flag*. 
+כאשר הוא נכתב על חמשה, תו מציין גובה צליל (pitch) וערך קצבי (rhythmic value). הרישום מורכב מ*ראש תו* (notehead) (ריק או מלא), ויכול לכלול כאופציה *קנה* (stem), *קו חיבור* (beam), *נקודה* (dot) או *דגל* (flag). 
 
 <img src="Graphics/noteillustration.png" width="50%">
 
-### Staff
+### חמשה (Staff)
 
-Notes are can't convey their pitch information without being placed on a staff. A staff consists of five horizontal lines, evenly spaced. The plural of staff is *staves*.
+תווים (Notes) אינם יכולים להעביר את מידע הגובה (pitch information) שלהם מבלי להיות ממוקמים על חמשה (staff). חמשה מורכבת מחמישה קווים אופקיים, המרווחים באופן שווה. צורת הרבים של חמשה היא חמשות (*staves*).
 
-### Clefs
+### מפתחות (Clefs)
 
-Notes *still* can't convey their pitch information if the staff doesn't include a clef. A clef indicates which pitches are assigned to the lines and spaces on a staff. The two most commonly used clefs are the *treble* and *bass* clef; others that you'll see relatively frequently are *alto* and *tenor* clef. 
+תווים עדיין אינם יכולים להעביר את מידע הגובה שלהם אם החמשה איنا כוללת מפתח (clef). מפתח מציין אילו גבהים מוקצים לשורות ולרווחים בחמשה. שני המפתחות הנפוצים ביותר הם מפתח סול (*treble*) ומפתח פה (*bass*); מפתחות נוספים שתראו בתדירות יחסית גבוהה הם מפתח אלט (*alto*) ומפתח טנור (*tenor*). 
 
-Here is the pitch C4 placed on the treble, bass, alto, and tenor clefs.
+הנה הצליל C4 הממוקם במפת סופרן (treble), בס (bass), אלט (alto) וטנור (tenor).
 
 <img src="Graphics/clefs.png" width="50%" height="50%">
 
-### Grand staff
+### חמשה כפולה (Grand staff)
 
-The grand staff consists of two staves, one that uses a treble clef, and one that uses a bass clef. The staves are connected by a curly brace. Grand staves are used frequently for notating piano music and other polyphonic instruments. 
+החמשה הגדולה (grand staff) מורכבת משתי חמשות, אחת העושה שימוש במפתח סול (treble clef), ואחת העושה שימוש במפתח פה (bass clef). החמשות מחוברות על ידי סוגריים מסולסלים (curly brace). חמשות גדולות (grand staves) משמשות לעיתים קרובות לרישום תווים לפסנתר ולכלי נגינה פוליפוניים אחרים. 
 
-### Ledger lines
+### קווי עזר (Ledger lines)
 
-When the music's range exceeds what can be written on the staff, extra lines are drawn so that we can still clearly read the pitch. These extra lines are called *ledger lines.* In the example below, From Haydn's Piano Sonata in G (Hob. XVI: 39), Ab5 occurs just above the treble staff in the right hand, and G3 and B3 occur just below the treble staff in the left hand.
+כאשר המנעד (range) של המוזיקה חורג ממה שניתן לכתוב על החמשה, מורות שורות נוספות כדי שנוכל לקרוא בבירור את הגובה הצלילי. שורות נוספות אלו נקראות *שורות עזר (ledger lines).* בדוגמה שלהלן, מתוך סונאטת הפסאנו ב-G של היידן (Hob. XVI: 39), הצליל A♭5 מופיע בדיוק מעל חמשת הטרבל (treble staff) ביד ימין, והצלילים G3 ו-B3 מופיעים בדיוק מתחת לחמשת הטרבל ביד שמאל.
 
 <img src ="Graphics/ledgerLines.png" width="80%" height="80%">
 
-### Accidentals
+### סימני הסתברות (Accidentals)
 
-Accidentals are used to indicate when a pitch has been raised or lowered. They are written to the *left* of the pitch. 
+סימני היתק משמשים לציון מתי גובה נגינה הוגבה או הונמך. הם נכתבים משמאל (*left*) לגובה הנגינה. 
 
-- When you lower one of the white notes of the piano by a semitone, you add a flat. 
-- When you raise one the white notes of the piano by a semitone, you add a sharp.
-- When you raise a note that is already flat by a semitone, you add a natural.
-- When you lower a note that is already flat by a semitone, you add a double flat. 
-- When you raise a note that is already sharp by a semitone, you add a double sharp.
+- כאשר אתם מנמיכים את אחד מהקווים הלבנים של הפסנתר בחצי טון (semitone), אתם מוסיפים במול (flat). 
+- כאשר מעלים את אחד מהקווים הלבנים של הפסנתר בחצי טון, מוסיפים דיאז (sharp).
+- כאשר מעלים תו שכבר יש לו במול (Flat) בחצי טון, מוסיפים בקר (natural).
+- כאשר מנמיכים תו שהוא כבר במול בחצי טון, מוסיפים במול כפול (double flat). 
+- כאשר אתה מעלה תו שכבר יש לו דיאז בחצי טון, אתה מוסיף דיאז כפול (double sharp).
 
-The example below shows the symbols for flat, natural, sharp, double sharp, and double flat, respectively.
+הדוגמה שלהלן מציגה את הסימנים עבור במול, בקר, דיאז, דיאז כפול ו-במול כפול, בהתאמה.
 
 <img src ="Graphics/accidentals.png" width="50%" height="50%">
 

@@ -6,77 +6,77 @@ title: Harmony in pop/rock music
 {{ page.title }}
 ================
 
-Harmony in pop/rock music does not always follow the same norms and patterns of classical-era music. Thus, functional-bass notation does not work for all situations. Instead, we will primarily use Roman numerals for our analysis of harmony in pop/rock music, occasionally using functional bass as a supplement to help us make sense of a particular harmonic pattern or relate it to what we’ve studied in classical harmony.
+הרמוניה במוזיקת פופ/רוק אינה פועלת בהכרח לפי אותם נורמות ודפוסים של מוזיקת התקופה הקלאסית. לכן, סימון הבס הפונקציונלי (functional-bass notation) אינו מתאים לכל המצבים. במקום זאת, נשתמש בעיקר בספרות רומיות (Roman numerals) לניתוח ההרמוניה במוזיקת פופ/רוק, תוך שימוש מדי פעם בבס פונקציונלי (functional bass) כתוספת שתעזור לנו להבין דפוס הרמוני מסוים או לקשר אותו למה שלמדנו בהרמוניה קלאסית.
 
-One key difference between rock and classical harmony is that chords in pop/rock music are almost always root-position triads or seventh chords. This affects the “rules” of harmonic syntax, as 6/3 chords in classical progressions are replaced by 5/3 chords in pop/rock progressions. (For instance, the classical progression IV–IV<sup>6</sup>, or S(4 6) in functional bass, becomes IV–VI, or S4 Tx6 in functional bass. The same bass line does the same work, but by using a 5/3 chord instead of a 6/3 chord, the functional progression changes to something that would break the rules of classical syntax.) This can make harmonic analysis a little tricky in pop/rock music, especially since there is no published theory of rock harmony that is equal to Quinn’s functional theory of classical harmony. However, it makes chord labeling and harmonic dictation simpler. Most of the time, all you need is the scale degree of the bass.
+הבדל מרכזי אחד בין הרמוניה של רוק להרמוניה קלאסית הוא שאקורדים במוזיקת פופ/רוק הם כמעט תמיד שלישיות במצב יסוד (root-position triads) או אקורדי שבע (seventh chאוds). הדבר משפיע על "חוקי" התחביר ההרמוני (harmonic syntax), שכן אקורדי 6/3 במהלכים קלאסיים מוחלפים באקורדי 5/3 במהלכים של פופ/רוק. (לדוגמה, המהלך הקלאסי IV–IV<sup>6</sup>, או S(4 6) בבס פונקציונלי, הופך ל-IV–VI, או S4 Tx6 בבס פונקציונלי. קו הבס האותו קו עושה את אותה העבודה, אך באמצעות שימוש באקורד 5/3 במקום אקורד 6/3, המהלך הפונקציונלי (functional progression) משתנה למשהו שהיה מפר את חוקי התחביר הקלאסי.) הדבר יכול להפוך ניתוח הרמוני (harmonic analysis) למעט מורכב במוזיקת פופ/רוק, במיוחד מכיוון שאין תיאוריה פורמלית של הרמוניית רוק השקולה לתיאוריה הפונקציונלית של הרמוניה קלאסית מאת קווין (Quinn). עם זאת, הדבר הופך את סימון האקורדים (chord labeling) והכתבתי ההרמונית (harmonic dictation) לפשוטים יותר. ברוב המקרים, כל מה שאתם צריכים הוא את דרגת הסולם (scale degree) של הבס.
 
-Following is a chart of bass scale degrees and the roots/Roman numerals most typically associated with them. Keep this chart handy when transcribing and dictating rock harmonic progressions. As you can see, most bass notes typically go with a single chord.
+להלן טבלה של דרגות בסולם הבס והשורשים/הספרות הרומאיות המקושרים אליהן בדרך האופיינית ביותר. שמור טבלה זו בהישג יד בעת תמלול והכתבה של מהלכים הרמוניים ברוק. כפיที่คุณสามารถเห็น (כפי שניתן לראות), רוב צלילי הבס משתייכים בדרך כלל לאקורד יחיד.
 
-| bass 	| 5/3 or 7	| 6/3 or 5	|
+| בס (bass) 	| 5/3 או 7	| 6/3 או 5	|
 | :--:	| :--:	| :--:	|
-| *do*	| I	| 
+| *דו* (*do*)	| I	| 
 | *re*	| II	| 
 | *mi*/*me*	| [III]	| I
 | *fa*	| IV	| 
-| *sol*	| V	| 
-| *la*/*le*	| VI	| [IV]
+| *סול* (sol)	| V	| 
+| *לה*/*לה*	| VI	| [IV]
 | *te*	| VII	| 
 | *ti*	| 	| V
 
-*Bass scale degrees and commonly associated harmonies in pop/rock music. Less common chords are enclosed in square brackets.*
+*דרגות בס במנעד (Bass scale degrees) והרמוניות המקושרות אליהן בכיכיחות במוזיקת פופ/רוק. אקורדים נפוצים פחות מופיעים בסוגריים מרובעים.*
 
-## Harmonic functions in minor ##
+## תפקודים הרמוניים במינור (Harmonic functions in minor) ##
 
-In classical harmony, usually the same chords are used in major and in minor with the same functions. For example, T1 S4 D5 T1 (I IV-or-II V I) is common in both modes, though the quality of chords will change. In rock/pop music, especially that of the last 20 years or so, there are some common differences in the normative harmonic patterns of major and minor modes.
+בהרמוניה קלאסית, לרוב משתמשים באותם אקורדים במז'ור ובמינור עם אותם תפקידים. לדוגמה, T1 S4 D5 T1 (I IV-or-II V I) נפוץ בשני המצבים (modes), אם כי איכות האקורדים (chord quality) תשתנה. במוזיקת רוק/פופ, במיוחד זו של 20 השנים האחרונות בקירוב, ישנם כמה הבדלים נפוצים בדפוסים ההרמוניים הנורמטיביים של מצבי מז'ור ומינור.
 
-For instance, the most common S–D progression in major is IV–V. While this is also common in minor, there is another common S–D progression that is far more common in minor than major: VI–VII. Thus the typical cadential bass line of *fa*–*sol*–*do* is replaced by *le*–*te*–*do*. In other words, Dm–E(m)–Am is replaced by F–G–Am.
+לדוגמה, מהלך הסאב-דומיננטה לדומיננטיה (S–D) הנפוץ ביותר במז'ור הוא IV–V. אף על פי שמהלך זה נפוץ גם במינור, קיים מהלך S–D נוסף הנפוץ במינור הרבה יותר מאשר במז'ור: VI–VII. לפיכך, קו הבס הקדנציאלי הטיפוסי של *דו*–*רה*–*מי* [הערה: המקור מציין *fa*–*sol*–*do*, כלומר *פה*–*סול*–*דו*] מוחלף ב-*le*–*te*–*do* [הערה: *le* ו-*te* הם דרגות מונמכות במינור]. במילים אחרות, Dm–E(m)–Am מוחלף ב-F–G–Am.
 
-Where minor-key songs with IV–V–I bear a stronger resemblance to their *parallel* major (sharing the same bass syllables and Roman numerals), songs that employ this VI–VII–I progression bear a stronger resemblance to the *relative* major (sharing the same bass notes and actual chords). 
+בעוד ששירים בסולם מינורי עם מהלך IV–V–I דומים יותר למז'ור ה*מקביל* שלהם (parallel major) (חולקים את אותן הברות בס (bass syllables) וספרות רומיות), שירים המשתמשים במהלך VI–VII–I זה דומים יותר למז'ור ה*יחסי* שלהם (relative major) (חולקים את אותם צלילי בס (bass notes) ואת אותם אקורדים ממש). 
 
-For example, the common S–D–T progression in C major is F–G–C. In A minor, the same functional progression could be F–G–Am.
+לדוגמה, מהלכים נפוצים מסוג S–D–T ב-C מז'ור הם F–G–C. ב-A מינור, אותו מהלך פונקציונלי יכול להיות F–G–Am.
 
-Songwriters like U2 (“One”) take advantage of this relationship in songs where the verse and chorus modules are in different keys. In both cases, the verse is in minor and is based on a chord progression that ends VI–VII, followed by a return to I at the beginning of the next phrase. In both cases, the chorus begins on I in the relative major, turning the VI–VII in the minor key into IV–V in the major key. This two-key approach with VI–VII / IV–V as “pivot” point has become increasingly common in recent years.
+כותבי שירים כמו U2 (ב-"One") מנצלים מערכת יחסים זו בשירים שבהם מודולי הבתים והפזמון נמצאים בסולמות שונים. בשני המקרים, הבית נמצא בסולם מינור ומבוסס על מהלך אקורדים (chord progression) המתיים ב-VI–VII, ולאחריו חזרה אל I בתחילת המשפט הבא. בשני המקרים, הפזמון מתחיל ב-I במז'ור היחסי, מה שהופך את ה-VI–VII בסולם המינור ל-IV–V בסולם המז'ור. גישה דו-סולמית זו עם VI–VII / IV–V כנקודת "ציר" (pivot) הפכה נפוצה יותר ויותר בשנים האחרונות.
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/xh-ACkYmdc4?rel=0" frameborder="0" allowfullscreen></iframe><br/><br/>
 
-## Schemata ##
+## ## Schemata
 
-There are a number of common stock chord progressions that recur in many pop/rock songs. Typically, these stock progressions, or schemata, will occur in cyclical patterns; that is, the same progression will repeat multiple times in a row. This is particularly common in choruses of verse-chorus songs, but also happens in verses, strophes, and bridges. This is helpful for identifying harmonies by ear, since in addition to listening for bass scale degrees and considering whether the harmonies are chords of the fifth (5/3 or 7) or chords of the sixth (typically 6/3 or 6/5), we can listen for common patterns that we’ve heard in other songs. Following are a number of common schemata for pop/rock harmonic progressions.
+ישנם מספר מהלכים הרמוניים שכיחים (stock chord progressions) החוזרים על עצמם בשירים רבים בסגנונות הפופ והרוק. באופן טיפוסי, מהלכים שכיחים אלו, או תבניות (schemata), מופיעים בדפוסים מחזוריים; כלומר, אותו מהלך יחזור על עצמו מספר פעמים ברציפות. תופעה זו נפוצה במיוחד בפזמונים של שירים במבנה בית-פזמון (verse-chorus), אך מתרחשת גם בבתים, בחטיבות סטרופית (strophes), ובגשרים (bridges). הדבר מסייע לזיהוי הרמוניות משמיעה, מכיוון שבנוסף להאזנה לצלילי הבס ובחינה האם ההרמוניות הן אקורדי קווינטה (5/3 או 7) או אקורדי סקסטה (בדרך כלל 6/3 או 6/5), אנו יכולים להאזנה לדפוסים מוכרים ששמענו בשירים אחרים. להלן מספר תבניות נפוצות למהלכים הרמוניים בפופ ורוק.
 
-[The “50s doo-wop” progression (a.k.a., “Friday” progression, after Rebecca Black)](popRockHarmony-dooWop.html)
+[המהלך ההרמוני של "דו-וופ משנות ה-50" (הידוע גם כמהלך "פרשידיי" (Friday), על שמה של רבקה בלאק)](popRockHarmony-dooWop.html)
 
 > **&#124;&#124;: I – VI – IV – V :&#124;&#124;**  
 or  
 **&#124;&#124;: I – VI – II – V :&#124;&#124;**
 
-[The "Sensitive female" progression](popRockHarmony-sfcp.html) 
+[מהלך "האישה הרגישה" (The "Sensitive female" progression)](popRockHarmony-sfcp.html) 
 
-> **&#124;&#124;: VI – IV – I – V :&#124;&#124;** (in major)  
-**&#124;&#124;: I – VI – III – VII :&#124;&#124;** (in minor)  
-**&#124;&#124;: I – V – VI – IV :&#124;&#124;** ("sensitive male" variant)  
-**&#124;&#124;: IV – I – V – VI :&#124;&#124;** ("deceptive" variant)  
+> **&#124;&#124;: VI – IV – I – V :&#124;&#124;** (במז'ור)  
+**&#124;&#124;: I – VI – III – VII :&#124;&#124;** (במינור)  
+**&#124;&#124;: I – V – VI – IV :&#124;&#124;** (גרסת "הגבר הרגיש" [sensitive male])  
+**&#124;&#124;: IV – I – V – VI :&#124;&#124;** (וריאציה "מטעה" [deceptive])  
 
-[The "Puff" progression](popRockHarmony-puff.html) 
+[מהלך "פאף" (The "Puff" progression)](popRockHarmony-puff.html) 
 
-> **I – III – IV . . .** (to begin a phrase)
+> **I – III – IV . . .** (כדי להתחיל משפט)
 
-[The blues progression](popRockHarmony-blues.html)
+[מהלך הבלוז (The blues progression)](popRockHarmony-blues.html)
 
-> **I / / / | IV / I / | V IV I /** (12-bar blues)  
-> **I / / / | I / / / | IV / I / | V IV I /** (16-bar blues)
+> **I / / / | IV / I / | V IV I /** (בלוז 12 תיבות (12-bar blues))  
+> **I / / / | I / / / | IV / I / | V IV I /** (בלוז 16 תיבות (16-bar blues))
 
-[The Pachelbel progression](popRockHarmony-pachelbel.html)
+[מהלך פכלבל (The Pachelbel progression)](popRockHarmony-pachelbel.html)
 
 > **&#124;&#124;: I – V – VI – III – IV – I – IV – V :&#124;&#124;**  
-**&#124;&#124;: I – V<sup>6</sup> – VI – III<sup>6</sup> – IV – I<sup>6</sup> – IV – V :&#124;&#124;** (stepwise bass version)  
-> **I – V – VI – III . . .** (to begin a phrase; "truncated" version)
+**&#124;&#124;: I – V<sup>6</sup> – VI – III<sup>6</sup> – IV – I<sup>6</sup> – IV – V :&#124;&#124;** (גרסת בס מדורג [stepwise bass version])  
+> **I – V – VI – III . . .** (להתחלת משפט; גרסה "קטועה" (truncated))
 
-[The lament progression](popRockHarmony-lament.html)
+[מהלך הקינה (The lament progression)](popRockHarmony-lament.html)
 
 > **&#124;&#124;: I – VII – VI – V :&#124;&#124;**
 
-[The circle-of-fifths progression (in minor)](popRockHarmony-fifths.html)
+[מהלך מעגל הקווינטות (בסולם מינור) (The circle-of-fifths progression (in minor))](popRockHarmony-fifths.html)
 
 > **&#124;&#124;: I – IV – VII – III :&#124;&#124;**
 
-[Plagal progressions](popRockHarmony-plagal.html)
+[מהלכים פלגליים (Plagal progressions)](popRockHarmony-plagal.html)

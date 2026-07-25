@@ -3,14 +3,14 @@ layout: post
 title: Sonata Rondo
 ---
 
-A sonata rondo (ABACABA) features the same refrain-episode alternation that we find in the five-part rondo, but certain aspects of sonata form are infiltrate this alternation.
+סונאטה רונדו (ABACABA) כוללת את אותו מחזור של רפרן-אפיזודה שאנו מוצאים ברונדו חמשת החלקים, אך היבטים מסוימים של צורת סונאטה (sonata form) חודרים למחזור זה.
 
-**Exposition**						**Development**		**Recapitulation**
-
-
-Refrain 1	Episode 1	Refrain 2	Episode 2			Refrain 3	Episode 3	Refrain 4
+**אקספוזיציה (Exposition)**						**פיתוח (Development)**		**רפריזה (Recapitulation)**
 
 
-1. Refrain 1 and Episode 1 form a sonata exposition that is recapitulated in Refrain 3 and Episode 3. As is the case in sonata form, the recapitulation contains a "tonal adjustment" so that it ends in the tonic key. That is, Episode 1 and 3 will be the same thematically, but Episode 3 will occur in tonic.
-2. Because it resembles sonata form, the first and third episodes are always constructed as "second-theme" complexes.
-3. Episode 2 (C in the short-hand diagram above) may be a development—possibly containing a prep-zone, CAZ, and retransition—or it may be a simpler interior theme.
+פזמון 1 (Refrain 1)	אפיזודה 1 (Episode 1)	פזמון 2 (Refrain 2)	אפיזודה 2 (Episode 2)			פזמון 3 (Refrain 3)	אפיזודה 3 (Episode 3)	פזמון 4 (Refrain 4)
+
+
+1. פזמון 1 ואפיזודה 1 יוצרים אקספוזיציית סונָטה (sonata exposition) הממוחזרת בפזמון 3 ובאפיזודה 3. כמו במבנה סונָטה, הרקפיטולציה (recapitulation) מכילה "התאמה טונאלית" ("tonal adjustment") כך שהיא מסתיימת בסולם הטוניקה (tonic key). כלומר, אפיזודה 1 ו-3 יהיו זהות מבחינה תמתית, אך אפיזודה 3 תופיע בטוניקה.
+2. מאחר שהוא דמה לצורת סונאטה, האפיזודות הראשונה והשלישית נבנות תמיד כמכלולי "נושא שני" ("second-theme" complexes).
+3. פרק 2 (C بترשים המקוצר לעיל) עשוי להיות פיתוח—שייתכן שכולל אזור הכנה (prep-zone), אזור סגירת קדנס (CAZ), ומעבר חוזר (retransition)—או עשוי להיות נושא פנימי פשוט יותר.

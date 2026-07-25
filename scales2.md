@@ -3,38 +3,38 @@ layout: post
 title: Collections and Scales
 ---
 
-As composers sought new sounds, many of them turned to novel scales as replacements for the hegemonic major/minor system that characterizes most functional tonal music. To be sure, major and minor scales maintained currency in the twentieth century, but they were but one variety of scale amongst many.
+כאשר מלחינים חיפשו צלילים חדשים, רבים מהם פנו לסולמות חדשים כתחליף למערכת המז'ור/מינור ההגמונית המאפיינת את רוב המוזיקה הטונalית הפונקציונלית (functional tonal music). לבטח, סולמות מז'ור ומינור שמרו על מעמדם במאה העשרים, אך הם היו רק סוג אחד של סולם מני רבים.
 
-When characterizing many of these new musical resources, the word “collection” is often more appropriate than "scale." A *collection* is a group of notes—usually five or more. Imagine a collection as a source from which a composer can draw musical material—a kind of “soup” within which pitch-classes float freely. Collections by themselves do not imply a tonal center. But in a composition a composer may establish a tonal center by privileging one note of the collection, which we then call a scale. 
+בעת אפיון רבים מהמשאבים המוזיקליים החדשים הללו, המונח "אוסף" (*collection*) מתאים לעיתים קרובות יותר מאשר "סולם" (*scale*). *אוסף* הוא קבוצה של צלילים – בדרך כלל חמישה או יותר. דמיינו אוסף כמקור שממנו מלחין יכול לשאוב חומר מוזיקלי – מעין "מרק" שתוכו מחלקות גובה צליל (*pitch-classes*) צפות בחופשיות. אוספים (*collections*) כשלעצמם אינם מרמזים על מרכז טונאלי (*tonal center*). אך בתוך יצירה, מלחין עשוי לבסס מרכז טונאלי על ידי מתן עדיפות לצליל אחד מתוך האסף, שאותו אנו מכנים אז סולם. 
 
-##Diatonic Collection##
+##אוסף דיאטוני (Diatonic Collection)##
 
-The *diatonic collection* is any transposition of the 7 white keys on the piano. Refer to these collections by the number of sharps and flats they contain: the “0-sharp” collection, the “1-sharp” collection, and so on. The “2-flat” collection, for example, contains the pitch classes {F, G, A, B-flat, C, D, E-flat}.
+*אוסף דיאטוני* (diatonic collection) הוא כל טרנספוזיציה של 7 הקלידים הלבנים בפפסנתר. התייחסו לאוספים אלו לפי מספר הדיאזים והבמולים שהם מכילים: אוסף ה-"0-דיאז", אוסף ה-"1-דיאז", וכן הלאה. אוסף ה-"2-במול", לדוגמה, מכיל מחלקות גובה צליל (pitch classes) {F, G, A, B-flat, C, D, E-flat}.
 
-When these collections gain a tonic note, they morph into scales, which by tradition we name according to the “modal” system established in centuries ago. Seven unique scales can be formed from a single diatonic collection by taking each note of the collection and treating it as a tonic. Imagine the “0-sharp collection” which contains {C, D, E, F, G, A, B}: Ionian treats C as tonic, Dorian treats D as tonic, Phrygian treats E as tonic, Lydian treats F as tonic, Mixolydian treats G as tonic, Aeolian treats A as tonic, and Locrian treats B as tonic.
+כאשר אוספים אלו מקבלים צליל טוניקה (tonic), הם הופכים לסולמות (scales), אשר על פי המסורת אנו קוראים להם לפי המערכת "הממודלת" (modal) שנוסדה לפני מאות שנים. ניתן ליצור שבעה סולמות ייחודיים מאוסף דיאטוני יחיד על ידי לקיחת כל צליל של האوسف והתייחסות אליו כאל טוניקה. דמיינו את "אוסף ה-0-דיאז" (0-sharp collection) המכיל את {C, D, E, F, G, A, B}: איוניאן (Ionian) מתייחס אל C כאל טוניקה, דוריאן (Dorian) מתייחס אל D כאל טוניקה, פריגיאן (Phrygian) מתייחס אל E כאל טוניקה, לידיאן (Lydian) מתייחס אל F כאל טוניקה, מיקסולידיאן (Mixolydian) מתייחס אל G כאל טוניקה, אאוליאן (Aeolian) מתייחס אל A כאל טוניקה, ולוקריאן (Locrian) מתייחס אל B כאל טוניקה.
 
-##Pentatonic Collection##
+##אוסף פנטטוני (Pentatonic Collection)##
 
-*Pentatonic collections* are five-note *subsets* of the diatonic collection. Here’s a quick way to create a pentatonic collection: (1) List the notes of a major scale. (2) Remove scale degress 4 and 7. (E.g., the pentatonic collection {C,D,E,G,A} corresponds to scale degrees 1,2,3,5,6 of the C major scale.)
+*אוספים פנטטוניים* (Pentatonic collections) הם *תת-קבוצות* (subsets) בעלות חמישה תווים של האוסף הדיאטוני. הנה דרך מהירה ליצור אוסף פנטטוני (pentatonic collection): (1) רשמו את התווים של סולם מז'ור (major scale). (2) הסירו את דרגות הסולם (scale degrees) 4 ו-7. (לדוגמה, האוסף הפנטטוני {C,D,E,G,A} מתאים לדרגות הסולם 1, 2, 3, 5, 6 של סולם C מז'ור (C major scale)).
 
-Removing scale degrees 4 and 7 results in a collection with no half steps. As a result of its "halfsteplessness", any member of the collection easily functions as a tonal center.For example, given the 0-sharp pentatonic collection, there are five unique scales formed when each of the collection's pitch classes become a tonic: C pentatonic (C,D,E,G,A), D pentatonic (D,E,G,A,C), E pentatonic (E,G,A,C,D), and so on.
+הסרת דרגות הסולם 4 ו-7 מניבה אוסף ללא חצאי טונים (half steps). כתוצאה מ"חסרונם של חצאי טונים" (halfsteplessness) זה, כל איבר באוסף מתפקד בקלות כמרכז טונלות (tonal center). לדוגמה, בהינתן אוסף הפנטטוני עם דיאז אחד (0-sharp pentatonic collection), נוצרים חמישה סולמות ייחודיים כאשר כל אחת ממחלקות הגובה של האוסף הופכת לטוניקה: C פנטטוני (C, D, E, G, A), D פנטטוני (D, E, G, A, C), E פנטטוני (E, G, A, C, D), וכן הלאה.
 
-##Whole Tone Collection#
+##אוסף הטונים השלמים (Whole Tone Collection)##
 
-This is a group of notes generated entirely by whole tones: {0,2,4,6,8,10}, for example.
+זוהי קבוצת צלילים המופקת כולה על ידי טונים שלמים (whole tones): {0,2,4,6,8,10}, לדוגמה.
 
-There are only two unique *whole-tone* collections. WT0 contains the pitch classes {0,2,4,6,8,10} and WT1 contains the pitch classes {1,3,5,7,9,11}. We often refer to these as the “even” and “odd” whole-tone collections in reference to the parity (even or odd) of the integers in the collection.
+ישנם רק שני אוספים ייחודיים של צעדים שלמים (*whole-tone*). WT0 מכיל את מחלקות הצלילים {0,2,4,6,8,10} ו-WT1 מכיל את מחלקות הצלילים {1,3,5,7,9,11}. לעיתים קרובות אנו מתייחסים אליהם כאל אוספי הצעדים השלמים ה"זוגיים" (even) וה"אי-זוגיים" (odd), בהתייחס לפריות (זוגיות או אי-זוגיות) של המספרים השלמים באוסף.
 
-##Octatonic Collection##
+##אוסף אוקטטוני (Octatonic Collection)##
 
-Called octatonic because it has eight pitch classes, the *octatonic collection* is full of compositional potential and has been used by many composers to a variety of ends. An octatonic collection is easily generated by alternating half steps and whole steps. Using pitch class numbers, one example is {0,1,3,4,6,7,9,10}.
+הקבוצה האוקטטונית (*octatonic collection*), המכונה כך משום שיש בה שמונה מחלקות גובהליל, מלאה בפוטנציאל קומפוזיציוני ושודמשה על ידי מלחינים רבים למגוון מטרות. קבוצה אוקטטונית נוצרת בקלות על ידי סירוגין של חצאי טונים וטונים שלמים (whole steps). באמצעות מספרי מחלקות גובה-צליל (pitch class numbers), דוגמה אחת היא {0,1,3,4,6,7,9,10}.
 
-The interval content of this collection is very homogenous, and this intervallic consistency leads to one of its most interesting properties. When we transpose the above collection by 3—adding 3 to each of the integers in the collection—{0,1,3,4,6,7,9,10} becomes {3,4,6,7,9,10,0,1}. Comparing the two shows that these collections are exactly the same! In fact, you would come up with the same collection if you transposed it by 6 or 9 as well. 
+תוכן המרווחים (interval content) של אוסף זה הוא הומוגני מאוד, ועקביות מרווחית זו (intervallic consistency) מובילה לאחת התכונות המעניינות ביותר שלו. כאשר אנו מטרנספוזים (transpose) את האסף שלעיל ב-3 — כלומר מוסיפים 3 לכל אחד מהמספרים השלמים באוסף — {0,1,3,4,6,7,9,10} הופך ל-{3,4,6,7,9,10,0,1}. השוואה בין השניים מראה שאוספים אלו זהים לחלוטין! למעשה, הייתם מגיעים לאותו אוסף בדיוק אם הייתם מטרנספוזים אותו גם ב-6 או ב-9. 
 
-Olivier Messiaen called such collections “modes of limited transposition." (The whole-tone scale is also a mode of limited transposition.) And as a result of the property, there are only three unique octatonic collections. We name these arbitrarily as OCT(0,1) , OCT(1,2) , and OCT(2,3). The numbers to the right of “OCT” are pitch classes within that scale. (E.g., the {0,1,3,4,6,7,9,10} collection I discussed above is OCT(1,2).)
+אוליבייה מסיאן (Olivier Messiaen) כינה אוספים כאלו "מצבים בעלי העתקה מוגבלת (modes of limited transposition)." (סולם הטונים השלמים (whole-tone scale) הוא גם כן מצב בעל העתקה מוגבלת.) וכתוצאה מתכונה זו, ישנם רק שלושה אוספים אוקטטוניים (octatonic collections) ייחודיים. אנו קוראים להם באופן שרירותי OCT(0,1) , OCT(1,2) , ו-OCT(2,3). המספרים שמימין ל-"OCT" הם מחלקות גובה המնא בתוך אותו סולם. (לדוגמה, האוסף {0,1,3,4,6,7,9,10} שדנתי בו לעיל הוא OCT(1,2).)
 
-##Other Collections and Scales##
+##אוספים וסולמות אחרים (Other Collections and Scales)##
 
-There are many, many other collections and scales used by composers and musicians in the twentieth- and twenty-first centuries. Messiaen, for example, described five more [modes of limited transposition](http://en.wikipedia.org/wiki/Modes_of_limited_transposition), and there are other smaller collections that have the same property. [Acoustic scales](http://en.wikipedia.org/wiki/Acoustic_scale), formed from the first seven unique partials of the overtone series, are common in the music of Debussy, Bartok, and Crumb—ocassionally as a representation of nature. Jazz musicians have an entire set of scales used for improvisation. Non-Western musics often have unique systems of scales and collections, such as the rāgas used in Indian classical music.
+ישנם עוד אוספים וסולמות רבים מאד בשימוש מלחינים ומוזיקאים במאות העשרים והעשרים ואחת. מסייאן (Messiaen), לדוגמה, תיאר עוד חמישה [מצבים בעלי טרנספוזיציה מוגבלת](http://en.wikipedia.org/wiki/Modes_of_limited_transposition), וישנם אוספים קטנים יותר נוספים בעלי תכונה זו. [סולמות אקוסטיים (Acoustic scales)](http://en.wikipedia.org/wiki/Acoustic_scale), המורכבים משבעת ההרמוניות החלקיות הייחודיות הראשונות של טור האוברטונים (overtone series), נפוצים במוזיקה של דביסי (Debussy), בארטוק (Bartok) וקראמפ (Crumb) — לעיתים קרובות כייצוג של הטבע. למוזיקאי ג'אז יש מערכת שלמה של סולמות המשמשים לאלתור. למוזיקות לא-מערביות יש לעיתים קרובות מערכות ייחודיות של סולמות ואוספים, כגון הראגות (rāgas) המשמשות במוזיקה הקלאסית ההודית.
 
-More generally, any large set of pitch classes that form the basis for a passage may function as a collection, even if it has no familiar name. Most often, music theorists refer to these collections with pitch-class set notation.
+באופן כללי יותר, כל קבוצה גדולה של מחלקות גובה צליל המהווה את הבסיס לקטע עשויה לתפקד כאוסף (collection), גם אם אין לו שם מוכר. לרוב, תאורטיקנים של המוזיקה מתייחסים לאוספים אלו באמצעות סימון קבוצות מחלקות גובה צליל (pitch-class set notation).

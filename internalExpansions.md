@@ -3,43 +3,43 @@ layout: post
 title: Internal Expansions
 ---
 
-For historical reasons, and perhaps biological ones as well, the length of sub-phrases and phrases are generally duple. But plenty of classical music displays irregular lengths. This topic has been the subject of a great deal of musical theoretical exploration, for more than two centuries. Those interested will find a great deal more about *expansion* and *compression* in writings by William Rothstein, William Caplin, Janet Schmalfeldt, and Dinuta Mirka, among many others. 
+מסיבות היסטוריות, ואולי גם ביולוגיות, האורך של תת-משפטים (sub-phrases) ומשפטים הוא לרוב זוגي (duple). אך יצירות מוזיקליות קלאסיות רבות מציגות אורכים לא-סדירים. נושא זה היווה נושא למחקר תיאורטי-מוזיקלי רاب במשך למעלה ממאתיים שנה. המתעניינים ימצאו מידע רاب נוסף על *הרחבה* (*expansion*) ו*דחיסה* (*compression*) בכתביהם של ויליאם רותستين (William Rothstein), ויליאם קפלין (William Caplin), ג'נט שمالفلدت (Janet Schmalfeldt), ודינוטה מירקה (Dinuta Mirka), בין חוקרים בולטים רבים אחרים. 
 
-Here, we will concentrate on a simple, common type of expansion. These expansions occur when a sub-phrase or phrase is made larger through simple repetition *within itself.* Notably, irregular sub-phrase and phrase lenghts are not always the result of expansion. When in doubt, try to recompose the passage in question without destroying its melodic, harmonic, and motivic structure. If you can, there is a case to be made that an *expansion* is present.
+כאן, נתרכז סביב סוג פשוט ושכיח של הרחבה (Expansion). הרחבה זו מתרחשת כאשר תת-משפט (sub-phrase) או משפט (phrase) מוגדלים באמצעות חזרה פשוטה *בתוך עצמם*. יש לציין כי אורכי תת-משפט ומשפט בלתי סדירים אינם בהכרח תוצאה של הרחבה (expansion). כאשר יש ספק, נסו לחבר מחדש את הקטע הנדון מבלי לפגוע במבנה המלודי, ההרמוני והמוטיבי שלו. אם ביכולתכם לעשות זאת, יש בסיס לטעון שקיימת *הרחבה*.
 
-##Sub-phrase Expansion##
+##הרחבת תת-משפט (Sub-phrase Expansion)##
 
-When a two-measure basic idea or contrasting idea is expanded, it is most often accomplished through simple "echo repetition": a motive or other small melodic figure is repeated, either exactly or with simple embellishment, causing the overall length of the sub-phrase to be larger than the expected two measures.  
+כאשר רעיון בסיסי בן שתי תיבות או רעיון מנוגד (contrasting idea) מורחב, הדבר נעשה לרוב באמצעות "חזרת הד" (echo repetition) פשוטה: מוטיב או פדיגורה מלודית קטנה אחרת חוזרים על עצמם, إما بدقة או עם קישוט פשוט, מה הגורם לאורכו הכולל של תת-המשפט להיות גדול משתי התיבות הצפויות.  
 
-**Mozart’s Rondo in F, K. 494** 
+**רונדו ב-F מאת מוצרט, K. 494** 
 
 [![](Graphics/form/expansion.png)](Graphics/form/expansion.png)
 	
 <iframe src="https://embed.spotify.com/?uri=spotify:track:78LK9tbF0jwOd4PYtk42WD" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 	
-Mozart's Rondo in F begins with a simple period. A HC in m. 6 is followed by a consequent phrase that ends with a PAC in m. 12. The theme’s exceptional length is caused in part by an *expansion* of the initial basic idea: in m. 3, the piano repeats m. 2. One could imagine a simple recomposition of the passage, omitting m. 3, that would restore the sub-phrase to its normative length.
+הרונדו ב-F של מוצרט מתחיל בתקופה פשוטה (simple period). לאחר סיום מחצית (HC) בתיבה 6, מופיע משפט עוקב (consequent phrase) המסתיים בסיום אותנטי מושלם (PAC) בתיבה 12. אורכו החריג של הנושא נגרם בחלקו עקב *הרחבה* של הרעיון הבסיסי הראשוני: בתיבה 3, הפסנתר חוזר על תיבה 2. אפשר לדמיין הלחנה מחדש פשוטה של הקטע, המדלגת על תיבה 3, אשר תשיא את תת-המשפט לאורכו הנורמטיבי.
 
-The contrasting idea that comprises the three remaining measures of the antecedent phrase are different. While longer than we expect, it is *less clear* if its greater length is due to *expansion.* There is *no echo repetition,* for example. Perhaps Mozart made the contrasting idea three measures simply to match the expanded basic idea. Or, we might consider this a contrasting idea that has been expanded through "composed-out deceleration." Notice that the rhythmic values in the right hand slow markedly in m. 5. If they'd continued the steady stream of eighth notes from m. 4, the cadence could have been achieved a measure earlier.
+הרעיון המנוגד המורכב משלושת התיבות הנותרות של המשפט הקודם (antecedent phrase) שונה. בעוד שהוא ארוך ממה שאנו מצפים, *פחות ברור* אם אורכו הרב נובע מ*הרחבה.* אין למשל *חזרה של הד.* אולי מוצארט יצר את הרעיון המנוגד באורך של שלוש תיבות פשוט כדי להתאים לרעיון הבסיסי המורחב. לחלופין, אנו עשויים לראות בכך רעיון מנוגד שעבר הרחבה באמצעות "האטה מנוסחת" (composed-out deceleration). שימו לב כי הערכים הקצביים ביד ימין מאטים באופן ניכר בתיבה 5. אילו המשיכו ברצף יציב של שמיניות מתיבה 4, הקדנצה (cadence) הייתה יכולה להושג תיבה אחת קודם לכן.
 
-##Phrase Expansion##
+##הרחבת משפט (Phrase Expansion)##
 
-Like sub-phrase expansion, phrases are generally expanded through repetition. Most often, this repetition happens in the terminating phrase of a theme (either consequent or continuation). Such expansions are quite expressive because they delay the expected cadence.
+כמו הרחבת תת-משפט (sub-phrase expansion), משפטים מורחבים בדרך כלל באמצעות חזרה. לרוב, חזרה זו מתרחשת במשפט המסַיֵּם של נושא (בין אם הוא עוקב [consequent] ובין אם הוא המשך [continuation]). הרחבות כאלה הן בעלות הבעה רבה מכיוון שהן מעכבות את הקדנסה הצפויה.
 		
-**Beethoven, Piano Sonata, Op. 2, No. 3** 
+**בטהובן, סונאטה לפסנתר, אופ. 2, מס' 3** 
 [![](Graphics/form/cadentialDeferral.png)](Graphics/form/cadentialDeferral.png)
 	
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5wi0p2gHWFYSwnjgHSYEP3" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 	
-In this example, measure 1–8 create a sentence whose basic idea is fragmented in m. 5–6. At the moment of expected cadence in m. 8, an IAC emerges instead of a PAC. Subsequently, the entire continuation is repeated, thus *expanding* the continuation phrase to nine bars in total.
+דוגמה זו, תיבות 1–8 יוצרות משפט (sentence) אשר הרעיון הבסיסי (basic idea) שלו עובר מקטוע (fragmented) בתיבות 5–6. ברגע הקדנס הצפוי בתיבה 8, מופיע קדנס בלתי מושלם (IAC) במקום קדנס מושלם (PAC). בהמשך, כל ההמשך (continuation) חוזר על עצמו, ובכך *מִתְרַחֵב* (expanding) ביטוי ההמשך לתשעה תיבות בסך הכל.
 
-Note that it is lack of *satisfactory cadential closure* that gave rise to the expansion. This is the most common musical reason for phrase expansions. In addition to IACs, deceptive cadences can motivate expanded phrases, as well. In many other examples, an expected cadence never materializes at all. In these passages, the cadence has been *evaded.* When an evaded cadence is followed by the repetition of a phrase, the expansion is an example of what Janet Schmalfeldt has termed the "one more time" technique. 
+שימו לב כי חוסר ב*סיום קדנציאלי מספק* (satisfactory cadential closure) הוא שהוליד את ההרחבה. זוהי הסיבה המוזיקלית הנפוצה ביותר להרחבות תיבה (phrase expansions). בנוסף לקדנציות בלתי מושלמות (IACs), קדנציות מדמות (deceptive cadences) עשויצות להניע גם הן תיבות מורחבות (expanded phrases). בדוגמאות רבות אחרות, קדנציה מצופה אינה מתממשת כלל. בקטעים אלו, הקדנציה *נמנעה* (evaded). כאשר קדנציה נמנעת (evaded cadence) מלווה בחזרה על תיבה, ההרחבה מהווה דוגמה למה שג'נט שمالפלט כינתה טכניקת ה"עוד פעם אחת" ("one more time" technique). 
 
-**Mozart, Piano Sonata, Piano Sonata in C major, K. 309, iii**
+**מוצארט, סונאטה לפסנתר, סונאטה לפסנתר ב-C מז'ור, K. 309, פרק שלישי (iii)**
 
 [![](Graphics/form/phraseExpansion.png)](Graphics/form/phraseExpansion.png)
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:7DsGTbl7EABrY5GK6Dza9P" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-Following an 8-measure sentence ending with a half cadence, a parallel sentence begins in m. 9. We expect this sentence to conclude in m. 16 with a PAC, creating a large compound period. But the latter phrase *does not* end with a PAC. Rather, the expected cadence in m. 16 never materializes. Instead, the cadence is *evaded,* and the entire continuation phrase is repeated "one more time," concluding with a PAC in m. 19. 
+בעקבות משפט בן 8 תיבות המתיים בקדנציית מחצית (half cadence), משפט מקביל מתחיל בתיבה 9. אנו מצפים שמשפט זה יסתיים בתיבה 16 עם קדנציית סיום מושלמת (PAC), מה שייצור תקופה מורכבת (compound period) גדולה. אך הביטוי האחרון *אינו* מסתיים ב-PAC. במקום זאת, הקדנצייה הצפויה בתיבה 16 אינה מתממשת לעולם. תחת זאת, הקדנצייה *נמנעת*, וכל ביטוי ההמשך (continuation phrase) מנוגן שוב "פעם אחת נוספת", כשהוא מסתיים ב-PAC בתיבה 19. 
 
 

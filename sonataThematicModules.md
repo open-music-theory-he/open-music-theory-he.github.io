@@ -3,60 +3,60 @@ layout: post
 title: Sonata form – thematic modules
 ---
 
-The four thematic modules that comprise a typical sonata exposition (P, TR, S, and C) create a thematic rotation that is found again in the recapitulation and often referenced in the development.
+ארבעת המודולים התמטיים המרכיבים אקספוזיציית סונטה טיפוסית (P, TR, S ו-C) יוצרים רוטציה תמטית (thematic rotation) הנמצאת שוב ברקפיטולציה (recapitulation) ולעתים קרובות מקבלת התייחסות בפיתוח (development).
 
-## Primary theme module (P)
+## מודול הנושא הראשי (Primary theme module - P)
 
-The P theme has several functions: (1) establish the home key, (2) present the primary melodic material to begins the thematic cycle, and (3) begin the motion toward the MC and the EEC.
+לנושא P יש מספר תפקידים: (1) לבסס את סולם הבית (home key), (2) להציג את החומר המלודי העיקרי שמתחיל את המחזור התמטי, ו-(3) להתחיל את התנועה לעבר ה-MC וה-EEC.
 
-Most often a P theme is harmonically closed, ending with a I:PAC or, less typically, with a I:HC. (In smaller sonatas, P might be a single phrase (antecedent or presentation) that does not end with a cadence.) When a P theme ends with a PAC and is followed by another theme also ending with a PAC, the P module contains a "primary theme group." The themes in a primary theme group are differentiated with subscripts: P1 and P2.
+לרוב, נושא P סגור הרמונית, ומסתיים ב-I:PAC או, בפחות טיפוסיות, ב-I:HC. (בסונטות קטנות יותר, P עשוי להיות תיבה (phrase) בודדת (antecedent או presentation) שאינה מסתיימת בקדנצה.) כאשר נושא P מסתיים ב-PAC ואחריו מופיע נושא נוסף המסתיים גם הוא ב-PAC, מודול ה-P מכיל "קבוצת נושאים ראשית" ("primary theme group"). הנושאים בקבוצת נושאים ראשית נבדלים זה מזה באמצעות אותיות עיליות תחתונות (subscripts): P1 ו-P2.
 
-A P theme may exhibit any [standard theme type](classicalThemes.html) (sentence, period, hybrid, compound), though sentences are more common. Typically, a P theme is relatively "tight-knit" as compared to other thematic modules, containing a more straightforward presentation of tonic and less phrase deviations.
+נושא P עשוי להציג כל [סוג נושא סטנדרטי](classicalThemes.html) (משפט (sentence), תקופת (period), היברידי (hybrid), מורכב (compound)), אם כי משפטים נפוצים יותר. באופן טיפוסי, נושא P הוא "מהודק" יחסית (tight-knit) בהשוואה למודולים תמטיים אחרים, והוא מכיל הצגה ישירה יותר של הטוניקה ופחות סטייה ממבנה התיבות (phrase deviations).
 
-**Transition module (TR)**
+**מודול מעבר (Transition module (TR))**
 
-The TR module's principal functional role is to drive toward the MC that marks its end. This is both a harmonic motion and a rhetorical motion, characterized by _energy gain_. An analysis of a TR module should center around the MC and how the composer approaches it
+התפקיד הפונקציונלי העיקרי של מודול ה-TR (TR module) הוא לנוע לעבר ה-MC המסמן את סיומו. זוהי תנועה הרמונית ורטורית כאחד, המאופיינת ב_צבירת אנרגיה_ (energy gain). ניתוח של מודול TR צריך להתמקד סביב ה-MC ובאופן שבו המלחין ניגש אליו.
 
-*Harmonic motion*
+*תנועה הרמונית (Harmonic motion)*
 
-In a sonata, a transition may be "modulating" or "non-modulating." A non-modulating TR will lead to a I:HC MC, while a modulating TR leads to a V (or III): HC MC.
+בסונטה, מעבר (transition) עשוי להיות "ממודול" (modulating) או "לא-ממודול" (non-modulating). מעבר (TR) לא-ממודول יוביל אל I:HC MC, בעוד שמעבר (TR) ממודול יוביל אל V (או III): HC MC.
 
-*Melodic/motivic characteristics*
+*מאפיינים מלודיים/מוטיביים (Melodic/motivic characteristics)*
 
-We will follow Hepokoski & Darcy's practice of locating the beginning of TR at the start of a phrase. In general, once you hear TR function clearly projected, track back to the beginning of that phrase and label it the beginning of TR. Unlike primary themes, transitions are much "looser" thematically. This module of the sonata is often associated with phrase [expansions](internalExpansions.html) and compression. More generally, anything that can be associated with [*continuation function*](sentence.html) fits transition function, as well: fragmentation, liquidation, acceleration of melodic or harmonic rhythm, etc.
+אנו נעקוב אחר הפרקטיקה של הפוקוסקי ודארسي (Hepokoski & Darcy) במיקום תחילת המעבר (TR) בראשיתה של תיבת נגינה או משפט. באופן כללי, מרגע שאתם שומעים תפקוד מעבר (TR function) המשודר בברור, חזרו לאחור אל תחילת אותו משפט וסמנו אותו כתחילת המעבר (TR). בניגוד לנושאים ראשיים (primary themes), מעברים (transitions) הם הרבה יותר "משוחררים" מבחינה תמתית. מודולה זו של סונטה מקושרת לעיתים קרובות עם [הרחבות](internalExpansions.html) משפט (phrase expansions) ודחיסה. באופן כללי יותר, כל דבר שניתן לקשרו עם [*תפקוד המשך* (*continuation function*)](sentence.html) מתאים גם לתפקוד מעבר (transition function): פרגמנטציה (fragmentation), ליקוידציה (liquidation), האצה של קצב מלודי או הרמוני, וכו'.
 
-Melodically, we classify transitions as (1) _independent_, or (2) _dissolving_.
+מבחינה מלודית, אנו מסווגים מעברים כ-(1) עצמאיים (_independent_), או (2) מתמוססים (_dissolving_).
 
-An _independent TR_ begins with new thematic material. In other words, it is not P-based.
+מעבר עצמאי (_independent TR_) מתחיל בחומר תמטי חדש. במילים אחרות, הוא אינו מבוסס על P (P-based).
 
 _Dissolving TR_ modules all take some part of the P theme and dissolve, degenerate, or liquidate as the module gains energy and moves toward the MC.
 
-* In the case of a _dissolving_ restatement, P ends and then seems to begin again. This restatement of P dissolves into TR function, and we can subsequently reinterpret the whole theme as a dissolving-restatement type of TR.
-* In a _dissolving_ consequent, continuation, or hybrid, the P module will consist of the opening phrase of a theme, and the closing phrase of the theme will begin as usual but degenerate into TR.
-* A _dissolving_ P-codetta will introduce post-cadential material to reinforce the cadence at the end of P, and that post-cadential material will dissolve into TR rhetoric.
+* במקרה של הצגה חוזרת *מתמוסسة*, P מסתיים ואז לכאורה מתחיל מחדש. הצגה חוזרת זו של P מתמוסسة לתוך תפקוד TR, ובהמשך אנו יכולים לפרש מחדש את הנושא כולו כטיפוס של הצגה חוזרת מתמוסسة (dissolving-restatement) של TR.
+* ב*התמוססות* (dissolving) של תוצאה (consequent), המשך (continuation), או היבריד, מודול ה-P יורכב מפתיחת התיבה של נושא, והתיבה הסוגרת של הנושא תתחיל כרגיל אך תתדרדר לתוך TR (TR).
+* P-קודה-קטנה (*P-codetta*) *מתמוססת* (*dissolving*) תציג חומר פוסט-קאדנציאלי כדי לחזק את הקאדנס בסוף P, וחומר פוסט-קאדנציאלי זה יתרסק אל תוך רטוריקת TR (TR rhetoric).
 
-In the following example from Beethoven's Piano Sonata in G minor, Op. 49, No. 1, a III: HC MC is clearly found in m. 15 and coincides with the structural HC. Backtracking, notice the continuational characteristics at m. 12 which indicate that the transition must begin at m. 9. (Remember, we always begin a transition at the _start _of a phrase.) Both the primary theme and transition begin with the same presentation, and therefore, this is a _modulating_, _dissolving_ transition. As a listener, we will likely not realize that the transition is a transition until we reach m. 12, where the continuation begins to project characteristics associated with TR.
+בקטע הבא מתוך סונאטה לפסנתר ב-G מינור מאת בטהובן, אופוס 49, מספר 1, נמצא בבירור מבנה של קדנצה חצי-אוטנטיקת מעבר (III: HC MC) בתיבה 15, והוא חופף לקדנצה החצי-אוטנטיקת המבנית (structural HC). בבדיקה לאחור, שימו לב למאפיינים ההמשכיים בתיבה 12, המעידים כי המעבר חייב להתחיל בתיבה 9. (זכרו, אנו תמיד מתחילים מעבר ב_תחילת_ של משפט). הן הנושא הראשי (primary theme) והן המעבר מתחילים באותה הצגה (presentation), ולכן זהו מעבר _ממודול_ (_modulating_), _מתמוסס_. כמאזנים, סביר להניח שלא נבין שהמעבר אכן מתפקד כמעבר עד שנגיע לתיבה 12, שבה ההמשך מתחיל לשקף מאפיינים המזוהים עם TR.
 
 
-**Beethoven, Piano Sonata in G minor, Op. 49, No. 1, i**
+**בטהובן, סונאטה לפסנתר ב-G מינור, אופ. 49, מס' 1, פרק ראשון**
 
 [![](Graphics/postTonal/TR.png)](Graphics/postTonal/TR.png)
 <iframe src="https://embed.spotify.com/?uri=spotify:track:5NSEaoEaSNdD3XQM54e0C6" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-**Subordinate theme module (S)**
+**מודול נושא משנה (Subordinate theme module (S))**
 
-The chief function of _S_, which is in the subordinate key of the sonata, is to lead to a PAC in that key—the _essential expositional closure (EEC)_. Because of its role in relation to this central harmonic event (and its corresponding cadence in the recapitulation, the ESC), the S module is of immense importance and interest in a sonata-form movement. Hepokoski and Darcy go so far as to say that "what happens in S makes a sonata a sonata" (p. 117). Because the EEC is of such structural importance, its arrival is often delayed and dramatized to a great degree.
+התפקיד העיקרי של _S_, הנמצאת בסולם המשני של הסונטה, הוא להוביל למהלך סיום אותנטי מושלם (PAC) בסולם ההוא — _סגירת האקספוזיציה החיונית (essential expositional closure - EEC)_. בשל תפקידה ביחס לאירוע הרמוני מרכזי זה (וקדנציית ההקבלה שלו ברקפיטולציה, ה-ESC), מודול ה-S הוא בעל חשיבות ועניין עצומים בפרק במבנה סונטה (sonata-form movement). הפוקווסקי ודארסי (Hepokoski and Darcy) ממשיכים לכתוב עד כדי כך ש"מה שקורה ב-S עושה את הסונטה לסונטה" (עמ' 117). מכיוון של-EEC חשיבות מבנית רבה כל כך, הגעתה מﺋוהבת פעמים רבות ומקבלת אופי דרמטי במידה רבה.
 
-Thematically, the S theme is much looser than the P theme. It is typical to find extended continuations and expanded cadential passages, all as a means towards dramatizing the eventual arrival at the EEC.
+מבחינה תמתית, תמת ה-S משוחרرة הרבה יותר מתמת ה-P. אופייני למצוא בה המשכיות מורחבת (extended continuations) ומעברים קדנציאליים מורחבים (expanded cadential passages), כל זאת כאמצעי להעצמה דרמטית של הגעתה הצפויה אל ה-EEC.
 
-It is important to note that new melodic material _is not_ a requirement of S. In fact, many sonatas–especially those composed by Haydn–have S themes that resemble the P theme. (These are called mono-thematic sonatas.)
+חשוב לציין שחומר מלודי חדש _אינו_ דרישה עבור S. למעשה, סונטות רבות – במיוחד אלו שהולחנו על ידי היידן – כוללות נושאי S הדוומים לנושא הP. (סונטות אלו נקראות סונטות מונו-תמטיות (mono-thematic sonatas).)
 
-**Closing module (C)**
+**מודול סיום (Closing module - C)**
 
-The definitive characteristics of C are that it follows the EEC, and that it is not S. C modules can present wholly new thematic material, or they can borrow from P or TR. They cannot, by definition, be S-based, since that would be a continuation of S. (Keep in mind that the EEC must go on to new material, otherwise the S module continues and the EEC has not been reached yet.)
+המאפיינים המובהקים של C הם שהיא עוקבת אחר ה-EEC (Essential Expositional Closure), ושאינה S (Secondary theme). מודולים של C עשויים להציג חומר תემაти (thematic material) חדש לחלוטין, או שהם יכולים לשאול מ-P (Primary theme) או מ-TR (Transition). מגדרה, הם אינם יכולים להיות מבוססים על S, מכיוון שדבר כזה מהווה המשך של S. (יש לזכור שה-EEC חייבת להמשיך לחומר חדש, אחרת מודול ה-S נמשך וה-EEC טרם הושגה.)
 
-The C module will always be in the secondary key. It is post-cadential, and the harmonic goal of the exposition has already been reached. If C goes somewhere else, it is not C.
+מודול ה-C תמיד יהיה בסולם המשני (secondary key). הוא פוסט-קדנציאלי (post-cadential), והיעד ההרמוני של האקספוזיציה כבר הושג. אם C עובר למקום אחר, הוא אינו C.
 
-**Retransition (RT)**
+**מעבר חוזר (Retransition (RT))**
 
-A retransition is like a _turnaround_ in pop/rock or blues music. It is a dominant chord or arrival in the home key that prepares the return to the home key at the beginning of the repeat of the exposition. The difference between an RT and a turnaround is that an RT follows a modulation. When the RT follows a secondary key of V, it turns I in the key of V into V into the key of I by repetition, melodic figuration, or the adding of a chordal seventh.
+מעבר מחדש (retransition) הוא כמו _טרנראונד_ (turnaround) במוזיקת פופ/רוק או בלוז. זהו אקורד דומיננטי או הגעה לסולם הביתי המכינים את החזרה לסולם הביתי בתחילת החזרה על האקספוזיציה. ההבדל בין מעבר מחדש (RT) לבין טרנראונד הוא שמעבר מחדש (RT) עוקב לאחר מודולציה (modulation). כאשר המעבר מחדש (RT) עוקב אחרי סולם משני של V, הוא הופך את I בסולם של V ל-V בסולם של I באמצעות חזרה, פיגורציה מ멜ודית (melodic figuration), או הוספת ספטקורד (chordal seventh).

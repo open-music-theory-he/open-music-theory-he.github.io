@@ -3,14 +3,14 @@ layout: post
 title: Realizing an unfigured bass line
 ---
 
-To realize an unfigured bass, first determine the harmonic functions projected by the scale-degree progression in the bass. Then choose figures for each bass note consistent with those functions. Lastly, realize the resulting figured bass according to the usual procedures.
+כדי לממש בס לא-ממוספר (unfigured bass), יש לקבוע תחילה את התפקודים ההרמוניים (harmonic functions) המשתקפים מהמהלך של דרגות הסולם (scale-degree progression) בבס. לאחר מכן, יש לבחור סימוני תינון (figures) לכל תו בס התואמים לתפקודים אלו. לבסוף, יש לממש את הבס הממוספר (figured bass) המתקבל בהתאם לנוהלי הביצוע הרגילים.
 
 <iframe src="http://player.vimeo.com/video/48673007" width="500" height="375" class="aligncenter" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/><br/>
 
 
-The following chart provides the most common functions for each diatonic scale degree and the most common figures for each functional bass type. Keep in mind that once you have determined the functional progression, you may change the specific figures to smooth out the voice leading in the final realization.
+הטבלה הבאה מספקת את התפקודים (functions) הנפוצים ביותר עבור כל דרגה בסולם דיאטוני (diatonic scale degree) ואת הסיمולים הנפוצים ביותר עבור כל טיפוס בס באס תפקודי (functional bass type). זכרו כי מרגע שקבעćם את המהלך התפקודי (functional progression), ביכולתכם לשנות את הסימולים הספציפיים כדי להחלק את הולכת הקולות (voice leading) במימוש (realization) הסופי.
 
 ![][figs]
-[*View chart full size.*][figs]
+[*הצג את התרשים בגודל מלא.*][figs]
 
 [figs]: Graphics/defaultFigures.png

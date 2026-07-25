@@ -7,57 +7,57 @@ title: Introduction to galant schemata
 ================
 
 
-*Schemata* (pl. of *schema*) are "stock musical phrases employed in conventional sequences" (Gjerdingen 2007, p. 6). We can apply the term *schema* in three specific ways. First, a schema is a *prototype*—an idealized version of a common pattern. Second, a schema can be an *exemplar*—a single pattern that resembles the prototype. Third, a schema can be a *theory*—an explanation of a commonly occurring musical event. All of these ideas go into how we understand schemata. We understand an individual pattern (exemplar) as a version of an ideal general pattern (prototype), and that relationship helps us understand how that pattern is functioning within a particular passage of music (theory).
+*Schemata* (צורת הרבים של *schema*) הם "ביטויים מוזיקליים שגורים המשמשים ברצפים קונבנציונליים" (Gjerdingen 2007, עמ' 6). אנו יכולים להחיל את המונח *schema* בשלוש דרכים ספציפיות. ראשית, *schema* הוא *אב-טיפוס* (prototype) — גרסה אידיאלית של תבנית נפוצה. שנית, *schema* יכול להיות *דוגמה* (exemplar) — תבנית בודדת הדומה לאב-הטיפוס. שלישית, *schema* יכול להיות *תיאוריה* (theory) — הסבר לאירוע מוזיקלי המתרחש בשכיחות גבוהה. כל הרעיונות הללו משתלבים באופן שבו אנו מבינים *schemata*. אנו מבינים תבנית בודדת (דוגמה) כגרסה של תבנית כללית אידיאלית (אב-טיפוס), ומערכת יחסים זו מסייעת לנו להבין כיצד אותה תבנית מתפקדת בתוך קטע מוזיקלי מסוים (תיאוריה).
 
-That latter point is significant. Like harmonic functions and formal functions, schemata have both internal defining characteristics *and* normative placements within a series of musical events. Just as identifying and interpreting the function of a particular chord involves taking an inventory of its internal characteristics (the scale degrees present) and its location in the phrase, identifying and interpreting a particular schema will involve noting both its internal characteristics and what comes before and after it. And just like a chord can project a particular harmonic function without containing every scale degree associated with that function, a phrase or sub-phrase can project the identity and function of a particular schema without possessing every defining characteristic of the schema. (In other words, not every exemplar could stand as a prototype.)
+הנקודה האחרונה הזו היא משמעותית. בדומה לפונקציות הרמוניות (harmonic functions) ופונקציות צורניות (formal functions), לסכימות (schemata) יש גם מאפיינים מגדירים פנימיים *וגם* מיקומים נורמטיביים בתוך רצף של אירועים מוזיקליים. בדיוק כפי שזיהוי ופרשנות של פונקציה של אקורד מסוים כרוכים בעריכת מלאי של מאפייניו הפנימיים (דרגות הסולם הקיימות בו) ומיקומו בתוך המשפט, זיהוי ופרשנות של סכימה מסוימת יכללו התייחסות הן למאפייניה הפנימיים והן למה שבא לפניה ואחריה. ובדיוק כפי שאקורד יכול להקרין פונקציה הרמונית מסוימת מבלי להכיל כל דרגת סולם המשויכת לאותה פונקציה, משפט או תת-משפט יכולים להקרין את הזהות והפונקציה של סכימה מסוימת מבלי להחזיק בכל מאפיין מגדיר של הסכימה. (במילים אחרות, לא כל דוגמה יכולה לעמוד כאב-טיפוס).
 
-The remainder of this article provides the defining characteristics of a number of schemata common to *galant*, or Classical, music of eighteenth-century European court life, as well as their typical placement in "conventional sequences." The names and descriptions of the schemata follow Gjerdingen's names and descriptions, which were often, in turn, based on the work of theorists like Joseph Riepel. I also frequently connect Gjerdingen's descriptions to formal functions from William Caplin's *Classical Form*. For more detail or examples, please consult those two sources.
+המשך מאמר זה מספק את המאפיינים המגדירים של מספר סכימות הנפוצות במוזיקה ה*גאלאנטית* (galant), או הקלאסית, של חיי החצר האירופיים במאה השמונה-עשרה, וכן את מיקומן הטיפוסי ב"רצפים מוסכמים" (conventional sequences). שמות הסכימות ותיאוריהן עוקבים אחר השמות והתיאורים של ג'רדינגן (Gjerdingen), אשר בתורם התבססו לעיתים קרובות על עבודתם של תיאורטיקנים כמו יוזף ריפל (Joseph Riepel). כמו כן, אני מקשר לעיתים קרובות את תיאוריו של ג'רדינגן לתפקודים צורניים מתוך ספרו של ויליאם קפלין (William Caplin), *צורה קלאסית* (*Classical Form*). לפרטים נוספים או לדוגמאות, אנא עיינו בשני מקורות אלו.
 
-# Prinner #
+# פרינר (Prinner) #
 
-The *Prinner* is incredibly common in *galant* music, and it is typically a response to an opening schema. It often occurs in a *sentence* or a *hybrid* theme type as the *continuation* phrase.
+ה-*Prinner* נפוץ להפליא במוזיקה *גאלאנטית*, והוא מהווה בדרך כלל מענה לסכימת פתיחה. הוא מופיע לעיתים קרובות בתוך סוג נושא של *משפט* (sentence) או *נושא היברידי* (hybrid) כביטוי ה-*המשך* (continuation).
 
-The Prinner has four parts corresponding to four bass notes: *fa* – *mi/me* – *re* – *do*. The skeleton of the Prinner's melody typically accompanies the bass in parallel tenths: *la/le* – *sol* – *fa* – *mi/me*. Harmonically, the *fa* and *do* bass notes tend to take chords of the fifth, and the two middle bass notes, *mi/me* and *re*, tend to take chords of the sixth. Often the *re*'s chord is embellished by a 7–6 suspension in an inner voice.
+ה-Prinner מורכב מארבעה חלקים התואמים לארבעה צלילי בס: *פה* – *מי/מה* – *רה* – *דו*. השלד של מלודית ה-Prinner מלווה בדרך כלל את הבס בטרצות מקבילות (parallel tenths): *לה/לה* – *סול* – *פה* – *מי/מה*. מבחינה הרמונית, צלילי הבס *פה* ו-*דו* נוטים לקבל אקורדים של קווינטה, ושני צלילי הבס האמצעיים, *מי/מה* ו-*רה*, נוטים לקבל אקורדים של סקסטה. לעיתים קרובות, האקורד של ה-*רה* מעוטר על ידי השהיית 7–6 בקול פנימי.
 
-Some Prinner exemplars insert a *sol* bass note before the last chord, resulting in an authentic cadence: **D5–T1**. Non-modulating Prinners that operate as continuation phrases often contain this move in order to end the sentence or hybrid theme satisfactorily.
+חלק מהדוגמאות ל-Prinner משלבות תו בס במדרגה *סול* (Sol) לפני האקורד האחרון, מה שמוביל לקדנצה אותנטית: **D5–T1**. מבני Prinner ללא מודולציה (Non-modulating) המתפקדים כמשפטי המשך (continuation phrases) מכילים לעיתים קרובות מהלך זה כדי לסיים את המשפט או את הנושא ההיברידי (hybrid theme) בצורה מספקת.
 
-Non-modulating Prinners imply *modulating Prinners*. Indeed, the Prinner pattern is often found transposed up a fifth in order to effect a modulation to the dominant of the original key. This modulation is accomplished by a simple transposition. When transposed up a fifth, the first stage of the Prinner (chord of the fifth on *fa*) is the tonic of the home key (chord of the fifth, now on *do*), making a smooth transition. These modulating Prinners are used in sentence or hybrid themes either to modulate to the dominant key or to effect a strong half cadence. They also commonly appear at the beginning of the *Transition (TR)* zone in a sonata movement, effecting the same move to the dominant.
+"פרינרים" ללא מודולציה מרמזים על *פרינרים מודולטוריים (modulating Prinners)*. אכן, תבנית הפרינר נמצאת לעיתים קרובות בטרנספוזיציה של קווינטה אחת למעלה על מנת להוציא לפועל מודולציה לדומיננטה של הסולם המקורי. מודולציה זו מושגת באמצעות טרנספוזיציה פשוטה. כאשר מתבצעת טרנספוזיציה של קווינטה אחת למעלה, השלב הראשון של הפרינר (אקורד של קווינטה על *פה*) הוא הטוניקה של סולם הבית (אקורד של קווינטה, כעת על *דו*), מה שיוצר מעבר חלק. פרינרים מודולטוריים אלו משמשים בנושאים מסוג משפט או נושאים היברידיים, בין אם כדי לבצע מודולציה לסולם הדומיננטה ובין אם כדי להוציא לפועל קדנצה חצויה (half cadence) חזקה. הם מופיעים גם באופן שכיח בתחילת אזור ה-*Transition (TR)* בפרק סונטה, ומבצעים את אותו המהלך אל הדומיננטה.
 
-# Fonte #
+# מקור #
 
-A *Fonte* (It. for "fountain" or "well"—think *going down*) is a common pattern to begin the *contrasting middle* of a small ternary form. In other words, it follows the double-bar in a minuet, minuet trio, or rounded-binary theme. A Fonte is a *model/sequence* schema: a two-bar pattern is immediately repeated one step lower than the original.
+ה-*Fonte* (באיטלקית: "מזרקה" או "באר" — חשבו על *ירידה*) הוא תבנית נפוצה לפתיחת ה-*contrasting middle* (אמצע מנוגד) של צורה טרנארית קטנה (small ternary form). במילים אחרות, הוא מופיע לאחר קו התיבה הכפול (double-bar) במנואט, בטריו של מנואט, או בנושא במבנה בינארי מעוגל (rounded-binary). ה-*Fonte* הוא סכימת *model/sequence* (מודל/רצף): תבנית של שתי תיבות החוזרת מיד בדרגה אחת נמוך יותר מהמקור.
 
-Harmonically, the first two-bar unit (the *model*) contains two chords, one per bar: an applied dominant chord, and the tonicized chord to which the applied dominant points. The most common chord pattern for the Fonte's model is **D7/II T1/II** *of the home key*, with the **D7** being a chord of the sixth and the **T1** being a chord of the fifth. (Other "inversions" are possible, such as **D4/II T3/II**.) When the model composes out **D7/II II**, the sequence will transpose it down to tonic: **D7 T1** *of the home key*.
+מבחינה הרמונית, יחידת שתי התיבות הראשונה (ה*מודל*) מכילה שני אקורדים, אחד לכל תיבה: אקורד דומיננטה מושאלת (applied dominant chord), והאקורד המטוּנֶה (tonicized chord) שאליו מצביעה הדומיננטה המושאלת. תבנית האקורדים הנפוצה ביותר עבור המודל של ה-Fonte היא **D7/II T1/II** *של הסולם הראשי*, כאשר ה-**D7** הוא אקורד סקסטה (chord of the sixth) וה-**T1** הוא אקורד קווינטה (chord of the fifth). ("היפוכים" אחרים אפשריים, כגון **D4/II T3/II**.) כאשר המודל מפתח את **D7/II II**, הרצף יבצע לו טרנספוזיציה כלפי מטה אל הטוניקה: **D7 T1** *של הסולם הראשי*.
 
-As an example, the functional-bass analysis of a typical Fonte in a small ternary whose home key is G major looks like:
+כדוגמה, ניתוח פונקציונלי של הבס (functional-bass analysis) של Fonte טיפוסי במבנה טרנרי קטן (small ternary) שהסולם הביתי שלו הוא G מז'ור, נראה כך:
 
-![Haydn, Piano Sonata in G Major, Hob.XVI:27, III., mm. 9–12.][Haydn27]
+![היידן, סונטה לפסנתר בסול מז'ור, Hob.XVI:27, פרק שלישי, תיבות 9–12.][Haydn27]
 
-Note the non-cadential progressions, **D7–T1**. Normally such progressions would need to be interpreted as prolonging a tonal function (i.e., tonic function), which would be difficult to interpret here. Schemata often contain such progressions. Simply analyze the chords individually and label the schema, rather than trying to interpret these progressions as prolongational. (Indeed, they are not.)
+שימו לב למהלכים שאינם קדנציאליים, **D7–T1**. בדרך כלל, מהלכים כאלה היו דורשים פרשנות כהארכה של פונקציה טונאלית (כלומר, פונקציית טוניקה), דבר שיהיה קשה לפרש כאן. סכמות (Schemata) מכילות לעיתים קרובות מהלכים כאלה. פשוט נתחו את האקורדים בנפרד ותייגו את הסכמה, במקום לנסות לפרש את המהלכים הללו כהארכה (Prolongation). (למעשה, הם אינם כאלה.)
 
-A common model for a minuet containing a Fonte is as follows:
+מודל נפוץ עבור מינואט (minuet) המכיל פונטה (Fonte) הוא כדלקמן:
 
-||: EXPOSITION ending with V:PAC :||: Fonte - phrase ending with I:HC – RECAPITULATION :||
+||: אקספוזיציה (Exposition) המסתיימת ב-V:PAC :||: פונטה - משפט המסתיין ב-I:HC – רפריזה (Recapitulation) :||
 
-The Fonte is a quick and easy way for a composer to transition from the key of the dominant (where a major-key minuet's exposition cadences immediately before the double-bar) to the key of the tonic. It will usually be followed by a phrase that stands on or moves to the dominant of the home key. The half cadence or *dominant arrival* at the end of that phrase will prepare for the return to the opening material in the home key, the *recapitulation* of the minuet or small ternary.
+ה-Fonte היא דרך מהירה וקלה עבור מלחין לעבור מסולם הדומיננטה (שבו האקספוזיציה של מינואט בסולם מז'ורי מסתיימת בקדנצה מיד לפני קו התיבה הכפול) לסולם הטוניקה. לרוב יבוא אחריה משפט מוזיקלי שעומד על הדומיננטה של סולם הבית או נע אליה. הקדנצה החצויה (Half cadence) או *ההגעה לדומיננטה* (*dominant arrival*) בסוף אותו משפט יכינו את הקרקע לחזרה לחומר המוזיקלי הפותח בסולם הבית, ה-*רפריזה* (*recapitulation*) של המינואט או של המבנה הטרינרי הקטן.
 
-# Monte #
+# מונטה #
 
-A *Monte* (It. for "mountain"—think *going up*) functions similarly to a Fonte. It typically occurs as part of the *contrasting middle* section of a minuet or other small ternary, it is a model/sequence schema, and it involves an applied chord resolving to a tonicized chord—typically a **D7 T1** pattern. The difference is that where a Fonte goes *down* (**D7/II T1/II D7 T1**), a Monte goes *up* (**D7/IV T1/IV D7/V T1/V**). And where a Fonte is almost exclusively four bars long (one model followed by one transposed repetition), a Monte sometimes extends to six or more bars (one model followed by one *or more* transposed repetitions).
+*Monte* (באיטלקית: "הר" — חשבו על *עלייה*) מתפקד בדומה ל-Fonte. הוא מופיע בדרך כלל כחלק מהחלק ה*אמצעי המנוגד* (contrasting middle) של מינואט או מבנה טרנרי (ternary) קטן אחר, הוא מהווה סכימת מודל/רצף (model/sequence schema), והוא כולל אקורד מושאל (applied chord) הנפתר לאקורד מטוּנֶה — בדרך כלל תבנית **D7 T1**. ההבדל הוא שבעוד ש-Fonte יורד (**D7/II T1/II D7 T1**), ה-Monte עולה (**D7/IV T1/IV D7/V T1/V**). ובעוד ש-Fonte הוא כמעט תמיד באורך של ארבע תיבות (מודל אחד ואחריו חזרה אחת בטרנספוזיציה), ה-Monte מתארך לעיתים לשישה תיבות או יותר (מודל אחד ואחריו חזרה אחת *או יותר* בטרנספוזיציה).
 
-# Ponte #
+# גשר (Ponte) #
 
-A *Ponte* (It. for "bridge") was another common schema for the *contrasting middle* of a minuet. Unlike the Fonte and the Monte, the Ponte need not be a model/sequence schema. It effects *delay* rather than *motion*. A Ponte typically functions like what Caplin calls *standing on the dominant*. The exposition of the major-key minuet will end with a PAC in the dominant of the home key. When a Ponte follows that cadence, it holds onto that **T1/V**, heightens tension melodically, and often adds a seventh to the chord (making it D5 of the home key). A passage built on a Ponte does not have a cadence, since there is no harmonic progression, but instead ends with a punctuated dominant chord in the home key, which Caplin calls a *dominant arrival* rather than a half cadence. This dominant arrival prepares the return of the home key and the opening basic idea that come at the minuet's recapitulation.
-
-
-
-[lots more schemas coming in time]
+*Ponte* (באיטלקית: "גשר") היה סכימה נפוצה נוספת עבור ה-*contrasting middle* (אמצע מנוגד) של מינואט. בניגוד ל-Fonte ול-Monte, ה-Ponte אינו חייב להיות סכימה של מודל/רצף (model/sequence). הוא יוצר *עיכוב* (delay) במקום *תנועה* (motion). ה-Ponte מתפקד בדרך כלל בדומה למה שקפלין (Caplin) מכנה *עמידה על הדומיננטה* (standing on the dominant). האקספוזיציה של מינואט בסולם מז'ור תסתיים ב-PAC בדומיננטה של סולם הבית. כאשר Ponte עוקב אחר קדנצה זו, הוא נאחז ב-**T1/V** הזה, מגביר את המתח המלודי, ולעיתים קרובות מוסיף ספטימה לאקורד (מה שהופך אותו ל-D5 של סולם הבית). מעבר הבנוי על Ponte אינו כולל קדנצה, שכן אין בו מהלך הרמוני, אלא הוא מסתיים באקורד דומיננטי מודגש בסולם הבית, שקפלין מכנה *הגעה לדומיננטה* (dominant arrival) ולא קדנצה חצויה. הגעה דומיננטית זו מכינה את החזרה לסולם הבית ואת הרעיון הבסיסי הפותח המופיעים ברפריזה (recapitulation) של המינואט.
 
 
-# References #
 
-Caplin, William. *Classical Form*. Oxford University Press, 2000.
+[עוד סכימות רבות יגיעו עם הזמן]
 
-Gjerdingen, Robert O. *Music in the Galant Style*. Oxford University Press, 2007.
+
+# מקורות #
+
+קפלין, ויליאם. *צורה קלאסית (Classical Form)*. הוצאת אוניברסיטת אוקספורד, 2000.
+
+Gjerdingen, Robert O. *Music in the Galant Style* (מוזיקה בסגנון הגאלאנט). Oxford University Press, 2007.
 
 [Haydn27]: Graphics/Schemata/Haydn27fonteAnnotated.png width="75%"

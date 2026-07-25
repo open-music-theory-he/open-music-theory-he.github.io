@@ -3,70 +3,70 @@ layout: post
 title: Composing a first-species counterpoint
 ---
 
-Counterpoint is the mediation of two or more musical *lines* into a meaningful and pleasing *whole*. In first-species counterpoint, we not only write a smooth melody that has its own integrity of shape, variety, and goal-directed motion, but we also write a second melody that contains these traits. Further, and most importantly, we combine these melodies to create a whole texture that is smooth, exhibits variety and goal-oriented motion, and in which these melodies both maintain their independence and fuse together into consonant *simultaneities* (the general term for two or more notes sounding at the same time).
+קונטרפונקט (Counterpoint) הוא הגישור של שני *קווים* מוזיקליים או יותר לכדי *שלל* בעל משמעות ונעים לאוזן. בקונטרפונקט ממין ראשון, אנו לא רק כותבים מלודיה זורמת בעלת שלמות משלה מבחינת מבנה, גיוון ותנועה מכוונת-מטרה, אלא אנו כותבים גם מלודיה שנייה המכילה תכונות אלו. יתרה מכך, והחשוב מכל, אנו משלבים מלודיות אלו כדי ליצור מרקם שלם שהוא זורם, מפגין גיוון ותנועה מכוונת-מטרה, ושבו מלודיות אלו שומרות על עצמאותן וגם מתמזגות יחד לכדי *סימולטניות* (simultaneities) קונסוננטיות (המונח הכללי לשני צלילים או יותר המושמעים בו-זמנית).
 
-In first species counterpoint, we begin with a *cantus firmus* (new or existing) and compose a single new line—called the *counterpoint*—above or below the cantus firmus. That new line contains one note for every note in the cantus: both the cantus firmus and the counterpoint will be all whole notes. Thus, first species is sometimes called one-against-one or 1:1 counterpoint.
+בקונטרפונקט ממין ראשון (first species counterpoint), אנו מתחילים ב-*קאנטוס פירמוס* (*cantus firmus*) (חדש או קיים) ומחברים קו חדש יחיד — המכונה *קונטרפונקט* (*counterpoint*) — מעל או מתחת לקאנטוס פירמוס. קו חדש זה מכיל תו אחד עבור כל תו בקאנטוס: הן הקאנטוס פירמוס והן הקונטרפונקט יהיו מורכבים כול-כולם מנוטים שלמים (whole notes). לפיכך, המין הראשון נקרא לעיתים קרובות קונטרפונקט של תו כנגד תו (one-against-one) או קונטרפונקט 1:1.
 
-## The counterpoint line ##
+## קו הקונטרפונקט ##
 
-In general, the counterpoint should follow the principles of [writing a good cantus firmus][CF]. There are some minor differences, to be discussed below, but generally a first-species counterpoint should consist of two cantus-firmus-quality lines.
+באופן כללי, הקונטרפונקט צריך לציית לעקרונות של [כתיבת קנטוס פירמוס טוב][CF] ([writing a good cantus firmus][CF]). ישנם כמה הבדלים מינוריים, שיידונו בהמשך, אך באופן כללי קונטרפונקט ממין ראשון (first-species counterpoint) אמור להיות מורכב משני קווים ברמת איכות של קנטוס פירמוס (cantus-firmus-quality lines).
 
-### Beginning a first-species counterpoint ###
+### התחלת קונטרפונקט ממין ראשון ###
 
-To exemplify goal-oriented motion, the first-species exercise should begin and end with the most stable of sonorities: perfect consonances. Thus, when writing a counterpoint *above* a cantus firmus, the first note of the counterpoint should be *do* or *sol* (a P1, P5, or P8 above the cantus).
+כדי להדגים תנועה מכוונת-מטרה (goal-oriented motion), תרגיל המין הראשון (first-species) צריך להתחיל ולהסתיים בצלילות (sonorities) היציבות ביותר: מרווחים קונסוננטיים מושלמים (perfect consonances). לפיכך, בעת כתיבת קונטרפונקט *מעל* קאנטוס פירמוס (cantus firmus), התווך הראשון של הקונטרפונקט צריך להיות דו (do) או סול (sol) (מרווח P1,‏ P5 או P8 מעל הקאנטוס).
 
-When writing a counterpoint *below* a cantus firmus, the first note of the counterpoint must always be *do* (P1 or P8 below the cantus). (Beginning on *sol* would create a dissonant fourth; beginning on *fa* would create a P5 but confuse listeners about the tonal context, since *fa–do* at the beginning of a piece is easily misheard as *do–sol*.)
+כאשר כותבים קונטרפונקט *מתחת* לקאנטוס פירמוס, התו הראשון של הקונטרפונקט חייב להיות תמיד *דו* (מרווח פרימה זכה [P1] או אוקטבה זכה [P8] מתחת לקאנטוס). (התחלה על *סול* תיצור קוורטה דיסוננטית; התחלה על *פה* תיצור קווינטה זכה [P5] אך תבלבל את המאازנים לגבי ההקשר הטונלי, שכן *פה–דו* בתחילת יצירה עלול להישמע בטעות כ-*דו–סול*.)
 
-### Ending a first-species counterpoint ###
+### סיום קונטרפונקט ממין ראשון ###
 
-The final note of the counterpoint must always be *do* (P1 or P8 above/below the cantus).
+התו האחרון של הקונטרפונקט חייב להיות תמיד *דו* (P1 או P8 מעל/מתחת לקנטוס).
 
-To approach this ending smoothly, with variety, and with strong goal orientation, always approach the final interval by contrary stepwise motion. If the cantus ends *re*–*do*, the counterpoint's final two pitches should be *ti*–*do*. If the cantus ends *ti*–*do*, the counterpoint's final two pitches should be *re*–*do*. Thus the penultimate bar will either be a minor third or a major sixth between the two lines. This is the case for both major and minor keys.
+כדי לגשת לסיום זה באופן חלק, עם גיוון, ועם כיוונות-מטרה חזקה (goal orientation), יש לגשת תמיד אל המרווח הסופי בתנועה צעדית מנוגדת (contrary stepwise motion). אם הקנטוס מסתיים ב-*רה*–*דו*, שני הצלילים האחרונים של הקונטרפונקט צריכים להיות *סי*–*דו*. אם הקנטוס מסתיים ב-*סי*–*דו*, שני הצלילים האחרונים של הקונטרפונקט צריכים להיות *רה*–*דו*. לפיכך, התיבה הלפני-אחרונה תהיה שליש קטנה (minor third) או שישית גדולה (major sixth) בין שני הקווים. זהו המצב הן בסולמות מז'ור (major) והן בסולמות מינور (minor).
 
-### Independence of the lines ###
+### עצמאות הקווים (Independence of the lines) ###
 
-Like the cantus firmus, the counterpoint should have a single climax. To maintain the independence of the lines and the smoothness of the entire passage (so no one moment is hyper-emphasized by a double climax), these climaxes should not coincide.
+כמו הקנטוס פירמוס, הקונטרפונקט (counterpoint) צריך לכלול שיא (climax) יחיד. כדי לשמור על עצמאות הקווים ועל זרימת המקטע כולו (כך שאף רגע אינו זוכה להדגשה מוגזמת עקב שיא כפול), שיאים (climaxes) אלו לא צריכים להתطبق בזמן.
 
-A single repeat/tie in the counterpoint is allowed, but try to avoid repeating at all. This promotes variety in the exercise, since there are so few notes to begin with.
+חזרה או קשירה (tie) יחידה בקונטרפונקט מותרת, אך נסו להימנע מחזרה לחלוטין. הדבר מעודד גיוון בתרגיל, שכן ממילא יש מעט מאוד תווים להתחלה.
 
-Avoid *voice crossing*, where the upper voice is temporarily lower than the lower voice, and *vice versa*. Voice crossings diminish the independence of the lines and make them more difficult to distinguish by ear.
+הימנעו מ*הצלבת קולות* (voice crossing), שבה הקול העליון נמוך זמנית מהקול התחתון, ו*להפך* (*vice versa*). הצלבות קולות מפחיתות את עצמאותם של הקווים ומקשות על ההבחנה ביניהם לפי השמיעה.
 
-Avoid *voice overlap*, where one voice leaps past the previous note of the other voice. For example, if the upper part sings an E4, the lower part cannot sing an F4 in the following bar. This also helps maintain the independence of the lines.
+הימנעו מ*חפיפת קולות* (voice overlap), שבה קול אחד מקפץ מעבר לתו הקודם של הקול האחר. לדוגמה, אם התפקיד העליון שור إת E4, התפקיד התחתון אינו יכול לשיר F4 בתיבה הבאה. הדבר גם מסייע לשמור על העצמאות של הקווים (lines).
 
 
-### Intervals and motion ###
+### מרווחים ותנועה (Intervals and motion) ###
 
-The interval between the cantus and counterpoint at any moment should not exceed a perfect twelfth (octave plus fifth). In general, try to keep the two lines within an octave where possible, and only exceed a tenth in "emergencies," and only briefly (one or two notes). When the voices are too far apart, tonal fusion is diminished. Further, it can diminish *performability*, which though not an essential principle of human cognition is an important consideration for composers, and it has a direct effect on the smoothness, melodic integrity, and tonal fusion of what listeners hear during a performance.
+המרווח בין הקנטוס (cantus) והקונטרפונקט בכל רגע נתון לא יעלה על דואצדמה טהורה (perfect twelfth) (אוקטבה ועוד קווינטה). באופן כללי, השתדלו לשמור את שני הקווים בטווח של אוקטבה היכן שניתן, וחריגה מעבר לדצימה (tenth) תותר רק ב"מקרי חירום", וגם זאת בקצרה בלבד (תו אחד או שניים). כאשר הקולות רחוקים מדי זה מזה, ההתמזגות הטונאלית (tonal fusion) פוחתת. יתר על כן, הדבר עשוי לפגום ב*יכולת הביצוע* (*performability*), אשר אף על פי שאינה עיקרון חיוני בקוגניציה אנושית, מהווה שיקול חשוב עבור מלחינים, ויש לו השפעה ישירה על הזורמוּת, השלמות המלודית וההתמזגות הטונאלית של מה שמאזינים שומעים במהלך הביצוע.
 
-In general, all harmonic *consonances* are allowed. However, unisons should only be used for first and last intervals. Unisons are very stable, and serve best as goals rather than mid points. They also diminish the independence of the lines.
+באופן כללי, כל ה*קונסוננסים* (consonances) ההרמוניים מותרים. עם זאת, יש להשתמש באוניסונים (unisons) אך ורק עבור המרווחים הראשונים והאחרונים. אוניסונים הם יציבים מאוד, ומשמשים היטב כיעדים ולא כנקודות אמצע. כמו כן, הם מפחיתים את העצמאות של הקווים.
 
-*Imperfect consonances* are preferable to *perfect consonances* for all intervals other than the first and last dyads, in order to heighten the sense of arrival at the end, and to promote a sense of motion towards that arrival. In all cases, aim for a variety of harmonic intervals over the course of the exercise.
+*הקונסוננסים הבלתי-מושלמים* (*imperfect consonances*) עדיפים על פני *הקונסוננסים המושלמים* (*perfect consonances*) עבור כל המרווחים פרט לדיאדה (dyad) הראשונה והאחרונה, על מנת להעצים את תחושת ההגעה לסוף, ולעודד תחושת תנועה לקראת הגעה זו. בכל המקרים, שאפו למגוון של מרווחים הרמוניים לאורך מהלכו של התרגיל.
 
-*Never, ever, ever* use two perfect consonances of the same size in a row: **P5–P5** or **P8–P8**. This includes both simple and compound intervals. For example, **P5–P12** is considered the same as **P5–P5**. (Two different perfect consonances in a row, such as **P8–P5**, is allowed, however, but try to follow every perfect consonance with an imperfect consonance if possible.) These "parallel fifths and octaves" significantly promote tonal fusion over melodic independence at the same time that the consecutive stable sonorities arrest both the variety and the motion of the exercise. Thus, they are far from ideal, and to be avoided in species counterpoint.
+*לעולם, לעולם, לעולם* אין להשתמש בשני מרווחים קונסוננטיים מושלמים באותו הגודל ברצף: **P5–P5** או **P8–P8**. זה כולל הן מרווחים פשוטים והן מרווחים מורכבים (compound intervals). לדוגמה, **P5–P12** נחשב לזהה ל-**P5–P5**. (עם זאת, מותר להשתמש בשני מרווחים קונסוננטיים מושלמים שונים ברצף, כמו **P8–P5**, אך מומלץ ככל האפשר להצמיד לכל קונסוננס מושלם קונסוננס לא-מושלם [imperfect consonance]). "קבינטות ואוקטבות מקבילות" (parallel fifths and octaves) אלו מעודדות משמעותית מיזוג טונالי על חשבון עצמאות מלודית, ובד בבד הצלילים היציבים העוקבים עוצרים הן את הגיוון והן את התנועה של התרגיל. לכן, הם רחוקים מלהיות אידיאליים, ויש להימנע מהם בקונטרפונקט לפי מינים (species counterpoint).
 
-Vary the types of motion between successive intervals (parallel, similar, contrary, oblique). Try to use all types of motion (except, perhaps, oblique motion), but prefer contrary motion where possible. It is best for preserving the independence of the lines, in addition to variety. 
+גוונו את סוגי התנועה בין מרווחים עוקבים (מקבילה [parallel], דמתה [similar], מנוגדת [contrary], אלכסונית [oblique]). נסו להשתמש בכל סוגי התנועה (פרט אולי לתנועה אלכסונית [oblique motion]), אך העדיפו תנועה מנוגדת (contrary motion) היכן שניתן. הדבר מיטבי לשמירה על העצמאות של הקווים (independence of the lines), בנוסף לגיוון. 
 
-Because similar and parallel motion diminish variety and melodic independence, their use should be mediated by other factors:
+מכיוון שתנועה שווה ומקבילה מפחיתות את הגיוון ואת העצמאות המלודית (melodic independence), יש לתווך את השימוש בהן באמצעות גורמים אחרים:
 
-- Do not use more than three of the same imperfect consonance type in a row (e.g., three thirds in a row).  
-- *Never* move into a perfect consonance by similar motion (this is called *direct* or *hidden octaves*). This draws too much attention to an interval which already stands out of the texture.  
-- Avoid combining similar motion with leaps, especially large ones.
+- אין להשתמש ביותר משלושה סוגים עוקבים של קונסוננס בלתי מושלם (imperfect consonance) ברציפות (למשל, שלושה שלישים ברציפות).  
+- *Never* move into a perfect consonance (קונסוננס מושלם) by similar motion (תנועה שקולה (similar motion)) (this is called *direct* or *hidden octaves*). This draws too much attention to an interval which already stands out of the texture.  
+- הימנע משילוב תנועה מקבילה עם קפיצות, במיוחד גדולות שבהן.
 
-## Demonstration ##
+## ## הדגמה
 
-In the following video, I illustrate the process of composing a first-species counterpoint. This video provides new information about the compositional process, as well as concrete examples of the above rules and principles.
+בסרטון הבא, אני מדגים את תהליך ההלחנה של קונטרפונקט ממין ראשון. סרטון זה מספק מידע חדש אודות תהליך ההלחנה, וכן דוגמאות מוחשיות לכללים ולעקרונות לעיל.
 
 <iframe src="http://player.vimeo.com/video/56828309" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe><br/>
 
-## Practice ##
+## תרגול ##
 
-Before composing a first-species exercise from scratch, try the following practice exercises. Each has one or two errors. Try to find the error(s), and recompose the exercise to create a well formed exercise. (Note: the alto-clef part is the *cantus firmus*. Only change the counterpoint line.) Be sure to listen to and perform the exercises, both as they are written, and as you make changes. Your ear may already be able to direct you to errors. If not, use the principles outlined above one-by-one to search for errors. Once you identify an error, be sure to listen several times, singing along with one line or the other, to train your ear to recognize the problem.
+לפני הלחנת תרגיל מין ראשון מאפס, נסו את תרגילי האימון הבאים. בכל תרגיל יש שגיאה אחת או שתיים. נסו למצוא את השגיאה (או השגיאות), והרכיבו מחדש את התרגיל כדי ליצור תרגיל תקני (well formed exercise). (הערה: תפקיד מפתח אלט הוא ה-*קנטוס פירמוס* [cantus firmus]. שונו רק את קו הקונטרפונקט [counterpoint].) הקפידו להאזין לתרגילים ולבצע אותם, הן כפי שהם כתובים, והן תוך כדי ביצוע שינויים. ייתכן שאוזנכם כבר מסוגלת להוביל אתכם לשגיאות. אם לא, השתמשו בעקרונות שהוצגו לעיל זה אחר זה כדי לחפש שגיאות. ברגע שזיהיתם שגיאה, הקפידו להאזין מספר פעמים, תוך כדי שירה יחד עם קו אחד או השני, כדי לאמן את אוזנכם לזהות את הבעיה.
 
-### Minor key practice, counterpoint above
+### תרגול סולם מינור (Minor key practice), קונטרפונקט מעל
 
 <iframe class="trinket" src="https://trinket.io/embed/music/a089e987ca" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
-### Major key practice, counterpoint below
+### תרגול סולם מז'ור (Major key practice), קונטרפונקט מתחת
 
 <iframe class="trinket" src="https://trinket.io/embed/music/585810f762" width="100%" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe><br/>
 
