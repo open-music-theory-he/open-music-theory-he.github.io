@@ -8,49 +8,49 @@ image:
   creditlink: 
 ---
 
-## Inverted (or flipped) music theory
+## תאוריית מוזיקה הפוכה (Inverted music theory)
 
-This textbook is meant to support *active student engagement with music* in the theory classroom. That means that this text is meant to take a back seat to student music making (and breaking). It is not the center of the course.
+ספר לימוד זה נועד לתמוך ב*מעורבות פעילה של סטודנטים במוזיקה* בכיתת התאוריה. המשמעות היא שטקסט זה נועד לתפוס מושב אחורי לעומת עשייה (ופירוק) מוזיקלית של הסטודנטים. הוא אינו המרכז של הקורס.
 
-The three original authors use this textbook in the context of  "inverted" or "flipped" courses, often following an [inquiry-based model](http://www.flipcamp.org/engagingstudents/shafferpt3.html). 
+שלושת המחברים המקוריים משתמשים בספר לימוד זה בהקשר של קורסים "הפוכים" (inverted) או "משולבים" (flipped), שלעיתים קרובות עוקבים אחר [מודל מבוסס חקירה](http://www.flipcamp.org/engagingstudents/shafferpt3.html) (inquiry-based model). 
 
-As a result, most of the pages in this textbook do not read like a typical twentieth-century textbook. They are somewhere in between prosy lecture notes and reference material, with minimal graphical or audio examples. Also, unlike many resources for "flipped" classes, there are few resources in this textbook where the core information is presented in video. We made these decisions consciously, so that this would not simply be a multimedia, web-based version of an industrial-era textbook. Rather, we wanted to create a textbook that could serve as a quick reference in the context of active musical engagement.
+כתוצאה מכך, רוב העמודים בספר לימוד זה אינם נקראים כספר לימוד טיפוסי של המאה העשרים. הם נמצאים איפשהו בין סיכומי הרצאות פרוזאיים לבין חומר עזר, עם מינימום דוגמאות גרפיות או קוליות. כמו כן, בניגוד למשאבים רבים עבור כיתות "הפוכות" (flipped classes), ישנם מעט משאבים בספר לימוד זה שבהם המידע המרכזי מוצג בווידאו. קיבלנו החלטות אלו במודע, כדי שזה לא יהיה סתם גרסה מולטימדיה מבוססת אינטרנט של ספר לימוד מעידן התעשייה. במקום זאת, רצינו ליצור ספר לימוד שיכול לשמש כעזר מהיר בהקשר של עיסוק מוזיקלי פעיל.
 
-In our classes, student activity takes pride of place, and it often *precedes* engagement with the textbook. The information contained in this text is secondary to that activity, and thus this text is meant to play only a supporting role in our classes.
+בשיעורים שלנו, לפעילות הסטודנטים יש חשיבות עליונה, ולעיתים קרובות היא *קודמת* לעיסוק בספר הלימוד. המידע הכלול בטקסט זה הוא משני לפעילות האמורה, ולפיכך טקסט זה נועד למלא תפקיד תומך בלבד בשיעורים שלנו.
 
-For more information about the inverted music class, see *Engaging Students: Essays in Music Pedagogy*, [Volume 1 (2013)](http://www.flipcamp.org/engagingstudents/index.html) and [Volume 2 (2014)](http://www.flipcamp.org/engagingstudents2/index.html).
+למידע נוסף על הכיתה ההפוכה (inverted music class) במוזיקה, ראו *Engaging Students: Essays in Music Pedagogy*, [כרך 1 (2013)](http://www.flipcamp.org/engagingstudents/index.html) ו-[כרך 2 (2014)](http://www.flipcamp.org/engagingstudents2/index.html).
 
-## Open source 
+## קוד פתוח (Open source) 
 
-This "textbook" is an *open-source* textbook. That means that you are free to use, modify, distribute, even sell its contents provided that you 1) attribute the original to us, and 2) pass on the same rights to others (which includes us!) by licensing your derivative work the same way we license this one. (See the Creative Commons license deed linked on each page of this textbook.) In fact, we highly encourage others to "hack" this book: supplement it, reword it, add examples, drop chapters, mash it up with another one. Not only will that mean a greater diversity of material available, but if you improve your version of this work with your hacks, we can use those improvements to make this resource better, too.
+"ספר לימוד" זה הוא ספר לימוד *בקוד פתוח* (open-source). המשמעות היא שאתם חופשיים להשתמש בתכניו, לשנות אותם, להפיץ אותם ואף למכור אותם, בתנאי ש: 1) תתנו קרדיט למקור, ו-2) תעבירו את אותן הזכויות לאחרים (מה שכולל גם אותנו!) על ידי מתן רישיון ליצירה הנגזרת שלכם באותו אופן שבו אנו מעניקים רישיון ליצירה זו. (ראו את שטר הרישיון של Creative Commons המקושר בכל עמוד בספר לימוד זה). למעשה, אנו מעודדים אחרים "לפרוץ" (hack) את הספר הזה: להוסיף לו, לנסח אותו מחדש, להוסיף דוגמאות, להשמיט פרקים, או לשלב אותו עם ספר אחר. לא רק שמשמעות הדבר תהיה מגוון רחב יותר של חומרים זמינים, אלא שאם תשפרו את הגרסה שלכם ליצירה זו באמצעות ה"פריצות" שלכם, נוכל להשתמש בשיפורים אלו כדי להפוך גם את המשאב הזה לטוב יותר.
 
-If you want to "fork" this textbook, either to deploy it for your own course or to use it as the basis for your own derived work, please visit the [GitHub project page](https://github.com/hybrid-pedagogy/openmusictheory), log in (or sign up), and click "fork." From there, you can edit, add, or remove the text, graphics, and videos (all text is in the very user-friendly Markdown format), or the theme (HTML and CSS). You can also send us a "pull request," if you've made a change you think would be beneficial to add to this textbook. You can even download an individual file to convert into a handout to distribute in class. For more details on the open-source ideology behind this textbook or the process of using it for your own purposes, please read Kris Shaffer's articles in *Hybrid Pedagogy*: "[Open-Source Scholarship](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html)" and "[Push, Pull, Fork: GitHub for Academics](http://www.hybridpedagogy.com/Journal/files/GitHub_for_Academics.html)."
+אם ברצונכם לבצע "fork" לספר לימוד זה, בין אם כדי להטמיע אותו בקורס שלכם או כדי להשתמש בו כבסיס לעבודה נגזרת משלכם, אנא בקרו ב[דף פרויקט ה-GitHub](https://github.com/hybrid-pedagogy/openmusictheory), התחברו (או הירשמו), ולחצו על "fork". משם, תוכלו לערוך, להוסיף או להסיר טקסט, גרפיקה וסרטונים (כל הטקסט כתוב בפורמט Markdown ידידותי מאוד למשתמש), או את העיצוב (HTML ו-CSS). תוכלו גם לשלוח לנו "pull request", אם ביצעתם שינוי שלדעתכם יהיה מועיל להוסיף לספר לימוד זה. אתם יכולים אפילו להוריד קובץ בודד כדי להמיר אותו לדף עזר (handout) להפצה בכיתה. לפרטים נוספים על האידיאולוגיה של קוד פתוח העומדת מאחורי ספר לימוד זה או על התהליך של שימוש בו למטרותיכם האישיות, אנא קראו את מאמריו של כריס שאפר (Kris Shaffer) ב-*Hybrid Pedagogy*: "[Open-Source Scholarship](http://www.hybridpedagogy.com/Journal/files/Open_Source_Scholarship.html)" ו-"[Push, Pull, Fork: GitHub for Academics](http://www.hybridpedagogy.com/Journal/files/GitHub_for_Academics.html)."
 
-## A critical textbook
+## ספר לימוד ביקורתי
 
-Rather than create "a fixed tome of knowledge, shared across institutional boundaries, with the authority to dictate pedagogical decisions and arbitrate student success," OMT strives to be a [critical textbook](http://www.hybridpedagogy.com/journal/critical-textbook/): "multi-authored, physically hackable, and legally alterable." We hope this textbook can "facilitate student access to existing knowledge, and empower them to critique it, dismantle it, and create new knowledge."
+במקום ליצור "כרך ידע קבוע, המשותף מעבר לגבולות מוסדיים, בעל סמכות להכתיב החלטות פדגוגיות ולשמש בורר להצלחת סטודנטים", OMT שואף להיות [ספר לימוד ביקורתי](http://www.hybridpedagogy.com/journal/critical-textbook/): "בעל מחברים מרובים, ניתן לפירוק פיזי, וניתן לשינוי מבחינה חוקית". אנו מקווים שספר לימוד זה יוכל "להקל על גישת הסטודנטים לידע קיים, ולהעצים אותם לבקר אותו, לפרק אותו, וליצור ידע חדש".
 
-This means that at times (and increasingly as more contribute to the text), multiple perspectives will be provided on a single issue. Also, the license (and to the greatest extent possible, the technology) permits an instructor—and even a student—to tweak and rewrite the text. And rather than arbitrate standards across institutional boundaries, we hope that the online nature of the text, and the accompanying hashtag [#OpenMusicTheory](https://twitter.com/search?f=realtime&q=%23OpenMusicTheory), will help build *community* across institutional boundaries, rather than uniformity.
+משמעות הדבר היא שלעיתים (ובאופן גובר ככל שיותר אנשים תורמים לטקסט), יוצגו נקודות מבט מרובות על סוגיה אחת. כמו כן, הרישיון (ובמידה הרבה ביותר האפשרית, הטכנולוגיה) מאפשר למדריך — ואפילו לסטודנט — לשנות ולכתוב מחדש את הטקסט. ובמקום לבורר סטנדרטים מעבר לגבולות מוסדיים, אנו מקווים שהאופי המקוון של הטקסט, וההאשטאג הנלווה [#OpenMusicTheory](https://twitter.com/search?f=realtime&q=%23OpenMusicTheory), יסייעו בבניית *קהילה* מעבר לגבולות מוסדיים, במקום אחידות.
 
-While there are three authors and an editor listed on this text as of first "publication," we hope that the technology and the license encourage otherss to contribute new material to this volume. Though Kris, Bryn, Brian, and Robin are the original authors and editors, we have chosen a license and platform that essentially give the community of music scholars and students ownership over the textbook.
+בעוד ששלושה מחברים ועורך רשומים על טקסט זה נכון ל"פרסום" הראשון, אנו מקווים שהטכנולוגיה והרישיון יעודדו אחרים לתרום חומר חדש לכרך זה. אף על פי שקריס, ברין, בריאן ורובין הם המחברים והעורכים המקוריים, בחרנו ברישיון ובפלטפורמה שמעניקים למעשה לקהילת חוקרי המוזיקה והסטודנטים בעלות על ספר הלימוד.
 
-## Hybrid Pedagogy Publishing
+## הוצאת פדגוגיה היברידית (Hybrid Pedagogy Publishing)
 
-This textbook is published by [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing), under editors [Robin Wharton](http://www.robinwharton.com) and [Kris Shaffer](http://kris.shaffermusic.com). 
+ספר לימוד זה פורסם על ידי [Hybrid Pedagogy Publishing](http://www.hybridpedagogy.org/#publishing), בעריכתם של [Robin Wharton](http://www.robinwharton.com) ו-[Kris Shaffer](http://kris.shaffermusic.com). 
 
-HPP seeks to do more than simply reproduce print publishing in digital form. Rather, we ask, *what can a digital "book" do that a print book cannot?* As we state on our website, 
+HPP שואף לעשות יותר מאשר פשוט לשכפל הוצאה לאור מודפסת בצורה דיגיטלית. במקום זאת, אנו שואלים, *מה יכול "ספר" דיגיטלי לעשות שספר מודפס אינו יכול?* כפי שאנו מציינים באתר האינטרנט שלנו, 
 
-> Writing and reading are social acts. Hybrid Pedagogy Publishing seeks to encourage active public discourse by publishing works that are born out of, or facilitate, community (inter)action — works that are crowdsourced or collaboratively authored, openly accessible, encourage remixing and republishing, and/or blur the lines between author and reader.
+> כתיבה וקריאה הן פעולות חברתיות. הוצאת Hybrid Pedagogy מבקשת לעודד שיח ציבורי פעיל על ידי פרסום יצירות שנולדו מתוך קהילה או מאפשרות (אינטראקציה) קהילתית — יצירות המבוססות על חוכמת המונים או שנכתבו בשיתוף פעולה, נגישות באופן חופשי, מעודדות רמיקס ופרסום מחדש, ו/או מטשטשות את הגבולות בין כותב לקורא.
 
-Textbooks are nearly unparalleled in the degree to which they are attached to a community. And so we hope that this textbook and the communities that use it will be a vibrant starting point for us as we re-examine what it means to read, write, and engage texts critically in a digitally connected age.
+ספרי לימוד הם כמעט חסרי תקדים במידת הקשר שלהם לקהילה. ועל כן, אנו מקווים שספר לימוד זה והקהילות המשתמשות בו יהוו נקודת מוצא תוססת עבורנו בעודנו בוחנים מחדש מה המשמעות של קריאה, כתיבה ועיסוק בטקסטים באופן ביקורתי בעידן המקושר דיגיטלית.
 
-For more information about HPP, [follow @HybridPub on Twitter](http://twitter.com/HybridPub).
+למידע נוסף על HPP, [עקבו אחר @HybridPub בטוויטר](http://twitter.com/HybridPub).
 
-## Supporters
+## תומכים
 
-As this book grew out of a crowdfunding effort, we are proud to acknowledge those who contributed financially to the writing, editing, and designing of this book. We are extremely grateful for their support. 
+מאחר שספר זה צמח מתוך מאמץ של מימון המונים (crowdfunding), אנו גאים להכיר תודה לאלו שתרמו כספית לכתיבה, לעריכה ולעיצוב של ספר זה. אנו אסירי תודה על תמיכתם. 
 
-We are also beyond grateful to have the financial and technological support from the team at [Trinket](http://www.trinket.io), who provided a matching donation in the amount of $2500, and who built the technology behind the interactive musical notation modules that appear in this text.
+אנו אסירי תודה מעבר למילים על התמיכה הכספית והטכנולוגית מצוות [Trinket](http://www.trinket.io), אשר סיפקו תרומה תואמת בסך 2500$, ואשר בנו את הטכנולוגיה שמאחורי מודולי התיווי המוזיקלי האינטראקטיביים המופיעים בטקסט זה.
 
-**Financial supporters of the open, interactive music theory textbook (non-anonymous donors of $15 or more):**  
-Adam Heidebrink, Andrew Charlton, Alex Dunn, Andre Mount, Ben Lloyd Pearson, Benjamin Zwickl, Brian Bennett, Brian Moseley, Chris Ogden, Christopher Edwards, Daniel Shanahan, Daniel Stevens, Dave Easley, David Huron, David Kulma, David MacDonald, The Marca Development Team, Jesse Stommel, Jill T. Brasky, John Moore, Jon Scott Smith, Joseph Casamento, Julia Silge, Kyle Gullings, Lindsey Sudbury, Maeve Sterbenz, Marianne Kielian-Gilbert, Mark Easley, Sr., Mark McGuire, martinlugton (screen name), Max August, Moeruze.Burning (screen name), Molly Sweet, Pandel Collaros, Paul Bond, Paul David Johnson, Peter Kaminsky, Peter Newbury, Philip Duker, pkay3 (screen name), Robert Kelley, Robert Talbert, Rolin Moe, Trevor Pittman, Trevor Rowe, University of Delaware Dept. of Academic Technology Services, University of Delaware Dept. of Music, University of Colorado Dept. of Music Theory, Wanda Terral, William O’Hara, and several anonymous donors.
+**תומכים כספיים של ספר הלימוד הפתוח והאינטראקטיבי לתאוריה של המוזיקה (תורמים שאינם אנונימיים של 15$ ומעלה):**  
+אדם היידברינק, אנדרו צ'רלטון, אלכס דאן, אנדרה מאונט, בן לויד פירסון, בנג'מין זוויקל, בריאן בנט, בריאן מוזלי, כריס אוגדן, כריסטופר אדוארדס, דניאל שנהאן, דניאל סטיבנס, דייב איסלי, דייוויד יורון, דייוויד קולמה, דייוויד מקדונלד, צוות הפיתוח של Marca, ג'סי סטומל, ג'יל ט. ברסקי, ג'ון מור, ג'ון סקוט סמית', ג'וזף קזמנטו, ג'וליה סילג', קייל גאלינגס, לינדזי סדברי, מייב סטרבנץ, מריאן קיליאן-גילברט, מארק איסלי האב, מארק מקגווייר, martinlugton (שם משתמש), מקס אוגוסט, Moeruze.Burning (שם משתמש), מולי סוויט, פנדל קולארוס, פול בונד, פול דייוויד ג'ונסון, פיטר קמינסקי, פיטר ניוברי, פיליפ דוקר, pkay3 (שם משתמש), רוברט קלי, רוברט טלברט, רולין מו, טרבור פיטמן, טרבור רו, המחלקה לשירותי טכנולוגיה אקדמית באוניברסיטת דלאוור, המחלקה למוזיקה באוניברסיטת דלאוור, המחלקה לתורת המוזיקה באוניברסיטת קולורדו, וונדה טרל, ויליאם או'הרה, ומספר תורמים אנונימיים.

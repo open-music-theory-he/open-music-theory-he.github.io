@@ -3,24 +3,24 @@ layout: post
 title: Inversion
 ---
 
-Inversion, like transposition, is often associated with motion that connects similar objects. You need to be able to (1) invert a collection of pitches and (2) determine the inversional relationship between two collections of pitches.
+היפוך (Inversion), בדומה לטרנספוזיציה (Transposition), קשור לעיתים קרובות לתנועה המחברת בין אובייקטים דומים. עליך להיות מסוגל (1) להפוך אוסף של צלילים (pitches) ו-(2) לקבוע את היחס ההיפוכי (inversional relationship) בין שני אוספים של צלילים.
 
 [![](Graphics/postTonal/inversion.png)](Graphics/postTonal/inversion.png)
 
-This passage above from Debussy's "Sunken Cathedral" is an example. Just as was the case in the [transpositionally-related passages][2], these two gestures have the same intervallic content—and so, our ears recognize them as very similar. (Debussy underscores that similarity by giving both of the gestures the same rhythmic setting.) Unlike transposition, however, the interval content of these two gestures is not *arranged* in the same way.
+קטע זה לעיל מ"הקתדרלה השקועה" (Sunken Cathedral) מאת דביסי (Debussy) מהווה דוגמה. בדיוק כפי שהיה המקרה ב[קטעים הקשורים בטרנספוזיציה][2] (transpositionally-related passages), לשתי מחוות (gestures) אלו יש אותו תוכן מרווחי (intervallic content) – ולכן, האוזניים שלנו מזהות אותן כדόמות מאוד. (דביסי מדגיש את הדמיון הזה בכך שהוא מעניק לשתי המחוות את אותה מסגרת קצבית [rhythmic setting].) בניגוד לטרנספוזיציה (transposition), עם זאת, תוכן המרווחים של שתי המחוות הללו אינו *מרוصף* (arranged) באותו האופן.
 
 [![](Graphics/postTonal/inversionallyRelated.png)](Graphics/postTonal/inversionallyRelated.png)
 
-Both have the same intervals, but the {A,D,E} collection has the +5 on the bottom instead of on the top.
+שניהם חולקים את אותם המרווחים, אך אוסף הווילון (collection) {A,D,E} כולל את הקווינטה המוגדלת (+5) בחלק התחתון במקום בחלק העליון.
 
-Inverting something is a two-step process, performed *in this order*: (1) Reflect the pitch classes in an object around the 0-6 axis of symmetry, and then (2) transpose it. I'll illustrate first on a clock, and then show you an easier way:
+היפוך של דבר מה הוא תהליך דו-שלבי, המבוצע *בסדר הזה*: (1) שיקוף מחלקות הגובה (pitch classes) באובייקט סביב ציר הסימטריה 0-6, ולאחר מכן (2) טרנספוזיציה שלו. אדגים זאת תחילה על שעון, ואז אראה לכם דרך קלה יותר:
 
 [![](Graphics/postTonal/invertingWithAClock.png)](Graphics/postTonal/invertingWithAClock.png)
 
-Fortunately, there is a much quicker way to invert a pitch or collection of pitches! Given any collection of pitch classes and a _TnI_, simply subtract the the pitch classes from _n:_
+למרבה המזל, ישנה דרך מהירה הרבה יותר להיפוך של צליל או אוסף צלילים! בהינתן כל אוסף של מחלקות גובה (Pitch classes) ו־*TnI*, פשוט חסרו את מחלקות הגובה מ־*n:*
 
 [![](Graphics/postTonal/differences.png)](Graphics/postTonal/differences.png)
 
-Conversely, to determine the _TnI_ that relates two collections of pitch classes, find a common value to which they all sum. That is the _n_ in _TnI:_
+לעומת זאת, כדי לקבוע את ה-_TnI_ שקושר בין שני אוספים של מחלקות גובה צליל, יש למצוא ערך משותף שכולם מסתכמים אליו. זהו ה-_n_ ב-_TnI:_
 
 [![](Graphics/postTonal/sums.png)](Graphics/postTonal/sums.png)

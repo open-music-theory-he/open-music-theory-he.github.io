@@ -2,43 +2,43 @@
 layout: post
 title: Compound themes
 ---
-## Compound period ##
+## תקופה מורכבת (Compound period) ##
 
-The compound period (also called the *16-bar period* because its typical form is 16 bars long), is made of two themes instead of two phrases. Just as in a regular [period](period.html), the first theme ends in a weak cadence (most often HC) and the second theme ends in a strong(er) cadence (most often PAC). Also like in a regular period, the two themes begin with the same basic idea (BI), possibly with some variation between the two.
+התקופה המורכבת (compound period) (הנקראת גם *תקופת 16 תיבות* (*16-bar period*) משום שצורתה הטיפוסית אורך של 16 תיבות), מורכבת משני נושאים במקום משתי תיבות (phrases). בדיוק כמו ב[תקופה](period.html) רגילה, הנושא הראשון מסתיים בקדֶנְצָה חלשה (לרוב קדֶנְצָה חצי-סופית (HC)) והנושא השני מסתיים בקדֶנְצָה חזקה (יותר) (לרוב קדֶנְצָה אותנטית מושלמת (PAC)). כמו כן, בדומה לתקופה רגילה, שני הנושאים מתחילים באותו רעיון בסיסי (basic idea (BI)), ייתכן עם שינוי כלשהו בין השניים.
 
-The themes that are used to make the compound period have the same characteristics as they normally do, with the exception that the need for a weak cadence at the end of the first theme and a strong cadence at the end of the second theme may override the typical cadence patterns of those themes when they occur in isolation.
+הנושאים (themes) המשמשים לבניית התקופה המורכבת בעלי את אותם מאפיינים כמו בדרך כלל, למעט העובדה שהצורך בקדנציה חלשה (weak cadence) בסוף הנושא הראשון ובקדנציה חזקה (strong cadence) בסוף הנושא השני עשוי לגבור על דפוסי הקדנציות הטיפוסיים של נושאים אלו כאשר הם מופיעים בנפרד.
 
-The first type of compound period is comprised of two sentences: the first ends with an HC or (less frequently) an IAC, and the second ends with a PAC.
+הסוג הראשון של תקופה מורכבת מורכב משני משפטים (sentences): הראשון מסתיים ב-HC או (לעיתים רחוקות יותר) ב-IAC, והשני מסתיים ב-PAC.
 
 [![][16period-sent]][16period-sent]
 
-A prototypical example of a compound period composed of two sentences is Mozart's Piano Sonata in F major, K. 332, II., mm. 1–8. 
+דוגמה טיפוסית לתקופת מורכבת המורכבת משני משפטים היא הסונאטה לפסנתר ב-F מז'ור מאת מוצארט, K. 332, פרק II, תיבות 1–8. 
 
 [![](Graphics/form/k332-ii.png)](Graphics/form/k332-ii.png)
 
-Note that because of the slow tempo, this "16-bar" period is notated as only eight bars. Also, note that though the theme modulates, the second cadence, a PAC in the key of the dominant, is stronger than the first cadence, a HC in the home key. For the purposes of antecedent-consequent relationships, a PAC is always stronger than a HC or IAC, even if it is in another key.
+שימו לב בשל הטמפו האיטי, תקופת "16 התיבות" (16-bar period) הזו רשומה כשמונה תיבות בלבד. כמו כן, שימו לב שלמרות שהנושא מודולציה (modulates), הקדנס (cadence) השני, קדנס אותנטי מושלם PAC (PAC) בסולם הדומיננטי (dominant), חזק יותר מהקדנס הראשון, קדנס חצי HC (HC) בסולם הביתי (home key). לצורך יחסי פוהד-עוקב (antecedent-consequent relationships), קדנס אותנטי מושלם PAC (PAC) חזק תמיד מקדנס חצי HC (HC) או קדנס אותנטי לא מושלם IAC (IAC), אפילו אם הוא בסולם אחר.
 
-Similarly, a compound period can be comprised of two Hybrid 1 themes (antecedent–continuation) 
+באופן דומה, תקופה מורכבת יכולה להיות מורכבת משתי תמות היברידית 1 (Hybrid 1) (בנוי-המשך [antecedent–continuation]) 
 
 [![][16period-hybrid1]][16period-hybrid1]
 
-or two Hybrid 3 themes (CBI–continuation).
+או שני נושאי הייבריד 3 (Hybrid 3) (CBI–המשך (continuation)).
 
 [![][16period-hybrid3]][16period-hybrid3]
 
-## Compound sentence ##
+## משפט מורכב (Compound sentence) ##
 
-The compound (or 16-bar) sentence expands both the presentation and continuation phrases of a regular [sentence](sentence.html) to a typical length of eight bars each. 
+משפט מורכב (או משפט בן 16 תיבות) מרחיב הן את ביטוי ההצגה (presentation phrase) והן את ביטוי ההמשך (continuation phrase) של [משפט](sentence.html) רגיל לאורך טיפוסי של שמונה תיבות כל אחד. 
 
-Each (2-bar) basic idea (BI) of the presentation phrase is replaced by a (4-bar) compound basic idea (CBI) in the expanded presentation. The resulting (typically 8-bar) presentation still has no cadence, but simply prolongs tonic.
+כל רעיון בסיסי (BI) בן (שתי תיבות) של משפחת ההצגה מוחלף ברעיון בסיסי מורכב (CBI) בן (ארבע תיבות) בהצגה המורחבת (expanded presentation). ההצגה (המונה טיפוסית שמונה תיבות) שנוצרת עדיין חסרת קדנציה, אלא פשוט משהה את הטוניקה (tonic).
 
-The expanded continuation phrase is somewhat looser in proportion and in length. A "typical" continuation in this theme would have approximately four bars of continuation function followed by four bars of cadential function (an expanded cadential progression).
+ביטוי ההמשך המורחב (expanded continuation phrase) הוא משוחרר למדי מבחינת פרופורציה ואורך. המשחِך ה"טיפוסי" בנושא זה יכלול בדרך כלל כארבע תיבות של פונקציית המשך (continuation function) ולאחריהן ארבע תיבות של פונקציה קדנציאלית (cadential function) (מהלך קדנציאלי מורחב (expanded cadential progression)).
 
 [![][16sent]][16sent]
 
-A prototypical example of a compound sentence is Mozart's [Trio for Piano, Clarinet, and Viola, K. 498](http://erato.uvt.nl/files/imglnks/usimg/3/32/IMSLP65681-PMLP133432-Mozart_Werke_Breitkopf_Serie_17_KV498_Piano.pdf), I., mm. 1–16.
+דוגמה טיפוסית למשפט מורכב (compound sentence) היא [Trio for Piano, Clarinet, and Viola, K. 498](http://erato.uvt.nl/files/imglnks/usimg/3/32/IMSLP65681-PMLP133432-Mozart_Werke_Breitkopf_Serie_17_KV498_Piano.pdf) מאת מוצרט, פרק I, תיבות 1–16.
 
-Note that *bar length is not the important issue* when deciding whether a theme is a regular sentence or a compound sentence. Sometimes a regular sentence is written down in a fast duple meter, and it takes up 16 bars. At other times, a compound theme is set to such a slow tempo that it takes only 8 bars (like the compound period in Mozart's K. 332, above). The key difference between the regular sentence and the compound sentence is that the regular sentence begins with two basic ideas and the compound sentence begins with two *compound basic ideas*. Even that distinction will, at times, seem like splitting hairs, though at other times it will be quite obvious. Use your best judgment based on the musical features that you find to be the most salient.
+שימו לב כי *אורך התיבה אינו הנושא החשוב* בעת ההחלטה האם תמה (theme) היא משפט רגיל (regular sentence) או משפט מורכב. לעיתים קרובות, משפט רגיל נכתב במשקל זוגי מהיר (fast duple meter), והוא מתפרשת על פני 16 תיבות. בפעמים אחרות, תמה מורכבת (compound theme) מותאמת לטמפו כה איטי כך שהיא תופסת 8 תיבות בלבד (כמו התקופה המורכבת ביצירתו של מוצרט K. 332, לעיל). ההבדל המרכזי בין המשפט הרגיל למשפט המורכב הוא שהמשפט הרגיל מתחיל בשתי מחשבות בסיסיות (basic ideas) והמשפט המורכב מתחיל בשתי *מחשבות בסיסיות מורכבות (compound basic ideas)*. אפילו הבחנה זו תיראה לעיתים כפלפול מיותר, אם כי בפעמים אחרות היא תהיה ברורה לחלוטין. הפעילו שיקול דעת מיטבי המבוסס על מאפיינים מוזיקליים שאתם מוצאים כבולטים ביותר.
 
 
 

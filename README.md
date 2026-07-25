@@ -1,4 +1,4 @@
-musicianship
+מוזיקליות (Musicianship)
 ============
 
-A growing, online "textbook" for music theory and aural skills
+"ספר לימוד" מקוון ומתפתח לתיאוריה מוזיקלית ומיומנויות שמיעה (Aural Skills)

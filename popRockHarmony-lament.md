@@ -9,9 +9,9 @@ title: The lament progression (pop/rock harmony)
 
 **&#124;&#124;: I – VII – VI – V :&#124;&#124;**
 
-This progression need not be included in a cycle, but occasionally it does. It is named the “lament” progression because in early classical music, this chord progression (almost always in minor) was used as the *ground bass* (a repeated bass pattern that formed be foundation for a set of variations, not unlike the cyclical progressions of pop/rock songs) for songs of lament. Examples include “Dido’s Lament” by Henry Purcell, from the opera *Dido and Aeneas*, and J.S. Bach’s “Crucifixus,” from his Mass in B Minor.
+התקדמות זו אינה חייבת להיכלל במעגל (cycle), אך לעיתים קרובות היא כן. היא מכונה התקדמות ה"קינה" (lament) משום שבראשית המוזיקה הקלאסית, מהלך אקורדים זה (כמעט תמיד בסולם מינורי) שימש כבאס יסודי (ground bass) (תבנית באס חזרתית היוותה את היסוד למערכת וריאציות, לא שונה מההתקדמות המעגלית של שירי פופ/רוק) עבור שירי קינה. דוגמאות כוללות את "הקינה של דידו" ("Dido’s Lament") מאת הנרי פרסל (Henry Purcell), מתוך האופרה *דידו ואניאס* (*Dido and Aeneas*), ו"קרוסיפיקס" ("Crucifixus") מאת י.ש. באך (J.S. Bach), מתוך המיסה ב-B מינור שלו.
 
-The opening of the verse in Muse’s “Thoughts of a Dying Atheist” is a prominent example from recent pop/rock music (there it is followed by a circle-of-fifths progression; see below).
+פתיחת הבתים בשיר "Thoughts of a Dying Atheist" מאת Muse היא דוגמה בולטת מתוך מוזיקת הפופ/רוק המודרנית (שם היא מלווה כמהלכי מעגל הקווינטות (circle-of-fifths progression); ראו להלן).
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/seNrC4_5Xxs?rel=0" frameborder="0" allowfullscreen></iframe>
 

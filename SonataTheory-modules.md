@@ -6,104 +6,104 @@ title: Sonata form – expositional modules and cadences
 {{ page.title }}
 ================
 
-Following are definitions for important modules and cadences found in sonata-form expositions.
+להלן הגדרות למודולים ולקדנצות (Cadences) חשובים המופיעים באקספוזיציות של צורת הסונטה (Sonata-form).
 
-# Cadences #
+# קדנצות #
 
-## Medial caesura (MC) ##
+## מדיאל צזורה (Medial caesura - MC) ##
 
-Hepokoski and Darcy (whose theory forms the basis of these reference materials) recommend that when analyzing a sonata exposition, "the first task be to locate and identify the treatment of the MC" (p. 24). It is an important event harmonically, in that it marks the point when the secondary key will take over definitively. It is also an important event thematically, because it marks the end of the first part of the exposition and signals the imminent arrival of the secondary theme. It is also an important event rhetorically, because it is typically a high-energy event that has been prepared by significant *energy gain* in the music that precedes it. Lastly, it is important because the type of cadence used as the MC, and how soon after the opening of the movement the MC occurs, are strong indicators of what kind of music will follow in the rest of the sonata movement.
+הפוקוסקי ודרסי (שהתיאוריה שלהם מהווה את הבסיס לחומרי עזר אלו) ממליצים כי בעת ניתוח אקספוזיציה של סונטה, "המשימה הראשונה תהיה לאתר ולזהות את הטיפול ב-MC" (עמ' 24). זהו אירוע חשוב מבחינה הרמונית, בכך שהוא מסמן את הנקודה שבה הסולם המשני ישתלט באופן סופי. זהו גם אירוע חשוב מבחינה תמטית, כיוון שהוא מסמן את סוף החלק הראשון של האקספוזיציה ומאותת על הגעתו הקרובה של הנושא המשני. זהו גם אירוע חשוב מבחינה רטורית, כיוון שהוא בדרך כלל אירוע בעל אנרגיה גבוהה שהוכן על ידי *צבירת אנרגיה* (energy gain) משמעותית במוזיקה שקדמה לו. לבסוף, הוא חשוב מכיוון שסוג הקדנצה המשמש כ-MC, והזמן שחולף מפתיחת הפרק ועד להתרחשות ה-MC, הם אינדיקטורים חזקים לסוג המוזיקה שיבוא בהמשך פרק הסונטה.
 
-The most common cadence for an MC is a half cadence, either in the home key (I:HC MC) or the secondary key (V:HC MC or III:HC MC). In the classical era (late eighteenth century), a I:HC MC will usually indicate a shorter, lighter sonata movement. A V:HC MC or III:HC MC will usually indicate a movement of medium length or longer. More formal complexity is likely to come with a V:HC MC or III:HC MC than a I:HC MC. 
+הקדנציה הנפוצה ביותר עבור MC היא קדנציה חצויה (Half Cadence), בין אם בסולם הבית (I:HC MC) או בסולם המשני (V:HC MC או III:HC MC). בתקופה הקלאסית (סוף המאה השמונה-עשרה), I:HC MC תצביע בדרך כלל על פרק סונטה קצר וקליל יותר. V:HC MC או III:HC MC יצביעו בדרך כלל על פרק באורך בינוני או ארוך יותר. מורכבות צורנית רבה יותר צפויה להופיע עם V:HC MC או III:HC MC מאשר עם I:HC MC. 
 
-For a medium–length sonata movement, a V:HC MC or III:HC MC is the *first-level default* MC type, according to Hepokoski & Darcy. The I:HC MC is a *second-level default*. For shorter movements, the I:HC MC is the first-level default MC type.
+עבור פרק סונטה באורך בינוני, V:HC MC או III:HC MC הם סוגי ה-MC (Medial Caesura) המהווים את *ברירת המחדל מדרגה ראשונה* (first-level default), על פי הֶפּוקוסקי ודארסי (Hepokoski & Darcy). ה-I:HC MC הוא *ברירת מחדל מדרגה שנייה* (second-level default). עבור פרקים קצרים יותר, ה-I:HC MC הוא סוג ה-MC המהווה את ברירת המחדל מדרגה ראשונה.
 
-A third-level default would be V:PAC MC or III:PAC MC. A fourth-level default would be a I:PAC MC. These are both considerably rarer than the first and second defaults, and they create a stronger halt in the musical progression.
+ברירת מחדל מדרגה שלישית תהיה V:PAC MC או III:PAC MC. ברירת מחדל מדרגה רביעית תהיה I:PAC MC. שתיהן נדירות במידה ניכרת בהשוואה לברירות המחדל הראשונה והשנייה, והן יוצרות עצירה חזקה יותר במהלך המוזיקלי.
 
-The musical characteristics that typically surround an MC are:
+המאפיינים המוזיקליים המקיפים בדרך כלל MC הם:
 
-- *energy gain* leading into the cadence (this happens in the TR module, which the MC ends);  
-- prominent arrival of a structural dominant;  
-- a pause or break in the musical texture (sometimes filled by a single voice or other greatly reduced texture—what H/D call "caesura fill"); and  
-- a continuous maintaining of energy between the harmonic cadence and the textural break.
+- *עלייה באנרגיה* המובילה לקדנצה (זה קורה במודול ה-TR, שה-MC מסיים אותו);  
+- הגעה בולטת של דומיננטה מבנית (structural dominant);  
+- הפסקה או שבירה במרקם המוזיקלי (שלעיתים מתמלאת על ידי קול בודד או מרקם מצומצם מאוד אחר—מה ש-H/D מכנים "מילוי צזורה" (caesura fill)); ו-  
+- שימור רציף של אנרגיה בין הקדנצה ההרמונית (harmonic cadence) לבין השבירה הטקסטורלית (textural break).
 
-Other common, but by no means required, features are:
+מאפיינים נפוצים אחרים, אך בשום אופן לא הכרחיים, הם:
 
-- *fa*–*fi*–*sol* in the bass, leading into the cadence;  
-- prolongation or extension of the dominant arrival (what H/D call a "dominant lock"); and/or  
-- a thrice-repeated chord of arrival immediately preceding the break (what H/D call "hammer blows").
+- *פה*–*פי*–*סול* בבס, המוביל אל הקדנצה (cadence);  
+- הארכה (prolongation) או הרחבה של הגעת הדומיננטה (מה ש-H/D מכנים "נעילת דומיננטה" ("dominant lock")); ו/או  
+- אקורד הגעה שחוזר על עצמו שלוש פעמים מיד לפני ההפסקה (מה ש-H/D מכנים "מכות פטיש" ("hammer blows")).
 
-*For an MC to be a real MC, it must be followed by a satisfactory S theme* (see below). A cadence that otherwise could function as an MC, but is not followed by a satisfactory S theme, is considered a case of "medial caesura declined." Any two-part exposition that declines a medial caesura must contain a "real" MC later. If it does not, it is a continuous, rather than a two-part, exposition.
+*כדי ש-MC יהיה MC אמיתי, חייב לבוא אחריו נושא S מספק* (ראו להלן). קדנציה שאלמלא כן הייתה יכולה לתפקד כ-MC, אך לא בא אחריה נושא S מספק, נחשבת למקרה של "צזורה אמצעית שנדחתה" (medial caesura declined). כל אקספוזיציה דו-חלקית (two-part exposition) שדוחה צזורה אמצעית חייבת להכיל MC "אמיתי" בהמשך. אם אין בה כזה, מדובר באקספוזיציה רציפה (continuous exposition) ולא דו-חלקית.
 
-## Essential expositional closure (EEC) ##
+## סגירה תמטית חיונית (Essential expositional closure - EEC) ##
 
-In the exposition of a sonata movement, the EEC is "the first satisfactory PAC within the secondary key that goes on to differening material" (Hepokoski/Darcy, p. 18). It is *not* optional, and it is *always* in the secondary key. The Closing module (C) immediately follows the EEC.
+באקספוזיציה של פרק סונטה, ה-EEC הוא "ה-PAC המספק הראשון בתוך הסולם המשני שממשיך לחומר מוזיקלי שונה" (Hepokoski/Darcy, עמ' 18). הוא *אינו* אופציונלי, והוא *תמיד* בסולם המשני. מודול הסיום (Closing module - C) מופיע מיד לאחר ה-EEC.
 
-It is important to note both that it is the *first* satisfactory PAC, and that it goes on to *differing* material. Often the strongest PAC in the dominant is not the EEC. The EEC is a harmonic goal. Once it has been achieved, the process is complete. That harmonic goal may not coincide with the textural climax. 
+חשוב לציין הן שמדובר ב-PAC המספק ה*ראשון*, והן שהוא ממשיך לחומר *שונה*. לעיתים קרובות ה-PAC החזק ביותר בדומיננטה אינו ה-EEC. ה-EEC הוא יעד הרמוני. ברגע שהושג, התהליך הושלם. ייתכן שיעד הרמוני זה לא יחפוף לשיא הטקסטורלי. 
 
-Also, the EEC comes at the *end* of a theme. Thus, if an S theme reaches a PAC but then repeats itself, the EEC comes at the end of the repeat.
+כמו כן, ה-EEC מופיע ב*סוף* התמה. לפיכך, אם תמת S מגיעה ל-PAC אך לאחר מכן חוזרת על עצמה, ה-EEC מופיע בסוף החזרה.
 
-Once the PAC has been achieved, any new material is *closing material (C)*, not new S themes.
+ברגע שהושג ה-PAC, כל חומר חדש הוא *חומר סיום (closing material - C)*, ולא נושאים חדשים של S.
 
-## Essential sonata closure (ESC) ##
+## סגירת סונטה חיונית (Essential sonata closure - ESC) ##
 
-The ESC is the cadence in the recapitulation that corresponds to the EEC in the exposition. It is *not* optional, and it is *always* in the home key—a I:PAC.
+ה-ESC הוא הקדנצה ברפריזה (recapitulation) התואמת ל-EEC באקספוזיציה (exposition). הוא *אינו* אופציונלי, והוא *תמיד* בסולם הטוניקה (home key) — כלומר, I:PAC.
 
-Like the EEC, it is the "first satisfactory PAC [within S] that goes on to differing material." Also, like the EEC, the ESC is a harmonic goal. Once it has been achieved, the process is complete. That harmonic goal may not coincide with the textural climax.
+כמו ה-EEC, זוהי ה-"PAC המספקת הראשונה [בתוך S] שממשיכה לחומר שונה." כמו כן, בדומה ל-EEC, ה-ESC היא יעד הרמוני. ברגע שהושגה, התהליך הושלם. ייתכן שיעד הרמוני זה לא יחפוף לשיא המרקמי (textural climax).
 
 
-# Modules #
+# מודולים #
 
-## Primary theme (P) ##
+## נושא ראשי (Primary theme - P) ##
 
-The P theme has several functions: establish the home key (with or without a cadence), present the main melodic material that begins the thematic cycle, and begin the motion toward the MC and the EEC.
+לנושא ה-P יש מספר תפקידים: ביסוס סולם הבית (עם או בלי קדנצה), הצגת החומר המלודי המרכזי שמתחיל את המחזור התמטי, והתחלת התנועה לעבר ה-MC וה-EEC.
 
-A P theme may exhibit any [standard theme forms](classicalThemes.html) (sentence, period, hybrid, compound, or small ternary). Sometimes, it can even be a single phrase (antecedent or presentation). 
+נושא P עשוי להציג כל [צורת נושא סטנדרטית](classicalThemes.html) (משפט, תקופה, היברידי, מורכב, או טרנארי קטן). לעיתים, הוא יכול אפילו להיות משפט בודד (antecedent או presentation). 
 
-A P theme may be harmonically closed (ending *on-tonic*) or open (ending *off-tonic*). A fully closed P theme will end with an authentic cadence, preferably a PAC. However, sometimes a P theme will simply dissolve into the transition (TR). In that case, P may simply consist of a presentation phrase or compound basic idea, with no closing cadence. The final cadence of a P module may be elided by the beginning of TR.
+נושא P יכול להיות סגור הרמונית (מסתיים ב-*on-tonic*) או פתוח (מסתיים ב-*off-tonic*). נושא P סגור לחלוטין יסתיים בקדנצה אותנטית (authentic cadence), רצוי PAC. עם זאת, לעיתים נושא P פשוט יתמוסס לתוך המעבר (TR). במקרה כזה, P עשוי להורכב פשוט מביטוי הצגה (presentation phrase) או רעיון בסיסי מורכב (compound basic idea), ללא קדנצה מסיימת. הקדנצה הסופית של יחידת P עשויה לעבור אליזיה (elided) על ידי תחילתו של ה-TR.
 
-## Transition (TR) ##
+## מעבר (Transition - TR) ##
 
-The TR module's principal functional role is to drive toward the MC. This is both a harmonic motion (often involving modulation, if the MC is in the secondary key) and a rhetorical motion, characterized by *energy gain*. An analysis of a TR module should center around the MC and how the composer approaches the MC.
+התפקיד הפונקציונלי העיקרי של מודול ה-TR הוא להוביל אל ה-MC. זוהי תנועה הרמונית (הכוללת לעיתים קרובות מודולציה, אם ה-MC נמצא בסולם משני) ותנועה רטורית כאחד, המאופיינת ב*צבירת אנרגיה* (*energy gain*). ניתוח של מודול TR צריך להתמקד ב-MC ובאופן שבו המלחין ניגש אל ה-MC.
 
-Following are common techniques associated with TR function.
+להלן טכניקות נפוצות הקשורות לפונקציית TR (TR function).
 
-TR modules often begin with what Hepokoski & Darcy call a "tutti affirmation," particularly in orchestral works. This is a noticeably louder restatement of at least the basic idea of P, before progressing to the MC. They also often exhibit motivic *Fortspinnung*—a repeated "spinning out" of fragments of a melodic motive, typically taken from the P theme. TR often features melodic or harmonic sequences. Anything else that can be associated with [*continuation* function](themeFunctions.html) fits transition function, as well: fragmentation, liquidation, acceleration of melodic or harmonic rhythm, etc.
+מודולי TR מתחילים לעיתים קרובות במה שהפוקוסקי ודרסי מכנים "אישור טוטי" (tutti affirmation), במיוחד ביצירות תזמורתיות. זוהי חזרה רועשת באופן מובהק על לפחות הרעיון הבסיסי של P, לפני ההתקדמות אל ה-MC. הם מפגינים לעיתים קרובות גם *Fortspinnung* מוטיבי — "טוויה" חוזרת של שברים מתוך מוטיב מלודי, שנלקח בדרך כלל מנושא ה-P. ה-TR מאופיין לעיתים קרובות ברצפים מלודיים או הרמוניים. כל דבר אחר שניתן לשייך ל[פונקציית *המשכיות* (continuation function)](themeFunctions.html) מתאים גם לפונקציית המעבר: פרגמנטציה (fragmentation), ליקווידציה (liquidation), האצה של הקצב המלודי או ההרמוני, וכן הלאה.
 
-We will follow Hepokoski & Darcy's practice of identifying the beginning of TR at the beginning of a phrase. In general, once you hear TR function clearly projected, track back to the beginning of that phrase and label it the beginning of TR.
+אנו נפעל לפי הנוהג של Hepokoski & Darcy לזיהוי תחילתו של ה-TR בתחילתו של משפט מוזיקלי (phrase). באופן כללי, ברגע ששומעים תפקוד TR מוקרן בבירור, יש לחזור אחורה לתחילת אותו משפט מוזיקלי ולסמן אותו כתחילתו של ה-TR.
 
-Following Hepokoski and Darcy, we can classify transitions as *independent*, *developmental*, and *dissolving*. An independent transition begins with, and is based on, new melodic material. A developmental transition is based on melodic material from the P theme. A dissolving transition begins with material from P and dissolves, degenerates, or liquidates that material as the music gains energy and moves towards the MC.
+בעקבות הופוקוסקי ודארסי (Hepokoski and Darcy), ניתן לסווג מעברים (transitions) כ*עצמאיים* (independent), *התפתחותיים* (developmental), ו*מתמוססים* (dissolving). מעבר עצמאי מתחיל בחומר מלודי חדש ומבוסס עליו. מעבר התפתחותי מבוסס על חומר מלודי מנושא ה-P. מעבר מתמוסס מתחיל בחומר מנושא ה-P ומתמוסס, מתנוון או מפרק (liquidates) את החומר הזה ככל שהמוזיקה צוברת אנרגיה ומתקדמת לעבר ה-MC.
 
-## Secondary theme (S) ##
+## נושא משני (Secondary theme) (S) ##
 
-The chief function of an S module is to bring about a PAC in the secondary key—the *essential expositional closure (EEC)*. Because of its role in relation to this central harmonic event (and its corresponding cadence in the recapitulation, the ESC), the S module is of immense importance and interest in a sonata-form movement. Hepokoski and Darcy go so far as to say that "what happens in S makes a sonata a sonata" (p. 117). How S achieves the EEC, how the recapitulation's S module achieves the ESC, and the relationship between the two are among the most defining features of a sonata movement. They are a major focus of a composer's attention, and they should be a major focus of our attention.
+התפקיד העיקרי של מודול S הוא להוביל ל-PAC בסולם המשני — ה-*סגירה האקספוזיציונית המהותית (Essential Expositional Closure - EEC)*. בשל תפקידו ביחס לאירוע הרמוני מרכזי זה (והקדנצה המקבילה לו ברפריזה, ה-ESC), מודול S הוא בעל חשיבות ועניין עצומים בתנועה במבנה סונטה. הפוקוסקי ודרסי מרחיקים לכת עד כדי אמירה ש"מה שקורה ב-S הופך סונטה לסונטה" (עמ' 117). האופן שבו S משיג את ה-EEC, האופן שבו מודול ה-S של הרפריזה משיג את ה-ESC, והקשר בין השניים הם בין המאפיינים המגדירים ביותר של תנועת סונטה. הם מהווים מוקד מרכזי לתשומת לבו של המלחין, ועליהם להוות מוקד מרכזי לתשומת לבנו.
 
-The melody of an S module is often straightforward, and typically less memorable than the P theme. This does not take away from its structural importance, however.
+המלודיה של מודול S היא לרוב ישירה, ובדרך כלל פחות זכירה מנושא ה-P. עם זאת, אין בכך כדי לגרוע מחשיבותו המבנית.
 
-The S module in a major-mode sonata movement is typically in the key of the dominant (V). Later works by Beethoven, Schubert, and others play with this exposition, but it is always the first-level default. Early in sonata history it is the only option.
+בפרק סונאטה במודוס מז'ורי, מודול ה-S נמצא בדרך כלל בסולם הדומיננטה (V). יצירות מאוחרות יותר של בטהובן, שוברט ואחרים משחקות עם האקספוזיציה (Exposition) הזו, אך היא תמיד מהווה את ברירת המחדל ברמה הראשונה. בראשית ההיסטוריה של הסונאטה, זוהי האפשרות היחידה.
 
-The S module in a minor-mode movement is typically in the mediant (III) or the *minor* dominant (V, or v if you want to emphasize the minor mode of the secondary key).
+המודול S בפרק הכתוב בסולם מינורי נמצא בדרך כלל בדרגת המדיאנטה (III) או בדומיננטה ה*מינורית* (V, או v אם ברצונכם להדגיש את המודוס המינורי של הסולם המשני).
 
-Following are several common types of secondary themes:
+להלן מספר סוגים נפוצים של נושאים משניים (secondary themes):
 
-* *subito piano* S – sudden drop to low volume and/or sparse orchestration immediately after the MC; contrasts P
-* the *galant* S – light, jaunty, energetic, galloping; contrasts P  
-* the *cantabile* S – lyrical, singing; contrasts P  
-* P-based S – begins with material from the P theme (Haydn's first-level default)  
-* "Contrasting derivation" – derived from P, but contrasting in quality  
-* *forte* S – often follow weak MCs, continue the energy increased during TR  
-* *learned* S – rare S type that uses fugal, canonic, or imitative textures; reminiscent of pre-*galant* musical styles
+* *subito piano* S – ירידה פתאומית לעוצמת קול נמוכה ו/או תזמור דליל מיד לאחר ה-MC; עומד בניגוד ל-P
+* ה-*galant* S – קליל, עליז, אנרגטי, דוהרת; מנוגד ל-P  
+* ה-*cantabile* S – לירי, שירתי; מנוגד ל-P  
+* P-based S – מתחיל עם חומר מהנושא P (ברירת המחדל של הרמה הראשונה אצל היידן)  
+* "גזירה מנוגדת" (Contrasting derivation) – נגזר מ-P, אך מנוגד באיכותו  
+* *forte* S – לרוב מופיעים לאחר MCs חלשים, וממשיכים את האנרגיה שגברה במהלך ה-TR  
+* *learned* S – סוג נדיר של S המשתמש במרקמים פוגליים (fugal), קנוניים (canonic) או חיקוייים (imitative); מזכיר סגנונות מוזיקליים שלפני ה-*galant*
 
-## Closing zone (C) ##
+## אזור סיום (Closing zone) (C) ##
 
-The definitive characteristics of C are that it follows the EEC, and that it is not S. C modules can present wholly new thematic material, or they can borrow from P or TR. They cannot, by definition, be S-based, since that would be a continuation of S. (Keep in mind that the EEC must go on to new material, otherwise the S module continues and the EEC has not been reached yet.) 
+המאפיינים המכריעים של C הם שהוא עוקב אחר ה-EEC, ושהוא אינו S. מודולים מסוג C יכולים להציג חומר תמטי חדש לחלוטין, או שהם יכולים לשאול מ-P או מ-TR. הם אינם יכולים, מעצם הגדרתם, להיות מבוססי S, כיוון שזה יהווה המשך של S. (זכרו שה-EEC חייב להמשיך לחומר חדש, אחרת מודול ה-S נמשך וה-EEC טרם הושג.) 
 
-The C module will always be in the secondary key. It is post-cadential, and the harmonic goal of the exposition has already been reached. If C goes somewhere else, it is not C.
+המודול C תמיד יהיה בסולם המשני (secondary key). הוא פוסט-קדנציאלי (post-cadential), והיעד ההרמוני של האקספוזיציה כבר הושג. אם C עובר למקום אחר, הוא אינו C.
 
-The C module's melodic material can be P-based, TR-based, wholly new, or a string of *codettas* (short phrase-length units containing flourishes and other stock gestures that each end with a repeat of the PAC in the secondary key).
+החומר המלודי של מודול ה-C יכול להיות מבוסס על P, מבוסס על TR, חדש לחלוטין, או רצף של *קודטות* (codettas) (יחידות קצרות באורך משפט המכילות קישוטים ומחוות מוזיקליות שגרתיות אחרות, שכל אחת מהן מסתיימת בחזרה על ה-PAC בסולם המשני).
 
-## Retransition (RT) ##
+## מעבר חוזר (Retransition - RT) ##
 
-A retransition is like a *turnaround* in pop/rock or blues music. It is a dominant chord or arrival in the home key that prepares the return to the home key at the beginning of the repeat of the exposition. The difference between an RT and a turnaround is that an RT follows a modulation. When the RT follows a secondary key of V, it turns I in the key of V into V into the key of I by repetition, melodic figuration, or the adding of a chordal seventh.
+מעבר חוזר (Retransition) הוא כמו *סיומת מעבר* (turnaround) במוזיקת פופ/רוק או בלוז. זהו אקורד דומיננטי או הגעה לסולם הבית, המכינים את החזרה לסולם הבית בתחילת החזרה על האקספוזיציה. ההבדל בין RT לבין סיומת מעבר הוא ש-RT מגיע לאחר מודולציה. כאשר ה-RT מגיע לאחר סולם משני של V, הוא הופך את I בסולם של V ל-V בסולם של I באמצעות חזרה, פיגורציה מלודית, או הוספת ספטימה אקורדית.
 
 

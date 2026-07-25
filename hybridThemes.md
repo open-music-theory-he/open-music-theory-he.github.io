@@ -3,47 +3,47 @@ layout: post
 title: Hybrid themes
 ---
 
-Hybrid themes generally combine the features of sentences and periods. See the pages on [the sentence](sentence.html), [the period](period.html), and [Classical theme functions](themeFunctions.html) for more information on the elements included in hybrid themes.
+תמות היברידיות (Hybrid themes) משלבות בדרך כלל את מאפייניהם של משפטים מוזיקליים (sentences) ותקופות (periods). ראו את העמודים העוסקים ב[משפטים מוזיקליים](sentence.html), ב[תקופות מוזיקליות](period.html) וב[פונקציות תמה קלאסיות (Classical theme functions)](themeFunctions.html) למידע נוסף על האלמנטים הכלולים בתמות היברידיות.
 
-## Hybrid 1 ##
+## היברידי 1 ##
 
-Hybrid 1 combines the antecedent phrase (typically associated with the period) with the continuation phrase (typically associated with the sentence).
+היבריד 1 (Hybrid 1) משלב את משפט ה-antecedent (הקשור בדרך כלל לפריודה) עם משפט ה-continuation (הקשור בדרך כלל למשפט המורכב / sentence).
 
 ![][hybrid1]
 
-This results in a complete presentation–continuation–cadential function progression in the antecedent phrase followed by an incomplete continuation–cadential function progression. On the large scale, the antecedent phrase functions like a big presentation function zone (like the presentation phrase does).
+תוצאה זו יוצרת מהלך פונקציונלי של הצגה–המשך–קאדנס (presentation–continuation–cadential function) שלם במשפט הקודם (antecedent phrase), ולאחר מכן מהלך פונקציונלי של המשך–קאדנס (continuation–cadential function) חלקי. ברמה המאקרו-אנליטית (large scale), המשפט הקודם מתפקד בדומה לאזור פונקציית הצגה גדול (כפי שעושה משפט ההצגה).
 
-A prototypical example can be found in Mozart's Piano Sonata in C major, II., mm. 1–8.
+דוגמה טיפוסית ניתן למצוא בסונאטה לפסנתר ב-C מז'ור של מוצארט, פרק שני, תיבות 1–8.
 
 [![](Graphics/form/k330-ii.png)](Graphics/form/k330-ii.png)
 
-## Hybrid 2 ##
+## היברידי 2 ##
 
-Hybrid 2 similarly begins with an antecedent phrase, but follows with a four-bar-long cadential progression.
+היבריד 2 (Hybrid 2) מתחיל באופן דומה עם משפט קודם, אך ממשיך אחריו עם מהלך קדנציאלי באורך ארבע תיבות (cadential progression).
 
 ![][hybrid2]
 
-A prototypical example can be found in Haydn's String Quartet in G major, Hob. III:66, II., mm. 1–8.
+דוגמה טיפוסית ניתן למצוא ברביעיית המיתרים ב-G מז'ור מאת היידן, Hob. III:66, פרק II, תיבות 1–8.
 
 [![](Graphics/form/haydn-III-66-ii.png)](Graphics/form/haydn-III-66-ii.png)
 
-## Hybrid 3 ##
+## היברידי 3 ##
 
-Hybrid 3 is almost identical to Hybrid 1, with the exception that the first phrase does not end with a cadence. This "compound basic idea" (CBI) presents the melodic structure of an antecedent (two contrasting melodic ideas), but uses the harmonic structure of a presentation phrase (tonic prolongation). The CBI expresses presentation function, followed by a continuation phrase that expresses continuation and cadential functions.
+Hybrid 3 זהה כמעט לחלוטין ל-Hybrid 1, למעט העובדה שהמשפט הראשון אינו מסתיים בקדנצה. "רעיון בסיסי מורכב" (compound basic idea - CBI) זה מציג את המבנה המלודי של antecedent (שתי מחשבות מלודיות מנוגדות), אך עושה שימוש במבנה ההרמוני של משפט הצגה (presentation phrase) (הארכת טוניקה). ה-CBI מביע פונקציית הצגה (presentation function), ולאחר מכן משפט המשך (continuation phrase) המביע פונקציות של המשך וקדנצה (continuation and cadential functions).
 
 ![][hybrid3]
 
-A prototypical example can be found in Haydn's Piano Sonata in C major, Hob. XVI:35, I., mm. 1–8.
+דוגמה טיפוסית (prototypical example) ניתן למצוא בסונאטה לפסנתר ב-C מז'ור מאת היידן, Hob. XVI:35, פרק I, תיבות 1–8.
 
 [![](Graphics/form/haydn-XVI-35-i.png)](Graphics/form/haydn-XVI-35-i.png)
 
-## Hybrid 4 ##
+## היברידי 4 ##
 
-Hybrid 4 is almost identical to a period, with the exception that the first phrase does not end with a cadence. The CBI expresses presentation function, which is picked up in the beginning of the consequent phrase that contains the basic idea, and possibly tonic harmony, as well. Continuation and cadential function do not appear until the last contrasting idea (CI).
+המבנה ההיברידי 4 (Hybrid 4) כמעט זהה לתקופה (period), למעט העובדה שהמשפט הראשון אינו מסתיים בקדנס (cadence). ה-CBI מבטא פונקציית הצגה, אשר נאספת בתחילת המשפט העוקב (consequent phrase) המכיל את הרעיון הבסיסי (basic idea), ואפשר שגם הרמוניקת טוניקה (tonic harmony). פונקציית ההמשך (continuation function) ופונקציית הקדנס (cadential function) אינן מופיעות עד לרעיון המנוגד (contrasting idea - CI) האחרון.
 
 ![][hybrid4]
 
-A prototypical example can be found in Beethoven's String Quartet in G major, Op. 18/2, IV., mm. 1–8.
+דוגמה טיפוסית ניתן למצוא ברביעיית המיתרים ב-G מז'ור מאת בეთובן, אופוס 18, מס' 2, פרק IV, תיבות 1–8.
 
 [![](Graphics/form/op18-2-iv.png)](Graphics/form/op18-2-iv.png)
 

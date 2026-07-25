@@ -3,24 +3,24 @@ layout: post
 title: Twelve-Tone Music — Invariance
 ---
 
-*Invariance* refers to the preservation of something: intervals, dynamics, rhythms, pitches, and so on. In elementary twelve-tone theory, we are mostly concerned with *intervallic* invariance and *pitch class segmental* invariance.
+*אינווריאנטיות* (*Invariance*) מתייחסת לשמירה על דבר מה: מרווחים, דינמיקה, קצבים, גבהי צליל, וכדומה. בתיאוריה הדודקו-פונית (שני-עשרית) האלמנטרית, אנו עוסקים לרוב באינווריאנטיות *מרווחית* (*intervallic*) ובאינווריאנטיות של *פלח מחלקות גבהי צליל* (*pitch class segmental*).
 
-**Intervallic Invariance**
+**אינווריאנס מרווחי (Intervallic Invariance)**
 
-Any time a row is [transposed](twelveToneIntervallicStructure.html), the ordered intervallic content of the row is unchanged. Thus, transposition always results in intervallic invariance. [Retrograde inversion ](twelveToneIntervallicStructure.html)creates retrograde intervallic invariance.
+בכל פעם ששורה [מועברת](twelveToneIntervallicStructure.html), תוכן האינטרוולים המדורג של השורה נותר ללא שינוי. לפיכך, העברה (transposition) מובילה תמיד לאינווריאנטיות של אינטרוולים (intervallic invariance). [היפוך רטרוגרדי](twelveToneIntervallicStructure.html) יוצר אינווריאנטיות אינטרוולית רטרוגרדית.
 
-**Segmental Invariance**
+**אינווריאנס סגמנטלי (Segmental Invariance)**
 
-When a pitch-class segment of a row is unchanged when that row is transformed, we say that the segment is "held invariant." Consider the following example, from Webern's String Quartet, Op. 28:
+כאשר מקטע מחלקת-גובה (pitch-class segment) של שורת טון אינו משתנה כאשר אותה שורה עוברת טרנספורמציה, אנו אומרים שהמקטע "נשמר אינווריאנטי" (held invariant). הביטו בדוגמה הבאה, מתוך רביעיית המיתרים אופוס 28 של וברן (Webern):
 
 [![](Graphics/postTonal/invariance.png)](Graphics/postTonal/invariance.png)
 
-The brackets show the [discrete tetrachords](twelveToneMusicDerivation.html) of the row. Notice that these tetrachords are the *same* amongst the to different rows. That is, the tetrachords are *invariant segments.* These segments are held invariant because of they share the same *relationship* with one another that the rows share. Because the tetrachords are related by _T8_, when the row _as a whole_ is transposed by _T8_, those tetrachords are "held invariant." (Think of the process like this: when the first tetrachord [6789] is transposed by _T8_, it becomes the last tetrachord [2345]. And therefore, when the whole row is transposed by _T8, _the last tetrachord _becomes_ the first tetrachord.)
+הסוגריים מראים את ה[טטרקורדים הדיסקרטיים (discrete tetrachords)](twelveToneMusicDerivation.html) של השורה. שימו לב שטטרקורדים אלו הם ה*זהים* בין שתי השורות השונות. כלומר, הטטרקורדים הם *קטעים אינווריאנטים (invariant segments)*. קטעים אלו נשמרים כאינווריאנטיים משום שהם חולקים את אותה *זיקה* (relationship) זה עם זה שחולקות השורות. מכיוון שהטטרקורדים קשורים באמצעות _T8_, כאשר השורה _כשלעצמה_ ממופה בטרנספוזיציה (transposed) על ידי _T8_, אותם טטרקורדים "נשמרים כאינווריאנטיים". (חשבו על התהליך כך: כאשר הטטרקורד הראשון [6789] ממופה בטרנספוזיציה על ידי _T8_, הוא הופך לטטרקורד האחרון [2345]. ועל כן, כאשר השורה כולה ממופה בטרנספוזיציה על ידי _T8_, הטטרקורד האחרון _הופך_ לטטרקורד הראשון.)
 
-To determine when and if a pitch-class segment of a row will be held invariant:
+כדי לקבוע מתי והאם קטע מחלקת גובה-צליל של שורה יישאר אינווריאנטי (invariant):
 
-(1) Find an equivalent set-class elsewhere in the row. This may be a dyad, trichord, tetrachord, etc.
+(1) מצא קבוצת-מחלקות (set-class) שקולה במקום אחר בסדרה. זה עשוי להיות דיאדה (dyad), טריקורד (trichord), טטרקורד (tetrachord) וכו'.
 
-(2) Determine the transpositional or inversional relationship between them.
+(2) קבעו את יחס הטרנספוזיציה או ההיפוך (inversion) ביניהם.
 
-(3) When the row is transposed or inverted by that *same* relationship a segment will be held invariant.
+(3) כאשר הטור ממופה בטרנספוזיציה או מהופך על ידי *אותו* יחס עצמו, מקטע יישאר אינווריאנטי.

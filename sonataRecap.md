@@ -3,44 +3,44 @@ layout: post
 title: Sonata form – the recapitulation
 ---
 
-The _recapitulation_ is the goal of the sonata, coming after the _exposition_ and the _development_ (anything that precedes the exposition is _introduction_ and anything that follows the recapitulation is _coda_). It answers the expectations set forth by the exposition, and it brings the _essential sonata closure_. Thus, the relationship between the exposition and the recapitulation is the a central focus of a sonata analysis.
+ה-_רפריזה_ (recapitulation) היא המטרה של הסונטה (sonata), והיא מגיעה לאחר ה-_אקספוזיציה_ (exposition) ופיתוח (development) (כל מה שקודם לאקספוזיציה הוא מבוא (introduction) וכל מה שבא אחרי הרפריזה הוא קודה (coda)). היא עונה על הציפיות שהציגה האקספוזיציה, ומביאה את סגירת הסונטה החיונית (_essential sonata closure_). לפיכך, הקשר בין האקספוזיציה לרפריזה הוא מוקד מרכזי בניתוח סונטה (sonata analysis).
 
-In light of the importance of this relationship, an analysis of a recapitulation should always take place in light of the exposition.
+לאור חשיבותו של קשר זה, ניתוח של רפריזה (Recapitulation) צריך תמיד להתרחש לאור האקספוזיציה (Exposition).
 
-## Thematic cycle ##
+## מחזור תמטי (Thematic cycle) ##
 
-The recapitulation typically follows the same pattern of modules set forth in the exposition: { P TR ’ S / C } for a two-part exposition, { P TR ⇒ FS / C } for a continuous exposition (the apostrophe stands for the MC, the slash stands for the EEC/ESC).
+הרפריז עוקבת בדרך כלל אחר אותו דפוס מודולים שהוצג באקספוזיציה: { P TR ’ S / C } עבור אקספוזיציה דו-חלקית (two-part exposition), { P TR ⇒ FS / C } עבור אקספוזיציה רציפה (continuous exposition) (הגרש מציין את ה-MC, וקו הנטייה מציין את ה-EEC/ESC).
 
-## Essential sonata closure
+## סגירת סונאטה חיונית (Essential sonata closure)
 
-The harmonic goal of the recapitulation (and the sonata movement as a whole) is the _essential sonata closure (ESC)_. The ESC will always be a I:PAC, and will typically occur at the same thematic point in the recapitulation as the EEC in the exposition. It is often the exact same music as in the exposition, but transposed from the secondary key to the home key.
+המטרה ההרמונית של הרפריזה (ושל פרק הסונטה כשלמה) היא _סגירת הסונטה החיונית (essential sonata closure - ESC)_. ה-ESC תמיד יהיה מהלך קדנצה מושלמת אותנטית (perfect authentic cadence - PAC) בדרגה I, ובדרך כלל יתרחש באותה נקודה תמתית ברפריזה כמו ה-EEC באקספוזיציה. לעתים קרובות זוהה בדיוק אותה מוסיקה כמו באקספוזיציה, אך ממוספרת או מועברת מהסולם המשני אל סולם הבית (home key).
 
-## Recomposition
+## הרכבה מחדש (Recomposition)
 
-The simplest exposition–recapitulation relationship occurs in a sonata with a I:HC MC in the exposition followed immediately by S in the dominant. In such a sonata, the composer can simply repeat P–TR verbatim in the recapitulation, and then repeat S–C verbatim, but transposed down a fifth. In such a sonata, there is no recomposition. Every bar in the recapitulation directly corresponds to a bar in the exposition, at pitch or tranposed by fifth.
+הקשר האקספוזיציה–רפריזה הפשוט ביותר מתרחש בסונטה שבה ישנו מהלכים I:HC MC באקספוזיציה, המלווים מיד על ידי S בדומיננטה. בסונטה מעין זו, המלחין יכול פשוט לחזור על P–TR מילה במילה (verbatim) ברפריזה, ולאחר מכן לחזור על S–C מילה במילה, אך כשהם מנוודים מחדש קווינטה כלפי מטה. בסונטה מסוג זה, אין שום הלחנה מחדש (recomposition). כל תיבה ברפריזה תואמת ישירות תיבה באקספוזיציה, באותו הגובה או בטרנספוזיציה של קווינטה.
 
-In most sonatas, however, some music from the exposition is *recomposed* in the recapitulation, often to "undo" the modulation that happened on the way to a V:HC MC. In such cases, we use the term *correspondence bars* (or *correspondence measures*) to refer to the passages that are the same (or the same transposed) in the exposition and the recapitulation. *Referential bars* make clear reference to specific bars in the exposition, but the material is changed in some non-trivial way. *Alterations* are passages in the recapitulation that have no clear reference or correspondence to passages in the exposition.
+עם זאת, ברוב הסונטות, חלק מן המוזיקה מן האקספוזיציה *מומלצת מחדש* (recomposed) ברקפריטולציה, לעתים קרובות כדי "לבטל" את המודולציה שהתרחשה בדרך ל-V:HC MC. במקרים כאלה, אנו משתמשים במונח *תיבות התאמה* (correspondence bars או *correspondence measures*) כדי להתייחס למעברים שהם זהים (או זהים בטרנספוזיציה) באקספוזיציה ובקפריטולציה. *תיבות הפניה* (referential bars) מתייחסות באופן ברור לתיבות ספציפיות באקספוזיציה, אך החומר מושתנה בצורה כלשהי שאינה זניחה. *שינויים* (alterations) הם מעברים ברקפריטולציה שאין להם הפניה או התאמה ברורה למעברים באקספוזיציה.
 
-Correspondence, reference, and altered material tends to happen in the following order in the recapitulation: 
+התאמה (Correspondence), רפרנס (reference), וחומר משתנה (altered material) נוטים להופיע בסדר הבא ברקפitulציה: 
 
-- correspondence bars (P and perhaps the beginning of TR or TR ⇒ FS)  
-- alterations or referential bars (primarily in TR or TR ⇒ FS)  
-- correspondence bars (S and C, and sometimes the material immediately preceding the MC, transposed to the home key)
+- תיבות התאמה (correspondence bars) (P ואולי תחילת TR או TR ⇒ FS)  
+- שינויים או תיבות התייחסות (בעיקר ב-TR או ב-TR ⇒ FS)  
+- תיבות התאמה (S ו-C, ולפעמים החומר שקודם מיד ל-MC, ממוძולות לסולם הביתי)
 
 ### Crux
 
-The point in the recapitulation at which alterations give way to renewed correspondence with the exposition is called the *crux*. This point, along with the MC and the ESC, must be determined before most of the rest of the analysis of the recapitulation can take place. Generally speaking, the crux will come before the beginning of S, with S and C comprised primarily of *correspondence bars*.
+הנקודה ברקפיטולציה שבה השינויים מפנים מקום להתאמה מחודשת עם האקספוזיציה נקראת *הקרוקס* (crux). נקודה זו, יחד עם ה-MC וה-ESC, חייבת להיות מוגדרת בטרם ניתן לבצע את רוב שאר הנתוח של הרקפיטולציה. באופן כללי, הקרוקס יופיע לפני תחילת ה-S, כאשר ה-S וה-C מורכבים בעיקר מ*תיבות התאמה*.
 
-Typically there are no alterations *post-crux*, but when there are, they should not be overlooked in an analysis.
+בדרך כלל אין שינויים לאחר הקרוקס (*post-crux*), אך כאשר הם קיימים, אין להתעלם מהם בניתוח.
 
-## Hermeneutics
+## הֶרְמֵנֵיאוּטִיקָה (Hermeneutics)
 
-A sonata analysis only _begins_ with the finding and labeling of these modules, keys, and events. Once you have successfully analyzed the sonata structure, move into interpretation (the scholarly term for the study of musical or textual interpretation is _hermeneutics_). Sonata hermeneutics begins with interpretive questions like:
+ניתוח סונאטה רק _מתחיל_ באיתור ובמתן תוויות למודולים, לסולמות ולאירועים אלו. ברגע שניתוח מבנה הסונאטה הוצלَح, עברו לפרשנות (המונח האקדמי לחקר הפרשנות המוזיקלית או הטקסטואלית הוא _הרמנויאוטיקה_ (hermeneutics)). הרמנויאוטיקה של סונאטה (Sonata hermeneutics) מתחילה בשאלות פרשניות כגון:
 
-* What expectations does the exposition set up for the recapitulation (and other passages such as the development and, if present, coda)?
-* How does the recapitulation fulfill those expectations?
-* How does the recapitulation thwart or mess with those expectations?
-* What effects might the expected and unexpected elements in the recapitulation have on listeners?
-* How do the unique elements of the piece in question relate to other pieces in its historical context?
+* אילו ציפיות יוצרת האקספוזיציה עבור הרפריזה (Recapitalization - וקטעים נוספים כגון הפיתוח [Development] ואם קיים, הקודה [Coda])?
+* כיצד הרקפריטולציה ממלאת ציפיות אלו?
+* כיצד הרפריזה מסכלת את הציפיות הללו או משבשת אותן?
+* אילו השפעות עשויים להיות לאלמנטים הצפויים והבלתי צפויים ברפריזה על המאזינים?
+* כיצד האלמנטים הייחודיים של היצירה המדוברת קשורים ליצירות אחרות בהקשר ההיסטורי שלה?
 
-When writing, presenting, or discussing a sonata analysis, don't simply catalog structure. Begin with questions like these, and provide structural details only in service of explaining your answers to those questions (and others that are raised by your engagement with the piece).
+כאשר כותבים, מציגים או דנים בניתוח סונטה (Sonata Analysis), אין להסתפק בקטלוג מבני בלבד. התחילו בשאלות כגון אלה, וספקו פרטים מבניים אך ורק לשם מתן מענה לשאלותיכם (ולשאלות נוספות העולות מתוך ההתמודדות שלכם עם היצירה).

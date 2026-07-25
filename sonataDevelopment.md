@@ -3,39 +3,39 @@ layout: post
 title: Sonata Form – the development
 ---
 
-The development section, the second large-scale section of a sonata form, succeeds the exposition's second part. It is by far the least conventional section of the sonata. Its relatively unstable tonal and phrase-structural characteristics motivate the return to stability in the recapitulation.
+קטע הפיתוח (development section), החלק הגדול השני בצורת סונאטה (sonata form), מגיע מיד לאחר החלק השני של התצוגה (exposition). זהו בהחלט החלק הבלתי שגרתי ביותר בסונאטה. המאפיינים הטונאליים והמבניים-משפטיים הבלתי יציבים יחסית שלו מניעים את החזרה ליציבות ברקפריטולציה (recapitulation).
 
-That said, developments should not be understood as completely unstructured or lacking conventional schematic routines. When analyzing a development section, you should keep track of at least three types of organization, outlined below. Rarely will a development section follow these models of organization precisely. Rather, you should treat them as [heuristic][http://en.wikipedia.org/wiki/Heuristic] tools to help reveal the individuality of a composition.
+עם זאת, אין להבין פיתוחים כבלתי מובנים לחלוטין או חסרי שגרות סכמטיות קונבנציונליות. בעת ניתוח פרק פיתוח, עליכם לעקוב אחר לפחות שלושה סוגי ארגון, המפורטים להלן. לע ندرة (לעיתים רחוקות) פרק פיתוח יציית לדגמי ארגון אלו במדויק. תחת זאת, עליכם להתייחס אליהם כאל כלים [הוריסטיים][http://en.wikipedia.org/wiki/Heuristic] (heuristic) המסייעים לחשוף את האינדיבידואליות של יצירה מוזיקלית.
 
-## Tonal organization
+## ארגון טונالي (Tonal organization)
 
-Development sections tend to explore subordinate keys, and especially those in the minor mode. A major key sonata will often explore the submediant, mediant, and supertonic are in the development, while a minor key development will often touch upon the subdominant and minor dominant.
+פרקי פיתוח (Development sections) נוטים לחקור סולמות צדדיים (subordinate keys), ובעיקר כאלו במודוס המינורי (minor mode). סונאטה בסולם מז'ור (major key sonata) תחקור לעיתים קרובות את הסובמדיאנט (submediant), המדיאנט (mediant), והסופרטוניק (supertonic) בפיתוח, בעוד שפיתוח בסולם מינור (minor key development) ייגע לעיתים קרובות בסובדומיננטה (subdominant) ובדומיננטה המינורית (minor dominant).
 
-Most development sections do not confirm these keys through authentic cadences, as is typical in the rest of the sonata. More often these keys are confirmed by an HC.
+רוב פרקי הפיתוח אינם מאשרים סולמות אלו באמצעות קדנצות אותנטיות (authentic cadences), כנהוג בשאר הסונָטה. לרוב, סולמות אלו מאושרים על ידי קדנצה חצי-סופית (HC - Half Cadence).
 
-Near its end, a development section quite often reaches a HC in the tonic key to prepare the recapitulation. That HC is often prolonged through a ["standing on the dominant"](externalExpansions.html)—a module we will call the "retransition."
+לקראת סופו, פרק פיתוח מגיע לעיתים קרובות מאוד לקדנצה חצי-סופית (HC) בסולם הטוניקה כדי להכין את הרפריזה. קדנצה חצי-סופית (HC) זו מוארכת לעיתים קרובות באמצעות ["עמידה על הדומיננטית"](externalExpansions.html) (["standing on the dominant"](externalExpansions.html)) – מודול שנקרא לו "ריטרנזישן" (retransition).
 
-## Thematic organization
+## ארגון מוטיבי (Thematic organization)
 
-There is no single standard order in which themes are presented in the development. In theory, a composer may touch on any of the themes that were part of the exposition's thematic cycle, or even introduce new themes.
+אין סדר סטנדרטי יחיד שבו מוצגים נושאים בפיתוח (development). בתיאוריה, מלחין עשוי לגעת בכל אחד מהנושאים שהיו חלק מהמחזור התמטי של ההצגה, או אפילו להציג נושאים חדשים.
 
-However, some thematic layouts are more common than others. Developments that are based on P and TR are far more common than those based on S and C. 
+עם זאת, פריסות תემაטיות מסוימות נפוצות יותר מאחרות. פיתוחים (developments) המבוססים על P ועל TR נפוצים הרבה יותר מאלה המבוססים על S ועל C. 
 
-As a first principle, you should analyze a development in reference to the thematic cycle of the exposition (P-TR-S-C), realizing that leaving out some exposition modules is typical.
+כעיקרון מנחה, עליך לנתח פיתוח בהתייחס למחזור התמטי של האקספוזיציה (P-TR-S-C), תוך הבנה שהשמטת חלק ממודולות האקספוזיציה (exposition modules) היא תופעה טיפוסית.
 
-## Four modules
+## ארבעה מודולים
 
-There are generally four modules available to a development, and not all of them will necessarily be present in a given work, though they do proceed in the order shown below. The tonal and thematic layout of a development is grafted onto these modules in a variety of ways:
+באופן כללי ישנם ארבעה מודולים (modules) הזמינים לפיתוח, ולא בהכרח כולם יופיעו ביצירה נתונה, אם כי הם אכן מתקדמים בסדר המוצג להלן. המבנה הטונالي והתמטי של פיתוח מולבש על גבי מודולים אלו במגוון דרכים:
 
-**(1) Optional link** from the preceding retransition or the closing material. This has the feeling of preceding the "development proper."
+**(1) קישור אופציונלי (Optional link)** מן המעבר החוזר שלפני כן או מחומר הסיום. הדבר מעורר תחושה של הקדמה ל"פיתוח ממש (development proper)".
 
-**(2) Entry or preparation zone:** Usually preparatory, often anticipatory, in a *piano* dynamic. Often P-based, but other options are possible.
+**(2) אזור הכניסה או ההכנה (Entry or preparation zone):** בדרך כלל הכנתי, לרוב ציפייה, בדינמיקת *פיאנו* (piano). לרוב מבוסס על P (P-based), אך אפשרויות אחרות אפשריות.
 
-**(3) **Central-action zone:** This is the "core" of the development and usually projects a mood of restlessness and instability. In fact, the musical techniques most associated with this section are those also associated with continuation function: sequence and fragmentation especially. The CAZ may unfold in a number of  sections, which are separated by cadences.
+**(3) **אזור הפעולה המרכזit (Central-action zone):** זהו ה"ליבה" של הפיתוח ובדרך כלל משדר מצב רוח של חוסר מנוחה ואי-יציבות. למעשה, הטכניקות המוזיקליות המזוהות ביותר עם קטע זה הן אלו הקשורות גם לתפקוד ההמשך (continuation function): במיוחד סקְוֶונצָה (sequence) ופרגמנטציה (fragmentation). אזור הפעולה המרכזit עשוי להתפרש במספר קטעים, המופרדים על ידי קדנצות (cadences).
 
-When analyzing the CAZ you should be particularly attentive of sequence technique, in particular the D2 and A2 sequences. Most often a CAZ will establish a 2-, 4-, or 8-bar "model" that is sequenced any number of times. This model may make use of motivic material from the expositional rotation or new material.
+בעת ניתוח ה-CAZ עליך להיות קשוב במיוחד לטכניקת הרצף (sequence technique), ובפרט לרצפי D2 ו-A2. לרוב, ה-CAZ יבסס "מודל" באורך של 2, 4 או 8 תיבות אשר עובר רצף (sequenced) מספר פעמים כלשהו. מודל זה עשוי לעשות שימוש בחומר מוטיבי מתוך הרוטציה האקספוזיציונית (expositional rotation) או בחומר חדש.
 
-Following a passage of fragmentation, a CAZ concludes with a HC in the tonic key.
+בעקבות קטע של פיצול, קטע מעבר סגור (CAZ) מסתיים בקדנצה חצי (HC) בסולם הטוניקה.
 
-**(4)  Retransition:** This follows the HC. Most often it contains a "standing on the dominant" and motivically may foreshadow the primary theme in order to build anticipation for the recapitulation.
+**(4) מעבר מחדש (Retransition):** זה עוקב אחר ה-HC (הקדنسה חצי-סופית - Half Cadence). לרוב הוא מכיל "עמידה על הדומיננטה" (standing on the dominant) ומבחינה מוטיבית עשוי לרמז מראש על הנושא הראשי כדי ליצור ציפייה לחזרה.
 

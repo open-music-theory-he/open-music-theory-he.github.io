@@ -3,10 +3,10 @@ layout: post
 title: Twelve-Tone Music — Derived Rows
 ---
 
-_Derived rows_ are rows whose non-overlapping segments (*discrete* segments) belong to the same set class. Because they must not overlap, discrete subsets divide the row into either six 2-note segments, four 3-note segments, three 4-note segments, or two 6-note segments. (In general, we are mostly concerned with rows that are trichordally- or tetrachordally-derived.)
+שורות נגזרות (*derived rows*) הן שורות אשר הקטעים שאינם חופפים שלהם (*discrete* segments) שייכים לאותה מחלקת אקורדים / מחלקת קבוצות (set class). מכיוון שאסור להם לחפפו, תת-קבוצות דיסקרטיות (discrete subsets) מחלקות את השורה לששה קטעים בני 2 תווים, ארבעה קטעים בני 3 תווים, שלושה קטעים בני 4 תווים, או שני קטעים בני 6 תווים. (באופן כללי, אנו עוסקים לרוב בשורות הנגזרות מטריכורדים או מטטראכורדים [trichordally- or tetrachordally-derived]).
 
-An example is offered below. This row (from Webern's String Quartet, Op. 28) has been divided into discrete tetrachords and discrete dyads. All of the tetrachords belong to the set class (0123). Thus, we say that the row is tetrachordally derived, and that it is *generated* by (0123). Further, the discrete dyads indicated an interesting dyadic derivation, by (01).
+להלן מוצגת דוגמה. שורה זו (מתוך רביעיית המיתרים אופ' 28 מאת וברן) חולקה לטטרקורדים נפרדים (discrete tetrachords) ולדיאדות נפרדות (discrete dyads). כל הטטרקורדים שייכים למחלקת קבוצה (0123). לפיכך, אנו אומרים שהשורה נגזרת טטרקורדית (tetrachordally derived), ושהיא *מופקקת* על ידי (0123). כמו כן, הדיאדות הנפרדות הצביעו על גזירה דיאדית (dyadic derivation) מעניינת, על ידי (01).
 
 [![](Graphics/postTonal/derivedRow.png)](Graphics/postTonal/derivedRow.png)
 
-From a compositional and listener-oriented perspective, derived rows are very suggestive. Because the set-class content of a row doesn't change when it's transposed, inverted, etc., these set classes will circulate constantly throughout a piece, even if different row forms are used. Therefore, a derived row guarantees the regular recurrence of a very small selection of set class—thus ensuring a particular type of unity throughout a piece.
+מנקודת מבט קומפוזיציונית ומוטת-מאזין, סדרות נגזרות (derived rows) הן בעלות השראה רבה. מכיוון שתכולת מחלקת-הקבוצות (set-class content) של סדרה אינה משתנה כאשר היא ממועטת (transposed), מהופכת (inverted) וכו', מחלקות קבוצות (set classes) אלו תסתובבנה באופן קבוע לאורך היצירה, גם אם נעשה שימוש בצורות סדרה שונות. לכן, סדרה נגזרת (derived row) מבטיחה חזרה סדירה של מבחר מצומצם מאוד של מחלקת קבוצות — ובכך מבטיחה סוג מסוים של אחדות לאורך היצירה.

@@ -3,46 +3,46 @@ layout: post
 title: Tendency tones and functional harmonic dissonances
 ---
 
-In strict keyboard style, there are two main types of pitch tendency to keep in mind: *tendency tones* and *functional dissonances*.
+בסגנון מקלדת קפדני (strict keyboard style), ישנם שני סוגים עיקריים של נטיית צלילים שכדאי לזכור: *צלילים נוטים* (tendency tones) ו-*דיסוננסים תפקודיים* (functional dissonances).
 
-## Tendency tones ##
+## צלילים נטויים (Tendency tones) ##
 
-A *tendency tone* is a pitch (class)—usually represented as a scale degree—that tends to progress to some pitch classes more than others. Sometimes this tendency is absolute within a style, but more often it is context-dependent.
+*צליל מושך* (tendency tone) הוא גובה סאונד (או מחלקת גובה) – המיוצג בדרך כלל כדרגת סולם (scale degree) – אשר נוטה לנוע אל מחלקות גובה מסוימות יותר מאשר לאחרות. לעיתים נטייה זו היא מוחלטת בתוך סגנון מסוים, אך לרוב היא תלויה בהקשר (context-dependent).
 
-The most prominent tendency tones in Western tonal styles are *ti* (not *te*) and *le* (not *la*). 
+הצלילים המובילים הבולטים ביותר בסגנונות הטונליים המערביים הם *סי* (ti, ולא *טה* te) ו-*לה-במול* (le, ולא *לה* la). 
 
-Generally speaking, when *ti* appears it tends to be followed by *do* in the same voice. In a harmonic context, this tendency is strongest when *ti* occurs in a dominant-functioning chord, and the "resolution" of that tendency comes upon change of function (to tonic or subdominant).
+באופן כללי, כאשר *ti* מופיע הוא נוטה להישמע אחריו *do* באותו הקול. בהקשר הרמוני, נטייה זו היא החזקה ביותר כאשר *ti* מופיע באקורד מתפקד-דומיננטה (dominant-functioning chord), ו"הפתרון" (resolution) של נטייה זו מגיע עם שינוי התפקדויות (לצליל הבסיס (tonic) או סובדומיננטה (subdominant)).
 
-Likewise, when *le* appears, it tends to be followed by *sol* in the same voice. This tendency is less dependent on function.
+כמו כן, כאשר *le* מופיע, הוא נוטה להיות מלווה ב-*sol* באותו הקול. נטייה זו תלויה פחות בתפקוד (function).
 
-Exceptions to these tendencies include:
+חריגים לנטייה זו כוללים:
 
-- When *ti* is in the middle of a stepwise descent (*re*–*do*–*ti*–*la*–*sol*, for example), it can progress down by step. (Note that *step inertia* here diminishes the effect of an "unresolved" tendency tone. Because there are two conflicting tendencies in play, in this case, either can be "resolved" unproblematically.)  
-- When *ti* is in an inner voice, it can progress down to *sol* if necessary to accomplish good voice-leading in the other voices and ensure complete chords. This is called a *frustrated leading-tone*.  
-- When *ti* is a functional dissonance of a tonic-functioning chord (see below) it should progress down by step.
+- כאשר *ti* נמצא באמצע מהלך ירידה צעדי (כגון *re*–*do*–*ti*–*la*–*sol*), הוא יכול להמשיך לרדת בצעד. (שימו לב ש*התמדת צעד* (step inertia) כאן מחלישה את ההשפעה של צליל נטייה "בלתי פתור". מכיוון שישנן дві (שתי) נטיות סותרות שפועלות בו-זמנית במקרה זה, כל אחת מהן יכולה "להיפתר" לدون בעיה.)  
+- כאשר *ti* נמצא בקול פנימי, הוא יכול לרדת אל *sol* במידת הצורך כדי להשיג הובלת קולות (voice-leading) טובה בקולות האחרים ולהבטיח אקורדים מלאים. מצב זה מכונה *צליל מוביל מתוסכל (frustrated leading-tone)*.  
+- כאשר *ti* מהווה דיסוננס תפקודי (functional dissonance) של אקורד בעל תפקוד טוניקה (tonic-functioning) (ראו להלן), עליו להתקדם מטה בצעד (step).
 
-## Functional dissonances ##
+## דיסוננסים פונקציונליים (Functional dissonances) ##
 
-Some tendencies, such as the tendency for *le* to progress down, are relatively context-independent. Others are heavily contextualized. The primary contextual tendency for how melodic notes progress is the concept of *functional dissonance*.
+נטייה מסוימת, כגון הנטייה של *לה* (La) לרדת, היא תלויה-הקשר באופן יחסי. אחרות מושפעות רבות מההקשר. הנטייה ההקשרית המרכזית לגבי אופן ההתקדמות של צלילים מלודיים היא המושג *דיסוננס תפקודי*.
 
-Keep in mind from the [Harmonic functions resource](harmonicFunctions.html) that chords tend to cluster in one of three functional groups (**T**, **S**, or **D**) When pitches fuse into a chord expressing one of these three functions, the pitches that comprise that have certain tendencies of progression that they may or may not have in other contexts.
+יש לזכור מ[המשאב לפונקציות הרמוניות](harmonicFunctions.html) כי אקורדים נוטים להתקבץ באחת משלוש קבוצות פונקציונליות (**T**, **S**, או **D**). כאשר צלילים מתמזגים לאקורד המבטא את אחת משלוש פונקציות אלו, הצלילים המרכיבים אותו מפגינים נטיות מהלכיות מסוימות שעשויות או לא עשויות להתקיים בהקשרים אחרים.
 
-Following are the scale degrees which act as dissonances for their respective functions:
+להלן דרגות הסולם (scale degrees) המשמשות כדיסוננסים עבור התפקודים (functions) בהתאמה:
 
-| function	| dissonances	|
+| תפקוד	| דיסוננסים (dissonances)	|
 | -: | :-: |
-| T or Tx	| 7, 5 when 6 is also present	
-| S	| 3, 1 when 2 is also present
+| T או Tx	| 7, 5 כאשר 6 נוכח גם הוא	
+| S	| 3, 1 כאשר 2 נוכח גם הוא
 | D	| 4, 6
 
-Keep in mind that only sometimes do these functional dissonances express themselves in chords or intervals that are acoustically dissonant. However, they do introduce a degree of tension that, like an acoustically disonant interval in species counterpoint, requires a smooth introduction and a specific resolution.
+יש לזכור שרק לעתים נדירות דיסוננסים תפקודיים אלו באים לידי ביטוי באקורדים או بمרווחים (intervals) שהם דיסוננס אקוסטי (acoustic dissonance). עם זאת, הם אכן יוצרים מידה של מתח אשר, בדומה למרווח דיסוננטי מבחינה אקוסטיות בקונטרפונקט מיני (species counterpoint), דורש הכניסה חלקה (smooth introduction) ופתרון מסוים.
 
-When one of these scale degrees is present in a chord with the corresponding function, the dissonant scale degree has a strong tendency to *resolve down by step over the next change in function*. In strict composition, we will *always* follow these tendencies. 
+כאשר אחד מדרגות הסולם הללו נוכח באקורד בעל התפקוד המתאים, לדרגת הסולם הדיסוננטית (dissonant scale degree) יש נטייה חזקה *להיפתר כלפי מטה בצעד מעבר לשינוי הבא בתפקוד (change in function)*. בהלחנה קפדנית (strict composition), אנו *תמיד* נעקוב אחר נטיות אלו. 
 
-In strict keyboard style, these functional dissonances should be "prepared" (approached) by common tone or by step. Thus, though they are proper members of the chord, melodically they will look like one of the three dissonance types of species counterpoint: a *passing tone* or *neighbor tone* dissonance that is approached by step, or a *suspension* dissonance that is approached by a common tone. The suspension type is preferred.
+בסגנון מקلדת קפדני, יש "להכין" (לגשת אל) דיסוננסים תפקודיים אלו באמצעות צליל משותף (common tone) או בצעד. לפיכך, אף על פי שהם חברים כשרים באקורד, מבחינה מلوדית הם ייראו כמו אחד משלושת סוגי הדיסוננס של קונטרפונקט מיני: דיסוננס *צליל עובר* (*passing tone*) או *צליל שכנים* (*neighbor tone*) שאליהם ניגשים בצעד, או דיסוננס *השהיה* (*suspension*) שאליו ניגשים באמצעות צליל משותף. סוג ההשהיה (suspension) הוא המועדף.
 
-Once a functional dissonance is introduced, it must be resolved down by step in the same voice when the function changes. The dissonance can also be *transferred* to another voice before resolution—for instance, if there are multiple chords in a row exhibiting the same function, a dissonance that appears in the alto can be transferred to the tenor in the following chord, and then resolve in the tenor when the function changes. (It is more typical, and smoother sounding, to transfer dissonances between inner voices or from an inner voice to an outer voice than from an outer voice to an inner voice. Once a dissonance appears in the melody or bass, where it is more noticeable, it tends to resolve in that voice.)
+ברגע שמוצגת דיסוננסה תפקודית, עליה להיפתר כלפי מטה בצעד באותו הקול כאשר התפקוד משתנה. ניתן גם *להעביר* (transfer) את הדיסוננסה לקול אחר לפני הפתרון — למשל, אם ישנם מספר אקורדים ברצף המציגים את אותו התפקוד, דיסוננסה המופיעה באלט יכולה להיות מועברת לטנור באקורד העוקב, ולאחר מכן להיפתר בטנור כאשר התפקוד משתנה. (טיפוסי יותר, ובעל צליל חלק יותר, להעביר דיסוננסות בין קולות פנימיים או מקול פנימי לקול חיצוני מאשר מקול חיצוני לקול פנימי. ברגע שדיסוננסה מופיעה במלודיה או בבס, מקומות שבהם היא בולטת יותר, נוטה היא להיפתר באותו הקול).
 
-Functional dissonance resolutions often cause conflicts with other principles of voice leading. Except in special cases such as *schemata* (standard patterns that are common enough to sound appropriate, even if they follow different rules), the functional dissonance resolution takes precedence over other principles such as the *law of the shortest way*, contrary motion with the bass, and preferring common tones and steps to melodic leaps. A dissonance resolution is never an excuse for illegal parallels, and only rarely will lead to non-standard doublings.
+פתרונות דיסוננס תפקודי (functional dissonance resolutions) גורמים לעיתים קרובות לקונפליקטים עם עקרונות אחרים של הולכת קול (voice leading). למעט במקרים מיוחדים כגון *סקמטה* (*schemata* – תבניות סטנדרטיות הנפוצות די הצורך כדי להישמע מתאימות, אפילו אם הן צועדות לפי חוקים שונים), פתרון הדיסוננס התפקודי (functional dissonance resolution) מקבל עדיפות עליונה על פני עקרונות אחרים כגון *חוק הדרך הקצרה* (*law of the shortest way*), תנועה מנוגדת לבס, והעדפת צלילים משותפים וצעדים על פני קפיצות מלודיות. פתרון דיסוננס (dissonance resolution) אינו מהווה בשום אופן תירוץ לקבילים אסורים (illegal parallels), ורק לעיתים רחוקות יוביל להכפלות לא סטנדרטיות.
 
 ***insert Trinket exercise: finding improperly prepared or resolved dissonance and recomposing***

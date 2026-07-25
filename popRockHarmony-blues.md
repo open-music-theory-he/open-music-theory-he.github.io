@@ -6,29 +6,29 @@ title: The blues progression (pop/rock harmony)
 {{ page.title }}
 ================
 
-A *12-bar blues progression* is composed of three (typically) four-bar phrases. The first phrase is entirely tonic harmony (I). The second phrase contains two bars of subdominant (IV) and two bars of tonic (I). The final phrase begins with one bar of dominant (V) followed by one bar of subdominant (IV) and two bars of tonic (I). The third phrase may or may not end with a *turnaround*.
+מהלך בלוז בן 12 תיבות (12-bar blues progression) מורכב משלושה משפטים (בדרך כלל) בני ארבע תיבות. המשפטים הראשונים הם כולו הרמוניית טוניקה (I). המשפטים השני מכיל שתי תיבות של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). המשפטים האחרון מתחיל בתיבה אחת של דומיננטה (V) לאחריה תיבה אחת של סובדומיננטה (IV) ושתי תיבות של טוניקה (I). המשפטים השלישי עשוי להסתיים או לא להסתיים ב*מהלך סיום (turnaround)*.
 
 > **I / / / | IV / I / | V IV I /**
 
-Because the first phrase starts with I, the second with IV, and the last with V, we can call these phrases the *tonic*, *subdominant*, and *dominant* phrases.
+מכיוון שהמשפט הראשון מתחיל ב-I, השני ב-IV, והאחרון ב-V, אנו יכולים לכנות משפטים אלו כמשפטי טוניקה (*tonic*), סובדומיננטה (*subdominant*), ודומיננטה (*dominant*).
 
-A *16-bar blues progression* is composed of four (typically) four-bar phrases, usually two iterations of tonic, followed by subdominant and domonant. The final phrase may or may not end with a *turnaround*.
+מהלך בלוז של 16 תיבות (*16-bar blues progression*) מורכב מארבעה משפטים (בדרך כלל) בני ארבע תיבות, לרוב שתי חזרות על טוניקה (tonic), לאחריהן סובדומיננטה (subdominant) ודומיננטה (dominant). המשפט האחרון עשוי או עשוי שלא להסתיים בטิร์נאראונד (*turnaround*).
 
 > **I / / / | I / / / | IV / I / | V IV I /**
 
-Of the two, 12-bar blues is more common. And though both can be found in modules of all types of functions, blues progressions are most typically found in strophes (both in strophic and in AABA song forms).
+מבין השניים, בלוז 12 תיבות (12-bar blues) נפוץ יותר. ולמרות שאת שניהם ניתן למצוא במודולים מכל סוגי התפקודים, מהלכי בלוז (blues progressions) נמצאים לרוב בסטרופות (strophes) (גם במבני שירים סטרופיים וגם במבני AABA).
 
-Frequently, songwriters will make alterations to the standard harmonic pattern or extend/compress phrases by a bar or two. However, if you hear most of the features above, consider it an altered blues progression and use the standard 12- or 16-bar pattern as a reference for listening to what specific details have been altered.
+לעיתים קרובות, כותבי שירים מבצעים שינויים בתבנית ההרמונית הסטנדרטית או מרחיבים/מכווצים תיבות (phrases) בתיבה אחת או שתיים. עם זאת, אם אתם שומעים את רוב המאפיינים לעיל, התייחסו לכך כמהלך בלוז משתנה (altered blues progression) והשתמשו בתבנית הסטנדרטית של 12 או 16 התיבות כהתייחסות להאזנה לאילו פרטים ספציפיים שונו.
 
-A straight 12-bar blues progression can be found in “Hound Dog” by Elvis Presley. 
+מהלכים בלוז ישרים בני 12 תיבות ניתן למצוא בשיר "Hound Dog" מאאת אלביס פרסלי. 
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/2MnmIVBSZYM?rel=0" frameborder="0" allowfullscreen></iframe>
 
-“Don’t Be Cruel” by Elvis Presley presents a 12-bar blues pattern with an alteration of the final phrase (II–V–I rather than V–IV–I) in the strophes (the song is in AABA form). 
+השיר "Don’t Be Cruel" מאת אלביס פרסלי מציג מבנה בלוז בן 12 תיבות עם שינוי של התיבה האחרונה או המשפט הסופי (II–V–I במקום V–IV–I) בבתים (השיר הוא במבנה AABA). 
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:4zzXm1QJQXWLyUfFhWZBRg" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 
-“Surfin’ USA” by the Beach Boys presents a 16-bar blues strophe with the two first phrases each beginning on two bars of V before two bars of I (V / I / instead of I / / / ).
+השיר "Surfin’ USA" מאת הבี้ץ בויז (Beach Boys) מציג סטרופת בלוז בת 16 תיבות (16-bar blues strophe), שבה שתי הPhrases הראשונות מתחילות כל אחת בשתי תיבות של V ולאחר מכן שתי תיבות של I (כלומר V / I / במקום I / / / ).
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/2s4slliAtQU?rel=0" frameborder="0" allowfullscreen></iframe>
 

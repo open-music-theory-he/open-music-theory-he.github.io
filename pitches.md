@@ -3,41 +3,41 @@ layout: post
 title: Pitches and octave designations
 ---
 
-### The Keyboard ###
+### המקלדת ###
 
-The keyboard is great for helping you develop a visual, aural, and tactile understanding of music theory. On the illustration below, the *pitch-class* letter names are written on the keyboard. 
+המקלדת מעולה לעזרה בפיתוח הבנה חזותית, שמיעתית ומישושית של תיאוריה מוזיקלית. באיור שלהלן, שמות האותיות של *מחלקת הגובה* (*pitch-class*) כתובים על גבי המקלדת. 
 
 ![][keyboard]
 
-### Enharmonic equivalence ###
+### שקילות אנהרמונית (Enharmonic equivalence) ###
 
-Notice that some of the keys have two names. When two pitch classes share a key on the keyboard, they are said to have *enharmonic equivalence*. Theoretically, each key could have several names (the note C could also be considered Dbb, for instance), but it's usually not necessary to know more than two enharmonic spellings. 
+שימו לב שחלק מהסולמות (keys) הם בעלי שני שמות. כאשר שתי מחלקות גובה צליל (pitch classes) חולקות מקש במקלדת, הן נחשבות כבעלות *שקילות אנהרמונית* (enharmonic equivalence). מבחינה תיאורטית, לכל סולם יכולים להיות מספר שמות (התו C יכול להיחשב גם כ-Dbb, למשל), אך בדרך כלל אין צורך להכיר יותר משני ייצוגים אנהרמוניים (enharmonic spellings). 
 
-### Octave Designation ###
+### ציון אוקטבה (Octave Designation) ###
 
-When specifying a particular pitch precisely, we also need to know the *register*. In fact, if all you have is C-sharp or B-flat, you do not have a *pitch*, you have a *pitch-class*. A pitch-class plus a register together designate a specific pitch. 
+כאשר מציינים גובה צליל (pitch) מסוים בדיוק, עלינו לדעת גם את ה*אוקטבה* (register). למעשה, אם כל מה שיש לך הוא C♯ או B♭, אין ברשותך *גובה צליל*, אלא *מחלקת גובה צליל* (pitch-class). מחלקת גובה צליל בתוספת אוקטבה יחד מגדירות גובה צליל ספציפי. 
 
-We will follow the International Standards Organization (ISO) system for register designations. In that system, middle C (the first ledger line above the bass staff or the first ledger line below the treble staff) is C4. An octave higher than middle C is C5, and an octave lower than middle C is C3. 
+אנו נעקוב אחר שיטת ארגון התקנים הבין-לאומי (ISO) עבור ציון אוקטבות (register designations). בשיטה זו, דו אמצעי (middle C) (קו העזר הראשון מעל חמסת בס או קו העזר הראשון מתחת לחמסת טרבל) הוא C4. אוקטבה אחת גבוהה יותר מדו אמצעי היא C5, ואוקטבה אחת נמוכה יותר מדו אמצעי היא C3. 
 
-The tricky bit about this system is that the octave starts on C and ends on B. So an ascending scale from middle C contains the following pitch designations: 
+הקטע המורכב במערכת זו הוא שהאוקטבה מתחילה ב-C ומסתיימת ב-B. לכן, סולם עולה מ-C אמצעי כולל את צייוני הגובה (pitch designations) הבאים: 
 
 ![][C4toC5]
 
-And a descending scale from middle C contains the following pitch designations: 
+וסולם יורד מ-C אמצעי מכיל את שמות הגבהים הבאים: 
 
 ![][C4toC3]
 
-Pitches on the alto staff are as follows: 
+הגבהים בחמסת האלטו (alto staff) הם כדלקמן: 
 
 ![][F3toG4]
 
-Pitches on the tenor staff are as follows:
+הגבהים בחמסת הטנור (tenor staff) הם כדלקמן:
 
 <a href="Graphics/pitchesTenor.png"><img src="Graphics/pitchesTenor.png" width="70%"></a>
 
-Any accidentals follow the octave designation of the natural pitch with the same generic name. Thus a half step below C4 is C-flat4 (even though it sounds the same as B3), and a half step above C4 is C-sharp4. 
+כל סימקי ההיתק (Accidentals) עוקבים אחר ציון האוקטבה של הצליל הטבעי (natural pitch) בעל אותו שם גנרי. לפיכך, חצי טון מתחת ל-C4 הוא C-במול4 (C-flat4) (אף על פי שהוא נשמע כמו B3), וחצי טון מעל C4 הוא C-דיאז4 (C-sharp4). 
 
-Note that a complete designation contains both the pitch-class name (a letter name plus an optional sharp or flat) and the register (the ISO number indicating the octave in which the pitch is found). Unless both are present, you do not have the full designation of a specific pitch.
+שימו לב כי ייעוד מלא מכיל הן את שם מחלקת הצלילים (שם אות בתוספת דיאז או במול אופציונליים) והן את האוקטבה (מספר ה-ISO המציין את האוקטבה שבה נמצא הצליל). אלא אם כן שניהם נוכחים, אין בידיכם את הייעוד המלא של צליל מסוים.
 
 [C4toC5]: Graphics/C4toC5.png
 [C4toC3]: Graphics/C4toC3.png

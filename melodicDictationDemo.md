@@ -6,15 +6,15 @@ title: Melodic dictation demo
 {{ page.title }}
 ================
 
-The following video demonstrates my process when dictating/transcribing a melody in a small number of hearings:
+הסרטון הבא מדגים את התהליך שלי בעת הכתבה/תמלול (dictating/transcribing) של מנגינה במספר מצומצם של האזנות:
 
-- Get oriented to tonic, mode, meter, counting pulse.  
-- Memorize as much as possible.  
-- Transcribe what I remember after the first hearing before I forget it (usually beginning and end).  
-- Note any repetition patterns that can make it easier to figure the rest of the melody.  
-- Listen again, and try to memorize the whole thing.  
-- Transcribe everything I remember.  
-- Repeat the last two steps as necessary.  
-- Use one last listening to check for errors, paying special attention to rhythm, durations, and rests.
+- התוודעו לטוניקה (tonic), למודוס (mode), למשקל (meter), ולפעימת הספירה (counting pulse).  
+- שנן כמה שיותר.  
+- תמלל את מה שאני זוכר אחרי השמיעה הראשונה לפני שאשכח זאת (בדרך כלל את ההתחלה והסוף).  
+- שימו לב לכל דפוסי חזרה שיכולים להקל על פענוח שאר המנגינה.  
+- הקשיבו שוב, ונסו שינון של הדבר כולו.  
+- תמלל את כל מה שאני זוכר.  
+- חזור על שני השלבים האחרונים לפי הצורך.  
+- השתמשו בהאזנה אחרונה אחת כדי לבדוק שגיאות, תוך הקפדה מיוחדת על קצב (rhythm), משכי צלילים (durations), ומנוחות (rests).
 
-<iframe src="http://player.vimeo.com/video/61037478" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/61037478">Melodic dictation (demo)</a> from <a href="http://vimeo.com/user11692346">Kris Shaffer</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+<iframe src="http://player.vimeo.com/video/61037478" width="500" height="375" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/61037478">הכתבה מלודית (הדגמה) (Melodic dictation (demo))</a> מאת <a href="http://vimeo.com/user11692346">קרי שאפר (Kris Shaffer)</a> ב-<a href="http://vimeo.com">Vimeo</a>.</p>

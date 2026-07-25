@@ -3,47 +3,47 @@ layout: post
 title: Thematic Function in Rondo Form
 ---
 
-Rondos are characterized by the alternation of *refrains* and *episodes*. Each return of the refrain is in the tonic key, and presents the same melodic/motivic material, while episodes contrast melodically and tonally.
+רונדואים (Rondos) מאופיינים על ידי חילופין בין *פזמונים חוזרים (refrains)* לבין *אפיזודות (episodes)*. כל חזרה של הפזמון החוזר היא בסולם הטוניקה (tonic key), ומציגה את אותו חומר מלודי/מוטיבי, בעוד שאפיזודות יוצרות ניגוד מבחינה מלודית וטונאלית.
 
-*Refrains* are generally simple, tight-knit themes that end with a PAC in the tonic key. Thematically, a rondo's refrain is most commonly constructed in one of two ways: (1) as a simple (usually tight-knit, often periodic) theme type, or (2) as a rounded binary.
+*Refrains* הם בדרך כלל נושאים פשוטים ודחוסים (tight-knit) המסתיימים ב-PAC בסולם הטוניקה. מבחינה תמתית, הרפרן של רונדו בנוי לרוב באחת משתי דרכים: (1) כטיפוס נושאי פשוט (בדרך כלל דחוס, לעיתים קרובות פריודי), או (2) כבינארי מעוגל (rounded binary).
 
-If the refrain is a rounded binary, it is common for it to be abridged when returning later in the movement.
+אם הפזמון הוא בצורה בינארית מעוגלת, שכיח שהוא מקוצר (abridged) כאשר הוא חוזר בהמשך הפרק.
 
-*Episodes*, by contrast, are usually in contrasting keys and feature contrasting melodic/motivic material. Though not always the case, it is most common for the episodes that contrast with refrains to be more complex in construction than refrains. Dramatizing the return to the refrain is an important part of the rondo aesthetic, and the thematic and harmonic complexity associated with rondo episodes forms an important part of that goal.
+*אפיזודות* (Episodes), לעומת זאת, נמצאות לרוב בסולמות מנוגדים וכוללות חומר מלודי/מוטיבי מנוגד. אף על פי שלא תמיד זה המצב, נפוץ ביותר שהאפיזודות המנוגדות לרפרנים יהיו מורכבות יותר במבנה שלהן מאשר הרפרנים. דרמטיזציה של החזרה אל הרפרן היא חלק חשוב מהאסתטיקה של הרונדו (rondo), והמורכבות התמתית וההרמונית הקשורה לאפיזודות רונדו (rondo episodes) מהווה חלק חשוב מהשגת מטרה זו.
 
-We distinguish between two types of episodic material: (1) interior themes, and (2) second-theme complexes. Because of the greater complexity, these two types of refrain are explored in more detail below.
+אנו הבחנים בין שני סוגים של חומר אפיזודי: (1) תמות פנימיות (interior themes), ו-(2) מכלולי תמה שנייה (second-theme complexes). בשל המורכבות הגבוהה יותר, שני סוגים אלו של ריפריין (refrain) נחקרים בפירוט רב יותר להלן.
 
 ## Interior Theme ##
 
-Interior themes are the simplest type of episode. Thematically and tonally, they resemble a Minuet's Trio.
+נושאי פנים (Interior themes) הם הסוג הפשוט ביותר של אפיזודה (episode). מבחינה תמתית וטונאלית, הם דומים לשלישייה (Trio) של מינואט.
 
-**Tonality:** An interior theme contrasts modally or tonally with the refrain. Much of the time, the interior theme is "*minore*," meaning that the tonic does not change from refrain to episode, but the mode does. (In a minor-key rondo, the first episode might be "*maggiore*.")
+**טונאליות (Tonality):** תמה פנימית יוצרת ניגוד מודאלי או טונאלי ביחס לפזמון החוזר. ברוב המקרים, התמה הפנימית היא "*מינורית* (*minore*)," כלומר הטוניקה אינה משתנה בין הפזמון החוזר לבין האפיזודה, אך המודוס משתנה. (ברונדו בסולם מינורי, האפיזודה הראשונה עשויה להיות "*מג'ורית* (*maggiore*).")
 
-**Formal structure:** An interior theme is usually a rounded binary, or one of the other binary types. Sometimes, the binary organization is shown with repeat signs in the score, though occasionally the repeats are "written out." Though by no means obligatory, an interior theme can be followed by a *retransition* that leads to the home key's dominant.
+**מבנה פורמלי (Formal structure):** תמה פנימית (interior theme) היא לרוב בינארית מעוגלת, או אחד מסוגי הבינארי האחרים. לעיתים קרובות, הארגון הבינארי מסומן באמצעות סימני חזרה בתווים, אם כי לעיתים החזרות "כתובות במלואן" (written out). אף על פי שאין זה חובה בשום אופן, תמה פנימית עשויה להיות מלווה ב*מעבר חוזר* (retransition) המוביל אל הדומיננטי של הסולם הראשי (home key).
 
-**Complications: **The primary complication for analysis is that interior themes are often left *incomplete* formally. Be on the look out for these two deviations;
+**מורכבויות (Complications): **המורכבות העיקרית מבחינה אנליטית היא שנושאים פנימיים נותרים לעיתים קרובות *בלתי שלמים* מבחינה צורנית. היו עם יד על הpulse לגבי שתי חריגות אלו;
 
-1. Following a contrasting middle section, the recapitulation may not return. Thus, such an episode might be structured as AAB followed by a retransition.
-2. The recapitulation may return but not lead to a PAC, instead merging into a retransition section.
+1. לאחר קטע אמצעי ניגודי, הרפריזה (recapitulation) עשויה שלא לחזור. לפיכך, אפיзоדה כזו עשויה להיות ממובנית כ-AAB ולאחריה מעבר חוזר.
+2. הרביטורולציה (Recapitulation) עשויה לחזור אך לא להוביל למהלך סיום מושלם (PAC), אלא להתמזג לתוך קטע מעבר מחדש.
 
-## Second-Theme Complex
+## מערך הנושא השני (Second-Theme Complex)
 
 
-A second-theme complex resembles—but is not always identical to—the TR, S, CL, and RT zones of the classical sonata. In a major key, the episode will modulate to the dominant (V). In a minor key, the major mediant (III) is more common.
+מערכת נושא שנייה (second-theme complex) דומה — אך אינה זהה בהכרח — לאזורי ה-TR, ה-S, ה-CL וה-RT של הסונטה הקלאסית. בסולם מז'ור (major key), האפיזודה תעבור מודולציה (modulate) אל הדומיננטה (V). בסולם מינור (minor key), המדיאנטה המז'ור (III) שכיחה יותר.
 
-**Formal structure:** We will outline the prototypical form first, though as indicated below, you must approach this section flexibly. Following the first refrain's close, a transition phrase (TR) begins the episode by modulating to a subordinate key through a pivot-chord modulation. The secondary theme (S) follows, confirming the new key with a PAC. Then, closing (CL) is heard and merges into a retransition (RT) that leads back to the refrain.
+**מבנה פורמלי:** נתאר תחילה את הצורה האופטיפית (prototypical form), אם כי כפי שצוין להלן, עליך לגשת לסעיף זה בגמישות. לאחר סיומו של הריפראן הראשון, ביטוי מעבר (TR) מתחיל את האפיזודיה על ידי מודולציה למפתח משני (subordinate key) באמצעות מודולציית אקורד ציר (pivot-chord modulation). הנושא המשני (S) מופיע לאחריו, ומאשר את המפתח החדש באמצעות קדנצה אותנטית מושלמת (PAC). לאחר מכן, קטע סיום (CL) נשמע ומתמזג לתוך מעבר חוזר (retransition (RT)) המוביל בחזרה אל הריפראן.
 
-**Complications:** Though it resembles features of a sonata exposition, a rondo's second-theme complex engages many more possibilities. TR and CL may not appear, for example, and the second-theme complex may not have a PAC in the subordinate key. Thematic function is much looser here than in the refrain. Here are the primary complications:
+**סיבוכים:** אף על פי שהוא דורש מאפיינים של תצוגת סונטה (sonata exposition), מכלול הנושא השני של רונדו מעסיק אפשרויות רבות נוספות. TR ו־CL עשויים שלא להופיע, למשל, ומכלול הנושא השני עשוי שלא לכלול קדנצת אמת מושלמת (PAC) בסולם המשני. התפקוד הצורני (Thematic function) חופשי הרבה יותר כאן מאשר בריפריין. להלן הסיבוכים (complications) העיקריים:
 
-1. **TR merges => into S:** Following the PAC that ended the refrain, a TR phrase begins and initiates a modulation. However, after modulating the same phrase confirms the subordinate key with a PAC. In this situation, the single phrase is understood to express both TR and S function. This is very much like the TR=>S merger that we find in the exposition of a Minuet/Trio form.
-2. **No TR appear:** Following the PAC that ended the refrain, S appears with no intervening TR. In this case, a direct modulation has occurred.
-3. **S does not lead to a PAC, but merges => into a retransition (RT)**: Typically, the episodes S theme will lead to a PAC that confirms the subordinate key. In this case, the cadence never materializes. Instead, the music more or less seamlessly becomes a retransition, S=>RT.
+1. **מיזוג TR לתוך S (**TR merges => into S**):** בעקבות ה-PAC שסיים את הרפראן, ביטוי TR מתחיל ומחולל מודולציה. עם זאת, לאחר ביצוע המודולציה, אותו הביטוי מאמת את סולם המטנה באמצעות PAC. במצב זה, הביטוי היחיד מובן כמבטא פונקציית TR וגם פונקציית S. הדבר דומה מאוד למיזוג ה-TR=>S שאנו מוצאים באקספוזיציה של מבנה מינואט/טריו (Minuet/Trio form).
+2. **No TR appear:** בעקבות קדנציית סיום מושלמת (PAC) שסיימה את הפזמון, S מופיע ללא מעבר (TR) ביניים. במקרה זה, התרחשה מודולציה ישירה (direct modulation).
+3. **S אינו מוביל ל-PAC, אלא מתמזג => לתוך מעבר חוזר (Retransition - RT)**: באופן טיפוסי, נושא ה-S באפיזודות יוביל ל-PAC המאשר את הסולם המשני. במקרה זה, הקדנסה (cadence) לעולם אינה מתממשת. במקום זאת, המוזיקה הופכת פחות או יותר באופן חלקה למעבר חוזר, S=>RT.
 
-**Analytical Tips:**  
+**טיפים אנליטיים (Analytical Tips):**  
 
-Cadential structure is *absolutely necessary* to determining a theme's function. This is even more the case with the rondo's second-theme complex. Here are some analytical tips, oriented around cadential structure, that you should use to guide your analysis.
+מבנה קדנציالي (Cadential structure) הוא *חיוני בהחלט* לקביעת התפקוד של תמה. הדבר נכון אף יותר במכלול התמה השנייה של הרונדו. להלן מספר טיפים אנליטיים, הממוקדים סביב מבנה קדנציالي, שכדאי לך להשתמש בהם כדי לכוון את הנתוח שלך.
 
-1. S themes begin in a subordinate key, end with a PAC in a subordinate key, or both. That is, a phrase that ends with a PAC in the subordinate key expresses S function even if the phrase did not begin in the subordinate key, and vice versa.
-2. TR function is given to phrases that modulate. When TR doesn't merge with S, it usually ends with a HC in the subordinate key.
-3. CL function follows a PAC in the subordinate key.
-4. RT usually contains a I:HC, optionally followed by "standing on the dominant."
+1. נושאי S (S themes) מתחילים בסולם משני, מסיימים ב-PAC בסולם משני, או שניהם. כלומר, חטיבה (phrase) המסיימת ב-PAC בסולם המשני מבטאת תפקוד S (S function) אפילו אם החטיבה לא החלה בסולם המשני, ולהפך.
+2. פונקציית מעבר (TR function) ניתנת למהלכים המודולעים. כאשר TR אינו מתמזג עם S, הוא מסתיים בדרך כלל בקדנצה חצי-סופית (HC) בסולם המשני.
+3. תפקוד CL (CL function) מופיע לאחר קדנציית אמת מושלמת (PAC) בסממן משני.
+4. RT בדרך כלל מכיל קדנציית חצי (I:HC), המלווה לעיתים קרובות ב"עמידה על הדומיננטה" (standing on the dominant).

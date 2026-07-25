@@ -3,21 +3,21 @@ layout: post
 title: Normal Order
 ---
 
-Normal order (sometimes called normal form) has a lot in common with the concept of triad “root position.” Among other things, root position is a standard way to order the pitch-classes of triads and seventh chords so that we can classify and compare them easily. Normal order does the same, but in a more generalized way so as to apply to chords containing a variety of notes and intervals.
+סדר נורמלי (Normal order) (שנקרא לעיתים צורה נורמלית (Normal form)) חולק מאפיינים רבים עם המושג של היפוך בסיס (Root position) של שלישות (Triads). בין היתר, היפוך בסיס הוא דרך תקנית לסדר את מחלקות הצלילים (Pitch-classes) של שלישות ואקורדי שבע (Seventh chords) כדי שנוכל לסוג ולהשוות אותם בקלות. סדר נורמלי עושה את אותו הדבר, אך בצורה מגוכללת (generalized) יותר כך שיוחל על אקורדים המכילים מגוון של צלילים ומרווחים (Intervals).
 
-Normal order is the most compressed way to write a given collection of pitch classes. Often, you’ll be able to determine normal order intuitively using a keyboard or a clockface, but it’s good to learn a process that will always give you the correct answer.
+סדר נורמלי הוא הדרך הדחוסה ביותר לכתוב אוסף נתון של מחלקות גובה צליל (pitch classes). לעיתים קרובות, תוכלו לקבוע את הסדר הנורמלי באופן אינטואיטיבי בעזרת מקלדת או לוח שעון, אך כדאי ללמוד תהליך שתמיד יספק לכם את התשובה הנכונה.
 
-1. Write as a collection of pitch classes (eliminating duplicates) in ascending order and within a single octave. There are many possible answers.
-2. Duplicate the first pitch class at the end. 
-3. Find the largest ordered pitch-class interval between adjacent pitch classes.
-4. Rewrite the collection beginning with the pitch class to the right of the largest interval and write your answer in square brackets.
+1. יש לכתוב כאן כאוסף של מחלקות גובה צליל (תוך הסרת כפילויות) בסדר עולה ובאוקטבה אחת. ישנן תשובות אפשריות רבות.
+2. שכפל את מחלקת הגובה (pitch class) הראשונה בסוף. 
+3. מצא את מרווח מחלקת הצבעים (pitch-class interval) הסדור הגדול ביותר בין מחלקות צבעים סמוכות.
+4. שכתוב את אוסף הצלילים (collection) החל ממחלקת הגובה הנמצאת מימין למרווח הגדול ביותר, וכתוב את תשובתך בסוגריים מרובעים.
 
-For example, given {G-sharp4, A2, D-sharp3, A4}:
+לדוגמה, בהינתן {G-sharp4, A2, D-sharp3, A4}:
 
-1. *Write as a collection of pitch classes (eliminating duplicates) in ascending order and within a single octave.* {8,9,3}
-2. *Duplicate the first pitch class at the end.* {8,9,3,8}
-3. *Find the largest ordered pitch-class interval between adjacent pitch classes.* In this case, the largest interval is between "9" and "3."
-4. *Rewrite the collection beginning with the pitch class to the right of the largest interval and write your answer in square brackets.* [3,8,9]
+1. *יש לכתוב כאן כאוסף של מחלקות גובה צליל (תוך הסרת כפילויות) בסדר עולה ובתוך אוקטבה אחת.* {8,9,3}
+2. *כפל את מחלקת הגבהים הראשונה בסוף.* {8,9,3,8}
+3. *מצוא את מרווח מחלקת הצלילים המדורג הגדול ביותר בין מחלקות צלילים סמוכות.* במקרה זה, המרווח הגדול ביותר הוא בין "9" ל-"3."
+4. *שכתבו את אוסף הצלילים החל ממחלקת הגובה הנמצאת מימין למרווח הגדול ביותר וכתבו את תשובתכם בסוגריים מרובעים.* [3,8,9]
 
 
-Occasionally you’ll have a tie in step 2. In these cases, write the ordering implied by each tie and calculate the interval from the first to the penultimate pitch class. The ordering with the smallest interval is the normal order.
+לעיתים קרובות תיתקלו בקשת (tie) בשלב 2. במקרים כאלה, רשמו את הסידור (ordering) המשתמע מכל קשת וחשבו את המרווח (interval) מהצליל הבסיסי הראשון ועד للפני-אחרון. הסידור עם המרווח הקטן ביותר הוא הסידור הנורמלי (normal order).

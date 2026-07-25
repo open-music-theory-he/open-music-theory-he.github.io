@@ -3,103 +3,103 @@ layout: post
 title: Harmonic syntax - prolongation
 ---
 
-## Triggering and prolonging harmonic functions in an idealized phrase
+## הפעלة והארכה של פונקציות הרמוניות במשפט אידיאליזציה (Triggering and prolonging harmonic functions in an idealized phrase)
 
-To establish, or trigger, a harmonic functional zone, *a fixed scale degree must appear in the bass*. In other words, tonic can be triggered by **T1** (always **I**), subdominant by **S2** or **S4** (including a variety of **II** and **IV** chords, in inversions, with and without sevenths), and dominant by **D5** (**V**, with or without a seventh, or any initial chord of a *compound cadence*). These are called *functional chords* (because they trigger the function) or *cadential chords* (because they can participate in a cadence). Other chords are called *contrapuntal chords*, and are used to *prolong* a function throughout the zone.
+כדי לבסס, או להפעיל, אזור פונקציונלי הרמוני, *דרגת סולם קבועה חייבת להופיע בס[בס]* (bass). במילים אחרות, טוניקה (tonic) יכולה להיות מופעלת על ידי **T1** (תמיד **I**), סובדומיננטה (subdominant) על ידי **S2** או **S4** (כולל מגוון אקורדים מסוג **II** ו-**IV**, בהיפוכים, עם וללא ספְּטิมות), ודומיננטה (dominant) על ידי **D5** (**V**, עם או בלי ספְּטิמה, או כל אקורד התחלתי של *קאדנס מורכב* (*compound cadence*)). אלו נקראים *אקורדים פונקציונליים* (*functional chords*) (מכיוון שהם מפעילים את הפונקציה) או *אקורדים קאדנציאליים* (*cadential chords*) (מכיוון שהם יכולים להשתתף בקאדנס). אקורדים אחרים נקראים *אקורדים קונטרפונקטליים* (*contrapuntal chords*), ומשמשים ל*הארכה* (*prolong*) של פונקציה לאורך כל האזור.
 
-Functional prolongations are shown in a harmonic analysis by writing/typing T, S, or D underneath the individual chord labels (Roman numerals or functional bass) and extending a line from the beginning of the functional zone to the end.
+הארכות תפקודיות (functional prolongations) מוצגות בניתוח הרמוני על ידי כתיבת/הקלדת T‏, S או D מתחת לתוויות האקורדים הפרטניות (ספרות רומיות או בס תפקודי) והארכת קו מתחילת האזור התפקודי ועד סופו.
 
-***insert graphic example***
+***הוסף דוגמה גרפית***
 
-Such an analysis is called an *interpreted* harmonic analysis, because the harmonies are interpreted according to the way they behave in the phrase, rather than merely labeled. 
+ניתוח מעין זה נקרא ניתוח הרמוני *מפורש* (interpreted harmonic analysis), מכיוון שההרמוניות מפורשות על פי אופן התנהגותן במשפט, ולא סתם מקבלות תוויות. 
 
-Following are the primary techniques used to prolong functional zones in an idealized classical phrase. Examples of specific progressions and notational conventions are provided.
+להלן הטכניקות העיקריות המשמשות להארכת אזורים פונקציונליים (functional zones) במשפט קלאסי אידיאלי. מוצגות דוגמאות למהלכים ספציפיים ולמוסכמות סימון תווי (notational conventions).
 
-## Change-of-figure prolongation ##
+## הארכת שינוי-סימון (Change-of-figure prolongation) ##
 
-A *change-of-figure prolongation* occurs when the bass repeats (or is sustained, or drops an octave) while one or more of the upper voices change. 
+הַרְחָבַת שִׁינוּי-תְּמוּנָה (change-of-figure prolongation) מתרחשת כאשר בס מנגן שוב (או מוחזק, או יורד באוקטבה) בזמן שקול עליון אחד או יותר משתנים. 
 
-Examples include progressions like **V–V<sup>7</sup>** (both **D5**) or **IV–II<sup>6</sup>** (both **S4**). 
+דוגמאות כוללות מהלכים הרמוניים כמו **V–V<sup>7</sup>** (שניהם **D5**) או **IV–II<sup>6</sup>** (שניהם **S4**). 
 
-## Change-of-bass prolongation ##
+## הארכת חילוף בס (Change-of-bass prolongation) ##
 
-A *change-of-bass prolongation* occurs when two chords of the same function appear back-to-back, but with different bass pitch classes. In some cases, these are changes of inversion: **I–I<sup>6</sup>**, for example. In other cases, the root changes: **I–III** or **IV–II**, for example. What makes these progressions prolongations is that the function remains the same. **I–I<sup>6</sup>** prolongs tonic function (**T1–T3**), and **IV–II** prolongs subdominant function (**S4–S2**).
+התרחבות שינוי בס (change-of-bass prolongation) מתרחשת כאשר שתי אקורדים בעלי אותה פונקציה מופיעים זה אחר זה, אך עם מחלקות גובה צליל (pitch classes) שונות בבס. במקרים מסוימים, מדובר בשינויי היפוך (inversion): **I–I<sup>6</sup>**, למשל. במקרים אחרים, היסוד (root) מששתנה: **I–III** או **IV–II**, למשל. מה שהופך את המהלכים הללו להתרחבויות (prolongations) הוא שהפונקציה נשארת בעינה. **I–I<sup>6</sup>** מרחיב את פונקציית הטוניקה (**T1–T3**), ו-**IV–II** מרחיב את פונקציית הסובדומיננטה (**S4–S2**).
 
-## Contrapuntal prolongation – passing chord ##
+## הארכה קונטרפונקטית (Contrapuntal prolongation) – אקורד עובר (passing chord) ##
 
-Many change-of-bass prolongations involve a skip of a third in the bass, such as **I–I<sup>6</sup>** (**T1–T3**). Just as in second-species counterpoint a melodic third from downbeat to downbeat invites the use of a weak-beat passing tone, a melodic third in the bass between these two chords invites the use of a *passing chord*.
+רבות מהארכות המבוססות על שינוי בס (change-of-bass prolongations) כרוכות בדילוג של טרצה בבס, כגון **I–I<sup>6</sup>** (**T1–T3**). בדיוק כמו בקונטרפונקט מין שני (second-species counterpoint) שבו טרצה מלודית מפעימה פעימה מזמינה שימוש בצליל עובר בפעימה חלשה (weak-beat passing tone), טרצה מלודית בבס בין שני אקורדים אלו מזמינה שימוש ב*אקורד עובר* (*passing chord*).
 
-The bass note of a passing chord will fill in the third with stepwise motion. The melody will also often contain passing motion.
+תו הבס של אקורד עובר ימלא את הטרצה בתנועה צעדית (stepwise motion). המלודיה תכיל לעיתים קרובות גם היא תנועה עוברת (passing motion).
 
-A function is typically prolonged by contrapuntal chords belonging to the function that precedes it in the standard cycle. T is prolonged by D, D by S, and S by T.
+פונקציה (function) מוארכת בטיפוסיות על ידי אקורדים קונטרפונקטליים (contrapuntal chords) השייכים לפונקציה הקודמת לה במסגרת המעגל הסטנדרטי. T מוארך על ידי D,‏ D על ידי S, ו-S על ידי T.
 
-A passing chord that prolongs the above **T1–T3** progression would then be a dominant chord (D precedes T) with scale-degree 2 in the bass (the passing tone between scale degrees 1 and 3): **D2**. Common **D2** chords are **V6/4**, **V4/3**, and **VII6**. Thus, a **I–I<sup>6</sup>** prolongation can involve those as passing chords. 
+אקורד עובר המאריך את מהלך ה-**T1–T3** לעיל יהיה לפיכך אקורד דומיננטה (D קודם ל-T) עם דרגת סולם 2 בסה-באס (צליל עובר בין דרגות סולם 1 ו-3): **D2**. אקורדי **D2** נפוצים הם **V6/4**, **V4/3**, ו-**VII6**. לפיכך, הארכה של **I–I<sup>6</sup>** יכולה לכלול אקורדים אלו כאקורדים עוברים (passing chords). 
 
-Note that while sacle-degree 2 in the bass can support a **II** chord, **II** is subdominant, and so it is *not* used as a passing chord to prolong tonic.
+שימו לב שבעוד שדרגת הסולם (scale-degree) 2 בספירה הנמוכה (בבס) יכולה לתמוך באקורד **II**, אקורד **II** הוא סובדומיננטי, ולכן הוא *אינו* משמש כאקורד עובר להארכת טוניקה.
 
-## Contrapuntal prolongation – incomplete neighbor chord ##
+## הארכה קונטרפונקטית – אקורד שכנים חסקי (incomplete neighbor chord) ##
 
-In second-species counterpoint, variety could come by using a *substitution* in place of a passing tone. This leap of a fourth followed by step in the opposite direction still outlines a third from downbeat to downbeat, but offers a break from too much stepwise motion in the counterpoint.
+בפוליפוניה מסדר שני, גיוון יכול להיווצר על ידי שימוש בסימוכין או חילוף (*substitution*) במקום צליל עובר (passing tone). קפיצה זו של קוורטה שלאחריה פסיעה בכיוון ההפוך עדיין ממתווה טרצה מפעימה חזקה לפעימה חזקה, אך מציעה הפוגה מיותר מדי תנועה צעדית בקונטרפונקט.
 
-In harmonic writing, the same effect is obtained by an *incomplete neighbor chord*. The bass follows the same pattern as the second-species counterpoint, and the function of the contrapuntal chord is the same as its passing-chord counterpart. Thus instead of a passing motion of **T1 D2 T3**, a substitution pattern in the bass would produce **T1 D4 T3**. (In Roman numerals, that progression would almost invariably be **I V<sup>4/2</sup> I<sup>6</sup>**.)
+בכתיבה הרמונית, אפקט זהה מתקבל על ידי *אקורד שכנים חסקי*. הבס עוקב אחר אותו דפוס כמו קונטרפונקט ממין שני, ותפקידו של האקורד הקונטרפונקטי זהה לזה של מקבילו, אקורד עובר (passing-chord counterpart). לפיכך, תחת תנועה עוברת של **T1 D2 T3**, דפוס החלפה (substitution pattern) בבס ייצר **T1 D4 T3**. (בספרות רומיות (Roman numerals), מהלך זה יהיה כמעט תמיד **I V<sup>4/2</sup> I<sup>6</sup>**.)
 
-## Contrapuntal prolongation – complete neighbor chord ##
+## הארכה קונטרפונקטית – אקורד שכנים שלם (complete neighbor chord) ##
 
-Just as a *neighbor tone* in second- or third-species counterpoint could be used to ornament a single tone and return to it, a *neighbor chord* uses a neighbor-tone motion in the bass to prolong a function and return to the original bass pitch. The function of a neighbor chord follows the same principle as the passing or incomplete neighbor chord. Following are some examples of neighbor-chord prolongations:
+בדיוק כמו שניתן להשתמש ב*צליל עובר* (neighbor tone) בקונטרפונקט ממין שני או שלישי כדי לעטר צליל בודד ולחזור אליו, *אקורד שכני* (neighbor chord) משתמש בתנועת צליל עובר (neighbor-tone motion) בבס כדי להאריך תפקוד (prolong a function) ולחזור אל גובה הבס המקורי. התפקוד של אקורד שכני פועל לפי אותו עיקרון כמו אקורד עובר או אקורד שכני חסקי. להלן מספר דוגמאות להארכות אקורד שכני (neighbor-chord prolongations):
 
 - **T1 D7 T1**  
 - **T3 D4 T3**  
 - **S4 T3 S4**  
 - **D7 S6 D7**
 
-Just as third-species counterpoint has a *double neighbor* figure, harmonies can be prolonged by two chords using a double-neighbor figure in the bass. The most common double-neighbor prolongation is **T1 D2 D7 T1** (commonly **I V4/3 V6/5 I**).
+בדומה לכך שלקונטרפונקט מהמין השלישי יש תבנית *שכן כפול* (double neighbor), הרמוניות יכולות לעבור הארכה (prolongation) על ידי שני אקורדים תוך שימוש בתבנית שכן כפול (double-neighbor figure) בבס. הארכת השכן הכפול הנפוצה ביותר היא **T1 D2 D7 T1** (בדרך כלל **I V4/3 V6/5 I**).
 
-## Contrapuntal prolongation - divider and embellishing chords ##
+## הארכה קונטרפונקטית - אקורדים מפרידים ומקשטים ##
 
-In second-species counterpoint, an *interval subdivision* divided a large leap between downbeats into two smaller leaps. Likewise, a *divider chord* takes a large leap between bass notes in a change-of-bass prolongation (or a simple octave leap in the bass) and divides it into two smaller leaps.
+בפונקט של מין שני, *חלוקת מרווח* (interval subdivision) חילקה קפיצה גדולה בין פעימות חזקות לשתי קפיצות קטנות יותר. באופן דומה, *אקורד מחלק* (divider chord) לוקח קפיצה גדולה בין צלילי בס בהארכת בס (או קפיצת אוקטבה פשוטה בבس) ומחלק אותה לשתי קפיצות קטנות יותר.
 
-Divider chords almost always prolong tonic function, and can do so using either subdominant or dominant dividers. The most common divider-chord prolongations are:
+אקורדי כפולה (Divider chords) כמעט תמיד משהים את התפקוד הטונאלי (tonic function), ויכולים לעשות זאת באמצעות כפולה סובדומיננטית או דומיננטית. ההשהיות הנפוצות ביותר של אקורדי כפולה (divider-chord prolongations) הן:
 
-- **T1 D5 T1** (**I V<sup>(7)</sup> I**), where the bass ascends or descends an octave between **T1** chords.  
-- **T1 S4 T1** (**I IV I**), where the bass ascends or descends an octave between **T1** chords.  
-- **T1 S6 T3** (**I IV<sup>6</sup> I<sup>6</sup>** or **I IV<sup>6</sup> III**), dubbed the *champagne progression* by theorist Gene Biringer, because it is "the progression you pull out when you want to impress a date." This progression is listed in the *harmonic schemata* resource, because it typically follows a unique voice-leading pattern.  
+- **T1 D5 T1** (**I V<sup>(7)</sup> I**), כאשר הבס עולה או יורד אוקטבה בין אקורדי **T1**.  
+- **T1 S4 T1** (**I IV I**), כאשר הבס עולה או יורד אוקטבה בין אקורדי **T1**.  
+- **T1 S6 T3** (**I IV<sup>6</sup> I<sup>6</sup>** או **I IV<sup>6</sup> III**), אשר זכה לכינוי *מהלך השמפניה* (champagne progression) על ידי התאורטיקן ג'ין בירינגר (Gene Biringer), משום שהוא "המהלך שאתה שולף כשאתה רוצה להרשים דייט." מהלך זה מופיע במשאב *הסכמות ההרמוניות* (harmonic schemata), מכיוון שהוא עוקב בדרך כלל אחר דפוס הולכת קולות (voice-leading) ייחודי.  
 
-In the case of the first two progressions, the same harmonic progression can occur without the bass changing register. In other words, the bass leaps from *do* to *sol* or *fa*, but returns to the original bass note. Instead of dividing a large leap, the bass note of the intervening chord looks like an *embellishing tone* from third species. (In third-species counterpoint, an *embellishing tone* ornaments another tone by leaping to another consonance—usually a third or fourth away—and returning to the original tone.) Thus, what would otherwise be a *divider chord* is instead an *embellishing chord*. 
+במקרה של שתי מהלכים הרמוניים (Progressions) הראשונים, אותו מהלך הרמוני יכול להתרחש מבלי שהבס ישנה רגיסטר. במילים אחרות, הבס קופץ מדו (דו) לסול (סול) או לפה (פה), אך חוזר לצליל הבס המקורי. במקום לחלק קפיצה גדולה, צליל הבס של האקורד המתווך נראה כמו צליל קישוט (*embellishing tone*) ממין שלישי (Third species). (בקונטרפונקט ממין שלישי, צליל קישוט מעטר צליל אחר על ידי קפיצה לקונסוננס אחר — בדרך כלל במרחק טרצה או קוורטה — וחזרה לצליל המקורי.) לפיכך, מה שלולא כן היה אקורד מחלק (*divider chord*) משמש במקום זאת כאקורד קישוט (*embellishing chord*). 
 
-## Subsidiary harmonic progressions ##
+## מהלכים הרמוניים משניים (Subsidiary harmonic progressions) ##
 
-The last type of prolongation is not contrapuntal, but instead involves weak versions of the typical **T–(S)–D–T** progression. When such a progression fails to produce a proper cadence—that is, it ends with contrapuntal chords such as **D7–T1** or **D4–T3**, or uses a "deceptive resolution" **D5–Tx6** (**V–VI**) in place of the cadential **D5–T1**—the progression is called a *subsidiary harmonic progression* (this term comes from Edward Aldwell & Carl Schachter; Steven Laitz calls the same progression an *embedded phrase model*). It is "subsidiary" (or "embedded") because instead of occupying the whole phrase, it is subsidiary to (or embedded in) a larger progression. 
+הסוג האחרון של הארכה אינו קונטרפונקטי, אלא כולל במקום זאת גרסאות חלשות של מהלך ה**T–(S)–D–T** הטיפוסי. כאשר מהלך כזה אינו מצליח לייצר קדנס ראוי – כלומר, הוא מסתיים באקורדים קונטרפונקטיים כגון **D7–T1** או **D4–T3**, או משתמש ב"היחלטות מטעה" (deceptive resolution) **D5–Tx6** (**V–VI**) במקום מהלך הקדנס **D5–T1** – המהלך נקרא *מהלך הרמוני משני* (subsidiary harmonic progression; מונח זה מקורו באדוארד אולדוול וקרל שכטר; סטיבן לייץ מכנה את אותו מהלך *מבנה חטיבה משוקע* [embedded phrase model]). הוא "משני" (או "משוקע") מכיוון שבמקום לתפוס את כל החטיבה (phrase), הוא משני לתוך (או משוקע בתוך) מהלך גדול יותר. 
 
-These subsidiary progressions *always prolong tonic*. They are labeled in an analysis by following the initial T with a line:
+מהלכים משניים (subsidiary progressions) אלו *תמיד משהים טוניקה (prolong tonic)*. הם מסומנים בניתוח על ידי מעקב אחר ה-T הראשונית עם קו:
 
 > **T—————**
 
-For instance, consider the following possible harmonic progression for a phrase:
+לדוגמה, שקלו את מהלך ההרמוניה האפשרי הבא עבור תיבה:
 
 > **T1 S4 D4 T3 S4 D5 T1**  
 (**I IV V<sup>4/2</sup> I<sup>6</sup> II<sup>6</sup> V I**)
 
-The first progression through the **T–S–D–T** cycle does not produce a cadence when it returns to T. However, it cannot be said to be a contrapuntal prolongation because it follows the normal functional cycle perfectly. Thus, it is a subsidiary progression. 
+המהלך הראשון דרך מחזור ה-**T–S–D–T** אינו מייצר קדנס (cadence) כאשר הוא חוזר ל-T. עם זאת, אי אפשר לומר שמדובר בהארכה קונטרפונקטית (contrapuntal prolongation) משום שהוא עוקב אחר המחזור הפונקציונלי (functional cycle) הרגיל באופן מושלם. לפיכך, זהו מהלך משני (subsidiary progression). 
 
 > **I IV V<sup>4/2</sup> I<sup>6</sup> II<sup>6</sup> V I**  
 **T———— S D T**
 
-## Plagal progressions ##
+## מהלכים פלגליים (Plagal progressions) ##
 
-As a rule, **T** is used for contrapuntal prolongation of **S**, **S** prolongs **D**, and **D** prolongs **T**. However, there are some common patterns in which **S** is used to prolong **D**.
+ככלל, **T** משמש להארכה קונטרפונקטית של **S**,‏ **S** מאריך את **D**, ו-**D** מאריך את **T**. עם זאת, ישנם כמה דפוסים נפוצים שבהם **S** משמש להארכת **D**.
 
-The *champagne progression* (**I–IV<sup>6</sup>–I<sup>6</sup>** or **I–IV<sup>6</sup>–III**) described in the [Keyboard-style voice-leading schemata](KBVLschemata.html) resource is one, which has been described above. Another is the **S4** divider, as well as the related **S4** embellishing chord—both described above.
+המהלך ההרמוני של קדם-השמפניה (**I–IV<sup>6</sup>–I<sup>6</sup>** או **I–IV<sup>6</sup>–III**) המתואר במשאב [סכמות הולכת קול בסגנון מקלדת](KBVLschemata.html) הוא אחד מהם, כפי שתואר לעיל. נוסף עליו הוא מפצל ה-**S4** (S4 divider), וכן אקורד הקישוט **S4** הקשור אליו—שניהם מתוארים לעיל.
 
-One other common figure is to use **IV** (**S**) as a complete or incomplete neighbor to **I<sup>6</sup>** (**T**). Common progressions include:
+דמות נפוצה נוספת היא שימוש ב-**IV** (**S**) כצליל עובר שלם או חלקי (neighbor) ל-**I<sup>6</sup>** (**T**). מהלכים נפוצים כוללים:
 
 - **I IV I<sup>6</sup>**  
 - **I<sup>6</sup> IV I<sup>6</sup>**
 
-Also common is a *change-of-figure* prolongation of **T1**: 5/3 to 6/4 to 5/3 (**I–IV–I**). The 6/4 chord (**IV**) can be considered an **S** chord, but it is more appropriate simply to consider the sixth and fourth above the bass in that chord to be neighbor tones to the fifth and third. Simply label such a progression **T———**.
+נפוצה גם הארכת *שינוי-ספרה* (change-of-figure) של **T1**: מ-5/3 ל-6/4 ל-5/3 (**I–IV–I**). אקורד ה-6/4 (**IV**) יכול להיחשב כאקורד **S**, אך מתאים יותר פשוט לראות את הסיקסטה והקוארטה מעל הבס באקורד זה כצלילי עובר (neighbor tones) לקווינטה ולטרציה. פשוט סמנו רצף כזה בתור **T———**.
 
-## Prolonging a progression ##
+## הארכת מהלך (Prolonging a progression) ##
 
-Occasionally, a contrapuntal chord is used not to prolong a single function, but to connect chords of different functions—in other words, to prolong a progression.
+לעיתים קרובות, אקורד קונטרפונקטי (contrapuntal chord) משמש לא כדי להאריך תפקוד יחיד, אלא כדי לחבר אקורדים בעלי תפקודים שונים — במילים אחרות, כדי להאריך מהלך הרמוני (progression).
 
-The most common occurrence is when a bass line moves down by step from *do* to *sol*, which is especially common in minor. The bass line *do*–*te*–*le*–*sol* is harmonized by **T1 D7 S6 D5** (usually **i v<sup>6</sup> iv<sup>6</sup> V**—the chord qualities are important in this progression, called the "lament"). In this progression, the **S6** is a functional subdominant leading to the cadential **D5**. The **D7** chord, then, is simply a passing chord that connects **T1** with **S6**. To notate this, draw and arrow between **T** and **S**. 
+המופע הנפוץ ביותר הוא כאשר קו הבס נע כלפי מטה בצעד מ-*דו* ל-*סול*, דבר הנפוץ במיוחד בסולם מינור. קו הבס *דו*–*טע*–*לה*–*סול* מקבל הרמוניזציה על ידי **T1 D7 S6 D5** (בדרך כלל **i v<sup>6</sup> iv<sup>6</sup> V** — איכויות האקורדים חשובות במהלך זה, הנקרא "קינה" [lament]). במהלך זה, אקורד ה-**S6** הוא סובדומინנטה פונקציונלית המובילה אל ה-**D5** הקדנציאלי. אקורד ה-**D7**, אם כן, הוא פשוט אקורד עובר המחבר בין **T1** לבין **S6**. כדי לרשום זאת, סרטטו חץ בין **T** לבין **S**. 
 

@@ -6,38 +6,38 @@ title: Classical theme types
 {{ page.title }}
 ================
 
-The following diagrams outline the key internal characteristics and functional role of the various theme types presented in William Caplin’s *Classical Form*. Follow the links below for further explanation and examples.
+התרשימים הבאים מתארים בקווים כלליים את מאפייני המבנה הפנימי המרכזיים ואת התפקיד התפקודי של טיפוסי הנושאים השונים המוצגים בספרו של ויליאם קפלין *צורה קלאסית* (*Classical Form*). עקבו אחר הקישורים שלהלן להסברים נוספים ולדוגמאות.
 
-See also [Classical theme functions](themeFunctions.html).
+ראו גם [פונקציות תמה קלאסיות (Classical theme functions)](themeFunctions.html).
 
-Sentence
+משפט
 --------
 
-For details, click [here](sentence.html).
+לפרטים, לחצו [כאן](sentence.html).
 
 ![][sentence]
 
-Period
+תקופה (Period)
 ------
 
-For details, click [here](period.html).
+לפרטים, לחצו [כאן](period.html).
 
 ![][period]
 
-Hybrid themes
+ערכות נושא היברידיות (Hybrid themes)
 -------------
 
-For further details, click [here](hybridThemes.html).
+לפרטים נוספים, לחצו [כאן](hybridThemes.html).
 
 ![][hybrid1]
 ![][hybrid2]
 ![][hybrid3]
 ![][hybrid4]
 
-Compound themes
+נושאים מורכבים (Compound themes)
 ---------------
 
-For further details, click [here](compoundThemes.html).
+לפרטים נוספים, לחצו [כאן](compoundThemes.html).
 
 ![][16period-sent]
 ![][16period-hybrid1]

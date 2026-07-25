@@ -3,28 +3,28 @@ layout: post
 title: Twelve-Tone Theory — Basics
 ---
 
-Twelve-tone music is most often associated with a compositional technique, or style, called *serialism*. The terms are not equivalent, however. *Serialism* a broad designator referring to the *ordering* of things, whether they are pitches, durations, dynamics, and so on. Twelve-tone composition refers more specifically to music based on orderings of the *twelve pitch classes*. 
+מוזיקת שנים-עשר הטעמים (Twelve-tone music) משויכת לרוב טכניקת הלחנה, או סגנון, המכונים *סריאליזם* (*serialism*). עם זאת, המונחים אינם שקולים. *סריאליזם* הוא שם כולל המתייחס ל*סידור* (ordering) של אלמנטים שונים, בין אם מדובר בגבהי צליל (pitches), במשכי צליל (durations), בדינמיקה (dynamics), וכדומה. הלחנה בשנים-עשר טעמים מתייחסת באופן ספציפי יותר למוזיקה המבוססת על סידורים של *שנים-עשר צלילי היסוד* (*twelve pitch classes*). 
 
-This style of composition is most associated with a group of composers whose figurehead was Arnold Schoenberg and which also included the influential composers Anton Webern and Alban Berg. But twelve-tone compositional techniques and ideas associated with such techniques were very influential for many great composers, and serial and twelve-tone music is still being written today. Much of this music shares similar axioms, outlined below, but composers have used these basic ideas to cultivate entirely original approaches.
+סגנון הומפוזיציה (composition) זה מזוהה ביותר עם קבוצת מלחינים שבראשם עמד ארנולד שנברג (Arnold Schoenberg), ושכללה גם את המלחינים המשפיעים אנטון וברן (Anton Webern) ואלבן ברג (Alban Berg). אולם, טכניקות הלחנה דודקאפוניות (twelve-tone) ורעיונות הקשורים לטכניקות כאלה היו משפיעים מאוד עבור מלחינים דגולים רבים, ומוזיקה סריאלית (serial) ודודקאפוניות עדיין נכתבת היום. חלק ניכר ממוזיקה זו חולק אקסיומות (axioms) דומות, המפורטות להלן, אך מלחינים השתמשו ברעיונות בסיסיים אלו כדי לפתח גישות מקוריות לחלוטין.
 
-Twelve-tone music is based on _series_ (sometimes called a _row_) that contains all twelve pitch classes in a particular order. There is no one series used for all twelve-tone music; most composers write a unique row for each piece. (There 12!—that is, 12 factorial—twelve-tone series, which is equal to 479,001,600 unique row forms. Quite a lot of possibilities!) Here's an example, the row for Webern's Piano Variations, Op. 27:
+מוזיקה ששת-עשרה-הטונים מבוססת על *סדרות* (series) (הנקראות לעתים *שורה* (row)) המכילות את כל שנים עשר סוגי הצלילים (pitch classes) בסדר מסוים. אין סדרה אחת שמשמשת את כל מוזיקת שנים-עשר-הטונים; רוב המלחינים כותבים שורה ייחודית לכל יצירה. (ישנם 12! — כלומר, 12 עצרת — סדרות ששת-עשרה-הטונים, מה ששקול ל-479,001,600 צורות שורה ייחודיות. די הרבה אפשרויות!) הנה דוגמה, השורה לווריאציות לפסנתר מאת וברן (Webern), אופוס 27:
 
 [![](Graphics/postTonal/basicRow.png)](Graphics/form/basicRow.png)
 
-There are some general rules for using a twelve-tone row, though as I said, individual approaches are always different:
+ישנם מספר כללים כלליים לשימוש בסדרה שנים-עשר טונים (twelve-tone row), אם כי כפי שאמרתי, גישות אינדיבידואליות תמיד שונות:
 
-	1. Pitch classes are played in order; 
-	2. Once a pitch class has been played, it isn't repeated until the next row. 
+	1. מחלקות הגובה (Pitch classes) מנוגנות בסדר; 
+	2. מרגע שצליל (pitch class) הושמע, הוא אינו חוזר על עצמו עד לשורה (row) הבאה. 
 	
-A twelve-tone row might be used as a theme or as a source for motives. Chords might be derived from the row, or the row may be used for both thematic and harmonic purposes. We call the basic ordering, shown above for Op. 27, the *prime form* (P). And because it begins on B (pitch class 11), we label it **P11**.
+שורת שנים-עשר טונים עשויה לשמש כנושא או כמקור למוטיבים. אקורדים עשויים להיות מופקים מן השורה, או שהשורה עשויה לשמש הן למטרות תמתיות והן למטרות הרמוניות. אנו מכנים את הסידור הבסיסי, המוצג לעיל עבור אופוס 27, בשם *צורה ראשונית* (prime form) (P). ומכיוון שהיא מתחילה ב-B (מחלקת גבהים 11), אנו מסמנים אותה כך: **P11**.
 
-Rows can be transposed, inverted, retrograded, or any combination of those operations. Inverting the prime form results in an "I-form." Like P-forms I-forms are labeled by their first pitch-class. Hence, the row below, an inversion of the one above, is called **I0**. Note that it starts on C (0).
+ניתן לבצע טרנספוזיציה לשורות, להפוך אותן (Inversion), לרשום אותן בסדר הפוך (Retrograde), או כל שילוב של פעולות אלו. היפוך של הצורה הראשונית מניב "צורת I" (I-form). כמו צורות P (P-forms), צורות I מסומנות על ידי מחלקת הגובה (pitch-class) הראשונה שלהן. לפיכך, השורה להלן, שהיא היפוך של זו שמעליה, נקראת **I0**. שימו לב שהיא מתחילה בתו C (0).
 
 
 [![](Graphics/postTonal/inversion.png)](Graphics/form/inversion.png)
 
-Prime forms and inversion forms can be also be played backwards, also called retrograde. In the example below notice how this work in relation to the P11 and I0 rows from above. When a P-form is retograded, we call it a "R-form." When an I-form is retrograded, it's called an "RI-form." As the example shows, R- and RI-forms are labeled according to their _last pitch class_.
+צורה ראשונית (Prime form) וצורות היפוך (Inversion form) יכולות להיות מנוגנות גם לאחור, מה שנקרא גם רטרוגרד (retrograde). בדוגמה שלהלן, שימו לב כיצד הדבר פועל ביחס לשורות P11 ו-I0 מלמעלה. כאשר צורת P עוברת רטרוגרד (retrograded), אנו קוראים לזה "צורת R" (R-form). כאשר צורת I עוברת רטרוגרד, היא נקראת "צורת RI" (RI-form). כפי שמדגימה הדוגמה, צורות R ו-RI מסומנות בהתאם ל*מחלקת הצלילים האחרונה* (_last pitch class_) שלהן.
 
 [![](Graphics/postTonal/family.png)](Graphics/form/family.png)
 
-That graphic shows only four row forms, but each of those forms has twelve transpositions. Thus, a single row breeds a total of 48 rows: 12 *4.  That collection of rows is called a *row class*, and it is the *row class* that the composer draws from when writing his or her music. 
+הגרף ההוא מציג רק ארבע צורות שורה, אך לכל אחת מהצורות הללו יש שנים עשר טרנספוזיציות (transpositions). לפיכך, שורה בודדת מולידה סך הכל של 48 שורות: 12 * 4. אוסף שורות זה נקרא *מחלקת שורה* (*row class*), וממחלקה זו שואב המלחין בעת כתיבת המוזיקה שלו. 

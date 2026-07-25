@@ -3,83 +3,83 @@ layout: post
 title: Introduction to thoroughbass
 ---
 
-A *thoroughbass* (It. *Basso continuo*, Ger. *Generalbaß*, also called a *figured bass*) is a harmonic shorthand of a musical passage or work. It is composed of a bass line, and chord symbols—called *figures*. It is called a "thorough" bass or "continuous" bass line because it includes the lowest sounding note at any given moment, *regardless of the instrument or voice sounding the note*. It usually corresponds to a single instrument or vocal part, but not always.
+בס קונטינוואה (*thoroughbass*, באיטלקית *Basso continuo*, בגרמנית *Generalbaß*, נקרא גם בס ממוספר - *figured bass*) הוא קיצור הרמוני (harmonic shorthand) של קטע או יצירה מוזיקלית. הוא מורכב מקו בס ומסימני אקורדים – הנקראים מספרים (*figures*). הוא נקרא בס "יסודי" (*thorough* - יסודי/שלם) או בס "רציף" (*continuous*) משום שהוא כולל את הצליל הנמוך ביותר שנשמע בכל רגע נתון, *ללא קשר לכלי הנגינה או לקול המפיקים את הצליל*. בדרך כלל הוא תואם לכלי נגינה יחיד או לתפקיד קולי יחיד, אך לא תמיד.
 
-***insert graphic example***
+***הוסף דוגמה גרפית (insert graphic example)***
 
-The historical origin of the thoroughbass part was in church settings where a piece for 6–8 singers was to be performed by one or two voices with a keyboard instrument. The keyboardist, rather than play the 4–7 remaining parts, would transcribe the lowest note and shorthand figures to remind himself of the (simple) intervals present above that lowest voice. This would allow the keyboardist to play one or two of the more important lines, and fill the rest of the texture with blocked or arpeggiated chords. (Think seventeenth-century lead sheet.) A good keyboardist, who knew his harmony and voice-leading, could simply follow the bass line without figures (an *unfigured bass*) and listen to the melody, improvising the rest. Less experienced keyboardists, however, could manage otherwise complicated pieces by reading a bass line and memorizing a small number of figures and basic voice-leading rules. (You can read a more detailed explanation of its history [here](bassoContinuo-history).)
+המקור ההיסטורי של תפקיד הבאס המספרי (thoroughbass) היה במסגרות כנסייתיות שבהן יצירה עבור 6–8 זמרים הייתה אמורה להיות מבוצעת על ידי קול אחד או שניים יחד עם כלי מקלדת. נגן המקלדת, במקום לנגן את 4–7 הקולות הנותרים, היה רושם את הצליל הנמוך ביותר ואת סימני הקיצור (shorthand figures) כדי להזכיר לעצמו את המרווחים ה(פשוטים) הקיימים מעל אותו קול נמוך ביותר. דבר זה היה מאפשר לנגן המקלדת לנגן קול אחד או שניים מבין הקולות החשובים יותר, ולמלא את שאר המרקם באקורדים חסומים (blocked) או במרווחים פרוסים (arpeggiated). (חשבו על דף הובלה מן המאה השבע-עשרה [seventeenth-century lead sheet].) נגן מקלדת טוב, שהכיר את ההרמוניה ואת הובלת הקולות (voice-leading) שלו, יכל פשוט לעקוב אחר קו הבאס ללא ספרות (באס לא ממוספר [unfigured bass]) ולהאזין למלודיה, תוךאלתור השאר. נגני מקלדת פחות מנוסים, לעומת זאת, יכלו להסתדר עם יצירות מסובכות אחרת על ידי קריאת קו באס ושינון מספר מצומצם של ספרות וכללי הובלת קולות בסיסיים. (תוכלו לקרוא הסבר מפורט יותר על ההיסטוריה שלו [כאן](bassoContinuo-history).)
 
-Coming after species counterpoint in our studies, *basso continuo* exercises provide a new, more complicated environment in which to practice mediating the demands of smoothness, independence of lines, tonal fusion (now considering triads and seventh chords), variety, and motion. New considerations of performability are introduced, and the presence of dissonances within the core harmonies themselves will call for new approaches to harmonic dissonance in this style.
+לאחר לימוד קונטרפונקט לפי מינים (species counterpoint) בלימודים שלנו, תרגילי *בסו קונטינו* (*basso continuo*) מספקים סביבה חדשה ומורכבת יותר שבה ניתן לתרגל את הגישור בין הדרישות של זרימה חלקה, עצמאות קווים, מיזוג טונאלי (כאשר כעת נלקחים בחשבון אקורדים משולשים ואקורדי שבע), מגוון ותנועה. שיקולים חדשים של ביצועיות (performability) מובאים בחשבון, והנוכחות של דיסוננסים בתוך ההרמוניות עצמן תדרוש גישות חדשות לדיסוננס הרמוני בסגנון זה.
 
 
-We will use thoroughbass lines for a number of purposes in this class:
+אנו נשתמש בקווי באס ממוספרים (thoroughbass lines) למספר מטרות בשיעור זה:
 
-- harmonic "reductions" of pieces and passages with dense textures or complicated voice-leading  
-- shorthand representations of stock harmonic patterns  
-- the harmonic basis for model composition exercises (akin to the *cantus firmus* of species counterpoint)
+- רדוקציות הרמוניות (harmonic reductions) של יצירות וקטעים בעלי מרקמים צפופים או הובלת קולות מסובכת  
+- ייצוגים מקוצרים של מהלכים הרמוניים שגרתיים (shorthand representations of stock harmonic patterns)  
+- הבסיס ההרמוני עבור תרגילי הלחנת מודלים (הדומה ל-*cantus firmus* של קונטרפונקט לפי מינים)
 
-Thoroughbass is a simple, and foundational, concept. Master it early, and subsequent activities will be much easier.
+באס ממוספר (Thoroughbass) הוא מושג פשוט ויסודי. שליטה בו בשלב מוקדם תהפוך את הפעילויות הבאות להרבה יותר קלות.
 
-Note on figure placement: Thoroughbass figures can appear above or below the bass line. Both are common, but for this class, we will always place them *above* the bass line. This connects them to our habits of interval analysis during species counterpoint, keeps figures separate from other harmonic symbols we will place below the bass line, and make typesetting in notation software easier when both figures and other symbols are in play simultaneously.
+הערה לגבי מיקום הסימון: סיכומי באס ממוספר (Thoroughbass figures) יכולים להופיע מעל או מתחת לקו הבאס. שתי האפשרויות נפוצות, אך עבור שיעור זה, תמיד נמקם אותם *מעל* קו הבאס. הדבר מחבר אותם להרגלי ניתוח המרווחים שלנו במהלך קונטרפונקט מיני, שומר על ההפרדה בין סיכומי הבאס (figures) לבין סימנים הרמוניים אחרים שנמקם מתחת לקו הבאס, ומקל על סידור התווים (typesetting) בתוכנות תיווי כאשר גם סיכומי באס וגם סימנים אחרים נמצאים בשימוש בו-זמנית.
 
-## Figures 
+## תרשימים (Figures) 
 
-In general, a thoroughbass figure indicates the *simple intervals above the bass* for all pitch classes present in the chord. 
+באופן כללי, סימון בס ממוספר (thoroughbass figure) מציין את ה*מרווחים הפשוטים מעל הבס* (simple intervals above the bass) עבור כל מחלקות הגובה (pitch classes) הנוכחות באקורד. 
 
-The largest number typically found in thoroughbass figures is 7. In general, *compound intervals* (an octave or larger) are reduced to their *simple interval* equivalent. A tenth becomes a third, a thirteenth becomes a sixth, etc.
+המספר הגדול ביותר הנמצא בדרך כלל בספרות בס ממוספר (thoroughbass figures) הוא 7. באופן כללי, *מרווחים מורכבים* (compound intervals) (אוקטבה או יותר) מצומצמים למקבילה שלהם כ*מרווח פשוט* (simple interval). מרווח דצימה הופך לטרצה, מרווח טרצדצימה הופך לסקסטה, וכן הלאה.
 
-The most common chords in tonal music are [*triads* and *seventh chords*][triadsSevenths]. The following figures apply to these chords:
+האקורדים הנפוצים ביותר במוזיקה טונאלית הם [*טריאדות* ו*אקורדי שבע*][triadsSevenths]. הסיכומים הבאים חלים על אקורדים אלו:
 
 ![][full]
 
-- 5/3: use a fifth and a third above the bass (one note of the chord will be doubled)  
-- 6/3: use a sixth and a third above the bass (one note of the chord will be doubled)  
-- 6/4: use a sixth and a fourth above the bass (one note of the chord will be doubled)  
-- 7/5/3: use a seventh, a fifth, and a third above the bass  
-- 6/5/3: use a sixth, a fifth, and a third above the bass  
-- 6/4/3: use a sixth, a fourth, and a third above the bass  
-- 6/4/2: a use a sixth, a fourth, and a second above the bass
+- 5/3: השתמש בקווינטה (fifth) ובטרצה (third) מעל הבס (תו אחד מהאקורד יוכפל)  
+- 6/3: יש להשתמש בסקסטה (sixth) וטרצה מעל הבס (תו אחד מהאקורד יוכפל)  
+- 6/4: השתמשו במרווח סקסטה וקוורטה מעל הבס (תו אחד מהאקורד יוכפל)  
+- 7/5/3: השתמש בספטימה (seventh), קווינטה, וטרצה מעל הבס  
+- 6/5/3: השתמש בסקסטה, קווינטה וטרצה מעל הבס  
+- 6/4/3: השתמש בסקסטה, קוורטה (fourth) וטרצה מעל הבס  
+- 6/4/2: שימוש בסקסטה, קוורטה וסקונדה מעל הבס
 
-These figures are so common, that most of them have shortcuts:
+דמויות אלו נפוצות כל כך, שלרבות מהן יש קיצורי דרך:
 
 ![][abbrev]
 
-- no figure = 5/3  
+- ללא סימון (no figure) = 5/3  
 - 6 = 6/3  
-- 6/4 is never abbreviated    
+- 6/4 לעולם אינו מקוצר    
 - 7 = 7/5/3  
 - 6/5 = 6/5/3  
 - 4/3 = 6/4/3  
-- 4/2 (or just 2) = 6/4/2
+- 4/2 (או פשוט 2) = 6/4/2
 
-Other shortcuts generally follow two simple rules:
+קיצורים אחרים עוקבים בדרך כלל אחר שני כללים פשוטים:
 
-- Assume a fifth is present above the bass unless there is a "6" in the figure.  
-- Assume a third is present above the bass unless there is a "4" or a "2" in the figure.
+- הנח שקיים מרווח של קווינטה מעל הבס אלא אם כן מופיע הספרה "6" בסימון הממוספר (figured bass).  
+- הניחו שטרצה נוכחת מעל הבס אלא אם כן יש "4" או "2" בסימון הממוספר (figure).
 
-## Unfamiliar figures and chords ##
+## דמויות ואקורדים לא מוכרים ##
 
-Only seven figures are given above. If you see a figure you do not recognize, simply follow the intervals (using the two shortcut rules). Likewise, if analyzing a chord that is not a triad or seventh chord, simply label the *simple* intervals you see/hear above the bass, from top to bottom in descending order: 7/6/3 or 5/4, for example. In time, you will become familiar with a number of other harmonic possibilities, and their corresponding figures.
+רק שבעה סיכּומים מוצגים לעיל. אם אתם רואים סיכּום שאינכם מזהים, פשוט עקבו אחר המרווחים (intervals) (באמצעות שני כללי הקיצור). באופן דומה, אם אתם מנתחים אקורד שאינו אקורד טריאדה (triad) או אקורד שבע (seventh chord), פשוט סמנו את המרווחים ה*פשוטים* שאתם רואים/שומעים מעל הבס, מלמעלה למטה בסדר יורד: 7/6/3 או 5/4, לדוגמה. במשך הזמן, תתוודעו למספר אפשרויות הרמוניות (harmonic possibilities) נוספות, ולסיכּומים התואמים להן.
 
-## Chords of the fifth and chords of the sixth ##
+## אקורדים של הקווינטה ואקורדים של הסקסטה (Chords of the fifth and chords of the sixth) ##
 
-All chords can be categorized as either a *chord of the fifth* or a *chord of the sixth*. This distinction will be important for our study of voice-leading.
+כל האקורדים ניתנים לסיווג כאקורד של הקווינטה (*chord of the fifth*) או אקורד של הסקסטה (*chord of the sixth*). הבחנה זו תהיה חשובה ללמודינו על הולכת קולות.
 
-A *chord of the fifth* contains a fifth above the bass, but no sixth above the bass.
+אקורד של קווינטה (chord of the fifth) מכיל קווינטה מעל הבס (bass), אך ללא סקסטה מעל הבס.
 
-A *chord of the sixth* contains a sixth above the bass.
+אקורד של השישית מכיל מרווח שישית מעל הבס.
 
-## Chromatic alteration ##
+## שינוי כרומטי (Chromatic alteration) ##
 
-If a note is chromatically altered (different than the key signature), the figure must be altered as well. Since bass notes are already present in the bass, a chromatic alteration in the bass will not make it into the figure. However, any other alteration in the upper voices (such as a raised leading tone in minor) must be reflected in the figure. To do so, simply put a sharp, flat, or natural to the left of the appropriate number. 
+אם תו ဖ (note) עובר שינוי כרומטי (שונה מהסימנים להוראת הסולם (key signature)), יש לשנות בהתאם גם את המספר. היות שצלילי הבס כבר נוכחים בבס, שינוי כרומטי בבס לא יופיע במספור. עם זאת, כל שינוי אחר בקולות העליונים (כגון צליל מוביל מוגבה (raised leading tone) בסולם מינור) חייב לבוא לידי ביטוי במספור. לשם כך, יש פשוט להוסיף דיאז (sharp), במול (flat) או בקר (natural) משמאלו של המספר המתאים. 
 
-Of course, there are some shortcuts. For example, draw a line (a "slash") through a number to denote that it is raised by half-step (can substitute both for sharp or for natural). Also, when altering the third above the bass, simply use the sharp, flat, or natural and leave out the "3."
+כמובן, ישנם כמה קיצורים. לדוגמה, סרטוט קו (הנקרא "לוכסן" (slash)) דרך מספר מציין שהוא הוגלה בחצי טון (יכול לשמש כתחליף גם לדיאז וגם לבקר). כמו כן, כאשר משנים את הטרציה שמעל הבס, פשוט השתמשו בדיאז, במול או בקר והשמיטו את ה-"3".
 
 ![][chrom]
 
-In general, if there is a shortcut available, use it. The shortcuts are more standard than the corresponding full notation.
+באופן כללי, אם יש קיצור דרך זמין, השתמש בו. קיצורי הדרך סטנדרטיים יותר מהסימון המלא (full notation) המקביל.
 
-Keep in mind that some chords have abbreviated figures. For example, it is common for the leading tone to be the third above the bass in a 5/3 chord. In such a situation, a bass note that otherwise would have no figure needs a sharp or a natural for its thoroughbass figure.
+יש לזכור שלחלק מהאקורדים יש סימונים מנוקבים מקוצרים (abbreviated figures). לדוגמה, נפוץ שהצליל המוביל יהיה הטרצה מעל הבס באקורד 5/3. במצב כזה, צליל בס שאחרת לא היה מקבל סימון מנוקב, זקוק לדיאז או בקר עבור סימון הבס הממוسפר שלו.
 
 
 [triadsSevenths]: triads.html

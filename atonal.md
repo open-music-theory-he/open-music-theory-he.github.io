@@ -6,113 +6,113 @@ title: Analyzing atonal music
 {{ page.title }}
 ================
 
-Following are a few tips, terms, and common structures that will be helpful for analyzing early twentieth-century atonal music, such as that composed by members of the Second Viennese School (Schönberg, Berg, Webern).
+להלן מספר טיפים, מונחים ומבנים נפוצים אשר יסייעו בניתוח מוזיקה אטונאלית (atonal music) של ראשית המאה העשרים, כדוגמת זו שהולחנה על ידי חברי האסכולה הווינאית השנייה (Second Viennese School) (שנברג, ברג, וברן).
 
-# Intervals #
+# מרווחים (Intervals) #
 
-Always use *chromatic intervals* rather than diatonic intervals when analyzing and comparing pitch materials. (See [Intervals and dyads][intervals] resource.)
+יש להשתמש תמיד ב*מרווחים כרומטיים (chromatic intervals)* ולא במרווחים דיאטוניים (diatonic intervals) בעת ניתוח והשוואה של חומרי גובה (pitch materials). (ראו מקור [מרווחים ודו-צלילים (Intervals and dyads)][intervals].)
 
-# The 12-pitch-class cycle — clock face #
+# מחזור 12 מחלקות גובה הצליל (12-pitch-class cycle) — לוח השעון (clock face) #
 
-Atonal composers often begin with highly organized set of pitch classes, and then deploy the pitch classes in a wide variety of registers. Thus, it is helpful to eliminate register as a factor in order to find which motives, chords, and fragments belong in the same category. To do so, take a clock face with the twelve pitch-classes (spelling does not matter)
+מלחינים אטונאליים (atonal) מתחילים לעיתים קרובות עם קבוצה מאורגנת ביותר של מחלקות גובה צליל (pitch classes), ואז פורסים את מחלקות גובה הצליל במגוון רחב של רגיסטרים (registers). לכן, מועיל לנטרל את הרגיסטר (register) כגורם כדי למצוא אילו מוטיבים (motives), אקורדים (chords) ופרגמנטים (fragments) שייכים לאותה קטגוריה. כדי לעשות זאת, קחו לוח שעון עם שתים-עשרה מחלקות גובה הצליל (הכתיב אינו משנה)
 
 ![][clock]
 
-and mark all the pitch classes involved in the fragment. For example, here is a C-major scale:
+וסמנו את כל מחלקות גובה הצליל המעורבות בקטע. לדוגמה, להלן סולם C מז'ור:
 
 ![][Cmajor]
 
-This will make it easy to find the interval patterns in a set of pitch classes, no matter how they are distributed in the various registers and instruments on the score.
+הדבר יקל על מציאת תבניות המרווחים (interval patterns) בקבוצה של מחלקות גובה, ללא קשר לאופן שבו הן מפוזרות ברגיסטרים ובכלי הנגינה השונים בפרטיטורה (score).
 
-# Common pitch-class collections #
+# אוספי מחלקות גבהים נפוצים (Common pitch-class collections) #
 
-**Diatonic** – The usual major and *natural*-minor collections (white key collection and all of its transpositions).
+**דיאטוני (Diatonic)** – האוספים הרגילים של מז'ור ומינור *טבעי* (*natural*-minor) (אוסף הקלידים הלבנים וכל הטרנספוזיציות (transpositions) שלו).
 
 ![][major]  
 ![][minor]
 
-**Pentatonic** – The black key collection and all of its transpositions, prime form: (02479).
+**פנטטוני (Pentatonic)** – אוסף הקלידים השחורים (black key collection) וכל הטרנספוזיציות שלו, צורת יסוד (prime form): (02479).
 
 ![][pentatonicBlack]  
 ![][pentatonicWhite]
 
-**Octatonic** – An eight-pitch-class scale that alternates i1 and i2 (semitones and whole-tones).
+**אוקטטוני (Octatonic)** – סולם בן שמונה מחלקות גובה המחליף לסירוגין בין i1 ל-i2 (חצאי טונים וטונים שלמים).
 
 ![][octatonic]
 
-**Hexatonic** – A six-pitch-class scale that alternates i1 and i3 (semitones and minor thirds/augmented seconds).
+**הקסטוני (Hexatonic)** – סולם בן שש מחלקות גובה המחליף לסירוגין בין i1 ל-i3 (חצאי טונים וטרצות קטנות/שניות מוגדלות).
 
 ![][hexatonic]
 
-**X-cell** – The chromatic tetrachord, or a four-pitch-class chromatic cluster, prime form: (0123).
+**תא X (X-cell)** – הטטרקורד הכרומטי (chromatic tetrachord), או אשכול כרומטי בן ארבע מחלקות גובה (four-pitch-class chromatic cluster), צורה יסודית: (0123).
 
 ![][xCell]
 
-**Y-cell** – The whole-tone tetrachord, or a four-pitch-class whole-tone cluster, prime form: (0246). It is a subset of the whole-tone scale.
+**תא-Y (Y-cell)** – הטטרקורד של הטון השלם (whole-tone tetrachord), או קלסטר טון שלם בן ארבע מחלקות גובה (four-pitch-class whole-tone cluster), צורה יסודית: (0246). הוא תת-קבוצה (subset) של סולם הטונים השלמים (whole-tone scale).
 
 ![][yCell]
 
-**Z-cell** – A four-pitch-class collection that alternates i1 and i5 (semitones and perfect fourths), prime form: (0167). Two Z-cells a minor third apart form an octatonic scale.
+**תא Z (Z-cell)** – קבוצה של ארבע מחלקות גובה (four-pitch-class collection) המשלבת לסירוגין i1 ו-i5 (חצאי טונים (semitones) וקוורטות זכות (perfect fourths)), צורת יסוד: (0167). שני תאי Z במרחק טרציה קטנה (minor third) זה מזה יוצרים סולם אוקטטוני (octatonic scale).
 
 ![][zCell]
 
-**French-sixth** – The usual french-augmented-sixth-chord collection, but stripped of its tonal function, prime form: (0268). It is a subset of the whole-tone collection and octatonic collections. Like the Z-cell, two French-sixth chords a minor third apart form an octatonic scale.
+**שישית צרפתית (French-sixth)** – אוסף אקורד השישית המוגדלת הצרפתית (french-augmented-sixth-chord collection) הרגיל, אך כזה שמופשט מהפונקציה הטונאלית (tonal function) שלו, בצורת יסוד: (0268). הוא מהווה תת-קבוצה של אוסף הטונים השלמים (whole-tone collection) ושל אוספים אוקטטוניים (octatonic collections). כמו תא ה-Z‏, שני אקורדים של שישית צרפתית במרחק טרצה מינורית זה מזה יוצרים סולם אוקטטוני.
 
 ![][frenchSixth]
 
-**Whole-tone scale** – A six-pitch-class scale made up of successive whole tones, prime form: (02468T).
+**סולם טונים שלמים (Whole-tone scale)** – סולם בן שש מחלקות גובה המורכב מטונים שלמים עוקבים, צורה ראשונית: (02468T).
 
 ![][wholeTone]
 
-**Acoustic scale** – A seven-pitch-class scale that resembles the major scale, but with *fa* raised to *fi* and *ti* lowered to *te*, in order to match the seventh and eleventh partials of the natural harmonic series.
+**סולם אקוסטי (Acoustic Scale)** – סולם בן שבע מחלקות גובה (Pitch Classes) המזכיר את הסולם המז'ורי, אך עם *פה* מוגבה ל*פי* ו*סי* מונמך ל*טה*, כדי להתאים לצלילים החלקיים (Partials) השביעי והאחד-עשר של הסדרה ההרמונית הטבעית (Natural Harmonic Series).
 
 ![][acoustic]
 
-**Dual-diatonic** – An eight-pitch-class scale formed by the union of two diatonic collections separated by fifth—for example C major and G major: C – D – E – F – F# – G – A – B. It contains two diatonic scales, two Z-cells, and two Y-cells. It was used primarily by Bartók.
+**דו-דיאטוני (Dual-diatonic)** – סולם בן שמונה מחלקות גובה (Eight-pitch-class scale) הנוצר מאיחוד של שני אוספים דיאטוניים (Diatonic collections) המופרדים בקווינטה (Fifth)—לדוגמה C מז'ור ו-G מז'ור: C – D – E – F – F# – G – A – B. הוא מכיל שני סולמות דיאטוניים, שני תאי Z‏ (Z-cells), ושני תאי Y‏ (Y-cells). נעשה בו שימוש בעיקר על ידי בארטוק.
 
 ![][dualDiatonicFaFi]  
 ![][dualDiatonicTeTi]
 
 
 
-# Common *operations* #
+# *פעולות* נפוצות (Common *operations*) #
 
-### Transposition ###
+### טרנספוזיציה (Transposition)
 
-Pitch transposition involves moving every pitch in a collection up or down by a specified interval. 
+טרנספוזיציית גבהים (Pitch transposition) כרוכה בהעלאה או בהורדה של כל גובה צליל (pitch) באוסף כלשהו לפי מרווח (interval) מוגדר. 
 
-Pitch-class transposition does the same thing. However, because of the cyclical nature of pitch classes, PC-transposition also corresponds to *rotation* of a collection of pitch classes around a clock face.
+טרנספוזיציית מחלקות צלילים (Pitch-class transposition) עושה את אותו הדבר. אולם, בשל האופי המחزורי של מחלקות צלילים, טרנספוזיציית מחלקות צלילים (PC-transposition) מתאימה גם ל*סיבוב* (rotation) של אוסף מחלקות צלילים סביב פני שעון.
 
-Transposition operations can be denoted by a capital "T" followed by a subscript indicating the number of semitones of the transposition. For pitch-class transpositions, use ordered pitch-class intervals (numbers 0–11). Transposing a collection or fragment up a whole step is labeled **T<sub>2</sub>**; up a tritone is **T<sub>6</sub>**, down a semitone is **T<sub>11</sub>** (mod12(–1) = 11).
+פעולות טרנספוזיציה (Transposition operations) ניתנות לסימון על ידי האות הגדולה "T" שאחריה כתב תחתית (subscript) המציין את מספר חצי הטון של הטרנספוזיציה. עבור טרנספוזיציות של מחלקות גובה צליל (pitch-class transpositions), יש להשתמש במרווחי מחלקות גובה צליל סדורים (ordered pitch-class intervals) (מספרים 0–11). טרנספוזיציה של אוסף או מקטע כלפי מעלה בטון שלם מסומנת **T<sub>2</sub>**; כלפי מעלה בטריטון (tritone) מסומנת **T<sub>6</sub>**, וכלפי מטה בחצי טון מסומנת **T<sub>11</sub>** (mod12(–1) = 11).
 
-### Inversion ###
+### היפוך (Inversion) ###
 
-*Melodic inversion* occurs when all ascending melodic intervals in a melody are replaced with descending intervals of the same size, and all descending replaced with ascending of the same size. The following melodies are inversion of each other.
+*היפוך מלודי (Melodic inversion)* מתרחש כאשר כל המרווחים המלודיים העולים במלודופיה מוחלפים במרווחים יורדים באותו הגודל, וכל היורדים מוחלפים בעולים באותו הגודל. המלודיות הבאות הן היפוך זו של זו.
 
 ![][melodyUp]  
 ![][melodyDown]
 
-*Pitch inversion* occurs when all pitches are inverted, or flipped, around an axis of symmetry in pitch space (in other words, the axis of symmetry is a pitch). In the above melodic example, the axis is G4. Since the first pitch is G4, it remains unchanged. The next pitch (A4) is two semitones above G4; it is replaced with F4, two semitones below G4. B4 (i4 above G4) is replaced by E-flat4 (i4 below G4). And so on.
+*היפוך גובה הצליל (Pitch inversion)* מתרחש כאשר כל גובהי הצלילים נהפכים, או מתהפכים, סביב ציר סימטריה במרחב גובה הצליל (במילים אחרות, ציר הסימטריה הוא גובה צליל). בדוגמה המלודית לעיל, הציר הוא G4. מכיוון שגובה הצליל הראשון הוא G4, הוא נותר ללא שינוי. גובה הצליל הבא (A4) נמצא שני חצאי טונים מעל G4; הוא מוחלף ב-F4, שני חצאי טונים מתחת ל-G4. הצליל B4 (טרצה קטנה מעל G4) מוחלף ב-E-flat4 (טרצה קטנה מתחת ל-G4). וכן הלאה.
 
-Pitch inversion can apply to a melody, but also to a simultaneity, or to a collection that a passage is based on.
+היפוך גובה הצליל יכול חול על מלודיה, אך גם על בו-זמניות (simultaneity), או על אוסף (collection) שקטע מבוסס עליו.
 
-In general, when two melodies, simultaneities, or collections can be related by pitch inversion, they are considered to be equivalent in some sense (but, obviously, not identical).
+באופן כללי, כאשר שתי מנגינות, הרכבים בו-זמניים (simultaneities) או אוספים יכולים להיות קשורים באמצעות היפוך גבהים (pitch inversion), הם נחשבים לשקולים במובן מסוים (אך, כמובן, אינם זהים).
 
-*Pitch-class inversion* occurs when all pitch classes of a collection are inverted, or flipped, around an axis of symmetry in pitch-class space (in other words, the axis of symmetry is a pitch class). Since pitch-class space is cyclical (once you go up 12 semitones, you are back where you started), the axis of symmetry is comprised of *two* pitch classes a tritone apart. This is most clearly seen on a clock face.
+היפוך מחלקות גובה (Pitch-class inversion) מתרחש כאשר כל מחלקות הגובה של אוסף מנוגדות, או נהפכות, סביב ציר סימטריה במרחב מחלקות הגובה (במילים אחרות, ציר הסימטריה הוא מחלקת גובה). מכיוון שמרחב מחלקות הגובה הוא מחزרי (ברגע שאתה עולה 12 חצאי טונים, אתה חוזר למקום שממנו התחלת), ציר הסימטריה מורכב משתי מחלקות גובה המרוחקות טריטון זו מזו. הדבר ניכר בצורה הברורה ביותר על גבי לוח שעון.
 
 ![][tetra]
 
-When the above set is inverted around the axis C/F-sharp, it becomes the following set:
+כאשר קבוצה זו הופכת סביב הציר C/F♯, היא הופכת לקבוצה הבאה:
 
 ![][tetraInverted]
 
-When pitch classes are labeled by number (C = 0, C-sharp = 1, . . . B = 11), pitch class inversion can be calculated by determining a *sum* and finding the difference between that sum and each pitch class in the original collection. The difference is the pitch class for the new collection.
+כאשר מחלקות גובה המնה מסומנות במספרים (C = 0, C-דיאז = 1, . . . B = 11), ניתן לחשב היפוך מחלקת גובה המנה (pitch class inversion) על ידי קביעת *סכום* ומציאת ההפרש בין אותו סכום לבין כל מחלקת גובה המנה באוסף המקורי. ההפרש הוא מחלקת גובה המנה (pitch class) של האוסף החדש.
 
-In the above example, the set {C, D, E, F} is {0, 2, 4, 5}. Its inversion {G, G-sharp, B-flat, C} is {7, 8, 10, 0}. When inverting the original around the C/F-sharp axis, C becomes C (0 becomes 0), D–B-flat (2–10), E–G-sharp (4–8), and F–G (5–7). All of these pitch-class pairs add to 0 or 12, which are equivalent modulo12. Thus the inversion sum is 0, and the inversion is labeled **I<sub>0</sub>**.
+ב דוגמה לעיל, קבוצת הצלילים {C, D, E, F} היא {0, 2, 4, 5}. ההיפוך (inversion) שלה {G, G-sharp, B-flat, C} הוא {7, 8, 10, 0}. בעת היפוך המקור סביב ציר ה-C/F-sharp, ה-C הופך ל-C (ה-0 הופך ל-0), ה-D ל-B-flat (2–10), ה-E ל-G-sharp (4–8), וה-F ל-G (5–7). כל זוגות מחלקות הגובה (pitch-class pairs) הללו מסתכמים ב-0 או ב-12, המקבילים זה לזה מודולו 12. לכן סכום ההיפוך (inversion sum) הוא 0, וההיפוך מסומן כ-**I<sub>0</sub>**.
 
-Inverting about the C-sharp/G axis is **I<sub>2</sub>**. Inverting about the D/G-sharp axis is **I<sub>4</sub>**. Inverting about the E-flat/A axis is **I<sub>6</sub>**. Inverting about the E/B-flat axis is **I<sub>8</sub>**. Inverting about the F/B axis is **I<sub>10</sub>**. Odd number sums will place the axis between pitch classes (**I<sub>1</sub>** between C/C-sharp and F-sharp/G, fox example).
+היפוך סביב ציר ה-C-דיאז/G הוא **I<sub>2</sub>**. היפוך סביב ציר ה-D/G-דיאז הוא **I<sub>4</sub>**. היפוך סביב ציר ה-E-במול/A הוא **I<sub>6</sub>**. היפוך סביב ציר ה-E/B-במול הוא **I<sub>8</sub>**. היפוך סביב ציר ה-F/B הוא **I<sub>10</sub>**. סכומים מספר אי-זוגي ימקמו את הציר בין מחלקות גובה צליל (לדוגמה, **I<sub>1</sub>** בין C/C-דיאז ל-F-דיאז/G).
 
-Some atonal composers like to make use of sets that invert and/or transpose onto themselves. Sets that can be inverted around an axis of symmetry without changing any pitch classes are called *inversionally symmetrical*. Sets that can be transposed a certain interval without changing any of its pitch classes are called *transpositionally symmetrical* or *rotationally symmetrical*. The Z-cell and French-Sixth collections are sets that are both rotationally and inversionally symmetrical. 
+חלק מהמלחינים האתונליים אובים להשתמש בקבוצות (sets) שעוברות היפוך ו/או טרנספוזיציה אל עצמן. קבוצות הניתנות להפוך סביב ציר סימטריה מבלי לשנות אף מחלקת גובה נקראות *סימטריות בהיפוך* (inversionally symmetrical). קבוצות הניתנות לטרנספוזיציה במרווח מסוים מבלי לשנות אף אחת ממחלקות הגובה שלהן נקראות *סימטריות בטרנספוזיציה* (transpositionally symmetrical) או *סימטריות בסיבוב* (rotationally symmetrical). תאי Z ואוספי השישי הצרפתי (French-Sixth collections) הם קבוצות שהן סימטריות הן בסיבוב והן בהיפוך. 
 
 
 

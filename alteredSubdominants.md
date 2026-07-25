@@ -3,61 +3,61 @@ layout: post
 title: Chromatically altered subdominant chords
 ---
 
-The most common chromatically altered subdominant chords (aside from the applied dominant of V) are the *Neapolitan chord* and the various *augmented-sixth chords*. 
+אקורדי הסובדומיננטה (subdominant) בעלי השינוי הכרומטי הנפוצים ביותר (מלבד הדומיננטה המופעלת של V) הם *אקורד נאפוליטני* (אקורד נאפוליטני) וסוגים שונים של *אקורדי סקסטה מוגדלת* (augmented-sixth chords). 
 
 ![][altSub]
 
 ## Neapolitan chord
 
-The Neapolitan chord contains lowered scale-degree 2, along with scale-degree 4, and lowered scale-degree 6: *ra*, *fa*, and *le*. It is a major triad, and it usually appears with *fa* in the bass (first-inversion), which is also doubled in a four-voice texture. 
+האקורד הנאפוליטני מכיל את דרגת הסולם השנייה מונמכת, יחד עם דרגת הסולם הרביעית, ודרגת הסולם השישית מונמכת: *ra*, *fa*, ו-*le*. זהו אקורד משולש מז'ורי (major triad), והוא מופיע בדרך כלל כאשר *fa* בבס (היפוך ראשון), אשר גם מוכפל במרקם של ארבעה קולות. 
 
-In a Roman numeral analysis, **N.** (or **N.<sup>6</sup>**) substitutes for a Roman numeral (that is, it is not labeled a flat-II chord in classical music). As a chromatically altered subdominant chord, it always expresses subominant function (**S**).
+בניתוח ספרות רומיות (Roman numeral analysis), הסימון **N.** (או **N.<sup>6</sup>**) מחליף ספרה רומית (כלומר, במוזיקה קלאסית הוא אינו מסומן כאקורד flat-II). כאקורד סובדומיננטה שעבר שינוי כרומטי (chromatically altered subdominant chord), הוא תמיד מבטא פונקציית סובדומיננטה (**S**).
 
-In a functional bass analysis, **N.** is placed below the functional designation of **[S4]**.
+בניתוח בס פונקציונלי (functional bass analysis), הסימון **N.** ממוקם מתחת לציון הפונקציונלי של **[S4]**.
 
-## Augmented-sixth chords
+## אקורדים של סקסטה מוגדלת (Augmented-sixth chords)
 
-Augmented-sixth chords are so named because of the augmented sixth that occurs between *le* and *fi*, two scale-degrees that are present in every augmented-sixth chord. The other pitch(es) in the chord determine which kind of augmented-sixth chord is present. 
+אקורדים של סקסטה מוגדלת נקראים כך בשל הסקסטה המוגדלת המופיעה בין *לה* (le) ל-*פי* (fi), שתי דרגות סולם הנוכחות בכל אקורד של סקסטה מוגדלת. הצליל/ים האחר/ים באקורד קובעים באיזה סוג של אקורד סקסטה מוגדלת מדובר. 
 
-### Italian augmented-sixth chord
+### אקורד סקסטה מוגדלת איטלקי (Italian augmented-sixth chord)
 
-The *Italian augmented-sixth chord* is the simplest augmented-sixth chord, with only three members: *le*, *do*, and *fi*. *Le* is typically the bass note, and in a four-voice texture, *do* is typically the pitch that is doubled. (Keep in mind that you do not double the bass in a chord of the sixth, nor a chromatically altered tone such as *fi*. Thus, *do* remains as the only tone that can be doubled in strict style, and this doubling typically carries into freer styles, as well.)
+*אקורד סקסטה מוגדלת איטלקי* הוא אקורד הסקסטה המוגדלת הפשוט ביותר, המורכב משלושה צלילים בלבד: *לה (le)*, *דו (do)*, ו-*פי (fi)*. *לה (le)* הוא בדרך כלל צליל הבס, ובמרקם של ארבעה קולות, *דו (do)* הוא בדרך כלל הצליל המוכפל. (זכרו כי אין להכפיל את הבס באקורד סקסטה, וגם לא צליל שעבר שינוי כרומטי כמו *פי (fi)*. לפיכך, *דו (do)* נותר הצליל היחיד שניתן להכפיל בסגנון מחמיר, והכפלה זו נשמרת בדרך כלל גם בסגנונות חופשיים יותר).
 
-In a Roman numeral analysis, **It.** replaces a Roman numeral. The figured bass is a simple slashed "6." It expresses subdominant function **S**).
+בניתוח ספרות רומיות, הסימון **It.** מחליף ספרה רומית. הבאס הממוספר (figured bass) הוא "6" פשוט עם קו נטוי. הוא מבטא פונקציה סובדומיננטית (**S**).
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **It.**
+כאשר *le* מופיע בבס, הסימון הפונקציונלי של הבס הוא **[S6]**. תחת סימון בס פונקציונלי זה, אנו מסמנים גם את האקורד כ-**It.**
 
-### French augmented-sixth chord
+### אקורד סקסטה מוגדלת צרפתי (French augmented-sixth chord)
 
-The *French augmented-sixth chord* has four members: *le*, *do*, *re*, and *fi*. As in the Italian sixth, *le* is typically the bass note.
+אקורד *השישית המוגדלת הצרפתית* מורכב מארבעה צלילים: *לה (le)*, *דו (do)*, *רה (re)*, ו-*פי (fi)*. בדומה לאקורד השישית האיטלקית, *לה (le)* הוא בדרך כלל צליל הבס.
 
-In a Roman numeral analysis, **Fr.** replaces a Roman numeral. The figured bass is a slashed "6" with a "4" and a "3." It expresses subdominant function **S**).
+בניתוח ספרות רומיות, **Fr.** מחליף ספרה רומית. הבאס הממוספר הוא "6" עם קו נטוי, יחד עם "4" ו-"3". הוא מבטא פונקציה סובדומיננטית (**S**).
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **It.**
+כאשר *le* מופיע בבס, הסימון הפונקציונלי של הבס הוא **[S6]**. תחת סימון בס פונקציונלי זה, אנו מסמנים גם את האקורד כ-**It.**
  
 
-### German augmented-sixth chord
+### אקורד סקסטה מוגדלת גרמני (German augmented-sixth chord)
 
-The *German augmented-sixth chord* has four members: *le*, *do*, *me*, and *fi*. As in the other augmented sixth chords, *le* is typically the bass note.
+*אקורד סקסטה מוגדלת גרמני* כולל ארבעה צלילים: *le* (לה במול), *do* (דו), *me* (מי במול) ו-*fi* (פה דיאז). כפי שקורה באקורדי סקסטה מוגדלת אחרים, *le* הוא בדרך כלל צליל הבס.
 
-In a Roman numeral analysis, **Ger.** replaces a Roman numeral. The figured bass is a slashed "6" with a "5." It expresses subdominant function **S**).
+בניתוח ספרות רומיות, ה-**Ger.** מחליף ספרה רומית. הבאס הממוספר הוא "6" עם קו נטוי ו-"5". הוא מבטא פונקציה סובדומיננטית (**S**).
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Ger.**
+כאשר *le* מופיע בבס, הסימון הפונקציונלי של הבס הוא **[S6]**. תחת סימון בס פונקציונלי זה, אנו מסמנים גם את האקורד כ-**Ger.**
 
-The German sixth is almost always used in minor and followed by a cadential 6/4 chord, with *me* and *do* carrying over into the cadential 6/4. 
+הסקסטה הגרמנית (German sixth) נמצאת כמעט תמיד בשימוש במינור, ואחריה מופיע אקורד 6/4 קדנציאלי (cadential 6/4 chord), כאשר *מי* ו-*דו* נשארים אל תוך ה-6/4 הקדנציאלי. 
 
-### Swiss augmented-sixth chord
+### אקורד סקסטה מוגדלת שוויצרי (Swiss augmented-sixth chord)
 
-The *Swiss augmented-sixth chord* has four members: *le*, *do*, *ri*, and *fi*. This chord is named "Swiss" because it sounds German but is spelled like the French. (*ri* in place of *me*) (Switzerland has a mixture of German-, French-, Italian-, and Romansch-based languages, with German and French being the largest.) *Le* is typically the bass note.
+*אקורד הסקסטה המוגדלת השווייצרי* כולל ארבעה צלילים: *לה*, *דו*, *רי* ו-*פי*. אקורד זה נקרא "שווייצרי" מכיוון שהוא נשמע כמו הגרמני אך מאוית כמו הצרפתי. (*רי* במקום *מה*) (בשווייץ ישנו עירוב של שפות המבוססות על גרמנית, צרפתית, איטלקית ורומאנש, כאשר גרמנית וצרפתית הן הנפוצות ביותר.) *לה* הוא בדרך כלל צליל הבס.
 
-In a Roman numeral analysis, **Sw.** replaces a Roman numeral. The figured bass is a slashed "6" with a slashed "4" and a "3." It expresses subdominant function **S**).
+בניתוח ספרות רומיות, **Sw.** מחליף ספרה רומית. הבס הממוספר הוא "6" עם קו נטוי עם "4" עם קו נטוי ו-"3". הוא מבטא פונקציה סובדומיננטית (subdominant function) **S**).
 
-When *le* occurs in the bass, the functional-bass designation is **[S6]**. Under that functional bass symbol, we also label the chord **Sw.**
+כאשר *לֶה* מופיע בבס, סימון הבס הפונקציונלי (functional-bass designation) הוא **[S6]**. מתחת לסמל הבס הפונקציונלי הזה (functional bass symbol), אנו מסמנים גם את האקורד כ-**Sw.**
 
-Like the German sixth, the Swiss augmented-sixth is almost always followed by a cadential 6/4 chord. However, the Swiss chord tends to appear in major keys, with *ri* proceeding to *mi* and *do* carrying over into the cadential 6/4. 
+בדומה לסקסטה הגרמנית, אחרי הסקסטה המוגדלת השווייצרית (Swiss augmented-sixth) מופיע כמעט תמיד אקורד קדנציאלי 6/4. עם זאת, האקורד השווייצרי נוטה להופיע בסולמות מז'וריים, כאשר *רי* מתקדם אל *מי* ו-*דו* נמשך אל תוך האקורד הקדנציאלי 6/4. 
 
 
-***add Trinket exercises, voice-leading***
+***הוסף תרגילי Trinket, הולכת קולות (voice-leading)***
 
 
 [altSub]: Graphics/N-AugSixths.png

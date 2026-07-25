@@ -3,59 +3,59 @@ layout: post
 title: The sentence
 ---
 
-A *sentence* is type of theme. Like the [*period*](period.html), the prototypical sentence is eight measures long and contains two four-measure phrases. The first of these is called the *presentation phrase* and the second is the *continuation phrase*.
+*משפט* (sentence) הוא סוג של תמה. בדומה ל[*תיבה* (period)](period.html), המשפט הטיפוסי באורך של שתי תיבות ומכיל שתי פראזות בנות ארבע תיבות. הראשונה מביניהן נקראת *פראזת הצגה* (presentation phrase) והשנייה היא *פראזת המשך* (continuation phrase).
 
 ![](Graphics/ClassicalThemes/sentence.png)
 
-## Presentation phrase (mm. 1–4) ##
+## משפט הצגה (mm. 1–4) ##
 
-The presentation phrase begins the sentence and has two primary components, one melodic and the other harmonic. Melodically, it contains two repeated *basic ideas* (BI). Harmonically, it prolongs the tonic, by means of either a subsidiary harmonic progression or contrapuntal chords. (See the [Harmonic syntax resource](harmonicSyntax.html) for information on harmonic prolongation.)
+ביטוי ההצגה מתחיל את המשפט ויש לו שני רכיבים עיקריים, האחד מלודי והאחר הרמוני. מבחינה מלודית, הוא מכיל שני *רעיונות בסיסיים* (basic ideas - BI) חוזרים. מבחינה הרמוنية, הוא ממשיך או מרחיב את הטוניקה (prolongs the tonic), באמצעות מהלך הרמוני משני (subsidiary harmonic progression) או אקורדים קונטרפונקטליים. (ראו את [משאב התחביר ההרמוני](harmonicSyntax.html) למידע על הארכה או המשכה הרמונית (harmonic prolongation).)
 
-**Mozart, K. 283, i., mm. 1–4:**  
-[![](Graphics/form/k283-presentation.png)](Graphics/form/k283-presentation.png)
+**מוצארט, K. 283, פרק ראשון, תיבות 1–4:**  
+[![](Graphics/fאוm/k283-presentation.png)](Graphics/fאוm/k283-presentation.png)
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:1sknTFvB6zFOtSoyDcqM23" width="300" height="80" frameborder="0" allowtransparency="true"></iframe><br/>
 
-Here, the basic idea begins with the pickup to measure 1 and ends with the F-sharp on the downbeat of m. 2. It’s then repeated. Notice that a basic idea does not need to be repeated exactly. Rather, a basic idea is characterized by its melodic and motivic components, which usually involve rhythm and melodic contour.
+כאן, הרעיון הבסיסי (basic idea) מתחיל באנאקרוזיס (pickup) לתיבה 1 ומסתיים ב-F♯ בפעימה הראשונה של תיבה 2. לאחר מכן הוא חוזר על עצמו. שימו לב שרעיון בסיסי אינו חייב לחזור על עצמו באופן מדויק בדיוק רב. במקום זאת, רעיון בסיסי מאופיין במרכיבים המלודיים והמוטיביים שלו, אשר לרוב כוללים קצב ומתאר מלודי (melodic contour).
 
-Harmonically, these four measures prolong tonic. Measures two and three are contrapuntal chords that are surrounded by the tonic:
+מבחינה הרמונית, ארבעה תיבות אלו ממשיכות (prolong) את הטוניקה. תיבות שנייה ושלוש הן אקורדים קונטרפונקטליים (contrapuntal chords) המוקפים בטוניקה:
 
 > **I V4/3 V6/5 I**  
 or  
 > **T(1 D(2 7)n 1)**
 
-Altogether, the two expressions of the basic idea and the tonic prolongation in this phrase exhibit *presentation function*. Hence, the name "presentation phrase."
+בסך הכל, שתי ההופעות של הרעיון הבסיסי וההארכה הטונאלית (tonic prolongation) בתיבה זו מציגות *פונקציית הצגה* (*presentation function*). מכאן השם "משפט הצגה" ("presentation phrase").
 
-## Continuation phrase (mm. 5–10) ##
+## משפט המשך (תיבות 5–10) ##
 
-Continuation phrases acquire momentum that leads to the cadence that ends the sentence. Notice in the diagram above that three types of cadence can end a sentence: PAC, IAC, or HC.
+ביטויי ההמשך (Continuation phrases) צוברים תנופה המובילה אל הקדנס (cadence) המסיים את המשפט. שימו לב בתרשים שלעיל ששלושה סוגים של קדנס יכולים לסיים משפט: PAC, IAC או HC.
 
-Continuation phrases begin with continuation function. We usually characterize continuation function as having one or more (but not necessarily all) of the following five characteristics, all of which create this momentum toward the cadence. (See [Classical theme functions](themeFunctions.html) for more detail.)
+משפטי ההמשך (continuation phrases) מתחילים בפונקציית המשך (continuation function). אנו מאפיינים לרוב את פונקציית ההמשך כבעלת מאפיין אחד או יותר (אך לא בהכרח את כל) חמשת המאפיינים הבאים, שכולם יוצרים את המומנטום הזה לקראת הקדנס. (ראו [פונקציות נושא קלאסיות](themeFunctions.html) לפרטים נוספים.)
 
-- Fragmentation  
-- Liquidation  
-- Sequential repetition
-- Accelerated Melodic Rhythm  
-- Acceleration of harmonic rhythm
+- פיצול (Fragmentation)  
+- חיסול (Liquidation)  
+- חזרה סדרתית (Sequential repetition)
+- קצב מלוודי מואץ (Accelerated Melodic Rhythm)  
+- האצה בקצב ההרמוני (Acceleration of harmonic rhythm)
 
-**Mozart, K. 283, i., mm. 1–10:**  
+**מוצרט, K. 283, פרק ראשון, תיבות 1–10:**  
 [![](Graphics/form/k283-continuation.png)](Graphics/form/k283-continuation.png)  
 [![](Graphics/form/k283-cadential.png)](Graphics/form/k283-cadential.png)  
 
-In this example, the dotted rhythm that formed one half of the basic idea in mm. 1–4 is fragmented beginning with the pickup to m. 5: the two-measure size established by the basic ideas in the presentation is cut into smaller fragments—here, one-measure long fragments.
+דוגמה זו מציגה כיצד המקצב המנוקד (dotted rhythm), אשר היווה מחצית מן הרעיון הבסיסי בתיבות 1–4, עובר מקטוע (fragmented) החל מן האנאקרוסיס לתיבה 5: הגודל בן שתי התיבות שהוגדר על ידי הרעיונות הבסיסיים בהצגה (presentation) מצומצם למקטעים קטנים יותר — במקרה זה, מקטעים באורך תיבה אחת.
 
-This example also features acceleration of melodic rhythm (the sixteenth notes in mm. 7–8) and acceleration of harmonic rhythm: while in mm. 1–6 the harmony changed once per measure, beginning at m. 7 the harmonic rhythm speeds up, changing twice per measure.
+דוגמה זו כוללת גם האצה של הקצב המלודי (התווים בני שישה-עשר חלקים בתיבות 7–8) והאצה של קצב הרמוני (harmonic rhythm): בעוד שבתיבות 1–6 ההרמוניה השתנתה פעם אחת בתיבה, החל מתיבה 7 הקצב ההרמוני מואץ, ומשתנה פעמיים בתיבה.
 
-Mm. 5–8 exhibit *continuation function*, but mm. 9–10 exhibit *cadential function*. While mm. 5–8 continued the tonic prolongation by means of contrapuntal chords, mm. 8–10 employ a typical cadential progression:
+תיבות (Mm.) 5–8 מציגות *פונקציית המשך*, אך תיבות (mm.) 9–10 מציגות *פונקציה קדנציאלית (cadential function)*. בעוד ותיבות (mm.) 5–8 המשיכו את הארכת הטוניקה באמצעות אקורדים קונטרפונקטליים, תיבות (mm.) 8–10 עושות שימוש במהלך קדנציאלי טיפוסי:
 
 > **I IV6 Cad.6/4 V7 I**  
 or  
 **T1 S6 D5 — T1**
 
-And while mm. 5–8 employed fragments of the basic idea (the "characteristic" elements of the melody), mm. 8–10 employ elements unrelated to the basic idea (the "conventional" elements—scales and arpeggios, ending with a descending contour).
+בעוד שתיבות 5–8 השתמשו בפרגמנטים של הרעיון הבסיסי (האלמנטים ה"אופייניים" [characteristic] של המנגינה), תיבות 8–10 עושות שימוש באלמנטים שאינם קשורים לרעיון הבסיסי (האלמנטים ה"קונבנציונליים" [conventional] — סולמות וארפג'ים, המסתיימים במתווה יורד).
 
-In a sentence, *the continuation phrase always contains both continuation and cadential functions*.
+במשפט, *ביטוי ההמשך תמיד מכיל הן פונקציית המשך והן פונקציית סיום*.
 
-## Phrase length ##
+## אורך התיבה (Phrase length) ##
 
-Note the length of the phrases in this example: four-bar presentation phrase followed by six-bar continuation phrase. The prototypical phrase is four measures, but this is commonly altered by Classical composers. However, as this theme exemplifies, phrases are more often expanded to something longer than four measures than compressed to something less than four measures. Also, as exemplified by this theme, continuation phrases of non-standard lengths are more common than presentation phrases of non-standard lengths.
+שימו לב לאורך התיבות בדוגמה זו: ביטוי הצגה בן ארבע תיבות המלווה בביטוי המשך בן שש תיבות. הביטוי הטיפוסי (prototypical phrase) הוא בן ארבעה תיבות, אך הדבר משתנה לעיתים קרובות על ידי מלחינים קלאסיים. עם זאת, כפי שמדגים נושא זה, ביטויים מורחבים לרוב למשהו הארוך מארבע תיבות מאשר מצומצמים למשהו הקצר מארבע תיבות. כמו כן, כפי הודגם בנושא זה, ביטויי המשך באורכים לא-סטנדרטיים נפוצים יותר מביטויי הצגה (presentation phrases) באורכים לא-סטנדרטיים.

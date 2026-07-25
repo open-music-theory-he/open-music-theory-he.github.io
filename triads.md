@@ -6,145 +6,145 @@ title: Triads and seventh chords
 {{ page.title }}
 ================
 
-A chord is any combination of three or more pitch classes that sound simultaneously.
+אקורד (Chord) הוא כל שילוב של שלוש מחלקות גובה צליל (pitch classes) או יותר המושמעות בו-זמנית.
 
-A three-note chord whose pitch classes can be arranged as thirds is called a *triad*.
+אקורד בן שלושה צלילים שאת מחלקות הגובה שלו ניתן לסדר כטרצות נקרא *טריאדה* (triad).
 
-To tell whether or not a chord is a triad, take the pitch classes present in the chord. Assuming there are three pitch classes (not necessarily three *pitches*), arrange them on the circle of generic scale steps. (By generic, I mean that A-natural, A-flat, and A-sharp are all kinds of A.)
+כדי לדעת האם אקורד מסוים הוא שלישייה אם לאו, קחו את מחלקות הגבהים המופיעות באקורד. בהנחה שישנן שלוש מחלקות גבהים (לא בהכרח שלושה *גבהים* (pitches)), סדרו אותן על מעגל דרגות הסולם הדיאטוניות (generic scale steps). (ב"דיאטוניות" (generic), אני מתכוון ש-A בקר, A במול ו-A דיאז הם כולם סוגים של A).
 
-![A triad (A, C, E) on the diatonic circle of steps.][circleOfSteps-triad]
+![אקורד משולש (A, C, E) על מעגל הצעדים הדיאטוני (diatonic circle of steps).][circleOfSteps-triad]
 
-If the three pitch classes are distributed as above, with two intervals skipping one pitch class and with one interval skipping two pitch classes, the chord is a triad. (There are a few exceptions to this rule, but they rarely appear in Western music, so don’t worry about them for now.)
+אם שלוש מחלקות הצלילים מפוזרות כמו לעיל, כאשר שני מרווחים מדלגים על מחלקת צלילים (pitch class) אחת ומרווח אחד מדלגים על שתי מחלקות צלילים, האקורד הוא שלישייה. (ישנם מספר יוצאים מן הכלל לכלל זה, אך הם מופיעים לעיתים רחוקות מאוד במוזיקה מערבית, כך שאין צורך לדאוג לגביהם לעת עתה.)
 
-A circle of thirds makes things even clearer, as the pitch classes of a triad will always sit next to each other.
+מעגל שלישיות (circle of thirds) הופך את הדברים לברורים עוד יותר, שכן מחלקות הגובה של אקורד משולש יימצאו תמיד זו לצד זו.
 
-![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triad]
+![שלישיה (A, C, E) על מעגל הטרצות הדיאטוני (diatonic circle of thirds).][circleOfThirds-triad]
 
-## Identifying and labeling triads ##
+## זיהוי ותיוג של שלישיות (triads) ##
 
-Triads are identified according to their *root* and *quality*.
+אקורדים משולשים (Triads) מנוסחים על פי השורש (root) והאיכות (quality) שלהם.
 
-### Triad roots ###
+### שורשי שלישות (Triad roots) ###
 
-To find a triad’s root, arrange the pitch classes on a circle of thirds (mentally or on paper). When you arrange the pitch classes on the circle of thirds, the root is the *lowest* pitch-class of the three-pitch-class clump. Expressed another way, if the circle *ascends* by thirds as it moves clockwise, the root is the “earliest” note (thinking like a literal clock), and the other pitch classes come “later.”
+כדי למצוא את השורש של שלישייה, לסדר את מחלקות הגובה על מעגל שלישיות (במחשבה או על נייר). כאשר מסדרים את מחלקות הגובה על מעגל השלישיות, השורש הוא מחלקת הגובה (pitch-class) *הנמוכה* ביותר מבין צביר שלושת מחלקות הגובה (three-pitch-class clump). במילים אחרות, אם המעגל *עולה* (ascends) בשלישיות כשהוא נע בכיוון השעון, השורש הוא התווים "המוקדמים" ביותר (בחושבנו כמו שעון ממש), ומחלקות הגובה האחרות מגיעות "מאוחר יותר".
 
-![A triad (A, C, E) on the diatonic circle of thirds.][circleOfThirds-triadRTF]
+![אקורד משולש (A, C, E) על מעגל הטרצות הדיאטוני.][circleOfThirds-triadRTF]
 
-Once you know the root, you can identify the other notes as the *third* of the chord (a third above the root) and the *fifth* of the chord (a fifth above the root). The third of the chord is the pitch class that is a third higher than the root. The fifth of the chord is the pitch class that is a fifth higher than the root.
+ברגע שאתה מכיר את השורש, אתה יכול לזהות את הצלילים האחרים בתור ה*טרציה* (third) של האקורד (טרציה מעל השורש) וה*קווינטה* (fifth) של האקורד (קווינטה מעל השורש). הטרציה של האקורד היא מחלקת הגבהים הגבוהה בטרציה אחת מהשורש. הקווינטה של האקורד היא מחלקת הגבהים הגבוהה בקוווינטה אחת מהשורש.
 
-### Triad qualities ###
+### ### איכויות של אקורדים משולשים (Triad qualities)
 
-To find a triad’s quality, identify the diatonic interval between the root and the other members of the chord. There are four qualities of triads that appear in major and minor scales, each with their own characteristic intervals.
+כדי למצוא את האיכות של שלישיה, יש לזהות את המרווח הדיאטוני (diatonic interval) שבין השורש לבין חברי האקורד האחרים. ישנם ארבעה סוגים (qualities) של שלישיות המופיעים בסולמות מז'ור ומינור, שלכל אחד מהם מרווחים אופייניים משלו.
 
--   major triad: M3 and P5 above the root (as in *do–mi–sol*)
--   minor triad: m3 and P5 above the root (as in *do–me–sol* or *la–do–mi*)
--   diminished triad: m3 and d5 above the root (as in *ti–re–fa*)
--   augmented triad: M3 and A5 above the root (as in *sol–ti–ri*)
+-   אקורד מז'ור (major triad): טרצה גדולה (M3) וקווינטה זכה (P5) מעל צליל הבסיס (כמו ב-*דו–מי–סול*)
+-   אקורד משולש מנוּך (minor triad): מרווח של שליש קטנה (m3) וקווינטה זכה (P5) מעל היסוד (כמו ב-*דו–מי במול–סול* או *לה–דו–מי*)
+-   אקורד מוקטן (diminished triad): מרווח שליש קטן (m3) וקוינטה מוקטנת (d5) מעל צליל הבסיס (כמו ב-*ti–re–fa* הקודם)
+-   אקורד מוגדל (augmented triad): שלישייה גדולה (M3) וקווינטה מוגדלת (A5) מעל צליל הבסיס (כמו ב-*סול–סי–רי* / *sol–ti–ri*)
 
-![Four qualities of triads.][triads]
+![ארבע איכויות של שלשות.][triads]
 
-### Lead-sheet symbols ###
+### סימני ליד-שיט (Lead-sheet symbols)
 
-A triad can be summed up by a single symbol, such as a lead-sheet chord symbol. A lead sheet symbol includes information about both root quality, as well as which pitch class occurs in the lowest voice (called the *bass* regardless of who is singing or playing that pitch).
+ניתן לסכם שלישייה באמצעות סימון יחיד, כגון סימון אקורד של דף הובלה (lead-sheet chord symbol). סימון דף הובלה (lead sheet symbol) כולל מידע הן על איכות הבסיס (root quality), והן איזו מחלקת צבה מופיעה בקול הנמוך ביותר (המכונה *בס* (bass) ללא קשר למי ששר או מנגן את הצליל הזה).
 
-A lead-sheet symbol begins with a capital letter (and, if necessary, an accidental) denoting the root of the chord. That letter is followed by information about a chord’s quality:
+סמל ליד-שיט (lead-sheet symbol) מתחיל באות גדולה (ובמידת הצורך, במול או דיאז) המציינת את הבס של האקורד. אחרי אות זו מופיע מידע על איכות האקורד (chord’s quality):
 
--   major triad: no quality symbol is added
--   minor triad: lower-case “m”
--   diminished triad: lower-case “dim” or a degree sign “°”
--   augmented triad: lower-case “aug” or a plus sign “+”
+-   מז'ור טריאד: לא נוסף סימן איכות
+-   טרייאד מינור: אות "m" קטנה
+-   טריאד מוקטן: האותיות הקטנות "dim" או סימן מעלות "°"
+-   אקורד מוגדל: האותיות הקטנות "aug" או סימן הפלוס "+"
 
-Finally, if a pitch class other than the chord root is the lowest note in the chord, a slash is added, followed by a capital letter denoting the pitch class in the bass (lowest) voice.
+לבסוף, אם צליל בסיס שאינו שורש האקורד הוא הצליל הנמוך ביותר באקורד, מוסיף סימן לכסנת (slash), ואחריו אות גדולה המציינת את צליל הבסיס בקול הבס (הנמוך ביותר).
 
-A C-major triad’s lead-sheet symbol is simply **C**. A C-minor triad is **Cm**. A D-sharp-diminished triad with an F-sharp in the bass is **D\#dim/F\#**. And so on.
+הסימול של שלישיית C מז'ור (C-major triad) הוא פשוט **C**. שלישיית C מינור (C-minor triad) היא **Cm**. שלישיית D דיאז מוקט (D-sharp-diminished triad) עם F דיאז בס היא **D\#dim/F\#**. וכן הלאה.
 
-![Four qualities of triads with lead-sheet symbols.][triads-LS]
+![ארבע איכויות של שלשות עם סימני ליד-שיט (lead-sheet symbols)][triads-LS]
 
-## Roman numerals ##
+## ספרות רומיות (Roman numerals) ##
 
-Chords can be labeled according to their function within a key. One system for doing so uses Roman numerals to designate the scale degree of the chord’s root. For example, in the key of C major, a C-major chord would be labeled “I,” a D-minor chord “II,” E-minor “III,” and so on. In G minor, an A-diminished triad would be labeled “II,” F-major “VI,” etc. Always use capital Roman numerals. In general, Roman numerals will be labeled *below* the score.
+ניתן לסמן אקורדים בהתאם לתפקודם בתוך סולם. מערכת אחת לעשות זאת משתמשת בספרות רומיות כדי לציין את דרגת הסולם של בסיס האקורד. לדוגמה, בסולם C מז'ור, אקורד C-מז'ור יסומן כ-"I", אקורד D-מינור כ-"II", אקורד E-מינור כ-"III", וכן הלאה. ב-G מינור, שלישיית אקורד מוקטן מסוג A תסומן כ-"II", F-מז'ור כ-"VI", וכו'. השתמש תמיד בספרות רומיות באותיות גדולות (capital Roman numerals). באופן כללי, ספרות רומיות יסומנו *מתחת* לתווים (score).
 
-In major keys, chords with the same Roman numeral are made up of the same scale-degrees (using the same solfège syllables), and they have the same quality. In other words, triads labeled “I” in any major key will be major triads containing *do*, *mi*, and *sol*. III triads will be minor triads containing *mi*, *sol*, and *ti*, etc. The same is true for minor keys (though I in minor is different from I in major).
+בסולמות מז'ור (major), אקורדים בעלי אותה ספרה רומית מורכבים מאותן דרגות סולם (תוך שימוש באותן הברות סולפège [solfège]), ויש להם את אותה איכות. במילים אחרות, שלישיות המסומנות כ-"I" בכל סולם מז'ור יהיו שלישיות מז'ור הכוללות את *דו* (*do*), *מי* (*mi*), ו-*סול* (*sol*). שלישיות III יהיו שלישיות מינור (minor triads) הכוללות את *מי* (*mi*), *סול* (*sol*), ו-*סי* (*ti*), וכו'. הדבר נכון גם לגבי סולמות מינור (minor keys) (אף על פי ש-I במינור שונה מ-I במז'ור).
 
-Following are the qualities and scale-degrees belonging to each triad in every major key:
+להלן האיכויות ודרגות הסולם (scale-degrees) השייכות לכל שלישייה בכל סולם מז'ור (major key):
 
--   I: major – *do*, *mi*, *sol*
--   II: minor – *re*, *fa*, *la*
--   III: minor – *mi*, *sol*, *ti*
--   IV: major – *fa*, *la*, *do*
--   V: major – *sol*, *ti*, *re*
--   VI: minor – *la*, *do*, *mi*
--   VII: diminished – *ti*, *re*, *fa*
+-   I: מז'ור – *דו*, *מי*, *סול*
+-   II: מינור – *רה*, *פה*, *לה*
+-   III: מינור – *mi*, *sol*, *ti*
+-   IV: מז'ור – *פא*, *לה*, *דו*
+-   V: מז'ור – *סול*, *סי*, *רה*
+-   VI: מינור – *לה*, *דו*, *מי*
+-   VII: מוקטן (diminished) – *ti*, *re*, *fa*
 
-Following are the qualities and scale-degrees belonging to each triad in every minor key:
+להלן האיכויות ודרגות הסולם השייכות לכל שלישון בכל סולם מינורי:
 
--   I: minor – *do*, *me*, *sol*
--   II: diminished – *re*, *fa*, *le*
--   III: major – *me*, *sol*, *te*
--   IV: minor – *fa*, *le*, *do*
--   V: major – *sol*, *ti*, *re*
--   VI: major – *le*, *do*, *me*
--   bVII: major – *te*, *re*, *fa*
--   VII: diminished – *ti*, *re*, *fa*
+-   I: מינור – *דו*, *מה* (me), *סול*
+-   II: מוקטן – *רה*, *פה*, *לה במול*
+-   III: מז'ור – *מי* (*me*), *סול* (*sol*), *טה* (*te*)
+-   IV: מינור – *fa*, *le*, *do*
+-   V: מז'ור – *סול*, *סי*, *רה*
+-   VI: מז'ור – *le*, *do*, *me*
+-   bVII: מז'ור – *סי* (te), *רה* (re), *פה* (fa)
+-   VII: מוקטן – *ti*, *re*, *fa*
 
-## Building a triad ##
+## בניית שלשה ##
 
-To build a triad on the staff, identify the root, quality, and bass note from the lead-sheet symbol. The root and quality will tell you what three pitch classes belong to the triad. For example, **Caug** tells you the root is C, and the quality is augmented. Since the quality is augmented, there is a major third above the root (E) and an augmented fifth above the root (G-sharp). Since there is no bass note appended to the lead-sheet symbol, the bass note is the same as the root: C. Write a C on the staff (in any comfortable register), then write the other chord tones (E and G-sharp) *above* the C (see the Caug triad in the above figure).
+כדי לבנות שלישייה בחמשה, יש לזהות את הבסיס, האיכות וצליל הבס מתוך סימון הלוּד-שיט. הבסיס והאיכות יצביעו על שלוש מחלקות הגובה השייכות לשלישייה. לדוגמה, **Caug** מציין שהבסיס הוא C, והאיכות היא מוגדלת (augmented). מאחר שהאיכות היא מוגדלת, יש טרצה גדולה (major third) מעל הבסיס (E) וקווינטה מוגדלת (augmented fifth) מעל הבסיס (G-sharp). מכיוון שאין צליל בס נספח לסימון הלוּד-שיט, צליל הבס זהה לבסיס: C. כתבו C על החמשה (בכל מפתח נוח), ולאחר מכן כתבו את צלילי האקורד האחרים (E ו־G-sharp) *מעל* ה־C (ראו את שלישיית ה־Caug באיור שלעיל).
 
-For **Cm/Eb**, the root is C, and the quality is minor. Since the quality is minor, there is a minor third above the root (E-flat) and a perfect fifth above the root (G). The slash identifies E-flat as the bass note. Write the E-flat on the staff. Then write a C and a G above it to complete the chord (again, see above).
+עבור **Cm/Eb**, השורש הוא C, והאיכות היא מינור. מכיוון שהאיכות היא מינור, ישנה טרצה קטנה (minor third) מעל השורש (E-♭) וקווינטה זכה (perfect fifth) מעל השורש (G). קו האלכסון מזהה את E-♭ כצליל הבס (bass note). כתבו את ה-E-♭ בחמשה. לאחר מכן כתבו C ו-G מעליו כדי להשלים את האקורד (שוב, ראו לעיל).
 
-When all the members of the triad are as close to the bass note as they can be, the chord is in what is called *close position* (C, Cm/Eb, and Cdim/Gb above). When there are spaces between chord tones, the chord is in *open position* (Caug above). (In certain musical situations, only one of those positions will be useful or desirable.)
+כאשר כל צלילי האקורד (members of the triad) נמצאים קרוב ככל האפשר לצליל הבס, האקורד נמצא במה שנקרא *מצב צפוף* (close position) (C, Cm/Eb, ו־Cdim/Gb מעלה). כאשר יש מרווחים בין צלילי האקורד (chord tones), האקורד נמצא במצב *מצב פתוח* (open position) (Caug מעלה). (במצבים מוזיקליים מסוימים, רק אחד ממצבים אלו יהיה שימושי או רצוי).
 
-## Listening to triads ##
+## האזנה לשלשות ##
 
-Each triad quality has its own distinct sound, and to an extent that sound is preserved even when the chord is *inverted* (when the pitch classes are arranged so that a pitch class other than the root is in the lowest voice). As you practice identifying and writing triads, be sure to play the triads, both to check your analysis/writing and to develop the ability to identify chord qualities quickly by ear.
+לכל סוג של שלישייה (triad quality) יש צליל ייחודי משלה, ובמידה מסוימת צליל זה נשמר גם כאשר האקורד *הופך* (inverted) (כאשר צלילי הבסיס מסודרים כך שצליל שאינו השורש נמצא בקול הנמוך ביותר). בעודכם מתרגלים זיהוי וכתיבה של שלישיות, הקפידו לנגן את השלישיות, גם כדי לבדוק את הניתוח/הכתיבה שלכם וגם כדי לפתח את היכולת לזהות סוגי אקורדים (chord qualities) במהירות לפי השמיעה.
 
-## Seventh chords ##
+## אקורדי ספטאם (Seventh chords) ##
 
-A four-note chord whose pitch classes can be arranged as thirds is called a *seventh chord*.
+אקורד בן ארבעה צלילים שאת מחלקות הגובה שלו ניתן לסדר כטרצות (thirds) נקרא *אקורד שבע* (seventh chord).
 
-Like with a triad, the pitch classes belonging to a seventh chord occupy adjacent positions (a four-pitch-class clump) on the circle of thirds. The four members of a seventh chord are the *root*, *third*, *fifth*, and *seventh*.
+כמו בשלשה, מחלקות הגובה השייכות לאקורד שבע תופסות עמדות סמוכות (צביר של ארבע מחלקות גובה) במעגל הטרצות. ארבעת החברים של אקורד שבע הם ה*שורש* (*root*), ה*טרצה* (*third*), ה*קווינט* (*fifth*) וה*ספטימה* (*seventh*).
 
-![A seventh chord (A, C, E, G) on the diatonic circle of thirds.][circleOfThirds-seventhRTFS]
+![אקורד שבע (A, C, E, G) על מעגל הטרצות הדיאטוני.][circleOfThirds-seventhRTFS]
 
-There are five qualities of seventh chords that appear in diatonic music: major seventh, dominant seventh, minor seventh, diminished seventh (also called fully-diminished), and half-diminished seventh. They are comprised of the following intervals above their roots:
+ישנם חמישה סוגים של אקורדי שבעה המופיעים במוזיקה דיאטונית: מז'ור שבע (major seventh), דומיננט שבע (dominant seventh), מינור שבע (minor seventh), מוקטן שבע (diminished seventh) (המכונה גם מוקטן מלא (fully-diminished)), וחצי-מוקטן שבע (half-diminished seventh). הם מורכבים מהמרווחים הבאים מעל צלילי הבסיס (roots) שלהם:
 
--   major seventh: M3, P5, and M7 above the root (or major triad with a major seventh)
--   dominant seventh: M3, P5, and m7 above the root (or major triad with a minor seventh)
--   minor seventh: m3, P5, and m7 above the root (or minor triad with a minor seventh)
--   diminished seventh: m3, d5, and d7 above the root (or diminished triad with a diminished seventh)
--   half-diminished seventh: m3, d5, and m7 above the root (or diminished triad with a minor seventh)
+-   מז'ור שבע: מרווח של טרצה גדולה, קווינטה זכה, וספטימה גדולה מעל צליל השורש (או אקורד משולש מז'ורי עם ספטימה גדולה)
+-   דומיננט סבון: טרצה גדולה (M3), קווינטה זכה (P5), וספטימה קטנה (m7) מעל הצליל הבסיסי (או סולמות מז'וריים עם ספטימה קטנה)
+-   ספטימה קטנה: מרווח טרצה קטנה (m3), קווינטה זכה (P5), וספטימה קטנה (m7) מעל שורש האקורד (או טריאדה מینوרית עם ספטימה קטנה)
+-   דימינישד שבע: טרץ קטנה (m3), קווינטה מוקטנת (d5), וספטימה מוקטנת (d7) מעל השורש (או טריאדה מוקטנת עם ספטימה מוקטנת)
+-   חצי מוקטן שבע: טרציה קטנה (m3), קווינטה מוקטנת (d5), וספטימה קטנה (m7) מעל השורש (או טריאדה מוקטנת עם ספטימה קטנה)
 
-Following are the lead-sheet abbreviations for seventh-chord qualities:
+להלן קיצורי ה-lead-sheet עבור איכויות אקורדי שבע (seventh-chord qualities):
 
--   major seventh: maj7 or △7 (Gmaj7 or G△7)
--   dominant seventh: 7 (B7)
--   minor seventh: m7 (F\#m7)
--   diminished seventh: dim7 or °7 (Ddim7 or D°7)
--   half-diminished seventh: half7 or ⦰7 (Ahalf7 or A⦰7)
+-   מז'ור שבע: maj7 או △7 (Gmaj7 או G△7)
+-   דומיננט סבון: 7 (B7)
+-   מינור שבע: m7 (F\#m7)
+-   ספונ מעוצר: dim7 או °7 (Ddim7 או D°7)
+-   חצי מוקטן שבע: half7 או ⦰7 (Ahalf7 או A⦰7)
 
-### Roman numerals ###
+### מספרים רוماניים ###
 
-Following are the qualities and scale-degrees belonging to each seventh chord in every major key:
+להלן האיכויות ודרגות הסולם השייכות לכל אקורד שבע בכל סולם מז'ור:
 
--   I: major seventh – *do*, *mi*, *sol*, *ti*
--   II: minor seventh – *re*, *fa*, *la*, *do*
--   III: minor seventh – *mi*, *sol*, *ti*, *re*
--   IV: major seventh – *fa*, *la*, *do*, *mi*
--   V: dominant seventh – *sol*, *ti*, *re*, *fa*
--   VI: minor seventh – *la*, *do*, *mi*, *sol*
--   VII: half-diminished seventh – *ti*, *re*, *fa*, *la*
+-   I: מז'ור שבע – *דו*, *מי*, *סול*, *סי*
+-   II: ספירה קטנה – *רה*, *פה*, *לה*, *דו*
+-   III: מינור שבע – *mi*, *sol*, *ti*, *re*
+-   IV: מז'ור שבע – *פא*, *לה*, *דו*, *מי*
+-   V: אקורד ספטאורד דומיננטי – *סול*, *סי*, *רה*, *פה*
+-   VI: מינור שבע – *לה*, *דו*, *מי*, *סול*
+-   VII: שבע חצי-מוקטן – *ti*, *re*, *fa*, *la*
 
-Following are the qualities and scale-degrees belonging to each seventh chord in every minor key:
+להלן האיכויות ודרגות הסולם השייכות לכל אקורד שבע בכל סולם מינורי:
 
--   I: minor seventh – *do*, *me*, *sol*, *te*
--   II: half-diminished seventh – *re*, *fa*, *le*, *do*
--   III: major seventh – *me*, *sol*, *te*, *re*
--   IV: minor seventh – *fa*, *le*, *do*, *me*
--   V: dominant seventh – *sol*, *ti*, *re*, *fa*
--   VI: major seventh – *le*, *do*, *me*, *sol*
--   bVII: dominant seventh – *te*, *re*, *fa*, *le*
--   VII: half-diminished seventh – *ti*, *re*, *fa*, *le*
+-   I: מינור שבע – *דו*, *מי במול*, *סול*, *סי במול*
+-   II: שבע מוקטן-מחצה – *re*, *fa*, *le*, *do*
+-   III: מז'ור שבע – *mi*, *sol*, *si*, *re*
+-   IV: מינור שבע – *פא* (fa), *לה במול* (le), *דו* (do), *מי במול* (me)
+-   V: ספטימה דומיננטית – *סול*, *סי*, *רה*, *פה*
+-   VI: מז'ור שבע – *le*, *do*, *me*, *sol*
+-   bVII: דומיננט סבון – *te*, *re*, *fa*, *le*
+-   VII: חצי-מוקטן שבע – *ti*, *re*, *fa*, *le*
 
 
 [circleOfSteps-triad]: Graphics/triadsSeventhChords/circleOfSteps-triad.png

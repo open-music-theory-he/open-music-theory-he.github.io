@@ -3,73 +3,73 @@ layout: post
 title: Sonata form – exposition types
 ---
 
-The exposition module of a sonata movement comes at or near the beginning of a sonata-form movement. Only an *introduction* (technically, a large [*prefix*](externalExpansions.html)) might precede it. It exhibits exposition function, and thus has three jobs: *establish the home key*, *move to and establish a secondary key with a cadence*, and *lay out the thematic cycle* that will serve as the foundation for the development and recapitulation.
+מודול האקספוזיציה (exposition) של פרק סונטה מופיע בתחילת פרק בצורת סונטה או בסמוך לה. רק *מבוא* (introduction) (טכנית, [*קידומת*](externalExpansions.html) גדולה) עשוי להקדים אותו. הוא מפגין תפקוד אקספוזיציה, ועל כן יש לו שלושה תפקידים: *ביסוס הסולם הראשי* (home key), *מעבר לסולם משני וביסוסו באמצעות קדנצה* (cadence), ו*פריסת המחזור התמטי* שישמש כבסיס לפיתוח (development) ולרפריזה (recapitulation).
 
-There are two main types of sonata expositions: the *two-part* exposition and the *continuous* exposition.
+קיימים שני סוגים עיקריים של אקספוזיציות סונטה: האקספוזיציה ה*דו-חלקית* (two-part exposition) והאקספוזיציה ה*רציפה* (continuous exposition).
 
-# The two-part exposition #
+# האקספוזיציה הדו-חלקית #
 
-The two-part exposition is divided into two parts: the first part ends with the arrival of the *medial caesura* (MC, the major cadence, often accompanied by a musical pause, in the middle of the exposition), and the second part follows the MC and ends with the *essential expositional closure* (EEC, the major PAC in the secondary key) and any postcadential/closing material that follows it.
+האקספוזיציה הדו-חלקית מחולקת לשני חלקים: החלק הראשון מסתיים בהגעה אל ה-*medial caesura* (MC, הקדנצה המרכזית, המלווה לעיתים קרובות בהפסקה מוזיקלית, באמצע האקספוזיציה), והחלק השני עוקב אחר ה-MC ומסתיים ב-*essential expositional closure* (EEC, ה-PAC המרכזי בסולם המשני) ובכל חומר פוסט-קדנציאלי/סוגר הבא בעקבותיו.
 
-A two-part exposition typically exhibits the following thematic cycle (in order):
+אקספוזיציה דו-חלקית מציגה בדרך כלל את המחזור התמטי הבא (לפי הסדר):
 
-* Primary theme (P) – home key  
-* Transition (TR) – ending with the *medial caesura (MC)*  
-* Secondary theme (S) – secondary key (V or III), ending with the *essential expositional closure (EEC)*  
-* Closing space (C) – secondary key; optional  
-* Retransition (RT) – recapturing of dominant harmony in home key to prepare repeat of exposition; optional, and only occurs in a first ending
+* נושא ראשי (P) – סולם הבית  
+* מעבר (Transition - TR) – מסתיים ב*קטיעה אמצעית (Medial Caesura - MC)*  
+* נושא משני (S) – סולם משני (V או III), המסתיים ב-*סגירה אקספוזיציונית הכרחית (Essential Expositional Closure - EEC)*  
+* מרווח סגירה (C) – סולם משני (secondary key); אופציונלי  
+* מעבר חוזר (Retransition - RT) – לכידה מחדש של הרמוניה דומיננטית בסולם הבית כדי להכין את החזרה על האקספוזיציה (Exposition); אופציונלי, ומופיע רק בסיומת ראשונה (first ending)
 
-We can abbreviate this cycle:
+ניתן לקצר מעגל זה:
 
 > **P TR ' S / C**
 
-(The apostrophe stands for the MC; the slash stands for the EEC.)
+(הגרש מייצג את ה-MC; הלוכסן מייצג את ה-EEC.)
 
-Each of these terms is defined below.
+כל אחד ממונחים אלו מוגדר להלן.
 
-**A sample two-part exposition: W.A. Mozart, Sonata for piano in B-flat major, K. 333, I.**
+**דוגמה לאקספוזיציה דו-קולית: ו. א. מוצרט, סונאטה לפסנתר ב-B♭ מז'ור, K. 333, פרק I.**
 <iframe class="aligncenter" src="http://player.vimeo.com/video/53382539?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <div style="text-align: center"></div><br/>
 
-### Multiple MCs ###
+### מספר MCs ###
 
-Sometimes, a composer sets up a two-part exposition, reaches a satisfactory MC, but the S theme that follows degenerates before it can achieve the EEC. In such a case, the degenerated S theme becomes like a new transition and leads into another MC, followed by an S theme that *can* reach a satisfactory EEC. Hepokoski and Darcy call such a situation a *trimodular block (TMB)*. We will just call it an exposition with two MCs.
+לעיתים, מלחין בונה אקספוזיציה דו-חלקית, מגיע ל-MC מספק, אך נושא ה-S שבא בעקבותיו מתנוון לפני שהוא מספיק להגיע ל-EEC. במקרה כזה, נושא ה-S המנוון הופך למעין מעבר (transition) חדש ומוביל ל-MC נוסף, שלאחריו מופיע נושא S ש*מסוגל* להגיע ל-EEC מספק. הפוקוסקי ודרסי (Hepokoski and Darcy) מכנים מצב כזה *בלוק תלת-מודולרי (Trimodular block - TMB)*. אנו פשוט נכנה זאת אקספוזיציה עם שני MC.
 
-A two-part exposition with two MCs typically exhibits the following thematic cycle (in order):
+אקספוזיציה דו-חלקית עם שני נושאים מוזיקליים (MCs - Medial Caesuras) מציגה בדרך כלל את המחזור התמטי הבא (לפי הסדר):
 
-* Primary theme (P) – home key  
-* Transition (TR) – ending with the *medial caesura (MC)*  
-* "Failed" secondary theme (S?) that does not produce an EEC, but instead leads to a second MC    
-* "Real" secondary theme (S), ending with the *essential expositional closure (EEC)*  
-* Closing space (C) – secondary key; optional  
-* Retransition (RT) – recapturing of dominant harmony in home key to prepare repeat of exposition; optional, and only occurs in a first ending
+* נושא ראשי (Primary theme - P) – סולם הבית  
+* מעבר – מסתיים ב-*קזורה אמצעית*  
+* נושא משני "כושל" (S?) שאינו מפיק EEC, אלא מוביל במקום זאת ל-MC שני    
+* נושא משני "אמיתי" (S), המסתיים ב*סגירה אקספוזיציונית הכרחית*  
+* מרחב סגירה (C) – סולם משני; אופציונלי  
+* מעבר חוזר – לכידה מחדש של הרמוניה דומיננטית בסולם הבית כדי להכין את החזרה על האקספוזיציה; אופציונלי, ומופיע רק בסיומת ראשונה
 
-We can abbreviate this cycle:
+ניתן לקצר מעגל זה:
 
 > **P TR ' S? ' S / C**
 
-The two MCs tend to adhere to one of the following patterns (the first being by far the most common; H/D, p. 171):
+שני ה-MCs נוטים להיצמד לאחד מהדפוסים הבאים (הראשון שבהם הוא הנפוץ ביותר בפער ניכר; H/D, עמ' 171):
 
-* I:HC followed by V:HC  
-* I:HC followed by V:PAC  
-* V:HC followed by V:PAC  
-* V:HC followed by V:HC
+* I:HC ואחריו V:HC  
+* I:HC ואחריו V:PAC  
+* V:HC עוקב אחרי V:PAC  
+* V:HC ואחריו V:HC
 
 
-# The continuous exposition #
+# האקספוזיציה הרציפה #
 
-Unlike a two-part exposition, a continuous exposition has no MC followed by a secondary (S) theme. Instead, the transition (TR) module gives way to a "spinning out" of a series of related, fragmented melodic units. This succession of small, "spinning out" modules is called *Fortspinnung* (Ger., "spinning out"). These fragments are often, but not necessarily, taken from the primary (P) theme. *Fortspinnung* is often associated with TR in general, but in a continuous exposition, the process gets out of control and fails to produce a satisfactory MC. Instead, the motives continue to "spin out" and maintain a high level of energy right up to the EEC. 
+בניגוד לאקספוזיציה דו-חלקית, באקספוזיציה רציפה אין MC שאחריו מופיע נושא משני (S). במקום זאת, מודול המעבר (TR) מפנה את מקומו ל"טוויה" (spinning out) של סדרה של יחידות מלודיות מקוטעות וקשורות. רצף זה של מודולים קטנים ו"טווים" נקרא *Fortspinnung* (גרמנית: "טוויה"). פרגמנטים אלו נלקחים לעיתים קרובות, אך לא בהכרח, מהנושא הראשי (P). המונח *Fortspinnung* מזוהה לעיתים קרובות עם TR באופן כללי, אך באקספוזיציה רציפה, התהליך יוצא משליטה ונכשל ביצירת MC מספק. במקום זאת, המוטיבים ממשיכים "להיטוות" ולשמור על רמה גבוהה של אנרגיה עד ל-EEC. 
 
-The continous exposition follows the thematic cycle:
+האקספוזיציה הרציפה עוקבת אחר המחזור התמטי:
 
-* Primary theme (P) – home key  
-* Transition–Fortspinnung (TR=>FS), ending with the *essential expositional closure (EEC)*  
-* Closing space (C) – secondary key; optional  
-* Retransition (RT) – recapturing of dominant harmony in home key to prepare repeat of exposition; optional, and only occurs in a first ending
+* נושא ראשי (P) – סולם הבית  
+* מעבר–פורטספינונג (Transition–Fortspinnung, TR=>FS), המסתיים ב*סגירה אקספוזיציונית הכרחית (Essential Expositional Closure, EEC)*  
+* מרחב סגירה (C) – סולם משני; אופציונלי  
+* מעבר חוזר – לכידה מחדש של הרמוניה דומיננטית בסולם הבית כדי להכין את החזרה על האקספוזיציה; אופציונלי, ומופיע רק בסיומת ראשונה
 
-We can abbreviate it:
+ניתן לקצר זאת:
 
 > **P TR=>FS / C**
 
-A continous exposition may present no cadences that could be "candidates" for an MC, it may suggest the possibility of an upcoming MC that is evaded, or it may present an MC that fails to produce a satisfactory S theme (and thus is not really an MC). In each case, an EEC is achieved without first arriving at an MC and an S theme.
+אקספוזיציה רציפה עשויה שלא להציג קדנצות שיוכלו להוות "מועמדות" ל-MC, היא עשויה לרמוז על אפשרות של MC מתקרב שחומק, או שהיא עשויה להציג MC שנכשל ביצירת נושא S מספק (ולפיכך אינו באמת MC). בכל מקרה, EEC מושג מבלי להגיע תחילה ל-MC ולנושא S.
 

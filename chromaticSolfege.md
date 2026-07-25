@@ -6,97 +6,97 @@ title: Chromatic solfège syllables and sequentials
 {{ page.title }}
 ================
 
-# Chromatically raised pitches #
+# גובהי צליל מוגבהים כרומטית (Chromatically raised pitches) #
 
-In a major key, *mi* and *ti* form a semitone with the pitches above them in the scale. As a result, they are not usually chromatically raised. The other scale degrees—*d*, *re*, *fa*, *sol*, and *la*—can all be raised by semitone without reproducing another tone in the scale. In each case, the vowel of the solfège syllable is changed to "i" to reflect the higher pitch. *Do* becomes *di*, *re* becomes *ri*, and so on. 
+בסולם מז'ור, *מי* (*mi*) ו-*סי* (*ti*) יוצרים חצי טון עם הצלילים שמעליהם בסולם. כתוצאה מכך, הם בדרך כלל אינם עוברים הגבהה כרומטית. שאר דרגות הסולם — *דו* (*do*), *רה* (*re*), *פה* (*fa*), *סול* (*sol*) ו-*לה* (*la*) — כולן ניתנות להגבהה בחצי טון מבלי לשכפל צליל אחר בסולם. בכל מקרה, התנועה של הברה הסולפֶז' (solfège syllable) משתנה ל-"i" כדי לשקף את הגובה הגבוה יותר. *דו* (*Do*) הופך ל-*די* (*di*), *רה* (*re*) הופך ל-*רי* (*ri*), וכן הלאה. 
 
-Following is an ascending chromatic scale, using these raised syllables for chromatically altered tones. Diatonic scale steps are in bold.
+להלן סולם כרומטי עולה, תוך שימוש בהברות מוגבהות אלו עבור צלילים מותמרים כרומטית. צעדי הסולם הדיאטוני (Diatonic scale steps) נמצאים בכתב מודגש.
 
-> **do** di **re** ri **mi** **fa** fi **sol** si **la** li **ti** **do**
+> **דו** די **רה** רי **מי** **פה** פי **סול** סי **לה** לי **סי** **דו**
 
-In a minor key, start with the natural-minor syllables for diatonic pitches. Use the major-key syllables for raised scale degrees that belong to the major scale. For anything left, use the raised pitches for major. Thus, an ascending chromatic scale built within a minor-key context would look and sound like the following:
+בסולם מינורי, יש להתחיל עם הברות המינור הטבעי (natural-minor) עבור גבהי הצליל הדיאטוניים. יש להשתמש בהברות של סולם מז'ור עבור דרגות סולם מוגבהות השייכות לסולם המז'ור. עבור כל השאר, יש להשתמש בצלילים המוגבהים עבור מז'ור. לפיכך, סולם כרומטי עולה הנבנה בתוך הקשר של סולם מינורי ייראה וישמע כך:
 
-> **do** di **re** **me** mi **fa** fi **sol** **le** la **te** ti **do**
+> **דו** דיאז דו **re** **me** מי **fa** דיאז **sol** **le** לה **te** סי **דו**
 
-(Note the use of *me* not *ri*, *le* not *si*, and *te* not *li* in a minor-key context.)
+(שימו לב לשימוש ב-*me* במקום *ri*, ב-*le* במקום *si*, וב-*te* במקום *li* בהקשר של סולם מינורי.)
 
-# Chromatically lowered pitches #
+# גבהים מונמכים כרומטית (Chromatically lowered pitches) #
 
-All scale steps besides *do* and *fa* can be lowered chromatically, and these lowered tones replace the vowel of their solfège syllable with "e" or "a." (Lower pitches take more open mouth formations—ah, eh—while higher pitches take smaller, more closed mouth formations—i.) 
+כל דרגות הסולם מלבד *דו* (*do*) ו-*פה* (*fa*) ניתנות להמכה כרומטית, וצלילים מונמכים אלו מחליפים את התנועה בהברה של סולפג' (Solfège) שלהם ב-"e" או ב-"a". (צלילים נמוכים דורשים מבני פה פתוחים יותר — ah, eh — בעוד שצלילים גבוהים דורשים מבני פה קטנים וסגורים יותר — i). 
 
-Following is a descending chromatic scale, using the lowered syllables for chromatically altered tones. Note that for scale-degrees 3, 6, and 7, these are simply the natural-minor-scale syllables.
+להלן סולם כרומטי יורד, המשתמש בהברות המונמכות עבור צלילים משוננים כרומטית. שימו לב שעבור דרגות הסולם 3, 6 ו-7, אלו פשוט הברות סולם המינור הטבעי (natural-minor-scale).
 
-> **do** **ti** te **la** le **sol** se **fa** **mi** me **re** ra **do**
+> **דו** **סי** טה **לה** לה-נמוך (le) **סול** סול-נמוך (se) **פה** **מי** מה **רה** רה-נמוך (ra) **דו**
 
 (Note that, while lowered-scale-degree 5 is technically *se*, functionally that pitch is usually a secondary leading-tone of V. Thus, we almost always sing *fi* in melodies, even when descending.)
 
-Because *ti* and *la* belong to minor, and because *fa* is rarely ever chromatically lowered in a tonal context, the descending chromatic syllables in minor are the same as in major.
+מכיוון ש-*ti* ו-*la* שייכים לסולם המינורי, ומכיוון ש-*fa* מונמך באופן כרומטי לע ندرة (או: לעיתים נדירות ביותר) בהקשר טונאלי, הברות הכרומטיות היורדות בסולם מינורי זהות לאלו שבסולם מז'ור.
 
-# Exercises to build fluency #
+# תרגילים לפיתוח שוטפות (fluency) #
 
-Like the [melodic sequentials](melodicSequentials.html) for diatonic solfège syllables, some basic exercises can help build fluidity with chromatic syllables. 
+כמו [הרצפים המלודיים](melodicSequentials.html) עבור הברות סולפֶּג' דיאטוניות, תרגילים בסיסייים אחדים יכולים לסייע בפיתוח זורמות (fluidity) עם הברות כרומטיות. 
 
 ## 1) Complete lower neighbors ##
 
-Sing a chromatic complete-lower-neighbor figure on each step of an ascending and then descending scale.
+שיר הד أו תבנית שכנה-נמוכה כרומטית מלאה (complete-lower-neighbor figure) על כל דרגה של סולם עולה ולאחר מכן יורד.
 
-**ascending major:**  
-do ti do | re di re | mi ri mi | . . . | ti li ti | do
+**מז'ור עולה (ascending major):**  
+דו סי דו | רה די רה | מי רי מי | . . . | סי לי סי | דו
 
-**descending major:**  
-do ti do | ti li ti | la si la | . . . | re di re | do
+**מז'ור יורד (descending major):**  
+דו סי דו | סי לי סי | לה סי לה | . . . | רה די רה | דו
 
-**ascending (natural) minor:**  
-do ti do | re di re | me re me | . . . | te la te | do
+**מינור עולה (טבעי) (ascending (natural) minor):**  
+דו סי דו | רה די רה | מע רה מע | . . . | טה לה טה | דו
 
-**descending (natural) minor:**  
-do ti do | te la te | le so le | . . . | re di re | do
+**מינור יורד (טבעי) (descending minor):**  
+דו סי דו | טה לה טה | לה סול לה | . . . | רה די רה | דו
 
-## 2) Complete upper neighbors ##
+## 2) שכנים עליונים שלמים (Complete upper neighbors) ##
 
-Sing a chromatic complete-upper-neighbor figure on each step of an ascending and then descending scale.
+שיר תבנית צליל עזר עליון כרומטית מלאה (chromatic complete-upper-neighbor figure) על כל דרגה של סולם עולה ולאחר מכן יורד.
 
-**ascending major:**  
-do ra do | re me re | mi fa mi | . . . | ti do ti | do
+**מז'ור עולה:**  
+דו רה דו | רה מי במול רה | מי פה מי | . . . | סי דו סי | דו
 
-**descending major:**  
-do ra do | ti do ti | la te la | . . . | re me re | do
+**מז'ור יורד:**  
+דו רה דו | סי דו סי | לה תֵה לה | . . . | רה מֵה רה | דו
 
-**ascending (natural) minor:**  
-do ra do | re me re | me mi me | . . . | te ti te | do
+**מינור עולה (טבעי) (ascending minor):**  
+דו רה דו | רה מי ב במול רה | מי מ ב במול מי | . . . | סי ת סי | דו
 
-**descending (natural) minor:**  
-do ra do | te ti te | le la le | . . . | re me re | do
+**מינור יורד (טבעי) (descending minor):**  
+דו רא דו | טה סי טה | לה לא לה | . . . | רה מה רה | דו
 
-## 3) Incomplete lower neighbors ##
+## 3) שכנים תחתונים שלמים (Incomplete lower neighbors) ##
 
-For each scale degree, sing tonic then the lower neighbor to the scale degree followed by its resolution up by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
+עבור כל דרגת סולם (scale degree), שיר את הטוניקה (tonic) ולאחר מכן את השכן התחתון (lower neighbor) לדרגת הסולם, ובסוף את ההחלטה (resolution) שלה כלפי מעלה בחצי טון (semitone). התאמן גם עם הטוניקה הנמוכה בתחילת כל תיבה (bar) וגם עם הטוניקה הגבוהה בתחילת כל תיבה (bar). (לאתגר מוגבר, ואף שטף רב יותר, נסה זאת עם דרגות סולם (scale degrees) שאינן דו (*do*) בתחילת כל תיבה (bar).)
 
-**ascending major:**  
-do ti do | do di re | do ri mi | do mi fa | do fi sol | do si la | do li ti | do ti do |
+**מז'ור עולה:**  
+דו סי דו | דו די רה | דו רי מי | דו מי פה | דו פי סול | דו סי לה | דו לי סי | דו סי דו |
 
-**descending major:**  
+**מז'ור יורד:**  
 do ti do | do li ti | do si la | do fi sol | do mi fa | do ri mi | do di re | do ti do |
 
-**ascending minor:**  
-do ti do | do di re | do re me | do mi fa | do fi sol | do sol le | do la te | do ti do |
+**מינור עולה (ascending minor):**  
+דו סי דו | דו די רה | דו רה מיי | דו מי פה | דו פי סול | דו סול לה | דו לה טה | דו סי דו |
 
-**descending minor:**  
-do ti do | do la te | do sol le | do fi sol | do mi fa | do re me | do di re | do ti do |
+**מינור יורד (descending minor):**  
+דו סי דו | דו לה טה | דו סול לה (Le) | דו פי סול | דו מי פה | דו רה מה (Me) | דו די רה (Di) | דו סי דו |
 
-## 4) Incomplete upper neighbors ##
+## 4) שכנים עליונים חסרי מ-Incomplete upper neighbors ##
 
-For each scale degree, sing tonic then the upper neighbor to the scale degree followed by its resolution down by semitone. Practice both with the low tonic at the beginning of each bar and the high tonic at the beginning of each bar. (For an increased challenge, and even greater fluency, try these with scale degrees other than *do* at the beginning of each bar.)
+עבור כל דרגת סולם, שיר את הטוניקה ואז את השכן העליון (upper neighbor) לדרגת הסולם, ולאחר מכן את ההחלטה שלו כל מטה בחצי טון. התאמן הן עם הטוניקה הנמוכה בתחילת כל תיבה והן עם הטוניקה הגבוהה בתחילת כל תיבה. (לאתגר מוגבר, ואפילו שטף רב יותר, נסה זאת עם דרגות סולם שונות מ-*דו* (do) בתחילת כל תיבה).
 
-**ascending major:**  
-do ra do | do me re | do fa mi | do fi fa | do le sol | do te la | do do ti | do ra do |
+**מז'ור עולה:**  
+דו רה דו | דו מי במול רה | דו פה מי | דו פה דיאז פה | דו לה במול סול | דו סי במול לה | דו דו סי | דו רה דו |
 
-**descending major:**  
+**מז'ור יורד:**  
 do ra do | do do ti | do te la | do le sol | do fi fa | do fa mi | do me re | do ra do |
 
-**ascending major:**  
+**מז'ור עולה:**  
 do ra do | do me re | do mi me | do fi fa | do le sol | do la le | do ti te | do ra do |
 
-**descending major:**  
+**מז'ור יורד:**  
 do ra do | do ti te | do la le | do le sol | do fi fa | do mi me | do me re | do ra do |
 

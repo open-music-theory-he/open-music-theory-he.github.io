@@ -6,22 +6,22 @@ title: Sight-singing tips
 {{ page.title }}
 ================
 
-When singing a melody from sight, go through the following process before attempting to sing it.
+כאשר שרים מנגן מתוך קריאה מהדף (sight-reading), יש לעבור על התהליך הבא בטרם מנסים לשיר אותה.
 
-First, identify the meter. The meter can be found by looking at the *top number* of the time signature. Then identify the beat value and the division value from looking at the bottom number. (Revisit [Meter and time signatures][meter] if necessary.)
+ראשית, זהו את המשקל (Meter). את המשקל ניתן למצוא על ידי התבוננות ב*מספר העליון* של ציון המשקל (time signature). לאחר מכן, זהו את ערך הפעימה (beat value) ואת ערך החלוקה (division value) מתוך התבוננות במספר התחתון. (עיינו מחדש ב[משקל וציונות משקל][meter] במידת הצורך).
 
-Next, identify the key. The key signature will give you two possibilities for key: one major and one minor. Then look at the first and last notes of the melody: these will often be tonic, especially the last note (this is not always true for excerpts of longer melodies, though). This will help you decide between the two possibilities presented by the key signature. Lastly, look for any accidentals. Raised pitches that would be *la* or *ti* in the minor key suggested by the signature will confirm that minor key as the key of the melody.
+לאחר מכן, זהו את הסולם (key). סימנים לבט (key signature) יספקו לכם שני אפשרויות לסולם (key): אחד מז'ור ואחד מינור. לאחר מכן, הביטו בתווים הראשונים והאחרונים של המלודיה: אלו יהיו לרוב הטורניקה (tonic), במיוחד התו האחרון (אם כי הדבר אינו נכון תמיד לגבי קטעים מתוך מלודיות ארוכות). הדבר יעזור לכם להחלי לבחור בין שתי האפשרויות שהציג סימן הבט. לבסוף, חפשו סימקים מתקנים (accidentals). צלילים מוגבהים שהיו *לה* (*la*) או *סי* (*ti*) בסולם המינור שעליו רמז סימן הבט יאשרו את אותו סולם מינור כסולם (key) של המלודיה.
 
-Then scan the rhythm for the fastest notes, and the pitches for the hardest passages. Choose a tempo that will make these passages comfortable.
+לאחר מכן, סרקו את הקצב כדי למצוא את התווים המהירים ביותר, ואת הגבהים (pitches) כדי למצוא את המעברים הקשים ביותר. בחרו טמפו (tempo) שיהפוך את המעברים הללו לנוחים.
 
-Find the highest and lowest notes. When singing by yourself, you can sing in any key you like. Choose a key that will put the highest and lowest notes in your range.
+מצאו את הצלילים הגבוהים והנמוכים ביותר. כאשר שרים לבד, אתם יכולים לשיר בכל סולם (Key) שתרצו. בחרו סולם (Key) שיוביל את הצלילים הגבוהים והנמוכים ביותר אל תוך המנעד (Range) שלכם.
 
-Once you have key and tempo chosen, orient yourself to the key. For example, you can use scales, arpeggios, or something like the solfège patterns on pp. 51 and 89 of Gary Karpinski's *Manual for Ear Training and Sight-Singing*.
+ברגע שבחרתם את הסולם (key) והפעימה, התאקלמו בסולם. לדוגמה, תוכלו להשתמש בסולמות, ארפג'ים (arpeggios), או משהו כמו תבניות הסולפège (solfège patterns) בעמודים 51 ו-89 מתוך *Manual for Ear Training and Sight-Singing* מאת גארי קרפינסקי (Gary Karpinski).
 
-*After* orienting yourself to the key, look for the hardest and trickiest passages. Sing through a couple of these licks out loud, perhaps adding or removing notes in order to figure them out, then sing them as written.
+*לאחר* (After) התמצאות בסולם (key), חפשו את הקטעים הקשים והמאתגרים ביותר. שירו בקול רם כמה מליקים (licks) אלו, אולי בהוספה או בהסרה של תווים כדי להבין אותם, ולאחר מכן שירו אותם בדיוק כפי שנכתבו.
 
-Be sure to sing the lowest and highest notes out loud before you begin the melody. This way you will know both the sound and the feel of those notes ahead of time, which will help you perform them and detect errors as you sing.
+הקפד לשיר את הצלילים הנמוכים והגבוהים בקול רם לפני שתתחיל במנגלוּת. בדרך זו תכיר מראש הן את הצליל והן את התחושה של אותם צלילים, מה שיעזור לך לבצע אותם ולזהות שגיאות תוך כדי שירה.
 
-Finally, with a comfortable key and tempo, and at least a rough handle on the toughest licks, sing the melody straight through, while conducting the meter, without stopping.
+לבסוף, עם סולם וטמפו נוחים, ועם שליטה לפחות בסיסית בליקים הקשים ביותר, שירו את המנגינה ברציפות מתחילתה ועד סופה, תוך כדי סימון המשקל (conducting the meter), מבלי לעצור.
 
 [meter]: meter.html

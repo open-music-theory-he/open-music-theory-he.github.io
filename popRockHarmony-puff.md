@@ -6,9 +6,9 @@ title: The "Puff" progression (pop/rock harmony)
 {{ page.title }}
 ================
 
-**I – III – IV . . .** (to begin a phrase)
+**I – III – IV . . .** (כדי להתחיל משפט)
 
-The “puff” progression is named after “Puff, the Magic dragon” by Peter, Paul, and Mary, a song that begins with this progression. It does not participate in 3- or 4-chord cycles like the above progressions. However, it is typically bound to the opening of phrases, and typically harmonizes the bass mi/me as III, rather than a first-inversion I. “House of the Rising Sun” by the Animals is an example of this progression beginning phrases in minor (*do*–*me*–*fa* . . .).
+מהלכים הרמוניים מסוג "פאף" ("puff" progression) נקראים על שם השיר "Puff, the Magic Dragon" מאת פיטר, פול ומרי (Peter, Paul, and Mary), שיר המתחיל במהלך זה. הוא אינו משתתף במעגל אקורדים בן 3 או 4 אקורדים כמו המהלכים לעיל. עם זאת, הוא לרוב קשור לפתיחה של משפטים מוזיקליים, ולרוב מהרמון את צליל הבס mi/me כ-III, במקום אקורד I בהיפוך ראשון. השיר "House of the Rising Sun" מאת להקת האנימלס (The Animals) הוא דוגמה למהלך זה המתחיל משפטים במודוס מינורי (*דו*–*מה*–*פא* . . .).
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:3hqsBLMAqJqrhr434Z7WlA" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 

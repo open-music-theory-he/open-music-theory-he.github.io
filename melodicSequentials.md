@@ -6,64 +6,64 @@ title: Melodic sequentials
 {{ page.title }}
 ================
 
-The following exercises are called *sequentials*. They are performed by singing the same pattern transposed to each degree of a scale in sequence. For example, the first sequential, *do re mi*, is performed *do re mi | re mi fa | mi fa sol* | etc.
+התרגילים הבאים נקראים *סקווენציות (sequentials)*. הם מבוצעים על ידי שירת אותו דפוס הממוקם (transposed) לכל דרגה של סולם ברצף. לדוגמה, הסקווציית הראשונה, *דו רה מי*, מבוצעת *דו רה מי | רה מי פא | מי פא סול* | וכו'.
 
-These sequentials are very helpful exercises for building fluidity with solfège syllables, and for aiding in recognition of standard patterns in a melody. Practice them both ascending and descending.
+תרגילים רציפים אלו הם תרגילים מועילים מאוד לפיתוח זורמות (fluidity) עם הברות סולפè (solfège syllables), ולסיוע בזיהוי תבניות סטנדרטיות במנגינה. תרגלו אותם הן בעלייה והן בירידה.
 
-The sequentials are provided below in major. To sing in natural minor, substitute *me* for *mi*, *le* for *la*, and *te* for *ti*. To sing in harmonic minor, sing natural minor, but use *ti* instead of *te*. (Note that 6 and 7 will sound awkward in harmonic minor, because of the augmented fifth *me*–*ti*. Those can easily be skipped, since that interval is seldom used in the classical literature.)
+הרצפים מוצגים להלן בסולם מז'ור (major). כדי לשיר בסולם מינור טבעי (natural minor), החליפו את *מי* (mi) ב-*מע* (me), את *לה* (la) ב-*לה* (le), ואת *סי* (ti) ב-*טע* (te). כדי לשיר בסולם מינור הרמוני (harmonic minor), שיר בסולם מינור טבעי, אך השתמש ב-*סי* (ti) במקום ב-*טע* (te). (שימו לב ש-6 ו-7 יישמעו מוזר במינור הרמוני, בשל הקווינטה המוגדלת (augmented fifth) *מע*–*סי*. ניתן לדלג עליהם בקלות, שכן מרווח זה כמעט שאינו בשימוש בספרות הקלאסית.)
 
-## 1) Do re mi ##
+## 1) דו רה מי ##
 
-**ascending:**  
-do re mi | re mi fa | mi fa sol | . . . | ti do re | do
+**עולה (ascending):**  
+דו רה מי | רה מי פה | מי פה סול | . . . | סי דו רה | דו
 
-**descending:**  
-do ti la | ti la sol | la sol fa | . . . | re do ti | do
+**יורד (descending):**  
+דו סי לה | סי לה סול | לה סול פה | . . . | רה דו סי | דו
 
-## 2) Do re mi do ##
+## 2) דו רה מי דו ##
 
-**ascending:**  
-do re mi do | re mi fa re | mi fa sol mi | . . . | ti do re ti | do
+**עולה:**  
+דו רה מי דו | רה מי פה רה | מי פה סול מי | . . . | סי דו רה סי | דו
 
-**descending:**  
-do ti la do | ti la sol ti | la sol fa la | . . . | re do ti re | do
+**יורד:**  
+דו סי לה דו | סי לה סול סי | לה סול פא לה | . . . | רה דו סי רה | דו
 
-## 3) Do mi re do ##
+## 3) דו מי רה דו ##
 
-**ascending:**  
-do mi re do | re fa mi re | mi sol fa mi | . . . | ti re do ti | do
+**עולה:**  
+דו מי רֵה דו | רֵה פָה מי רֵה | מי סול פָה מי | . . . | סי רֵה דו סי | דו
 
-**descending:**  
-do la ti do | ti sol la ti | la fa sol la | . . . | re ti do re | do
+**יורד:**  
+דו לה סי דו | סי סול לה סי | לה פה סול לה | . . . | רה סי דו רה | דו
 
-## 4) Do mi ##
+## 4) דו מי ##
 
-**ascending:**  
-do mi | re fa | mi sol | . . . | ti re | do
+**עולה:**  
+דו מי | רה פא | מי סול | . . . | סי רה | דו
 
-**descending:**  
-do la | ti sol | la fa | . . . | re ti | do
+**יורד:**  
+דו לה | סי סול | לה פה | . . . | רה סי | דו
 
-## 5) Do re mi fa sol ##
+## 5) דו רה מי פה סול ##
 
-**ascending:**  
-do re mi fa sol | re mi fa sol la | . . . | ti do re mi fa | do
+**עולה:**  
+דו רה מי פה סול | רה מי פה סול לה | . . . | סי דו רה מי פה | דו
 
-**descending:**  
-do ti la sol fa | ti la sol fa mi | . . . | re do ti la sol | do
+**יורד:**  
+דו סי לה סול פה | סי לה סול פה מי | . . . | רה דו סי לה סול | דו
 
-## 6) Do sol ##
+## 6) דו סול ##
 
-**ascending:**  
-do sol | re la | mi ti | . . . | ti fa | do
+**עולה:**  
+דו סול | רה לה | מי סי | . . . | סי פה | דו
 
-**descending:**  
-do fa | ti mi | la re | . . . | re sol | do
+**יורד:**  
+דו פא | סי מי | לה רה | . . . | רה סול | דו
 
-## 7) Do mi sol ##
+## 7) דו מי סול ##
 
-**ascending:**  
-do mi sol | re fa la | mi sol ti | . . . | ti re fa | do
+**עולה:**  
+דו מי סול | רה פא לה | מי סול סי | . . . | סי רה פא | דו
 
-**descending:**  
-do la fa | ti sol mi | la fa re | . . . | re ti sol | do
+**יורד:**  
+דו לה פה | סי סול מי | לה פה רה | . . . | רה סי סול | דו
